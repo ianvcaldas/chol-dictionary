@@ -155,7 +155,7 @@ class SourceConverter():
         Returns:
             True if the code corresponds to a Ch'ol line, False otherwise.
         """
-        return code in ['\\lx', '\\oi', '\\re', '\\su']
+        return code in ['\\lx', '\\oi', '\\re', '\\su', '\\vdl']
 
     
     def _to_latex(self, code, content):

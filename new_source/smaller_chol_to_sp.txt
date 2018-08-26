@@ -24,7 +24,7 @@
 \cg s
 \tl laguna
 \vdn Sab.
-\vdl petem
+\vdl petyem
 \su kolem abañ
 \cs s
 \ts mar
@@ -140,7 +140,7 @@
 \cg s
 \tl noche
 \vdn Sab.
-\vdl abʌlel
+\vdl abälel
 \dt 22/May/2007
 
 \lx ak'bä_ts'uñuñ
