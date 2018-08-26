@@ -21,17 +21,25 @@ n -> ñ
 # Spacing
 lak_ -> lak
 la'_ -> la'
+la_ -> la
 _a_ -> _a
 _k_ -> _k
 _i_ -> _i
 _j_ -> _j
+_bä -> bä
+_tyo -> tyo
 
 # More complicated spacing
+wolij_ -> woli_j
 woli'_ -> woli_i
+wola' -> woli_a
 mi'_ -> mi_i
-tsa'_ -> tsa'_a
+mij_ -> mi_j
+ma'_ -> mi_a
+tsa'_w -> tsa'_aw
+tsaj_ -> tsa'_j
 tsi'_ -> tsa'_i
-tsa_la_ -> tsa'_la
+tsa_la -> tsa'_la
 
 _lojoñ -> lojoñ
 

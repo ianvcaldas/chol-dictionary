@@ -2,6 +2,7 @@
 **/__pycache__
 **/.pytest_cache
 **/*.doc
+**/*.swp
 original_source/chol_to_sp.txt
 original_source/sp_to_chol.txt
 original_source/ctu_diccionario_ed3.pdf

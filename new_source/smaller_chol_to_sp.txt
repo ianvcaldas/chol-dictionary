@@ -51,7 +51,7 @@
 \to ¡Oye!
 \ac 2
 \tl así
-\oi Che' abi tsa' aujtyi.
+\oi Che' abi tsa' ujtyi.
 \to Así sucedió, se dice.
 
 \lx abi
@@ -106,7 +106,7 @@
 \hm 2
 \cg vt
 \tl dar
-\oi Tsa' amajli tyi ak' juñ.
+\oi Tsa' majli tyi ak' juñ.
 \to Fue a entregar una carta.
 \su mi iyäk' ch'ämja'
 \ts él bautiza
@@ -150,7 +150,7 @@
 \lx ak'bi
 \cg adv
 \tl ayer
-\oi Ak'bi tsa' ajuliyoñ ilayi.
+\oi Ak'bi tsa' juliyoñ ilayi.
 \to Ayer llegué acá.
 \vdn Sab.
 \vdl abi
@@ -164,7 +164,7 @@
 \cg vt
 \tl limpiar
 \ca sembrados
-\oi Mi la käk'ñañ jiñi cholel.
+\oi Mi lakäk'ñañ jiñi cholel.
 \to Limpiamos la milpa.
 \su ak'ñäñtyel
 \cs vi
@@ -251,7 +251,7 @@
 \cu Información cultural: Lo nombran <lac tat> |r“nuestro padre”|r|i. Se cree que una persona puede hacer pacto con él. Esta persona puede hacerle peticiones a este espíritu a favor o en contra de otra persona. El hombre que tiene relaciones con el <ajaw> se llama sacristán. Si un hombre o una mujer ofende al sacristán, él acude a este espíritu para maldecir a la persona, y al poco tiempo la persona muere.
 \ac 2
 \tl espíritu del agua
-\oi Mi tsa' alakchoko lakbä tyi abañ mi ik'uxoñla jiñi ajaw.
+\oi Mi tsa' lakchoko lakbä tyi abañ mi ik'uxoñlajiñi ajaw.
 \to Si nos metemos en el agua, nos comerá el espíritu del agua.
 \ac 3
 \tl un compañero del diablo
@@ -408,7 +408,7 @@
 \to Está jadeante el joven por estar corriendo.
 \ac 2
 \tl llegar a una parte
-\oi ¿baki ma' wajñel?
+\oi ¿baki mi awajñel?
 \to ¿A dónde llegas?
 
 \lx ajñel
@@ -423,11 +423,11 @@
 \cg vt
 \ac 1
 \tl correr a, perseguir
-\oi Yom ma' wajñesañ majlel jiñi chityam
+\oi Yom mi awajñesañ majlel jiñi chityam
 \to Debes correr al puerco.
 \ac 2
 \tl corretear
-\oi Yom ma' wajñesañ lok'el tyi awotyoty jiñi wiñik.
+\oi Yom mi awajñesañ lok'el tyi awotyoty jiñi wiñik.
 \to Debes correr de tu casa a ese hombre.
 
 \lx ajp'eltye'
@@ -495,6 +495,6 @@
 \hm 2
 \cg vi
 \tl decir
-\oi Mi käl jiñi woli bä kña'tyañ.
+\oi Mi käl jiñi wolibä kña'tyañ.
 \to Digo lo que estoy pensando.
 \dt 22/May/2007
