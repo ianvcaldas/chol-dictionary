@@ -1,0 +1,41 @@
+# The format in this file is:
+# PREVIOUS ORTOGRAPHY -> NEW ORTOGRAPHY
+# Spaces are represented by underscores.
+# Replacements are done in the order they are written in this file.
+# EXCEPTIONS are pieces that are ignored by the rules and kept as is.
+# Add exceptions by starting a line with = and then writing the thing that's
+# not supposed to change.
+
+# Letter replacements
+ch -> TMP00
+c -> k
+TMP00 -> ch
+qu -> k
+q'u -> k'
+ts -> TMP01
+t -> ty
+TMP01 -> ts
+n -> ñ
+ʌ -> ä
+
+# Spacing
+lak_ -> lak
+la'_ -> la'
+_a_ -> _a
+_k_ -> _k
+_i_ -> _i
+_j_ -> _j
+
+# More complicated spacing
+woli'_ -> woli_i
+mi'_ -> mi_i
+tsa'_ -> tsa'_a
+tsi'_ -> tsa'_i
+tsa_la_ -> tsa'_la
+
+_lojoñ -> lojoñ
+
+ll -> l
+
+# Exceptions
+= tatuch

@@ -1,0 +1,500 @@
+\_sh v3.0  563  MXB_Dic-U
+\_DateStampHasFourDigitYear
+
+\lx A
+\mt CHꞌOL — ESPAÑOL
+\alf A
+\dt 24/May/2007
+
+\lx a-
+\ac 1
+\dd Prefijo que indica adjetivo posesivo de segunda  persona.
+\ac 2
+\dd Prefijo que indica pronombre personal de segunda persona.
+\dt 29/Jan/2008
+
+\lx ab
+\cg s 
+\tl hamaca 
+\oi Jꞌmʌl ti ab. 
+\to Está acostado en hamaca.
+\dt 22/May/2007
+
+\lx aban
+\cg s 
+\tl laguna
+\vdn Sab.
+\vdl petem
+\su colem aban 
+\cs s
+\ts mar
+\dt 22/May/2007
+
+\lx abʌc
+\cg s 
+\tl carbón
+\dt 22/May/2007
+
+\lx abʌlel
+\nd Sab. 
+\cg s 
+\tl noche 
+\re acꞌʌlel
+\dt 22/May/2007
+
+\lx abi
+\hm 1 
+\cg part 
+\ac 1
+\tl oye 
+\oi Abi cu. 
+\to ¡Oye! 
+\ac 2 
+\tl así 
+\oi Cheꞌ abi tsaꞌ ujti. 
+\to Así sucedió, se dice.
+
+\lx abi
+\hm 2
+\nd Sab. 
+\cg adv 
+\tl ayer 
+\re acꞌbi
+\dt 24/May/2007
+
+\lx acaras
+\nd Tila 
+\cg s 
+\tl cántaro chico para llevar agua
+\dt 22/May/2007
+
+\lx actan
+\cg part 
+\dd Palabra que introduce la oración o el discurso.
+\dt 22/May/2007
+
+\lx acteꞌ
+\cg s 
+\tl palo de chapaya 
+\ca tiene muchas espinas
+\dt 22/May/2007
+
+\lx Acteꞌpaꞌ
+\cg s 
+\tl Arroyo del Palmar 
+\ca colonia
+\dt 22/May/2007
+
+\lx acuxan
+\cg s 
+\tl aguja
+\dt 22/May/2007
+
+\lx acꞌ
+\hm 1 
+\cg s 
+\ac 1
+\tl lengua 
+\ca de la boca 
+\ac 2 
+\tl bejuco 
+\su i yʌqꞌuil 
+\cs s 
+\ts su bejuco
+
+\lx acꞌ
+\hm 2
+\cg vt 
+\tl dar 
+\oi Tsaꞌ majli ti acꞌ jun. 
+\to Fue a entregar una carta.
+\su miꞌ yʌcꞌ chꞌʌmjaꞌ 
+\ts él bautiza 
+\su miꞌ yʌcꞌ ti majan 
+\ts él presta 
+\su miꞌ yʌcꞌ ti ñuc 
+\ts él cree
+\su miꞌ yʌcꞌ ti tsʌñan 
+\ts lo deja que se enfríe 
+\su xꞌacꞌbet 
+\cs s
+\ts el que lleva dinero para pagar la deuda de otra persona
+
+\lx acꞌach
+\cg s 
+\tl guajolote 
+\ca macho o hembra
+\dt 22/May/2007
+
+\lx acꞌʌl
+\cg adj 
+\tl limpio 
+\ca de vegetación 
+\oi Acꞌʌl jini bij. 
+\to El camino está limpio. 
+\oi Mach acꞌʌlic. 
+\to No está limpio.
+\dt 22/May/2007
+
+\lx acꞌʌlel
+\cg s 
+\tl noche 
+\vdn Sab.
+\vdl abʌlel
+\dt 22/May/2007
+
+\lx acꞌbʌ_tsꞌuñun
+\tl gorrioncillo
+\dt 11/Jan/2008
+
+\lx acꞌbi
+\cg adv 
+\tl ayer 
+\oi Acꞌbi tsaꞌ juliyon ilayi. 
+\to Ayer llegué acá. 
+\vdn Sab. 
+\vdl abi
+\dt 22/May/2007
+
+\lx acꞌjun
+\cg s 
+\tl mensajero
+
+\lx acꞌñan
+\cg vt 
+\tl limpiar 
+\ca sembrados 
+\oi Mi la cʌcꞌñan jini cholel. 
+\to Limpiamos la milpa. 
+\su acꞌñʌntel 
+\cs vi 
+\ts limpiarse
+\dt 22/May/2007
+
+\lx acꞌñibil
+\cg adj 
+\tl limpio 
+\ca sembrado 
+\oi Acꞌñibil jini buꞌlel. 
+\to El frijolar está limpio.
+\dt 22/May/2007
+
+\lx achꞌ
+\cg adj
+\tl mojado
+\oi Achꞌ jini lum.
+\to La tierra está mojada.
+\su achꞌesan
+\cs vt
+\ts mojarlo 
+\su miꞌ yʌchꞌan 
+\ts se moja 
+\su miꞌ yʌchꞌesan 
+\ts lo moja
+\dt 22/May/2007
+
+\lx achꞌan
+\cg vi 
+\tl mojarse
+
+\lx achꞌesʌbil
+\cg adj
+\ac 1
+\tl mojado 
+\oi Achꞌesʌbil jini lum chaꞌanjaꞌal. 
+\to La tierra está mojada por la lluvia. 
+\ac 2 
+\tl regado 
+\oi Achꞌesʌbil jini pʌcꞌʌbʌl. 
+\to La hortaliza está regada.
+\dt 22/May/2007
+
+\lx aj-
+\dd Prefijo que se presenta con sustantivos de los dialectos de Sabanilla y Tila para indicar que se trata de una persona; p.ej.: 
+\oi ajcoltaya 
+\to el que ayuda.
+\re x-
+\dt 22/Jan/2008
+
+\lx aja
+\cg part 
+\tl una respuesta
+\dt 22/May/2007
+
+\lx ajacña
+\cg adj 
+\tl quejándose 
+\oi Ajacña jini winic chaꞌan cꞌux i jol. 
+\to Ese hombre se está quejando por el dolor de cabeza.
+\dt 22/May/2007
+
+\lx ajal
+\nd Tila 
+\cg s 
+\tl espíritu malo 
+\cu Información cultural: Se dice que es el más peligroso de los espíritus. Es el espíritu del diablo. Es capaz de aparecer en distintas formas. Puede aparecer como una mujer amante, pero no como esposa. Al pecar un hombre con ella, se vuelve un animal y muere.
+\dt 22/May/2007
+
+\lx ajapam
+\nd Sab. 
+\cg adv
+\tl adelante
+\oi Ajapam mi majlel c tat.
+\to Mi papá va adelante.
+\re ñaxan
+\dt 22/May/2007
+
+\lx ajaw
+\cg s
+\ac 1
+\tl espíritu malo de la tierra
+\cu Información cultural: Lo nombran <lac tat> |r“nuestro padre”|r|i.  Se cree que una persona puede hacer pacto con él. Esta persona  puede hacerle peticiones a este espíritu a favor o en contra de otra persona.  El hombre que tiene relaciones con el <ajaw> se llama sacristán. Si un hombre o  una mujer ofende al sacristán, él acude a este espíritu para maldecir a la persona,  y al poco tiempo la persona muere.
+\ac 2 
+\tl espíritu del agua 
+\oi Mi tsaꞌ lac choco lac bʌ ti aban miꞌ cꞌuxonla jini ajaw. 
+\to Si nos metemos en el agua, nos comerá el espíritu del agua. 
+\ac 3 
+\tl un compañero del diablo 
+\oi Jini ajaw lajalʌch i jontolil bajcheꞌ xibaꞌ.
+\to La maldad del <ajaw> es igual a la del diablo.
+\dt 22/Jan/2008
+
+\lx ajbaj
+\nd Sab. 
+\cg s 
+\tl tuza 
+\re baj
+\dt 22/May/2007
+
+\lx ajc
+\cg s 
+\tl tortuga negra
+\dt 22/May/2007
+
+\lx ajcal
+\cg s esp 
+\tl alcalde
+\cu Información cultural: La autoridad máxima que encabeza a los tres inferiores: <wasil, mayor, síntico>. Él posee dos bastones, varas bien adornadas con listones. Si un culpable no respeta a los tres inferiores, entonces el <ajcal> se lo comunica al presidente municipal para que él lo tome en cuenta. Permanecen como autoridades un año. Cada uno tiene que buscar a su sucesor. Sólo se aceptan personas de buen juicio y de más conocimientos. Deben ser ejemplo para mantener el orden.
+\dt 24/May/2007
+
+\lx ajcʌchol
+\nd Sab. 
+\cg s 
+\tl preso
+\re xcʌjchel
+\dt 22/May/2007
+
+\lx ajcʌn
+\cg s 
+\tl gemido 
+\oi Woli ti ajcʌn juntiquil xcꞌamʌjel. 
+\to Está un enfermo gimiendo (lit.: está dando un gemido) de dolor.
+\dt 08/Jan/2008
+
+\lx ajcʌntꞌan
+\nd Sab. 
+\cg s 
+\tl discípulo 
+\re xcꞌʌntꞌan
+\dt 22/May/2007
+
+\lx ajcoc
+\nd Sab. 
+\cg s 
+\tl tortuga chica
+\dt 22/May/2007
+
+\lx ajcoltaya
+\nd Sab. 
+\cg s
+\ac 1
+\tl auxiliador 
+\ac 2 
+\tl uno que salva 
+\re xcoltaya
+\dt 22/May/2007
+
+\lx ajcum
+\cg s 
+\tl camote
+\dt 22/May/2007
+
+\lx ajcum_bicꞌ
+\tl papera
+\dt 11/Jan/2008
+
+\lx ajcuntsꞌuꞌ
+\cg s 
+\tl correcamino 
+\ca ave
+\dib abbg015.tif
+\dt 16/Apr/2009
+
+\lx ajchumtʌl
+\nd Sab. 
+\cg s 
+\tl habitante 
+\re xchumtʌl
+\dt 22/May/2007
+
+\lx -ajel
+\dd Sufijo que se presenta con raíces atributivas, sustantivas y transitivas para formar otra raíz sustantiva que indica algún estado; p. ej.:
+\oi cꞌamʌjel
+\to en estado de enfermedad.
+\dt 11/Jan/2008
+
+\lx aji
+\cg part 
+\tl ciertamente 
+\ca exclamación como ‘¡ya ves!’
+\oi Aji, mach cajic.
+\to Ciertamente no se podrá.
+\dt 25/May/2007
+
+\lx ajin
+\cg s
+\ac 1
+\tl cocodrilo de pantano 
+\ac 2 
+\tl cocodrilo de río 
+\ac 3 
+\tl lagarto, caimán
+\dt 22/May/2007
+
+\lx ajlel
+\cg vi
+\ac 1
+\tl criticarse 
+\oi Woli ti ajlel. 
+\to Se están criticando. 
+\ac 2 
+\tl decirse 
+\oi Cheꞌ woli ti ajlel. 
+\to Así están diciendo.
+\dt 22/May/2007
+
+\lx ajlucꞌ
+\cg s 
+\tl salamandra venenosa
+\dt 22/May/2007
+
+\lx ajluꞌ
+\nd Tila 
+\cg s 
+\tl bagre barrigón 
+\ca pez
+\dt 22/May/2007
+
+\lx ajmulil
+\nd Sab. 
+\cg s 
+\tl pecador 
+\re mulil, xmulil
+\dt 22/May/2007
+
+\lx ajnibʌl
+\cg s 
+\tl lugar 
+\oi Ti pejtelel ora yaꞌan i yajnib. 
+\to Allí siempre es su lugar.
+\dt 22/May/2007
+
+\lx ajñel
+\hm 1 
+\cg vi 
+\ac 1
+\tl correr 
+\oi Wosiña jini chꞌiton come woli ti ajñel. 
+\to Está jadeante el joven por estar corriendo. 
+\ac 2 
+\tl llegar a una parte 
+\oi ¿Baqui maꞌ wajñel? 
+\to ¿A dónde llegas?
+
+\lx ajñel
+\hm 2
+\cg vi
+\tl permanecer 
+\oi Miꞌ yajñel jini wʌyibʌl yaꞌ tiꞌ mal otot. 
+\to La cama permanece dentro de la casa.
+\dt 22/May/2007
+
+\lx ajñesan
+\cg vt
+\ac 1
+\tl correr a, perseguir
+\oi Yom maꞌ wajñesan majlel jini chitam
+\to Debes correr al puerco.
+\ac 2
+\tl corretear 
+\oi Yom maꞌ wajñesan loqꞌuel ti a wotot jini winic. 
+\to Debes correr de tu casa a ese hombre.
+
+\lx ajpꞌelteꞌ
+\nd Sab. 
+\cg s 
+\tl aserrador 
+\re xpꞌelteꞌ
+\dt 22/May/2007
+
+\lx ajpꞌujpuya
+\nd Sab. 
+\cg s 
+\tl sembrador 
+\re xpacꞌ
+\dt 22/May/2007
+
+\lx ajqꞌuinijel
+\nd Sab. 
+\cg s 
+\tl participante en fiesta
+\dt 22/May/2007
+
+\lx ajsubtꞌan
+\nd Sab. 
+\cg s 
+\tl orador, predicador
+\dt 22/May/2007
+
+\lx *ajtꞌal
+\cg s 
+\tl el hijo o la hija de la mujer
+\dt 14/Jan/2008
+
+\lx ajtsoꞌ
+\cg s 
+\ac 1
+\tl pavo 
+\ca ave doméstica 
+\ac 2 
+\tl espíritu malo que es compañero del brujo
+\dt 22/May/2007
+
+\lx ajtsꞌijb
+\nd Sab. 
+\cg s 
+\tl escribano 
+\re stsꞌijb
+\dt 22/May/2007
+
+\lx ajxujchꞌ
+\nd Sab. 
+\cg s 
+\tl ladrón 
+\re xujchꞌ
+\dt 22/May/2007
+
+\lx al
+\hm 1 
+\cg adj 
+\tl pesado 
+\oi Wen al jini cuchʌl. 
+\to La carga es muy pesada.
+
+\lx al
+\hm 2
+\cg vi 
+\tl decir 
+\oi Mi cʌl jini woli bʌ c ñaꞌtan. 
+\to Digo lo que estoy pensando.
+\dt 22/May/2007

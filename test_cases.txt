@@ -1,0 +1,81 @@
+# File with test cases. Format is the first line with the original ortography,
+# the next line with the corresponding new ortography. Each case is separated
+# by blank space.
+
+com
+kom
+
+c'ux
+k'ux
+
+quitsil
+kitsil
+
+qu'el
+k'el
+
+tat
+tyaty
+
+t'an
+ty'añ
+
+ñaxan
+ñaxañ
+
+ʌ’lib
+ä’lib
+
+lac wut
+lakwuty
+
+la' pusic'al
+la'pusik'al
+
+Ma'anic i yʌts'mil jini bu'ul
+Ma'añik iyäts'mil jiñi bu'ul
+
+a jol
+ajol
+
+c jol
+kjol
+
+i jol
+ijol
+
+j co'
+jko'
+
+cotot
+kotyoty
+
+a wotot
+awotyoty
+
+i yotot
+iyotyoty
+
+woli' q'uel
+woli ik'el
+
+mi' q'uel
+mi ik'el
+
+tsi' q'uele
+tsa' ik'ele
+
+tsa la cʌc'ʌ
+tsa' lakäk'ä
+
+c bʌ lojon
+kbälojoñ
+
+c jol lojon
+kjolojoñ
+
+tatuch
+tatuch
+
+che'
+che'

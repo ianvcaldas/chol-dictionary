@@ -1,0 +1,20 @@
+* = Ch'ol
+
+* \lx = lexical entry
+\mt = title?
+\alf = Alphabet letter
+\ac = if more than one definition, this code is used then a number is given for the entry number
+\dd = this annotation is used if there is no direct spanish translation, or used to explain the grammatical role of the entry
+\dt = date (last updated?)
+\cg = part of speech
+\tl = spanish translation
+\ca = note about the spanish translation
+* \oi = example sentence of lexical entry in Ch’ol
+\to = translation of example sentence into Spanish
+\vdn = dialect where used
+* \re = Also see 
+\nd = dialect where used 
+\cu = cultural information
+* \su = second example/entry (within an entry, usually a related word or word with an extra affix)
+\cs = second part of speech
+\ts = second translation
