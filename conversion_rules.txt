@@ -52,3 +52,4 @@ ll -> l
 = tsa'_wosmi
 mi_chon_i_cape_ba'ical_mi_mʌmbentel -> mi_ichoñ_ikape_ba'ikal_mi_imäñbeñtyel
 tsa'_wit_yajli -> tsa'_wity_yajli
+= testigo
