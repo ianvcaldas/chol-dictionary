@@ -41,7 +41,7 @@ tsa'_w -> tsa'_aw
 tsaj_ -> tsa'_j
 tsi'_ -> tsa'_i
 tsa_la -> tsa'_la
-mi_laꞌ_ = mi_laꞌ
+mi_la'_ -> mi_la'
 
 _lojoñ -> lojoñ
 

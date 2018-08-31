@@ -12,7 +12,7 @@ number is given for the entry number.
 \dd = Non-translation definition. This annotation is used if there is no direct
 spanish translation, or used to explain the grammatical role of the entry.
 
-\dt = Date (last updated?).
+\dt = Date (last updated?). Not rendered to dictionary.
 
 \cg = Part of speech.
 
@@ -38,6 +38,17 @@ dialect.
 related word or word with an extra affix)
 \cs = Second part of speech.
 \ts = Secondary translation.
+
+\vp = Variation.
+
+\fgn = Tense and person of conjugation?
+\fbl = Verb of conjugation?
+\fgl = ???
+
+\dib = Figure file.
+\pie = Figure legend.
+
+\nt = Translator's note. Not rendered to dictionary.
 
 Annotations in the Spanish-to-Ch'ol dictionary are all the same, but the codes
 have an 'i' appended at the end.

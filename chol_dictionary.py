@@ -77,7 +77,7 @@ class SourceConverter():
 
     def __init__(self, latex=False,
                  rules='conversion_rules.txt',
-                 latex_header='latex_header.txt'):
+                 latex_header='latex_header.tex'):
         self.chol = CholConverter(rules=rules)
         self.latex = latex
         if latex:
@@ -93,7 +93,8 @@ class SourceConverter():
 
 
     def _get_latex_closing(self):
-        return "\\end{document}"
+        s = "\\end{multicols}\n\\end{document}"
+        return s
 
 
     def convert_source(self, source, output=None):
@@ -117,7 +118,9 @@ class SourceConverter():
                 if line.strip() == '':
                     out.write(line)
                     continue
-                out.write(self._convert_line(line) + '\n')
+                new_line = self._convert_line(line)
+                if new_line is not None:
+                    out.write(new_line + '\n')
         if self.latex:
             out.write(self.latex_closing)
         out.close()
@@ -130,16 +133,26 @@ class SourceConverter():
         Returns:
             The converted line, including converting to LaTeX if wanted.
         """
+        # Codes to ignore when converting to LaTeX
+        skip_codes = ['\\_sh',
+                      '\\_DateStampHasFourDigitYear',
+                      '\\dt',
+                      '\\dib',
+                      '\\pie',
+                      '\\nt',
+                     ]
         elements = line.split()
         code = elements[0]
         content = ' '.join(elements[1:])
         if content == '': # happens sometimes
-            return line.strip()
+            return None
         # Replace unicode characters with common ones
         content = content.replace('ꞌ', "'") 
         if self._is_chol(code):
             content = self.chol.convert(content)
         if self.latex:
+            if code in skip_codes:
+                return None
             new_line = self._to_latex(code, content)
         else:
             new_line = ' '.join([code, content])
@@ -155,7 +168,8 @@ class SourceConverter():
         Returns:
             True if the code corresponds to a Ch'ol line, False otherwise.
         """
-        return code in ['\\lx', '\\oi', '\\re', '\\su', '\\vdl']
+        return code in ['\\lx', '\\oi', '\\re', '\\su', '\\vdl',
+                        '\\vp', '\\fbl', '\\alf']
 
     
     def _to_latex(self, code, content):
@@ -168,12 +182,44 @@ class SourceConverter():
         Returns:
             The LaTeX-formatted line.
         """
+        commands = {
+            'lx': 'entry',
+            'mt': 'maintitle',
+            'alf': 'alphaletter',
+            'ac': 'onedefinition',
+            'hm': 'defsuperscript',
+            'dd': 'nontranslationdef',
+            'cg': 'partofspeech',
+            'tl': 'spanishtranslation',
+            'ca': 'clarification',
+            'oi': 'cholexample',
+            'to': 'exampletranslation',
+            'vdn': 'dialectvariant',
+            'vdl': 'dialectword',
+            're': 'alsosee',
+            'nd': 'relevantdialect',
+            'cu': 'culturalinformation',
+            'su': 'secondaryentry',
+            'cs': 'secondpartofspeech',
+            'ts': 'secondtranslation',
+            'vp': 'variation',
+            'fgn': 'conjugationtense',
+            'fbl': 'conjugationverb',
+            'fgl': 'otherconjugation',
+        }
         two_letter_code = code.replace('\\', '')
-        new_line = f'\\{two_letter_code}{{{content}}}'
+        try:
+            latex_command = commands[two_letter_code]
+        except:
+            print(two_letter_code, content)
+        content = content.replace('_', ' ')
+        content = content.replace('²', '\\textsuperscript{2}')
+        content = content.replace('³', '\\textsuperscript{3}')
+        new_line = f'\\{latex_command}{{{content}}}'
         return new_line
 
 
 if __name__ == '__main__':
-    conv = SourceConverter()
-    conv.convert_source('original_source/smaller_chol_to_sp.txt',
-                        'new_source/smaller_chol_to_sp.txt')
+    conv = SourceConverter(latex=True)
+    conv.convert_source('original_source/chol_to_sp.txt',
+                        'new_source/latex_chol_to_sp.tex')
