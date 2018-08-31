@@ -10,9 +10,11 @@
 \addtokomafont{section}{\clearpage\Huge}
 \renewcommand*{\raggedsection}{\centering}
 
+% Fonts and encoding
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \DeclareUnicodeCharacter{28C}{ä}
+\usepackage{beton}
 
 \usepackage{microtype}
 \frenchspacing
@@ -21,60 +23,46 @@
 
 \usepackage{multicol}
 
+% Entries in header
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\chaptermark}[1]{}
 \renewcommand{\sectionmark}[1]{}
 
+% Entries are "reverse indented"
 \leftskip=\parindent
 \parindent=-\parindent
+
+% Whitespace between entries
 \parskip=0.5\baselineskip
+
+% Prevent underfull hbox warnings
+\hbadness=10000
 
 % Dictionary formatting
 
 \newcommand{\entry}[1]{\textbf{#1}\markboth{#1}{#1}}
-
 \newcommand{\maintitle}[1]{\end{multicols*}\part{#1}\begin{multicols*}{2}}
-
 \newcommand{\alphaletter}[1]{\end{multicols*}\addsec{#1}\begin{multicols*}{2}}
-
 \newcommand{\onedefinition}[1]{#1.}
-
 \newcommand{\defsuperscript}[1]{\textsuperscript{(#1)}}
-
 \newcommand{\nontranslationdef}[1]{\textit{#1}}
-
 \newcommand{\partofspeech}[1]{\textit{#1}}
-
 \newcommand{\spanishtranslation}[1]{#1}
-
 \newcommand{\clarification}[1]{(\textit{#1})}
-
 \newcommand{\cholexample}[1]{\textbf{#1}}
-
 \newcommand{\exampletranslation}[1]{#1}
-
 \newcommand{\dialectvariant}[1]{\\\textit{#1}:}
-
 \newcommand{\dialectword}[1]{\textbf{#1}}
-
 \newcommand{\alsosee}[1]{\\\textit{Véase} \textbf{#1}}
-
 \newcommand{\relevantdialect}[1]{(\textit{#1})}
-
 \newcommand{\culturalinformation}[1]{(\textit{#1})}
-
 \newcommand{\secondaryentry}[1]{\\\textbf{#1}}
-
 \newcommand{\secondpartofspeech}[1]{\textit{#1}}
-
 \newcommand{\secondtranslation}[1]{#1}
-
 \newcommand{\variation}[1]{\textit{Var.} \textbf{#1}}
-
 \newcommand{\conjugationtense}[1]{[\textit{#1}}
-
 \newcommand{\conjugationverb}[1]{\textit{de} \textbf{#1}]}
 \newcommand{\otherconjugation}[1]{\textit{:} \textbf{#1}]}
 
