@@ -208,10 +208,10 @@ class SourceConverter():
             'fgl': 'otherconjugation',
         }
         two_letter_code = code.replace('\\', '')
-        try:
-            latex_command = commands[two_letter_code]
-        except:
-            print(two_letter_code, content)
+        # This skips the lexical entry for alphabet letters
+        if two_letter_code == 'lx' and content.isupper():
+            return None
+        latex_command = commands[two_letter_code]
         content = content.replace('_', ' ')
         content = content.replace('²', '\\textsuperscript{2}')
         content = content.replace('³', '\\textsuperscript{3}')

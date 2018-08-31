@@ -1,7 +1,8 @@
-\documentclass{scrbook}
+\documentclass[10pt]{scrbook}
 \KOMAoptions{
   chapterprefix=false,
-  headings=openany
+  headings=openany,
+  parskip=half
 }
 \usepackage{scrhack}
 \addtokomafont{disposition}{\rmfamily}
@@ -11,6 +12,7 @@
 \usepackage[utf8]{inputenc}
 \DeclareUnicodeCharacter{28C}{ä}
 
+\usepackage{microtype}
 \frenchspacing
 \usepackage{indentfirst}
 \usepackage[parfill]{parskip}
@@ -19,15 +21,15 @@
 
 % Dictionary formatting
 
-\newcommand{\entry}[1]{\paragraph{#1}}
+\newcommand{\entry}[1]{\textbf{#1}}
 
 \newcommand{\maintitle}[1]{\end{multicols}\addchap{#1}\begin{multicols}{2}}
 
-\newcommand{\alphaletter}[1]{\addsec{#1}}
+\newcommand{\alphaletter}[1]{\end{multicols}\addsec{#1}\begin{multicols}{2}}
 
 \newcommand{\onedefinition}[1]{#1.}
 
-\newcommand{\defsuperscript}[1]{\textsuperscript{1}}
+\newcommand{\defsuperscript}[1]{\textsuperscript{#1}}
 
 \newcommand{\nontranslationdef}[1]{\textit{#1}}
 
@@ -66,10 +68,11 @@
 
 \begin{document}
 
+\tableofcontents
+
 \begin{multicols}{2}
 
 
-\entry{A}
 \maintitle{CH'OL — ESPAÑOL}
 \alphaletter{A}
 
@@ -856,7 +859,6 @@
 \spanishtranslation{nuera}
 \alsosee{ä'lib}
 
-\entry{Ä}
 \alphaletter{Ä}
 
 \entry{äch'uñiyel}
@@ -926,7 +928,6 @@
 \dialectvariant{Sab.}
 \dialectword{a'libäl}
 
-\entry{B}
 \alphaletter{B}
 
 \entry{ba}
@@ -2292,7 +2293,6 @@
 \spanishtranslation{hormiguillo}
 \clarification{palo de marimba; árbol grande que da fruta como frijolitos; la madera es maciza y colorada y se usa para marimbas}
 
-\entry{K}
 \alphaletter{K}
 
 \entry{k-}
@@ -3455,7 +3455,6 @@
 \cholexample{Mi ikuy ibä tyi riko.}
 \exampletranslation{Finge ser rico.}
 
-\entry{K'}
 \alphaletter{K'}
 
 \entry{*k'aba'}
@@ -7056,7 +7055,6 @@
 \cholexample{Weñ k'am mi icha'leñ ch'uyub jiñi ch'ityoñ.}
 \exampletranslation{Ese muchacho da un silbido recio.}
 
-\entry{D}
 \alphaletter{D}
 
 \entry{diosiñ}
@@ -7065,7 +7063,6 @@
 \cholexample{Mi idiosiñ diostye'.}
 \exampletranslation{Él adora a un ídolo.}
 
-\entry{E}
 \alphaletter{E}
 
 \entry{ekchokoñ}
@@ -7255,7 +7252,6 @@
 \spanishtranslation{el equipo de trabajo}
 \clarification{como despulpadora de café}
 
-\entry{G}
 \alphaletter{G}
 
 \entry{gloria}
@@ -7264,7 +7260,6 @@
 \spanishtranslation{cielo}
 \alsosee{pañchañ}
 
-\entry{I}
 \alphaletter{I}
 
 \entry{i-}
@@ -7763,7 +7758,6 @@
 \cholexample{I'ik'ix tyi buts' jiñi pixoläl.}
 \exampletranslation{El sombrero está ahumado.}
 
-\entry{J}
 \alphaletter{J}
 
 \entry{jab}
@@ -9897,7 +9891,6 @@
 \spanishtranslation{bajar}
 \clarification{alguna cosa}
 
-\entry{L}
 \alphaletter{L}
 
 \entry{labityo}
@@ -11162,7 +11155,6 @@
 \spanishtranslation{arrugado}
 \clarification{persona}
 
-\entry{M}
 \alphaletter{M}
 
 \entry{makom}
@@ -12438,7 +12430,6 @@
 \partofspeech{s}
 \spanishtranslation{cuñada del hombre}
 
-\entry{Ñ}
 \alphaletter{Ñ}
 
 \entry{ñaña}
@@ -12579,7 +12570,6 @@
 \partofspeech{s}
 \spanishtranslation{cumbre}
 
-\entry{Ñ}
 \alphaletter{Ñ}
 
 \entry{-ña}
@@ -13622,7 +13612,6 @@
 \cholexample{Ñuxukña mi imajlel tyi ja' jiñi chäy.}
 \exampletranslation{Así va nadando el pez.}
 
-\entry{O}
 \alphaletter{O}
 
 \entry{-ob}
@@ -13877,7 +13866,6 @@
 \spanishtranslation{camaleón}
 \clarification{reptil}
 
-\entry{P}
 \alphaletter{P}
 
 \entry{pakal}
@@ -15545,7 +15533,6 @@
 \spanishtranslation{Arroyo con Caracoles}
 \clarification{lugar}
 
-\entry{P'}
 \alphaletter{P'}
 
 \entry{p'aj}
@@ -16012,7 +15999,6 @@
 \cholexample{Ma'añik mi ip'uñtyäñtyel jiñi alob.}
 \exampletranslation{No se compadecen de ese chamaco.}
 
-\entry{Q}
 \alphaletter{Q}
 
 \entry{keb}
@@ -16232,7 +16218,6 @@
 \cholexample{Kixtyä komox.}
 \exampletranslation{No quiero.}
 
-\entry{Q'}
 \alphaletter{Q'}
 
 \entry{k'ebäch}
@@ -16523,7 +16508,6 @@
 \spanishtranslation{tenderse}
 \clarification{café, chile, frijol, ropa}
 
-\entry{R}
 \alphaletter{R}
 
 \entry{rebus}
@@ -16576,7 +16560,6 @@
 \cholexample{Jiñi wiñik woli irusiñ iwuty.}
 \exampletranslation{Ese hombre está persignándose.}
 
-\entry{S}
 \alphaletter{S}
 
 \entry{-s}
@@ -21218,7 +21201,6 @@
 \cholexample{Wolix its'u'umiyel jiñi kajpe'.}
 \exampletranslation{El café se está secando.}
 
-\entry{U}
 \alphaletter{U}
 
 \entry{ubiñ}
@@ -21659,7 +21641,6 @@
 \dialectvariant{Tila}
 \dialectword{choñtyi'}
 
-\entry{W}
 \alphaletter{W}
 
 \entry{wakal}
@@ -22945,7 +22926,6 @@
 \cholexample{Kña' woli iwuts' pisil.}
 \exampletranslation{Mi mamá está lavando la ropa.}
 
-\entry{X}
 \alphaletter{X}
 
 \entry{x-}
@@ -24801,7 +24781,6 @@
 \secondpartofspeech{vt}
 \secondtranslation{espiar}
 
-\entry{X'}
 \alphaletter{X'}
 
 \entry{x'ak'bety}
@@ -24945,7 +24924,6 @@
 \partofspeech{s}
 \spanishtranslation{tipo de hongo blanco, comestible}
 
-\entry{Y}
 \alphaletter{Y}
 
 \entry{-ya}

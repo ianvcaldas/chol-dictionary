@@ -13,9 +13,7 @@ dictionary into the modern ortrography. The previous source is in folder
 The LaTeX version compiles into a valid PDF out of the box, but it's ugly. Here
 are the things we want to change in the formatting:
 * Decide a definitive font.
-* Resolve paragraph formatting.
 * Resolve two-column layout margins.
-* Remove useless lexical entries for alphabet letter section titles.
 * Deal with underfull hbox error.
 * Resolve spacing between entry items.
 * Resolve numbered elements.

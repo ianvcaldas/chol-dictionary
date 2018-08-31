@@ -1,7 +1,8 @@
-\documentclass{scrbook}
+\documentclass[10pt]{scrbook}
 \KOMAoptions{
   chapterprefix=false,
-  headings=openany
+  headings=openany,
+  parskip=half
 }
 \usepackage{scrhack}
 \addtokomafont{disposition}{\rmfamily}
@@ -11,6 +12,7 @@
 \usepackage[utf8]{inputenc}
 \DeclareUnicodeCharacter{28C}{ä}
 
+\usepackage{microtype}
 \frenchspacing
 \usepackage{indentfirst}
 \usepackage[parfill]{parskip}
@@ -19,15 +21,15 @@
 
 % Dictionary formatting
 
-\newcommand{\entry}[1]{\paragraph{#1}}
+\newcommand{\entry}[1]{\textbf{#1}}
 
 \newcommand{\maintitle}[1]{\end{multicols}\addchap{#1}\begin{multicols}{2}}
 
-\newcommand{\alphaletter}[1]{\addsec{#1}}
+\newcommand{\alphaletter}[1]{\end{multicols}\addsec{#1}\begin{multicols}{2}}
 
 \newcommand{\onedefinition}[1]{#1.}
 
-\newcommand{\defsuperscript}[1]{\textsuperscript{1}}
+\newcommand{\defsuperscript}[1]{\textsuperscript{#1}}
 
 \newcommand{\nontranslationdef}[1]{\textit{#1}}
 
@@ -65,5 +67,7 @@
 \newcommand{\otherconjugation}[1]{: \textbf{#1}]}
 
 \begin{document}
+
+\tableofcontents
 
 \begin{multicols}{2}
