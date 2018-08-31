@@ -27,6 +27,7 @@ _k_ -> _k
 _i_ -> _i
 _j_ -> _j
 _bä -> bä
+_ba -> ba
 _tyo -> tyo
 
 # More complicated spacing

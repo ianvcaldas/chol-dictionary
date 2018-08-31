@@ -8,7 +8,6 @@ dictionary into the modern ortrography. The previous source is in folder
 
 
 ## TODO
-* Check the Spanish-to-Ch'ol source to see if there's anything different there.
 * Add command-line arguments to the main script.
 * Write the LaTeX header with minimal formatting.
 * Think about more elaborate formatting, e.g. for printing.
@@ -25,3 +24,13 @@ We use simple replacement rules that are codified in the file
 Of course, we want to double check whether our updates actually work. The file
 `test_cases.txt` contains a series of manually curated checks. Before updating,
 we make sure every single test in that file passes successfully.
+
+
+## License
+
+[Diccionario chꞌol de Tumbalá, Chiapas, con variaciones dialectales de Tila y
+Sabanilla](https://www.sil.org/resources/archives/35328) is licensed under [CC
+BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and
+attributed to the original authors and speakers. The dictionary with updated
+ortography is licensed under CC BY-NC-SA 4.0 and attribued to Carol Rose Little
+and Ian V. Caldas.
