@@ -29,6 +29,8 @@ _j_ -> _j
 _bä -> bä
 _ba -> ba
 _tyo -> tyo
+mi_la'_ -> mi_la'
+_jach -> jach
 
 # More complicated spacing
 wolij_ -> woli_j
@@ -41,7 +43,7 @@ tsa'_w -> tsa'_aw
 tsaj_ -> tsa'_j
 tsi'_ -> tsa'_i
 tsa_la -> tsa'_la
-mi_la'_ -> mi_la'
+
 
 _lojoñ -> lojoñ
 
