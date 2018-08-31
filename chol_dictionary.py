@@ -93,7 +93,7 @@ class SourceConverter():
 
 
     def _get_latex_closing(self):
-        s = "\\end{multicols}\n\\end{document}"
+        s = "\\end{multicols*}\n\\end{document}"
         return s
 
 

@@ -9,14 +9,7 @@ dictionary into the modern ortrography. The previous source is in folder
 
 ## TODO
 * Add command-line arguments to the main script.
-
-The LaTeX version compiles into a valid PDF out of the box, but it's ugly. Here
-are the things we want to change in the formatting:
 * Decide a definitive font.
-* Resolve two-column layout margins.
-* Deal with underfull hbox error.
-* Resolve spacing between entry items.
-* Resolve numbered elements.
 
 
 ## Rules for ortography update

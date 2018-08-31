@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.14)  31 AUG 2018 09:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.3.14)  31 AUG 2018 13:11
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -6,8 +6,8 @@ entering extended mode
 (./latex_chol_to_sp.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrbook.cls
-Document Class: scrbook 2017/09/07 v3.24 KOMA-Script document class (book)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2017/09/07 v3.24 KOMA-Script document class (report)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2017/09/07 v3.24 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrbase.sty
@@ -31,14 +31,14 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 138.
-Package tocbasic Info: defining new hook before heading of `' on input line 1623.
-Package scrbook Info: You've used standard option `10pt'.
-(scrbook)             This is correct!
-(scrbook)             Internally I'm using `fontsize=10pt'.
-(scrbook)             If you'd like to set the option with \KOMAoptions,
-(scrbook)             you'd have to use `fontsize=10pt' there
-(scrbook)             instead of `10pt', too.
-Class scrbook Info: File `scrsize10pt.clo' used to setup font sizes on input line 2296.
+Package tocbasic Info: defining new hook before heading of `' on input line 1627.
+Package scrreprt Info: You've used standard option `10pt'.
+(scrreprt)             This is correct!
+(scrreprt)             Internally I'm using `fontsize=10pt'.
+(scrreprt)             If you'd like to set the option with \KOMAoptions,
+(scrreprt)             you'd have to use `fontsize=10pt' there
+(scrreprt)             instead of `10pt', too.
+Class scrreprt Info: File `scrsize10pt.clo' used to setup font sizes on input line 2293.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
 File: scrsize10pt.clo 2017/09/07 v3.24 KOMA-Script font size class option (10pt)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
@@ -55,8 +55,8 @@ Package typearea Info: These are the values describing the layout:
 (typearea)             \paperwidth      = 597.50793pt
 (typearea)              \textwidth      = 373.44246pt
 (typearea)              DIV departure   = -4%
-(typearea)              \evensidemargin = 77.107pt
-(typearea)              \oddsidemargin  = 2.4185pt
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
 (typearea)             \paperheight     = 845.04694pt
 (typearea)              \textheight     = 538.0pt
 (typearea)              \topmargin      = 0.36087pt
@@ -81,15 +81,40 @@ Package typearea Info: These are the values describing the layout:
 \scr@dte@subsubsection@maxnumwidth=\skip51
 \scr@dte@paragraph@maxnumwidth=\skip52
 \scr@dte@subparagraph@maxnumwidth=\skip53
-LaTeX Info: Redefining \textsubscript on input line 4966.
+LaTeX Info: Redefining \textsubscript on input line 4964.
 \abovecaptionskip=\skip54
 \belowcaptionskip=\skip55
 \c@pti@nb@sid@b@x=\box27
 \c@figure=\count87
 \c@table=\count88
-Class scrbook Info: Redefining `\numberline' on input line 6142.
+Class scrreprt Info: Redefining `\numberline' on input line 6130.
 \bibindent=\dimen102
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrhack.sty
+)
+
+Package typearea Warning: Bad type area settings!
+(typearea)                The detected line width is about 34%
+(typearea)                larger than the heuristically detected line width.
+(typearea)                You should e.g. decrease DIV, increase fontsize
+(typearea)                or change papersize.
+
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 15
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 478.00635pt
+(typearea)              DIV departure   = -34%
+(typearea)              \evensidemargin = -12.5192pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 682.0pt
+(typearea)              \topmargin      = -48.93353pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 7.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/koma-script/scrhack.sty
 Package: scrhack 2017/09/07 v3.24 KOMA-Script package 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/xpatch/xpatch.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2018/02/21 L3 programming layer (loader) 
@@ -770,20 +795,7 @@ LaTeX Info: Redefining \lslig on input line 913.
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
-)) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/indentfirst.sty
-Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
-)
-
-Class scrbook Warning: Usage of package `parskip' together
-(scrbook)              with a KOMA-Script class is not recommended.
-(scrbook)              I'd suggest to use option
-(scrbook)              `parskip' with one of it's several values.
-(scrbook)              Nevertheless, using requested
-(scrbook)              package `parskip' on input line 19.
-
-(/usr/local/texlive/2017/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2001/04/09 non-zero parskip adjustments
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count181
 \mult@box=\box44
@@ -831,22 +843,48 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \mult@nat@firstbox=\box68
 \colbreak@box=\box69
 \mc@col@check@num=\count189
+)
+
+Class scrreprt Warning: Usage of package `fancyhdr' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use 
+(scrreprt)              package `scrlayer' or `scrlayer-scrpage', because
+(scrreprt)              they support KOMA-Script classes.
+(scrreprt)              With `fancyhdr' several features of class `scrreprt'
+(scrreprt)              like options `headsepline', `footsepline' or command
+(scrreprt)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrreprt)              `\addtokomafont' for the page style elements need
+(scrreprt)              explicite user intervention to work.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `fancyhdr' on input line 25.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 ) (./latex_chol_to_sp.aux)
 \openout1 = `latex_chol_to_sp.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Info: Redefining \microtypecontext on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Info: Redefining \microtypecontext on input line 81.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -859,7 +897,7 @@ Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 71.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 83.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -867,7 +905,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package tocbasic Info: character protrusion at toc deactivated on input line 71.
+Package tocbasic Info: character protrusion at toc deactivated on input line 83.
  (./latex_chol_to_sp.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
@@ -881,1772 +919,365 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-chapter without number
-
-Underfull \hbox (badness 5954) in paragraph at lines 217--226
-[]\T1/cmr/bx/n/10 ak'ñañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) limpiar (\T1/cmr/m/it/10 (+20) sem-bra-dos\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi
- []
-
+part I.
+Package scrkbase Info: You've told me to use the font selection of the element
+(scrkbase)             `partprefix' that is an alias of element `partnumber'
+(scrkbase)              on input line 88.
 [2
 
-] [3]
-Underfull \hbox (badness 7451) in paragraph at lines 472--476
-[]\T1/cmr/bx/n/10 ajsubty'añ \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) orador, pred-i-
+] [3
+
+]
+Underfull \hbox (badness 6477) in paragraph at lines 339--344
+ []\T1/cmr/bx/n/10 ajkäñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) gemido \T1/cmr/bx/n/10 Woli tyi ajkäñ juñ-tyikil
  []
 
+[4] [5] [6
 
-Underfull \hbox (badness 6675) in paragraph at lines 508--514
-\T1/cmr/bx/n/10 kña'tyañ. \T1/cmr/m/n/10 (+20) Digo lo que es-toy pen-
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1178
+ []\T1/cmr/bx/n/10 ba'ikal \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) don-d-e-quiera \T1/cmr/bx/n/10 Mi choñ
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 632--639
-[]\T1/cmr/bx/n/10 am \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. araña 2. tarán-tula (\T1/cmr/m/it/10 (+20) ve-
+[7
+
+] [8] [9] [10] [11] [12] [13
+
+] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 2931--2935
+ []\T1/cmr/bx/n/10 kolem matye' chityam \T1/cmr/m/n/10 (+20) tam-bor-cillo ma-rina
  []
 
-[5]
-Underfull \hbox (badness 5189) in paragraph at lines 774--780
-[]\T1/cmr/bx/n/10 *asiñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) juguetear (\T1/cmr/m/it/10 (+20) con un ob-jeto\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 5022) in paragraph at lines 810--815
-[]\T1/cmr/bx/n/10 awokolik \T1/cmr/m/it/10 (+20) part \T1/cmr/m/n/10 (+20) por fa-vor \T1/cmr/bx/n/10 Awoko-lik
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 864--869
-[]\T1/cmr/bx/n/10 äch'uñiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) rechi-nar \T1/cmr/bx/n/10 Mu' tyi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 909--914
-[]\T1/cmr/bx/n/10 *äts'mil \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) condi-mento \T1/cmr/bx/n/10 Ma'añik
- []
-
-[6]
-Underfull \hbox (badness 6526) in paragraph at lines 1003--1017
-[]\T1/cmr/bx/n/10 bajche' \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) 1. como \T1/cmr/bx/n/10 Tsa' imele
- []
-
-[7]
-Underfull \hbox (badness 5460) in paragraph at lines 1140--1145
-[]\T1/cmr/bx/n/10 bayakña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) muy gordo \T1/cmr/bx/n/10 Bayakña
- []
-
-[8]
-Underfull \hbox (badness 7012) in paragraph at lines 1405--1410
-[]\T1/cmr/bx/n/10 bäñäkña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
-[]\T1/cmr/bx/n/10 bäk'eñ bäk'eñ jax \T1/cmr/m/n/10 (+20) temeroso
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1435--1439
-\T1/cmr/m/n/10 (+20) Parece que ese hom-bre es algo
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 1513--1517
-[]\T1/cmr/bx/n/10 bejts'em \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) pasado (\T1/cmr/m/it/10 (+20) de-spués del
- []
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 1583--1588
-[]\T1/cmr/bx/n/10 bets'uña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 1636--1644
-\T1/cmr/bx/n/10 ibik' laj k'äb \T1/cmr/m/n/10 (+20) coyun-tura (\T1/cmr/m/it/10 (+20) de la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1665--1668
-[]\T1/cmr/bx/n/10 bik'tyi chä'tye' \T1/cmr/m/n/10 (+20) chicoza-pote (\T1/cmr/m/it/10 (+20) ár-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1741--1745
-[]\T1/cmr/bx/n/10 Bits'ol \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Ar-boleda de Coc-sán
- []
-
-[11]
-Underfull \hbox (badness 7907) in paragraph at lines 1857--1861
-[]\T1/cmr/bx/n/10 Boloñajaw \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Nueve Es-píri-tus (\T1/cmr/m/it/10 (+20) lu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1952--1958
-\T1/cmr/bx/n/10 jiñi postye. \T1/cmr/m/n/10 (+20) Ar-ran-que-mos ese
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1977--1982
-[]\T1/cmr/bx/n/10 bo'tyek' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) patear \T1/cmr/bx/n/10 Jiñi mu-latsa'
- []
-
-[12]
-Underfull \hbox (badness 7099) in paragraph at lines 2104--2108
-[]\T1/cmr/bx/n/10 bujlux \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) sub-de-sar-rol-lado (\T1/cmr/m/it/10 (+20) gra-nos,
- []
-
-[13]
-Underfull \hbox (badness 6396) in paragraph at lines 2208--2213
-[]\T1/cmr/bx/n/10 buty' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) llenar \T1/cmr/bx/n/10 Mi lak-buty' tyi
- []
-
-
-Underfull \hbox (badness 5008) in paragraph at lines 2226--2237
-[]\T1/cmr/bx/n/10 buty'ukña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) 1. re-bal-sando \T1/cmr/bx/n/10 Weñ
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 2339--2345
-[]\T1/cmr/bx/n/10 kajkaña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
- []
-
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 2609--2615
-\T1/cmr/bx/n/10 ikäjchil cha'añ ima-jts aläl. \T1/cmr/m/n/10 (+20) No
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 2721--2726
-[]\T1/cmr/bx/n/10 käräkña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) gruñendo \T1/cmr/bx/n/10 Käräkña
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2721--2726
-\T1/cmr/bx/n/10 ibik jiñiba-jlum. \T1/cmr/m/n/10 (+20) El jaguar está
+[15] [16]
+Underfull \hbox (badness 6141) in paragraph at lines 3442--3447
+ []\T1/cmr/bx/n/10 *kuxtyälel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) vida \T1/cmr/bx/n/10 Ma'añik ikux-tyälel jiñi
  []
 
 [17]
-Underfull \hbox (badness 7433) in paragraph at lines 2873--2876
-[]\T1/cmr/bx/n/10 kolkolña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
+Underfull \hbox (badness 10000) in paragraph at lines 3640--3650
+ []\T1/cmr/bx/n/10 k'ajtyibeñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. pre-gun-tarle \T1/cmr/bx/n/10 Yom mi
  []
 
+[18
 
-Underfull \hbox (badness 10000) in paragraph at lines 2907--2912
-[]\T1/cmr/bx/n/10 *kolemal \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) niñez \T1/cmr/bx/n/10 Che'äch yi-lal
- []
-
-
-Underfull \hbox (badness 5119) in paragraph at lines 2924--2927
-[]\T1/cmr/bx/n/10 kolem päm \T1/cmr/m/n/10 (+20) tucán, pico de canoa
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2954--2959
-[]\T1/cmr/bx/n/10 kolol \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) monte lev-an-tado \T1/cmr/bx/n/10 Kolol
- []
-
-[18]
-Overfull \hbox (7.66899pt too wide) in paragraph at lines 3048--3059
-[]\T1/cmr/bx/n/10 komkatsa' \T1/cmr/m/n/10 (-20) 1. \T1/cmr/m/it/10 (-20) part \T1/cmr/m/n/10 (-20) quisiera \T1/cmr/bx/n/10 Komkatsa'bäk'
- []
-
-
-Underfull \hbox (badness 6078) in paragraph at lines 3082--3092
-[]\T1/cmr/bx/n/10 kom'esañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. acor-tar \T1/cmr/bx/n/10 Yom laj
- []
-
-
-Underfull \hbox (badness 7522) in paragraph at lines 3117--3122
-[]\T1/cmr/bx/n/10 koraläjem \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) cer-cado \T1/cmr/bx/n/10 Ko-ralä-jem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3123--3128
-\T1/cmr/bx/n/10 tyi ko-räli-jel. \T1/cmr/m/n/10 (+20) Es-toy ha-ciendo un
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 3279--3281
-[]\T1/cmr/bx/n/10 kukuch yopom \T1/cmr/m/n/10 (+20) tipo de in-secto
+] [19]
+Underfull \hbox (badness 10000) in paragraph at lines 4047--4052
+ []\T1/cmr/bx/n/10 k'äñwechañ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) ob-jeto amar-illo y plano
  []
 
 [20]
-Underfull \hbox (badness 7888) in paragraph at lines 3430--3435
-[]\T1/cmr/bx/n/10 *kuxtyälel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) vida \T1/cmr/bx/n/10 Ma'añik ikux-
+Underfull \hbox (badness 10000) in paragraph at lines 4439--4445
+ []\T1/cmr/bx/n/10 k'o'chokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) colo-car (\T1/cmr/m/it/10 (+20) ob-jeto es-férico\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Tsa'
+ []
+
+[21] [22] [23
+
+] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 5441--5447
+ []\T1/cmr/bx/n/10 chek'chek'ña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) golpeán-dose (\T1/cmr/m/it/10 (+20) máquina\T1/cmr/m/n/10 (+20) )
+ []
+
+[25] [26] [27] [28]
+Underfull \hbox (badness 6625) in paragraph at lines 6207--6212
+ []\T1/cmr/bx/n/10 ch'ajtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) medio asar \T1/cmr/bx/n/10 Mi isäl alam-bre
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3478--3483
-[]\T1/cmr/bx/n/10 k'achal \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tor-cido \T1/cmr/bx/n/10 K'achal jiñi
+Underfull \hbox (badness 10000) in paragraph at lines 6376--6382
+ []\T1/cmr/bx/n/10 ch'äñch'äña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) im-pen-sada-mente (\T1/cmr/m/it/10 (+20) hablar\T1/cmr/m/n/10 (+20) )
+ []
+
+[29
+
+] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 6722--6728
+ []\T1/cmr/bx/n/10 ch'ixluktyik \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) corte alto (\T1/cmr/m/it/10 (+20) veg-etación\T1/cmr/m/n/10 (+20) )
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3516--3523
-[]\T1/cmr/bx/n/10 k'ajatyañ \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) acor-dar \T1/cmr/bx/n/10 Mi
- []
-
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 3610--3615
-[]\T1/cmr/bx/n/10 k'ajtyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) acor-darse de \T1/cmr/bx/n/10 Woli
+Overfull \hbox (14.75761pt too wide) in paragraph at lines 6785--6790
+ []\T1/cmr/bx/n/10 ch'och'oktyesañ \T1/cmr/m/it/10 (-20) vt \T1/cmr/m/n/10 (-20) achicar \T1/cmr/bx/n/10 Yom mi ach'och'oktyesañ
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 3628--3638
-\T1/cmr/bx/n/10 ak'ajtyibeñbajche' mi'tyoj ka-jpe'.
+Underfull \hbox (badness 7133) in paragraph at lines 6791--6796
+ []\T1/cmr/bx/n/10 ch'och'okiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) hac-erse más pe-queño \T1/cmr/bx/n/10 Mux
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3655--3665
-[]\T1/cmr/bx/n/10 k'ajtyiñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. pre-gun-tar \T1/cmr/bx/n/10 Woli
+Underfull \hbox (badness 7451) in paragraph at lines 6826--6831
+ []\T1/cmr/bx/n/10 ch'ojch'oñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) pi-cotear \T1/cmr/bx/n/10 Jiñi alä muty mi
  []
 
 
-Underfull \hbox (badness 5622) in paragraph at lines 3655--3665
-\T1/cmr/bx/n/10 jk'ajtyiñbajche' ma'tyoj juñku-jch
- []
-
-[22]
-Underfull \hbox (badness 7308) in paragraph at lines 3726--3731
-[]\T1/cmr/bx/n/10 k'am'añ \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) en-fer-marse \T1/cmr/bx/n/10 Kabäl mi
- []
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 3958--3962
-[]\T1/cmr/bx/n/10 K'äñk'ämpa' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Ar-royo Amar-illo
+Underfull \hbox (badness 10000) in paragraph at lines 6832--6837
+ []\T1/cmr/bx/n/10 ch'ojiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) lev-an-tarse \T1/cmr/bx/n/10 Ik'tyo pañimil mi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3969--3972
-[]\T1/cmr/bx/n/10 k'äñk'äñ max \T1/cmr/m/n/10 (+20) mico de noche
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3995--3999
-[]\T1/cmr/bx/n/10 k'äñjixil \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cule-bra voladora (\T1/cmr/m/it/10 (+20) rep-
- []
-
-[24]
-Underfull \hbox (badness 10000) in paragraph at lines 4090--4094
-[]\T1/cmr/bx/n/10 k'äskujel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) que-brarse (\T1/cmr/m/it/10 (+20) palo,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4148--4153
-\T1/cmr/bx/n/10 jiñi k'ay. \T1/cmr/m/n/10 (+20) Canta bonito esa can-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4169--4174
-[]\T1/cmr/bx/n/10 k'ok'añ \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) sa-nar \T1/cmr/bx/n/10 Woli ik'ok'añ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4169--4174
-\T1/cmr/bx/n/10 jiñi xk'amäjel. \T1/cmr/m/n/10 (+20) El en-fermo está
- []
-
-
-Underfull \hbox (badness 5431) in paragraph at lines 4228--4233
-[]\T1/cmr/bx/n/10 k'ojlañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) zan-golotear, sacudir \T1/cmr/bx/n/10 Mi
- []
-
-[25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 4434--4438
-[]\T1/cmr/bx/n/10 k'o'loch \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tipo de hongo (\T1/cmr/m/it/10 (+20) co-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4439--4444
-[]\T1/cmr/bx/n/10 k'o'mäkäl \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) cer-rado de nubes
- []
-
-
-Underfull \hbox (badness 8170) in paragraph at lines 4450--4456
-\T1/cmr/m/n/10 (+20) po-damos \T1/cmr/bx/n/10 K'o'omejloñlatyi ty-roñel.
- []
-
-
-Underfull \hbox (badness 7649) in paragraph at lines 4462--4466
-[]\T1/cmr/bx/n/10 k'ubujl \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) za-cuilla, zanate de oro
- []
-
-
-Underfull \hbox (badness 5231) in paragraph at lines 4496--4501
-[]\T1/cmr/bx/n/10 k'uchukña \T1/cmr/m/it/10 (+20) adv Rela-cionado con la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4573--4579
-[]\T1/cmr/bx/n/10 k'uñluk'añ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) suave (\T1/cmr/m/it/10 (+20) madera\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4587--4592
-\T1/cmr/m/n/10 (+20) averiguar \T1/cmr/bx/n/10 Muk'ix lak-ma-jlel laj
- []
-
-[27]
-Underfull \hbox (badness 10000) in paragraph at lines 4654--4658
-[]\T1/cmr/bx/n/10 k'utyilañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) tamu-lar, machu-car
- []
-
-
-Underfull \hbox (badness 7203) in paragraph at lines 4711--4716
-[]\T1/cmr/bx/n/10 *k'uxlel i pusik'al \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) en-vidia
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4724--4731
-[]\T1/cmr/bx/n/10 k'uxtyayem \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) triste
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 4732--4738
-[]\T1/cmr/bx/n/10 k'uxuk \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) comer (\T1/cmr/m/it/10 (+20) neg-a-tivo\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mach
- []
-
-[28]
-Underfull \hbox (badness 6412) in paragraph at lines 4811--4816
-\T1/cmr/bx/n/10 jiñi ibäl ñäk'äl. \T1/cmr/m/n/10 (+20) La co-mida está
- []
-
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 5115--5119
-[]\T1/cmr/bx/n/10 chäk ik'lel \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) norte (\T1/cmr/m/it/10 (+20) mal
- []
-
-
-Overfull \hbox (7.54356pt too wide) in paragraph at lines 5120--5123
-[]\T1/cmr/bx/n/10 chäkjocho chuch \T1/cmr/m/n/10 (-20) ardilla (\T1/cmr/m/it/10 (-20) mamífero\T1/cmr/m/n/10 (-20) ) 
- []
-
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 5231--5237
-[]\T1/cmr/bx/n/10 chäkyumañ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) col-orado (\T1/cmr/m/it/10 (+20) líquido\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5231--5237
-\T1/cmr/bx/n/10 Chäkyu-mañ jiñi lämälbä ts'ak.
- []
-
-
-Overfull \hbox (10.76724pt too wide) in paragraph at lines 5260--5265
-[]\T1/cmr/bx/n/10 chäk'chäk'ña \T1/cmr/m/it/10 (-20) adv \T1/cmr/m/n/10 (-20) gote-ando \T1/cmr/bx/n/10 Chäk'chäk'ña
+Underfull \hbox (badness 10000) in paragraph at lines 6856--6862
+ []\T1/cmr/bx/n/10 ch'okiyem \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) re-toñado (\T1/cmr/m/it/10 (+20) nue-va-mente\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Cha'
  []
 
 [31]
-Underfull \hbox (badness 5592) in paragraph at lines 5412--5418
-[]\T1/cmr/bx/n/10 chä'chäk' \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) varias ve-ces (\T1/cmr/m/it/10 (+20) ac-ción
- []
-
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 5511--5516
-[]\T1/cmr/bx/n/10 che'i \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) así \T1/cmr/bx/n/10 Che'i mi kaj
+Underfull \hbox (badness 10000) in paragraph at lines 6909--6915
+ []\T1/cmr/bx/n/10 ch'ujch'uj \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) in-sis-ten-te-mente (\T1/cmr/m/it/10 (+20) mi-rar\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Woli
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5536--5542
-[]\T1/cmr/bx/n/10 che'li \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) así (\T1/cmr/m/it/10 (+20) seña-lando\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mach
- []
-
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 5692--5696
-[]\T1/cmr/bx/n/10 chiñcho'ak' \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) puente de
+Underfull \hbox (badness 10000) in paragraph at lines 6973--6992
+ []\T1/cmr/bx/n/10 *ch'ujutyaty \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. Dios (\T1/cmr/m/it/10 (+20) lit.: Padre Santo\T1/cmr/m/n/10 (+20) )
  []
 
 
-Underfull \hbox (badness 6758) in paragraph at lines 5759--5764
-[]\T1/cmr/bx/n/10 *chobälel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) rozadura \T1/cmr/bx/n/10 Mi iñuk'añ
- []
-
-[34]
-Underfull \hbox (badness 5939) in paragraph at lines 5899--5903
-[]\T1/cmr/bx/n/10 cho' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) descas-carar (\T1/cmr/m/it/10 (+20) plá-tano, fri-jol,
+Underfull \hbox (badness 10000) in paragraph at lines 6993--6998
+ []\T1/cmr/bx/n/10 ch'ujutyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ado-rar \T1/cmr/bx/n/10 Tyi wa-jali tsa'
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 5909--5914
-[]\T1/cmr/bx/n/10 *chubä'añ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pos-esión \T1/cmr/bx/n/10 Weñ kabäl
+Underfull \hbox (badness 6641) in paragraph at lines 6993--6998
+ \T1/cmr/bx/n/10 ich'ujutyesa diostye'. \T1/cmr/m/n/10 (+20) Hace mu-cho tiempo
  []
 
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 5944--5950
-[]\T1/cmr/bx/n/10 chukochka \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) ¾por qué será?
- []
+[32] [33
 
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 6130--6136
-[]\T1/cmr/bx/n/10 chu'ochka \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) ¾por qué será?
- []
+] [34
 
+] [35
 
-Underfull \hbox (badness 10000) in paragraph at lines 6191--6194
-[]\T1/cmr/bx/n/10 ch'ajñal \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cordón de piel o de
- []
+] [36
 
+] [37] [38
 
-Underfull \hbox (badness 10000) in paragraph at lines 6205--6210
-\T1/cmr/bx/n/10 alob cha'añ ma'añik mi iweñ-
+] [39] [40]
+Overfull \hbox (0.75061pt too wide) in paragraph at lines 8730--8736
+ []\T1/cmr/bx/n/10 jich'chokobil \T1/cmr/m/it/10 (-20) adj \T1/cmr/m/n/10 (-20) col-gado (\T1/cmr/m/it/10 (-20) li-bre-mente\T1/cmr/m/n/10 (-20) ) \T1/cmr/bx/n/10 Jich'chokobil
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 6211--6217
-[]\T1/cmr/bx/n/10 ch'a'al \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) boca ar-riba (\T1/cmr/m/it/10 (+20) acostado\T1/cmr/m/n/10 (+20) )
+Underfull \hbox (badness 10000) in paragraph at lines 8737--8743
+ []\T1/cmr/bx/n/10 jich'chokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) col-gar (\T1/cmr/m/it/10 (+20) li-bre-mente\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi
  []
 
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 6239--6243
-[]\T1/cmr/bx/n/10 ch'äbtyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) con-so-lar (\T1/cmr/m/it/10 (+20) a un
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 9143--9149
+ []\T1/cmr/bx/n/10 *jojmäñtyel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) gran con-sumo (\T1/cmr/m/it/10 (+20) de al-i-mento\T1/cmr/m/n/10 (+20) )
  []
 
-
-Underfull \hbox (badness 5417) in paragraph at lines 6262--6267
-\T1/cmr/bx/n/10 jiñi x'ixik. \T1/cmr/m/n/10 (+20) Esa mu-jer sabe hacer
+[43] [44] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 9895--9900
+ []\T1/cmr/bx/n/10 ju'ju'ña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) vo-ciferando \T1/cmr/bx/n/10 Ju'ju'ñayob jiñi
  []
 
+[46] [47
 
-Overfull \hbox (12.80931pt too wide) in paragraph at lines 6284--6288
-[]\T1/cmr/bx/n/10 ch'äch'äñtyik \T1/cmr/m/it/10 (-20) adj \T1/cmr/m/n/10 (-20) agu-jer-ada (\T1/cmr/m/it/10 (-20) lámina\T1/cmr/m/n/10 (-20) ) 
+]
+Underfull \hbox (badness 5331) in paragraph at lines 10268--10274
+ []\T1/cmr/bx/n/10 lätschokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) haci-nar (\T1/cmr/m/it/10 (+20) leña, maíz\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi kaj
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 6338--6342
-[]\T1/cmr/bx/n/10 ch'ämbeñ isujm \T1/cmr/m/n/10 (+20) com-pren-der
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6343--6349
-\T1/cmr/bx/n/10 Max-tyo komik mi iyäk'eñtyel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6350--6355
-[]\T1/cmr/bx/n/10 ch'ämoñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) en-fer-medad mor-tal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6364--6370
-[]\T1/cmr/bx/n/10 ch'äñch'äña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) im-pen-sada-mente
- []
-
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 6390--6396
-[]\T1/cmr/bx/n/10 ch'äyäkña $[]$ \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) pe-ga-josa-mente
- []
-
-
-Underfull \hbox (badness 5316) in paragraph at lines 6390--6396
-\T1/cmr/m/n/10 (+20) La savia del ár-bol gotea pe-ga-josa-
- []
-
-
-Underfull \hbox (badness 6775) in paragraph at lines 6397--6408
-\T1/cmr/bx/n/10 jiñi ch'ityoñ kome ch'äyäkñajax
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6409--6415
-\T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) tela, lámina\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Ch'ä'ch'äñtyik jiñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6427--6430
-[]\T1/cmr/bx/n/10 ch'ebñolol \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) acostado boca ar-
- []
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 6464--6476
-[]\T1/cmr/bx/n/10 ch'eñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. cueva \T1/cmr/bx/n/10 Añ ch'eñ tyi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6464--6476
-\T1/cmr/bx/n/10 joloñelba' tsa' ochiyob lakño-j-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6542--6544
-[]\T1/cmr/bx/n/10 *ch'ibilel matye'el \T1/cmr/m/n/10 (+20) palma del
- []
-
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 6581--6591
-[]\T1/cmr/bx/n/10 *ch'ijikñiyel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. soledad \T1/cmr/bx/n/10 Añ
- []
-
-
-Underfull \hbox (badness 5519) in paragraph at lines 6592--6604
-[]\T1/cmr/bx/n/10 ch'ijiyem \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) 1. triste \T1/cmr/bx/n/10 Ch'jijiyem
- []
-
-[40] [41]
-Underfull \hbox (badness 6252) in paragraph at lines 6881--6896
-\T1/cmr/bx/n/10 ch'ityoñ ma'añik mi ich'ujbibeñ
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6949--6953
-[]\T1/cmr/bx/n/10 ch'ujuña' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) luna (\T1/cmr/m/it/10 (+20) lit.: madre
- []
-
-
-Underfull \hbox (badness 5771) in paragraph at lines 6954--6960
-[]\T1/cmr/bx/n/10 ch'ujuña'iñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ado-rar (\T1/cmr/m/it/10 (+20) como a la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6954--6960
-\T1/cmr/m/it/10 (+20) madre santa\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Kabäl wiñikob mi
- []
-
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 7039--7047
-[]\T1/cmr/bx/n/10 ch'uyijel \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) 1. \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) misa 2. \T1/cmr/m/it/10 (+20) vi
- []
-
-[43]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [44]
-Underfull \hbox (badness 7595) in paragraph at lines 7322--7326
-[]\T1/cmr/bx/n/10 ik'bäty \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ár-bol (\T1/cmr/m/it/10 (+20) sirve para hacer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7327--7332
-[]\T1/cmr/bx/n/10 ik'bo'lay \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ti-gre fri-jo-lillo (\T1/cmr/m/it/10 (+20) reg.\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 5832) in paragraph at lines 7417--7423
-[]\T1/cmr/bx/n/10 ik'ty'ojñal \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) os-curo \T1/cmr/bx/n/10 Che'
- []
-
-
-Underfull \hbox (badness 6658) in paragraph at lines 7424--7430
-[]\T1/cmr/bx/n/10 ik'uyel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) aire (\T1/cmr/m/it/10 (+20) del es-tó-mago\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Añ
- []
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 7458--7462
-[]\T1/cmr/bx/n/10 *ichañ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tío (\T1/cmr/m/it/10 (+20) her-mano de mi
- []
-
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 7695--7700
-[]\T1/cmr/bx/n/10 ixom \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ac-ción de des-gra-nar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7701--7705
-[]\T1/cmr/bx/n/10 ixtye' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) mala-mu-jer, chechén (\T1/cmr/m/it/10 (+20) ár-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7717--7721
-[]\T1/cmr/bx/n/10 -ixtyi- \T1/cmr/m/it/10 (+20) Su-fijo que in-dica opinión;
- []
-
-
-Underfull \hbox (badness 6078) in paragraph at lines 7717--7721
-\T1/cmr/m/it/10 (+20) p. ej.: \T1/cmr/bx/n/10 Mach mi lakña'tyañ mi
- []
-
-[47] [48]
-Underfull \hbox (badness 10000) in paragraph at lines 7963--7969
-[]\T1/cmr/bx/n/10 jal $[]$ \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) mu-cho tiempo \T1/cmr/bx/n/10 Jal
- []
-
-
-Underfull \hbox (badness 7379) in paragraph at lines 7963--7969
-\T1/cmr/bx/n/10 tsi'tyojbeyoñ ibety. \T1/cmr/m/n/10 (+20) Di-lató mu-cho
- []
-
-
-Overfull \hbox (11.60191pt too wide) in paragraph at lines 7984--7989
-[]\T1/cmr/bx/n/10 jalaw \T1/cmr/m/n/10 (-20) (\T1/cmr/m/it/10 (-20) Sab.\T1/cmr/m/n/10 (-20) ) \T1/cmr/m/it/10 (-20) s \T1/cmr/m/n/10 (-20) te-pes-cuin-tle (\T1/cmr/m/it/10 (-20) mamífero\T1/cmr/m/n/10 (-20) ) 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8059--8064
-[]\T1/cmr/bx/n/10 jamakña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) de-spe-jado \T1/cmr/bx/n/10 Ja-makña
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 10576--10582
+ []\T1/cmr/bx/n/10 lich'k'äbañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) lla-mar (\T1/cmr/m/it/10 (+20) con la mano\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Woli
  []
 
 [49]
-Underfull \hbox (badness 10000) in paragraph at lines 8141--8146
-[]\T1/cmr/bx/n/10 jasäl \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) su-fi-ciente \T1/cmr/bx/n/10 Jasäl ts'itya'
+Underfull \hbox (badness 10000) in paragraph at lines 10683--10689
+ []\T1/cmr/bx/n/10 *lok'omlel \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) copia \T1/cmr/bx/n/10 Jiñi bu-jkäl
  []
 
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 8302--8307
-[]\T1/cmr/bx/n/10 jaypochañ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) con mu-cho filo
- []
+[50] [51] [52] [53
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 8302--8307
-\T1/cmr/bx/n/10 Jaypochañ kma-chity kome weñ
+] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 11766--11771
+ []\T1/cmr/bx/n/10 meloñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pro-ceso \T1/cmr/bx/n/10 Tsa' tye-jchi meloñel
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8302--8307
-\T1/cmr/bx/n/10 juk'bil. \T1/cmr/m/n/10 (+20) Mi ma-chete tiene mu-cho
+Underfull \hbox (badness 10000) in paragraph at lines 11766--11771
+ \T1/cmr/bx/n/10 tyi'tyojlelob jiñi wiñikob cha'añ tsa'
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8329--8332
-[]\T1/cmr/bx/n/10 ja'al pech \T1/cmr/m/n/10 (+20) garza (\T1/cmr/m/it/10 (+20) lit.: pato de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8333--8336
-[]\T1/cmr/bx/n/10 ja'al ts'i' \T1/cmr/m/n/10 (+20) nu-tria (\T1/cmr/m/it/10 (+20) lit.: perro de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8351--8356
-[]\T1/cmr/bx/n/10 ja'jabil \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cada año \T1/cmr/bx/n/10 Tyi ja'jabil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8389--8394
-\T1/cmr/bx/n/10 jäch'bik'. \T1/cmr/m/n/10 (+20) Me está mo-le-stando el
- []
-
-[51] [52] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 8901--8905
-[]\T1/cmr/bx/n/10 jity'bil \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) amar-rado (\T1/cmr/m/it/10 (+20) cerco,
- []
-
-[54]
-Underfull \hbox (badness 6236) in paragraph at lines 9033--9039
-\T1/cmr/m/n/10 (+20) nos bañamos nos quita-mos nues-tra
- []
-
-
-Underfull \hbox (badness 7907) in paragraph at lines 9069--9074
-\T1/cmr/bx/n/10 lakjochtye-sañ lako-ty-oty che' mi
+Underfull \hbox (badness 10000) in paragraph at lines 11861--11866
+ []\T1/cmr/bx/n/10 mich'ikña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) eno-jado \T1/cmr/bx/n/10 Mich'ikña jax mi
  []
 
 [55]
-Underfull \hbox (badness 6300) in paragraph at lines 9203--9207
-[]\T1/cmr/bx/n/10 Jolja' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Cabeza del Ar-royo (\T1/cmr/m/it/10 (+20) colo-
+Underfull \hbox (badness 10000) in paragraph at lines 12069--12074
+ []\T1/cmr/bx/n/10 momotyña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) agru-pada-mente \T1/cmr/bx/n/10 Mo-mo-tyña
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 9271--9275
-[]\T1/cmr/bx/n/10 jomojch' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) joloche cás-cara del
+Underfull \hbox (badness 7168) in paragraph at lines 12223--12228
+ []\T1/cmr/bx/n/10 mukuty'añ \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) cuchic-hear \T1/cmr/bx/n/10 Mach yomik mi
+ []
+
+[57] [58] [59
+
+] [60
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 12903--12908
+ []\T1/cmr/bx/n/10 *ñäch'tyilel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) paz \T1/cmr/bx/n/10 Dios mi iyäk'eñoñlai
+ []
+
+[61] [62] [63]
+Underfull \hbox (badness 10000) in paragraph at lines 13566--13576
+ []\T1/cmr/bx/n/10 ñuk'esäñtyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) 1. am-pli-arse \T1/cmr/bx/n/10 Mi kaj tyi
+ []
+
+[64] [65
+
+] [66] [67
+
+] [68] [69] [70] [71] [72] [73]
+Underfull \hbox (badness 6236) in paragraph at lines 15550--15555
+ []\T1/cmr/bx/n/10 p'aj \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) malde-cir \T1/cmr/bx/n/10 Mach weñik mi lakp'aj
  []
 
 
-Underfull \hbox (badness 5847) in paragraph at lines 9327--9332
-[]\T1/cmr/bx/n/10 jopjopña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
+Overfull \hbox (20.271pt too wide) in paragraph at lines 15663--15668
+ []\T1/cmr/bx/n/10 *p'ejwlel \T1/cmr/m/it/10 (-20) s \T1/cmr/m/n/10 (-20) abun-dan-cia \T1/cmr/bx/n/10 Dios mi iyäk'eñoñlalakp'ejwlel
  []
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 9451--9456
-[]\T1/cmr/bx/n/10 joyxujk \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) cuadrado \T1/cmr/bx/n/10 Joyx-ujk
+[74
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 16008--16013
+ []\T1/cmr/bx/n/10 p'uñtyäñtyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) com-pade-cerse \T1/cmr/bx/n/10 Ma'añik mi
  []
 
-[58]
-Underfull \hbox (badness 10000) in paragraph at lines 9682--9686
-[]\T1/cmr/bx/n/10 jul \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) tirar (\T1/cmr/m/it/10 (+20) con es-copeta, piedra,
- []
+[75] [76
 
+] [77
 
-Underfull \hbox (badness 10000) in paragraph at lines 9735--9739
-[]\T1/cmr/bx/n/10 jultyesañ i pusik'al \T1/cmr/m/n/10 (+20) cor-re-gir \T1/cmr/bx/n/10 Ju-
- []
+] [78] [79
 
-[59]
-Underfull \hbox (badness 10000) in paragraph at lines 9869--9873
-[]\T1/cmr/bx/n/10 juy \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) mover con palo (\T1/cmr/m/it/10 (+20) atole,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9883--9888
-\T1/cmr/m/n/10 (+20) bor-ra-chos es-tán vo-ciferando en la
- []
-
-[60]
-Underfull \hbox (badness 10000) in paragraph at lines 9944--9948
-[]\T1/cmr/bx/n/10 lajk' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ronda (\T1/cmr/m/it/10 (+20) tipo de hormiga
+]
+Underfull \hbox (badness 6204) in paragraph at lines 16804--16810
+ []\T1/cmr/bx/n/10 säkñup'añ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) blanco (\T1/cmr/m/it/10 (+20) como piedra\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Ña-j-tyi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10019--10023
-[]\T1/cmr/bx/n/10 Lajtye'wits \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Cerro del Tam-bor
+Underfull \hbox (badness 6001) in paragraph at lines 16833--16840
+ []\T1/cmr/bx/n/10 säkpoyañ \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) limpio (\T1/cmr/m/it/10 (+20) casa o cuarto\T1/cmr/m/n/10 (+20) )
+ []
+
+[80
+
+]
+Underfull \hbox (badness 8170) in paragraph at lines 16893--16899
+ []\T1/cmr/bx/n/10 säkts'ijañ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) blanco (\T1/cmr/m/it/10 (+20) como piedra\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Ña-j-tyi
+ []
+
+[81] [82] [83] [84]
+Underfull \hbox (badness 10000) in paragraph at lines 17908--17914
+ []\T1/cmr/bx/n/10 suty'chokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) colo-car (\T1/cmr/m/it/10 (+20) un rollo\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi kaj
+ []
+
+[85] [86
+
+] [87]
+Underfull \hbox (badness 10000) in paragraph at lines 18550--18554
+ []\T1/cmr/bx/n/10 -tyiklel \T1/cmr/m/it/10 (+20) Su-fijo nu-meral para con-tar per-sonas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10036--10041
-\T1/cmr/bx/n/10 *lamiñajlel oty-oty \T1/cmr/m/n/10 (+20) lámi-nas de la
+Underfull \hbox (badness 5147) in paragraph at lines 18550--18554
+ \T1/cmr/m/it/10 (+20) con números or-di-nales; p. ej.: \T1/cmr/bx/n/10 Tsa' k'otyi
  []
 
-[61]
-Underfull \hbox (badness 5533) in paragraph at lines 10119--10124
-[]\T1/cmr/bx/n/10 läk'tyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ac-er-car \T1/cmr/bx/n/10 Muk'ix kaj
- []
-
-[62]
-Underfull \hbox (badness 10000) in paragraph at lines 10330--10333
-[]\T1/cmr/bx/n/10 lecho'k'ajk \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tenazas para sacar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10363--10367
-[]\T1/cmr/bx/n/10 -lejch \T1/cmr/m/it/10 (+20) Su-fijo nu-meral para con-tar
- []
-
-[63] [64]
-Underfull \hbox (badness 10000) in paragraph at lines 10645--10649
-[]\T1/cmr/bx/n/10 lok \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) doblar (\T1/cmr/m/it/10 (+20) alam-bre, palo del-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10671--10677
-\T1/cmr/bx/n/10 jkäl ilok'omlelächbajche' kcha'añ.
- []
-
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 10850--10854
-[]\T1/cmr/bx/n/10 lotyiya \T1/cmr/m/n/10 (+20) [\T1/cmr/m/it/10 (+20) vari-ante \T1/cmr/m/n/10 (+20) de \T1/cmr/bx/n/10 lo'loya\T1/cmr/m/n/10 (+20) ] en-
- []
-
-[66]
-Underfull \hbox (badness 10000) in paragraph at lines 10865--10871
-\T1/cmr/bx/n/10 Lo'chijtyik iyok jiñi lakña'. \T1/cmr/m/n/10 (+20) A
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10902--10907
-[]\T1/cmr/bx/n/10 luk'law \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) dé-bil \T1/cmr/bx/n/10 Luk'law jiñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10963--10967
-[]\T1/cmr/bx/n/10 -lujch \T1/cmr/m/it/10 (+20) Su-fijo nu-meral para con-tar
- []
-
-[67]
-Underfull \hbox (badness 10000) in paragraph at lines 11082--11088
-[]\T1/cmr/bx/n/10 luty'ul \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) apre-tada (\T1/cmr/m/it/10 (+20) las pier-nas\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 5533) in paragraph at lines 11082--11088
-\T1/cmr/bx/n/10 Luty'ul mi iyäk' iyok che' mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11102--11108
-\T1/cmr/bx/n/10 xña'muty che' woli tyi ñumel
- []
-
-[68] [69]
-Underfull \hbox (badness 5417) in paragraph at lines 11367--11374
-\T1/cmr/m/n/10 (+20) pa-terna 2. partera que atiende un
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11441--11444
-[]\T1/cmr/bx/n/10 matye' chityam \T1/cmr/m/n/10 (+20) ja-balí de col-lar
- []
-
-[70]
-Underfull \hbox (badness 10000) in paragraph at lines 11550--11560
-[]\T1/cmr/bx/n/10 mächäkña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) 1. atarde-ciendo
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 11591--11595
-[]\T1/cmr/bx/n/10 mäläl \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pupo bar-rigón (\T1/cmr/m/it/10 (+20) pez; viví-
- []
-
-[71]
-Underfull \hbox (badness 7613) in paragraph at lines 11651--11657
-[]\T1/cmr/bx/n/10 mäyxuñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) apa-gar (\T1/cmr/m/it/10 (+20) la vista\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi
- []
-
-
-Underfull \hbox (badness 5504) in paragraph at lines 11681--11684
-[]\T1/cmr/bx/n/10 meba' ji-jch \T1/cmr/m/n/10 (+20) lan-gosta (\T1/cmr/m/it/10 (+20) tipo que se
- []
-
-
-Overfull \hbox (4.64944pt too wide) in paragraph at lines 11685--11690
-[]\T1/cmr/bx/n/10 meku \T1/cmr/m/it/10 (-20) part \T1/cmr/m/n/10 (-20) ya ves \T1/cmr/bx/n/10 Meku che'ächbajchew'
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11697--11702
-[]\T1/cmr/bx/n/10 mek' ajtso' \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ocelote
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11729--11741
-\T1/cmr/bx/n/10 mi imel ipusik'al \T1/cmr/m/n/10 (+20) es-tar pre-ocu-
- []
-
-[72]
-Underfull \hbox (badness 10000) in paragraph at lines 11873--11876
-[]\T1/cmr/bx/n/10 mijts'ity \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) an-guila, cule-bra de
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 11939--11942
-[]\T1/cmr/bx/n/10 mix \T1/cmr/m/it/10 (+20) part \T1/cmr/m/n/10 (+20) lla-mada que se hace al
- []
-
-[73]
-Underfull \hbox (badness 5359) in paragraph at lines 12000--12006
-[]\T1/cmr/bx/n/10 moch' $[]$ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) em-puñar (\T1/cmr/m/it/10 (+20) mano\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) Var.
- []
-
-
-Underfull \hbox (badness 5288) in paragraph at lines 12020--12025
-[]\T1/cmr/bx/n/10 moch'ye' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) em-puñar (\T1/cmr/m/it/10 (+20) mano\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) Var.
- []
-
-
-Underfull \hbox (badness 7667) in paragraph at lines 12087--12094
-\T1/cmr/bx/n/10 imosil \T1/cmr/m/n/10 (+20) su tapadera, su co-bija, su
- []
-
-[74]
-Underfull \hbox (badness 10000) in paragraph at lines 12122--12127
-[]\T1/cmr/bx/n/10 moskiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) taparse \T1/cmr/bx/n/10 Jiñi tsuts
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12122--12127
-\T1/cmr/bx/n/10 ch'och'okax, ma'añik mik laj
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12236--12240
-[]\T1/cmr/bx/n/10 much'kiñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) jun-tar (\T1/cmr/m/it/10 (+20) fri-jol, café,
- []
-
-[75]
-Underfull \hbox (badness 10000) in paragraph at lines 12377--12382
-[]\T1/cmr/bx/n/10 musmusña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) lloviz-nando \T1/cmr/bx/n/10 Mach
- []
-
-[76]
-Underfull \hbox (badness 5245) in paragraph at lines 12439--12443
-[]\T1/cmr/bx/n/10 Ñaylum \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) nom-bre de colo-
- []
-
-
-Underfull \hbox (badness 5970) in paragraph at lines 12518--12524
-[]\T1/cmr/bx/n/10 *ñij'al \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. sue-gro del hom-bre 2.
- []
-
-[77]
-Underfull \hbox (badness 10000) in paragraph at lines 12677--12682
-[]\T1/cmr/bx/n/10 ñajäyem \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) olvi-dado \T1/cmr/bx/n/10 Ña-jäyem
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12702--12706
-[]\T1/cmr/bx/n/10 ñajp'äk \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) oruga agri-men-sora
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12707--12712
-\T1/cmr/bx/n/10 kchol. \T1/cmr/m/n/10 (+20) Está lejos donde hice mi
- []
-
-[78]
-Underfull \hbox (badness 10000) in paragraph at lines 12770--12774
-[]\T1/cmr/bx/n/10 ña'ik' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) viento fuerte (\T1/cmr/m/it/10 (+20) madre de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12788--12802
-[]\T1/cmr/bx/n/10 ña'tyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. pen-sar \T1/cmr/bx/n/10 Yom mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12814--12819
-[]\T1/cmr/bx/n/10 ña'tyäñtyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) pen-sar \T1/cmr/bx/n/10 Woli
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12851--12856
-[]\T1/cmr/bx/n/10 ñäkwa'al \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) parado e in-cli-nado
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 12857--12862
-\T1/cmr/m/n/10 (+20) Tiene su es-copeta in-cli-nada en la
- []
-
-[79]
-Underfull \hbox (badness 6775) in paragraph at lines 12897--12910
-\T1/cmr/bx/n/10 ñäjch'el tyi uk'el jiñi aläl. \T1/cmr/m/n/10 (+20) La
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12993--12998
-[]\T1/cmr/bx/n/10 ñejp'äyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) madu-rarse \T1/cmr/bx/n/10 Wolix
- []
-
-[80]
-Underfull \hbox (badness 10000) in paragraph at lines 13074--13079
-[]\T1/cmr/bx/n/10 ñochtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ac-er-carse \T1/cmr/bx/n/10 Jiñi alob
- []
-
-[81]
-Underfull \hbox (badness 5908) in paragraph at lines 13199--13204
-[]\T1/cmr/bx/n/10 ñoltyäl \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) acostarse \T1/cmr/bx/n/10 Mach yomik
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13211--13215
-[]\T1/cmr/bx/n/10 ñoñochtye' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) trepa-tronco gi-gante
- []
-
-[82] [83]
-Underfull \hbox (badness 10000) in paragraph at lines 13537--13547
-[]\T1/cmr/bx/n/10 ñuk'esañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. am-pliar \T1/cmr/bx/n/10 Mi kaj
- []
-
-
-Underfull \hbox (badness 5203) in paragraph at lines 13620--13625
-[]\T1/cmr/bx/n/10 obol \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) po-bre \T1/cmr/bx/n/10 ½obol lakbä che'
- []
-
-[84]
-Underfull \hbox (badness 10000) in paragraph at lines 13649--13654
-[]\T1/cmr/bx/n/10 ok'beñal \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pu-drim-iento \T1/cmr/bx/n/10 Añix
- []
-
-[85]
-Underfull \hbox (badness 10000) in paragraph at lines 13799--13805
-[]\T1/cmr/bx/n/10 ok'isañ \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) jun-tar \T1/cmr/bx/n/10 Mi
- []
-
-[86] [87] [88]
-Underfull \hbox (badness 10000) in paragraph at lines 14372--14377
-\T1/cmr/bx/n/10 ichol. \T1/cmr/m/n/10 (+20) Su milpa to-davía no está
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 18879--18884
+ []\T1/cmr/bx/n/10 tyojbiñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) apun-tar \T1/cmr/bx/n/10 Tyoj mi lak-ty-o-jbiñ
  []
 
 [89] [90]
-Underfull \hbox (badness 10000) in paragraph at lines 14683--14688
-[]\T1/cmr/bx/n/10 pepets' \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) repeti-da-mente \T1/cmr/bx/n/10 Woli
+Underfull \hbox (badness 10000) in paragraph at lines 19312--19318
+ []\T1/cmr/bx/n/10 tyulul \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) fi-jos (\T1/cmr/m/it/10 (+20) ojos\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Tyu-lul iwuty mi
  []
 
 [91]
-Underfull \hbox (badness 6412) in paragraph at lines 14912--14917
-[]\T1/cmr/bx/n/10 pits'chokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) desnudar \T1/cmr/bx/n/10 Woli ip-
- []
-
-[92]
-Underfull \hbox (badness 6016) in paragraph at lines 15147--15153
-[]\T1/cmr/bx/n/10 pojol $[]$ \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab., Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) cono-cido
+Underfull \hbox (badness 7451) in paragraph at lines 19479--19485
+ []\T1/cmr/bx/n/10 ty'äty'äña \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tem-b-lando (de miedo)
  []
 
 
-Underfull \hbox (badness 6016) in paragraph at lines 15158--15163
-[]\T1/cmr/bx/n/10 pojpobil \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) asado \T1/cmr/bx/n/10 Po-jpo-bil jiñi
+Underfull \hbox (badness 10000) in paragraph at lines 19515--19520
+ []\T1/cmr/bx/n/10 ty'ity'ichñayok \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) cam-i-nando de pun-til-las
  []
 
-[93]
-Underfull \hbox (badness 7186) in paragraph at lines 15218--15223
-[]\T1/cmr/bx/n/10 popok \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) [\T1/cmr/m/it/10 (+20) vari-ante \T1/cmr/m/n/10 (+20) de \T1/cmr/bx/n/10 pokok\T1/cmr/m/n/10 (+20) ]
+[92
+
+] [93]
+Underfull \hbox (badness 5359) in paragraph at lines 19950--19955
+ []\T1/cmr/bx/n/10 tsäytsäyña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tacaño \T1/cmr/bx/n/10 Tsäyt-säyña ipusik'al
  []
 
-[94]
-Underfull \hbox (badness 5696) in paragraph at lines 15504--15509
-[]\T1/cmr/bx/n/10 puts'el \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) huir \T1/cmr/bx/n/10 Woli tyi puts'el
+[94
+
+] [95]
+Underfull \hbox (badness 10000) in paragraph at lines 20355--20370
+ []\T1/cmr/bx/n/10 tsuts $[]$ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) 1. lana \T1/cmr/bx/n/10 Jiñi tyäñäme' mi
  []
 
-[95]
-Underfull \hbox (badness 5231) in paragraph at lines 15553--15559
-[]\T1/cmr/bx/n/10 *p'ajomal \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) lo que no sirve (\T1/cmr/m/it/10 (+20) fri-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15560--15565
-[]\T1/cmr/bx/n/10 p'ajoñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) grosería \T1/cmr/bx/n/10 Kabäl woli
- []
-
-
-Underfull \hbox (badness 5622) in paragraph at lines 15573--15578
-\T1/cmr/bx/n/10 *p'akel laj k'äb \T1/cmr/m/n/10 (+20) coyun-tura de la
+[96] [97]
+Underfull \hbox (badness 10000) in paragraph at lines 20615--20620
+ []\T1/cmr/bx/n/10 ts'älbil \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) haci-nado \T1/cmr/bx/n/10 Ts'älbil tyak jiñi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15651--15656
-[]\T1/cmr/bx/n/10 *p'ejwlel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) abun-dan-cia \T1/cmr/bx/n/10 Dios
+Underfull \hbox (badness 10000) in paragraph at lines 20621--20627
+ []\T1/cmr/bx/n/10 ts'ältye'ebil \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) en-tari-mado (\T1/cmr/m/it/10 (+20) con pa-los\T1/cmr/m/n/10 (+20) )
  []
 
+[98
 
-Underfull \hbox (badness 10000) in paragraph at lines 15651--15656
-\T1/cmr/bx/n/10 mi iyäk'eñoñlalakp'ejwlel tyi
- []
+] [99] [100] [101] [102
 
-[96]
-Underfull \hbox (badness 10000) in paragraph at lines 15721--15731
-[]\T1/cmr/bx/n/10 p'ip' \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) 1. arisco \T1/cmr/bx/n/10 P'ip' jiñi
- []
+] [103] [104
 
-[97]
-Underfull \hbox (badness 10000) in paragraph at lines 15919--15925
-[]\T1/cmr/bx/n/10 p'ujp'uñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) re-gar (\T1/cmr/m/it/10 (+20) semilla\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15984--15989
-[]\T1/cmr/bx/n/10 p'ump'uña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) pal-pi-tando \T1/cmr/bx/n/10 Tsäts
- []
-
-
-Underfull \hbox (badness 6078) in paragraph at lines 15990--15995
-[]\T1/cmr/bx/n/10 p'uñtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) tener lás-tima de \T1/cmr/bx/n/10 Mi
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [98] [99]
-Underfull \hbox (badness 10000) in paragraph at lines 16273--16278
-[]\T1/cmr/bx/n/10 k'ejcheñ k'ejcheñ \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) co-je-ando
- []
-
-[100]
-Underfull \hbox (badness 10000) in paragraph at lines 16296--16301
-[]\T1/cmr/bx/n/10 k'elekña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) de-spe-jado \T1/cmr/bx/n/10 K'elekña
- []
-
-
-Underfull \hbox (badness 5064) in paragraph at lines 16375--16380
-[]\T1/cmr/bx/n/10 k'extyiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) cam-biarse \T1/cmr/bx/n/10 Tsi'ityajax
- []
-
-
-Underfull \hbox (badness 5756) in paragraph at lines 16410--16415
-[]\T1/cmr/bx/n/10 k'iñil \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) de día \T1/cmr/bx/n/10 Tyi k'iñil mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16410--16415
-\T1/cmr/bx/n/10 lakcha'leñ e'tyel. \T1/cmr/m/n/10 (+20) Tra-ba-jamos de
- []
-
-
-Underfull \hbox (badness 6658) in paragraph at lines 16457--16461
-[]\T1/cmr/bx/n/10 k'ixiñ pañimil \T1/cmr/m/n/10 (+20) hacer calor \T1/cmr/bx/n/10 Wolix
- []
-
-[101]
-Underfull \hbox (badness 6493) in paragraph at lines 16466--16472
-[]\T1/cmr/bx/n/10 k'ixñesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ca-len-tar (\T1/cmr/m/it/10 (+20) poco\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Woli
- []
-
-
-Underfull \hbox (badness 6110) in paragraph at lines 16466--16472
-\T1/cmr/bx/n/10 ik'ixñesañ ja'. \T1/cmr/m/n/10 (+20) Está ca-len-tando el
- []
-
-
-Underfull \hbox (badness 5490) in paragraph at lines 16542--16556
-\T1/cmr/bx/n/10 irus. \T1/cmr/m/n/10 (+20) Hizo una cruz. 2. ídolo \T1/cmr/bx/n/10 Mi
- []
-
-[102] [103]
-Underfull \hbox (badness 10000) in paragraph at lines 16799--16805
-[]\T1/cmr/bx/n/10 säkpochañ $[]$ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) bien afi-lado
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16806--16812
-\T1/cmr/bx/n/10 ibujk. \T1/cmr/m/n/10 (+20) Está blanca y limpia su
- []
-
-
-Underfull \hbox (badness 5504) in paragraph at lines 16936--16942
-[]\T1/cmr/bx/n/10 säk'oñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ac-ción de lavar (\T1/cmr/m/it/10 (+20) maíz\T1/cmr/m/n/10 (+20) )
- []
-
-[104]
-Underfull \hbox (badness 10000) in paragraph at lines 16955--16960
-[]\T1/cmr/bx/n/10 sälem \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) jas-peado \T1/cmr/bx/n/10 Sälem jiñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16961--16966
-[]\T1/cmr/bx/n/10 sämäkña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) on-de-ando \T1/cmr/bx/n/10 Juñ-sujm
- []
-
-[105]
-Underfull \hbox (badness 10000) in paragraph at lines 17196--17200
-[]\T1/cmr/bx/n/10 serbatyañ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) zoy-ate, coy-olito (\T1/cmr/m/it/10 (+20) ar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17292--17297
-\T1/cmr/bx/n/10 isik'bal. \T1/cmr/m/n/10 (+20) Ter-minó de limpiar su
- []
-
-[106]
-Underfull \hbox (badness 7649) in paragraph at lines 17342--17347
-[]\T1/cmr/bx/n/10 sil \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) ra-jar \T1/cmr/bx/n/10 Mi lak-sil tyi ojlil
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17410--17415
-[]\T1/cmr/bx/n/10 sity'kuyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) hin-charse \T1/cmr/bx/n/10 Wolix
- []
-
-[107]
-Underfull \hbox (badness 10000) in paragraph at lines 17490--17496
-[]\T1/cmr/bx/n/10 sokokña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) rui-dosa-mente (\T1/cmr/m/it/10 (+20) an-i-mal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17515--17523
-\T1/cmr/bx/n/10 jiñi chij. \T1/cmr/m/n/10 (+20) Se enreda el ix-tle. 2.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17535--17540
-\T1/cmr/bx/n/10 jiñi puy. \T1/cmr/m/n/10 (+20) Ese hilo está todo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17546--17551
-[]\T1/cmr/bx/n/10 sombäl \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) encogerse \T1/cmr/bx/n/10 Woli isom-
- []
-
-
-Underfull \hbox (badness 5036) in paragraph at lines 17557--17562
-[]\T1/cmr/bx/n/10 soñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) baile \T1/cmr/bx/n/10 Mi mu-lañ soñ jiñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17586--17591
-[]\T1/cmr/bx/n/10 sorokña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) bur-bu-jeante \T1/cmr/bx/n/10 Sorokña
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17635--17639
-[]\T1/cmr/bx/n/10 stselel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) carpin-tero real, pi-cotero
+] [105] [106] [107]
+Underfull \hbox (badness 10000) in paragraph at lines 22828--22833
+ []\T1/cmr/bx/n/10 wujtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) so-plar \T1/cmr/bx/n/10 Tsa' iwu-jtya lok'el
  []
 
 [108]
-Underfull \hbox (badness 10000) in paragraph at lines 17702--17708
-[]\T1/cmr/bx/n/10 sts'u'lel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) haragán \T1/cmr/bx/n/10 Sts'u'lel jiñi
+Underfull \hbox (badness 10000) in paragraph at lines 22904--22909
+ []\T1/cmr/bx/n/10 wutschokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) poner agachado \T1/cmr/bx/n/10 Yom mi
  []
 
+[109] [110
 
-Underfull \hbox (badness 5274) in paragraph at lines 17768--17771
-[]\T1/cmr/bx/n/10 sujlum \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) musgo que brota de la
+] [111] [112]
+Underfull \hbox (badness 7832) in paragraph at lines 23797--23802
+ []\T1/cmr/bx/n/10 xitytyek' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) em-pu-jar \T1/cmr/bx/n/10 Tsa' ix-i-ty-tyek'e jiñi
  []
 
+[113] [114] [115] [116] [117
 
-Underfull \hbox (badness 5832) in paragraph at lines 17802--17806
-[]\T1/cmr/bx/n/10 -sujtyel \T1/cmr/m/it/10 (+20) Su-fijo nu-meral para con-tar
- []
-
-[109]
-Underfull \hbox (badness 10000) in paragraph at lines 17807--17813
-\T1/cmr/bx/n/10 Ma'añik tsa' iyäk'eyoñ isu-j-tyib
- []
-
-
-Underfull \hbox (badness 6141) in paragraph at lines 17879--17884
-\T1/cmr/bx/n/10 jty alob. \T1/cmr/m/n/10 (+20) El chamaco está dando
- []
-
-[110]
-Underfull \hbox (badness 6708) in paragraph at lines 17934--17939
-\T1/cmr/m/n/10 (+20) chamaco le sigue en edad a este
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18006--18010
-[]\T1/cmr/bx/n/10 tyaloñ \T1/cmr/m/n/10 (+20) [\T1/cmr/m/it/10 (+20) 1$[]$ pers. sing. \T1/cmr/m/n/10 (+20) de \T1/cmr/bx/n/10 ty-ilel\T1/cmr/m/n/10 (+20) ]
- []
-
-
-Underfull \hbox (badness 5133) in paragraph at lines 18027--18031
-[]\T1/cmr/bx/n/10 Tyambäpa' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Ar-royo Hondo (\T1/cmr/m/it/10 (+20) colo-
- []
-
-[111]
-Underfull \hbox (badness 10000) in paragraph at lines 18164--18175
-[]\T1/cmr/bx/n/10 tya'tya' \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) 1. su-cio man-chado
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 18265--18270
-\T1/cmr/m/n/10 (+20) ir sigu-iendo a los hom-bres en el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18283--18289
-[]\T1/cmr/bx/n/10 tyäsäkña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) nive-lado (\T1/cmr/m/it/10 (+20) ter-reno\T1/cmr/m/n/10 (+20) )
- []
-
-[112] [113]
-Underfull \hbox (badness 10000) in paragraph at lines 18601--18606
-[]\T1/cmr/bx/n/10 tyik'oñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pro-hibi-ción \T1/cmr/bx/n/10 Woli tyi
- []
-
-[114]
-Underfull \hbox (badness 10000) in paragraph at lines 18633--18638
-[]\T1/cmr/bx/n/10 tyijkañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) sacudir \T1/cmr/bx/n/10 Woli ity-i-jkañ
- []
-
-
-Underfull \hbox (badness 7869) in paragraph at lines 18710--18714
-[]\T1/cmr/bx/n/10 tyiñtyäl \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Sab.\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) agacharse, in-cli-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18754--18759
-\T1/cmr/bx/n/10 jiñi bu'ul. \T1/cmr/m/n/10 (+20) El fri-jol ya está sin
- []
-
-[115]
-Underfull \hbox (badness 5681) in paragraph at lines 18882--18886
-[]\T1/cmr/bx/n/10 tyojk'ay \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cuiche, codor-niz común
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18934--18939
-[]\T1/cmr/bx/n/10 tyojoñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) im-puesto \T1/cmr/bx/n/10 Mi kaj
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18934--18939
-\T1/cmr/bx/n/10 ik'ajtyiñtyojoñel. \T1/cmr/m/n/10 (+20) Va a pedir im-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18973--18982
-\T1/cmr/m/it/10 (+20) o carta\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Jiñi sekret-yario mi
- []
-
-[116]
-Underfull \hbox (badness 10000) in paragraph at lines 18992--19006
-\T1/cmr/bx/n/10 *tyomel laj k'äb \T1/cmr/m/n/10 (+20) mús-culo del
- []
-
-
-Overfull \hbox (15.03282pt too wide) in paragraph at lines 19030--19035
-[]\T1/cmr/bx/n/10 tyoñtyek' \T1/cmr/m/it/10 (-20) vt \T1/cmr/m/n/10 (-20) dar patada \T1/cmr/bx/n/10 Tyi'tyoñtyek'eyoñ
- []
-
-
-Underfull \hbox (badness 7468) in paragraph at lines 19058--19064
-\T1/cmr/bx/n/10 Woli'tyop' lumba' mi kaj imel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19091--19096
-[]\T1/cmr/bx/n/10 tyots'tyäl \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) acostarse \T1/cmr/bx/n/10 Yom
- []
-
-[117]
-Underfull \hbox (badness 10000) in paragraph at lines 19148--19153
-[]\T1/cmr/bx/n/10 tyreñkipal \T1/cmr/m/it/10 (+20) s esp \T1/cmr/m/n/10 (+20) prin-ci-pal \T1/cmr/bx/n/10 Jiñi
- []
-
-
-Underfull \hbox (badness 5331) in paragraph at lines 19201--19205
-\T1/cmr/m/it/10 (+20) y ca-len-tura; se en-cuen-tra en tierra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19231--19235
-[]\T1/cmr/bx/n/10 tyuch'k'iñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cam-pamocha (\T1/cmr/m/it/10 (+20) in-
- []
-
-[118]
-Underfull \hbox (badness 10000) in paragraph at lines 19393--19397
-[]\T1/cmr/bx/n/10 -tyuts' \T1/cmr/m/it/10 (+20) Su-fijo nu-meral para con-tar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19416--19420
-[]\T1/cmr/bx/n/10 tyuyub \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) periq-uito de alia-mar-illo
- []
-
-[119]
-Underfull \hbox (badness 10000) in paragraph at lines 19480--19485
-[]\T1/cmr/bx/n/10 ty'ejty'ej \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) palme-ando \T1/cmr/bx/n/10 Woli
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19480--19485
-\T1/cmr/bx/n/10 ity'ejty'ej jats'beñ ipaty iy-erañ.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19493--19498
-[]\T1/cmr/bx/n/10 ty'ichty'ichña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) de pun-til-las
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19514--19520
-\T1/cmr/bx/n/10 Tsa' ity'ojo we'eläl. \T1/cmr/m/n/10 (+20) Cortó la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19528--19533
-[]\T1/cmr/bx/n/10 ty'ojläwel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) mejo-rarse \T1/cmr/bx/n/10 Yom mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19534--19539
-[]\T1/cmr/bx/n/10 *ty'ojläwib \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) belleza \T1/cmr/bx/n/10 Cha'añ
- []
-
-[120]
-Underfull \hbox (badness 10000) in paragraph at lines 19620--19625
-[]\T1/cmr/bx/n/10 ty'uchtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) pisar \T1/cmr/bx/n/10 Tsa' uj-tyi
- []
-
-[121]
-Underfull \hbox (badness 5548) in paragraph at lines 19863--19869
-[]\T1/cmr/bx/n/10 tsäñä wäyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) dormir sin co-bija
- []
-
-[122]
-Underfull \hbox (badness 5802) in paragraph at lines 19938--19943
-[]\T1/cmr/bx/n/10 tsäytsäyña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tacaño \T1/cmr/bx/n/10 Tsäyt-säyña
- []
-
-
-Underfull \hbox (badness 7832) in paragraph at lines 19952--19957
-[]\T1/cmr/bx/n/10 tselekña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
- []
-
-
-Underfull \hbox (badness 5359) in paragraph at lines 19963--19966
-[]\T1/cmr/bx/n/10 *tsel muty \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cresta de pá-jaro o
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19989--19994
-[]\T1/cmr/bx/n/10 tse'tyeñtyik \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) chis-tosa-mente
- []
-
-
-Underfull \hbox (badness 5802) in paragraph at lines 20009--20019
-[]\T1/cmr/bx/n/10 tsiktyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) 1. declarar \T1/cmr/bx/n/10 Che'äch
- []
-
-[123] [124]
-Underfull \hbox (badness 10000) in paragraph at lines 20242--20245
-[]\T1/cmr/bx/n/10 tsuk ba-jlum \T1/cmr/m/n/10 (+20) ocelote, tigrillo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20364--20367
-[]\T1/cmr/bx/n/10 tsutschoj \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) hom-bre con mucha
- []
-
-[125]
-Underfull \hbox (badness 5985) in paragraph at lines 20428--20432
-[]\T1/cmr/bx/n/10 tsu'um \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) am-ate, mat-a-palo (\T1/cmr/m/it/10 (+20) planta
- []
-
-[126]
-Underfull \hbox (badness 10000) in paragraph at lines 20579--20584
-[]\T1/cmr/bx/n/10 ts'äktyesañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) com-ple-tar \T1/cmr/bx/n/10 Tsajñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20616--20622
-[]\T1/cmr/bx/n/10 ts'ämäl \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tran-quilo (\T1/cmr/m/it/10 (+20) agua, río\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20629--20631
-[]\T1/cmr/bx/n/10 ts'ämi' chityam \T1/cmr/m/n/10 (+20) bañadero de
- []
-
-[127]
-Underfull \hbox (badness 10000) in paragraph at lines 20683--20688
-[]\T1/cmr/bx/n/10 ts'äylaw \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) chis-peante \T1/cmr/bx/n/10 Ts'äylaw
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20701--20706
-[]\T1/cmr/bx/n/10 ts'ejchokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) colo-car de lado
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 20701--20706
-\T1/cmr/m/n/10 (+20) Coloca de lado ese tablero en el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20812--20816
-[]\T1/cmr/bx/n/10 ts'ijbuñ \T1/cmr/m/n/10 (+20) [\T1/cmr/m/it/10 (+20) vari-ante \T1/cmr/m/n/10 (+20) de \T1/cmr/bx/n/10 ts'ijbañ\T1/cmr/m/n/10 (+20) ] es-
- []
-
-
-Underfull \hbox (badness 7168) in paragraph at lines 20827--20831
-\T1/cmr/m/it/10 (+20) p. ej.: \T1/cmr/bx/n/10 Añ kcha'añ tyi ko-ty-oty
- []
-
-[128]
-Underfull \hbox (badness 10000) in paragraph at lines 20880--20884
-[]\T1/cmr/bx/n/10 ts'islum \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) come-jén (\T1/cmr/m/it/10 (+20) hormiga
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20956--20961
-[]\T1/cmr/bx/n/10 *ts'omtye'lel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cinta de casa
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20962--20967
-[]\T1/cmr/bx/n/10 ts'opts'opña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) chapote-ando
- []
-
-
-Underfull \hbox (badness 5802) in paragraph at lines 20981--20986
-\T1/cmr/bx/n/10 jiñi ch'ajañ cha'añ ma'añik mi
- []
-
-[129]
-Underfull \hbox (badness 10000) in paragraph at lines 20993--20997
-[]\T1/cmr/bx/n/10 ts'otyol metyel \T1/cmr/m/n/10 (+20) tor-cido \T1/cmr/bx/n/10 Ts'otyol
- []
-
-
-Underfull \hbox (badness 5105) in paragraph at lines 21091--21097
-[]\T1/cmr/bx/n/10 ts'ujy \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) duro (\T1/cmr/m/it/10 (+20) cás-cara de fruta\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21153--21158
-[]\T1/cmr/bx/n/10 ts'uychokoñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) col-gar \T1/cmr/bx/n/10 Yom mi
- []
-
-[130]
-Underfull \hbox (badness 6141) in paragraph at lines 21159--21164
-[]\T1/cmr/bx/n/10 ts'uye'el \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) col-gado de la mano
- []
-
-
-Underfull \hbox (badness 7685) in paragraph at lines 21159--21164
-\T1/cmr/m/n/10 (+20) Ll-eva una cal-abaza col-gada de la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21198--21203
-[]\T1/cmr/bx/n/10 ts'u'umiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) se-carse \T1/cmr/bx/n/10 Wolix
- []
-
-[131] [132]
-Underfull \hbox (badness 6625) in paragraph at lines 21518--21526
-[]\T1/cmr/bx/n/10 utsil \T1/cmr/m/n/10 (+20) (\T1/cmr/m/it/10 (+20) Tila\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) de-spe-jado, abierto
- []
-
-
-Underfull \hbox (badness 5036) in paragraph at lines 21603--21606
-[]\T1/cmr/bx/n/10 uxp'ejk'iñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) miér-coles, me-dia se-m-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [133]
-Underfull \hbox (badness 5681) in paragraph at lines 21682--21687
-\T1/cmr/bx/n/10 ma'añik lak-tyak'iñ. \T1/cmr/m/n/10 (+20) Se burlan de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21741--21747
-[]\T1/cmr/bx/n/10 wamlaw \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) tur-bu-lento \T1/cmr/bx/n/10 Ya'baki
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21741--21747
-\T1/cmr/bx/n/10 wamlaw jiñi ja' mach mej-lik
- []
-
-
-Underfull \hbox (badness 6094) in paragraph at lines 21801--21806
-[]\T1/cmr/bx/n/10 waw \T1/cmr/m/it/10 (+20) s esp \T1/cmr/m/n/10 (+20) guao tres lo-mas (\T1/cmr/m/it/10 (+20) tor-
- []
-
-[134]
-Underfull \hbox (badness 10000) in paragraph at lines 21847--21854
-[]\T1/cmr/bx/n/10 wa'akñiyel \T1/cmr/m/it/10 (+20) vi \T1/cmr/m/n/10 (+20) pasear \T1/cmr/bx/n/10 Woli ityi
- []
-
-
-Underfull \hbox (badness 6157) in paragraph at lines 21944--21949
-[]\T1/cmr/bx/n/10 wälilañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) criticar \T1/cmr/bx/n/10 Lakpi'älob mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21953--21958
-[]\T1/cmr/bx/n/10 wäñ \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) de an-te-mano \T1/cmr/bx/n/10 Mi iwäñ
- []
-
-[135]
-Underfull \hbox (badness 5681) in paragraph at lines 21966--21971
-[]\T1/cmr/bx/n/10 wäts'äl \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) volteado \T1/cmr/bx/n/10 Wäts'äl jiñi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22039--22044
-[]\T1/cmr/bx/n/10 wek'uña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) de cor-ri-ente ráp-ida
- []
-
-[136] [137]
-Underfull \hbox (badness 5231) in paragraph at lines 22426--22429
-[]\T1/cmr/bx/n/10 wisik'iñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tipo de planta con es-
- []
-
-[138]
-Underfull \hbox (badness 7540) in paragraph at lines 22579--22584
-[]\T1/cmr/bx/n/10 wojsiña \T1/cmr/m/it/10 (+20) ve \T1/cmr/m/n/10 (+20) res-pi-rando \T1/cmr/bx/n/10 K'ele, wo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22592--22597
-[]\T1/cmr/bx/n/10 wojtsik'tyik \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) ar-ru-gado \T1/cmr/bx/n/10 Wo-jt-
- []
-
-[139]
-Underfull \hbox (badness 5260) in paragraph at lines 22629--22635
-[]\T1/cmr/bx/n/10 wolts'iñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) mo-lestar (\T1/cmr/m/it/10 (+20) con pal-abras\T1/cmr/m/n/10 (+20) )
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22711--22721
-[]\T1/cmr/bx/n/10 wotswotsña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) 1. es-puma-joso
- []
-
-[140]
-Underfull \hbox (badness 6477) in paragraph at lines 22754--22759
-[]\T1/cmr/bx/n/10 woxokña \T1/cmr/m/it/10 (+20) adv Se rela-ciona con el
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22816--22821
-[]\T1/cmr/bx/n/10 wujtyañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) so-plar \T1/cmr/bx/n/10 Tsa' iwu-jtya
- []
-
-[141]
-Underfull \hbox (badness 7116) in paragraph at lines 22922--22928
-[]\T1/cmr/bx/n/10 wuts' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) lavar (\T1/cmr/m/it/10 (+20) ropa\T1/cmr/m/n/10 (+20) ) \T1/cmr/bx/n/10 Kña' woli
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 22952--22955
-[]\T1/cmr/bx/n/10 xajb \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) hi-erba para condi-men-tar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23023--23027
-[]\T1/cmr/bx/n/10 xäk' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) mezclar (\T1/cmr/m/it/10 (+20) arena, cal, ce-
- []
-
-[142]
-Underfull \hbox (badness 10000) in paragraph at lines 23200--23202
-[]\T1/cmr/bx/n/10 xkäñä aläl \T1/cmr/m/n/10 (+20) la que cuida una
- []
-
-
-Underfull \hbox (badness 5475) in paragraph at lines 23247--23251
-[]\T1/cmr/bx/n/10 xkuchijel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) car-gador (\T1/cmr/m/it/10 (+20) so-bre la es-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23275--23279
-[]\T1/cmr/bx/n/10 xk'ajbasajk' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cha-pulín (\T1/cmr/m/it/10 (+20) in-secto
- []
-
-[143]
-Underfull \hbox (badness 10000) in paragraph at lines 23280--23284
-[]\T1/cmr/bx/n/10 xk'ajk'äy aty \T1/cmr/m/n/10 (+20) mútila mora (\T1/cmr/m/it/10 (+20) tipo
- []
-
-
-Underfull \hbox (badness 6348) in paragraph at lines 23280--23284
-\T1/cmr/m/it/10 (+20) fuerte y tiene alas col-oradas\T1/cmr/m/n/10 (+20) ) \T1/cmr/m/it/10 (+20) Var.
- []
-
-
-Underfull \hbox (badness 6575) in paragraph at lines 23383--23387
-\T1/cmr/m/it/10 (+20) madera col-orada y dura, con fruta
- []
-
-[144]
-Underfull \hbox (badness 10000) in paragraph at lines 23530--23534
-[]\T1/cmr/bx/n/10 xejty'el \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) que-brarse (\T1/cmr/m/it/10 (+20) barro, tor-
- []
-
-[145]
-Underfull \hbox (badness 6110) in paragraph at lines 23628--23632
-[]\T1/cmr/bx/n/10 xikñi'iñ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) echar pun-tal (\T1/cmr/m/it/10 (+20) para re-
- []
-
-
-Underfull \hbox (badness 5696) in paragraph at lines 23743--23748
-[]\T1/cmr/bx/n/10 xipikña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) en-vuelta \T1/cmr/bx/n/10 Xipikña mi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23785--23790
-[]\T1/cmr/bx/n/10 xitytyek' \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) em-pu-jar \T1/cmr/bx/n/10 Tsa' ix-i-ty-
- []
-
-[146]
-Underfull \hbox (badness 10000) in paragraph at lines 23791--23797
-[]\T1/cmr/bx/n/10 xity' \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) ráp-i-da-mente (\T1/cmr/m/it/10 (+20) lev-an-tarse,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 23854--23858
-[]\T1/cmr/bx/n/10 xlemoñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tomador (\T1/cmr/m/it/10 (+20) de aguar-di-
- []
-
-[147]
-Underfull \hbox (badness 10000) in paragraph at lines 24073--24077
-[]\T1/cmr/bx/n/10 xotyilañ \T1/cmr/m/it/10 (+20) vt \T1/cmr/m/n/10 (+20) en-rol-lar (\T1/cmr/m/it/10 (+20) alam-bre,
- []
-
-[148]
-Underfull \hbox (badness 10000) in paragraph at lines 24167--24171
-[]\T1/cmr/bx/n/10 xpapañichim \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) cam-pana (\T1/cmr/m/it/10 (+20) ar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24235--24239
-[]\T1/cmr/bx/n/10 xpiñtsik \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tu-can-cillo col-larejo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24253--24256
-[]\T1/cmr/bx/n/10 xpomaros pätyal \T1/cmr/m/n/10 (+20) po-mar-rosa (\T1/cmr/m/it/10 (+20) ár-
- []
-
-
-Underfull \hbox (badness 7415) in paragraph at lines 24270--24274
-[]\T1/cmr/bx/n/10 xpujm \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) tipo de ár-bol (\T1/cmr/m/it/10 (+20) In-for-ma-
- []
-
-[149]
-Underfull \hbox (badness 10000) in paragraph at lines 24374--24377
-[]\T1/cmr/bx/n/10 xtye' bu'ul \T1/cmr/m/n/10 (+20) chícharo (\T1/cmr/m/it/10 (+20) tipo de hi-
- []
-
-
-Underfull \hbox (badness 5637) in paragraph at lines 24383--24386
-[]\T1/cmr/bx/n/10 xtyi'jamuty \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) pá-jaro chico y col-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24397--24401
-[]\T1/cmr/bx/n/10 xtyow \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) gav-ilán ne-gro (\T1/cmr/m/it/10 (+20) de tierra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24411--24415
-[]\T1/cmr/bx/n/10 xtyuk'oñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) per-sona que corta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24416--24419
-[]\T1/cmr/bx/n/10 xtyuch' k'iñ \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) in-secto palo, za-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24449--24459
-\T1/cmr/bx/n/10 axuk'chokoñ jiñi oy. \T1/cmr/m/n/10 (+20) Debes afir-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24466--24471
-[]\T1/cmr/bx/n/10 xuk'ukña \T1/cmr/m/it/10 (+20) adv \T1/cmr/m/n/10 (+20) despa-cio \T1/cmr/bx/n/10 Xuk'ukña
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24490--24494
-[]\T1/cmr/bx/n/10 xuchijp \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) guaque-que ne-gro, agutí
- []
-
-[150]
-Underfull \hbox (badness 10000) in paragraph at lines 24681--24683
-[]\T1/cmr/bx/n/10 xwajch' me' \T1/cmr/m/n/10 (+20) ve-nado col-orado,
- []
-
-
-Underfull \hbox (badness 8075) in paragraph at lines 24734--24739
-[]\T1/cmr/bx/n/10 xwukpik \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) guard-abar-ranco jilguero
- []
-
-[151]
-Underfull \hbox (badness 10000) in paragraph at lines 24765--24768
-[]\T1/cmr/bx/n/10 xyäx p'ok \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) la-gar-tija de color
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24806--24809
-[]\T1/cmr/bx/n/10 x'ajñel \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) per-sona que está cor-
- []
-
-[152]
-Underfull \hbox (badness 7777) in paragraph at lines 24993--24996
-[]\T1/cmr/bx/n/10 *yajlib xwich' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) campo de ater-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25048--25051
-[]\T1/cmr/bx/n/10 *yajtyi'al \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) primero, cri-anza
- []
-
-[153] [154]
-Underfull \hbox (badness 10000) in paragraph at lines 25360--25379
-\T1/cmr/bx/n/10 yäxmojañ \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) azul, verde (\T1/cmr/m/it/10 (+20) re-fle-
- []
-
-[155]
-Underfull \hbox (badness 10000) in paragraph at lines 25437--25441
-[]\T1/cmr/bx/n/10 yäxme' \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) ve-nado azul (\T1/cmr/m/it/10 (+20) mamífero
- []
-
-
-Underfull \hbox (badness 8075) in paragraph at lines 25521--25523
-[]\T1/cmr/bx/n/10 *yeklib i bäl ñäk'äl \T1/cmr/m/n/10 (+20) mesa para
- []
-
-
-Underfull \hbox (badness 7308) in paragraph at lines 25587--25591
-[]\T1/cmr/bx/n/10 Ye'wits \T1/cmr/m/it/10 (+20) s \T1/cmr/m/n/10 (+20) Abajo del Cerro (\T1/cmr/m/it/10 (+20) colo-
- []
+] [118
 
-[156]
-Underfull \hbox (badness 10000) in paragraph at lines 25629--25634
-[]\T1/cmr/bx/n/10 *yik'el lum \T1/cmr/m/n/10 (+20) 1. tierra ne-gra 2.
+] [119] [120]
+Underfull \hbox (badness 6445) in paragraph at lines 25878--25884
+ []\T1/cmr/bx/n/10 yowyowña \T1/cmr/m/it/10 (+20) adj \T1/cmr/m/n/10 (+20) caluroso (\T1/cmr/m/it/10 (+20) aden-tro del cuerpo\T1/cmr/m/n/10 (+20) )
  []
 
-[157] [158] [159] (./latex_chol_to_sp.aux) ) 
+[121] (./latex_chol_to_sp.aux) ) 
 Here is how much of TeX's memory you used:
- 13422 strings out of 492982
- 261478 string characters out of 6132527
- 435282 words of memory out of 5000000
- 16787 multiletter control sequences out of 15000+600000
- 546963 words of font info for 120 fonts, out of 8000000 for 9000
+ 13546 strings out of 492982
+ 262750 string characters out of 6132527
+ 431481 words of memory out of 5000000
+ 16907 multiletter control sequences out of 15000+600000
+ 548621 words of font info for 124 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,8n,73p,10469b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on latex_chol_to_sp.pdf (159 pages, 750294 bytes).
+ 47i,11n,73p,10469b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti0700.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
+Output written on latex_chol_to_sp.pdf (121 pages, 711308 bytes).
 PDF statistics:
- 554 PDF objects out of 1000 (max. 8388607)
- 380 compressed objects within 4 object streams
+ 436 PDF objects out of 1000 (max. 8388607)
+ 300 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 15361 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 17921 words of extra memory for PDF output out of 20736 (max. 10000000)
 

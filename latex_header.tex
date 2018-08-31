@@ -1,12 +1,14 @@
-\documentclass[10pt]{scrbook}
+\documentclass[10pt]{scrreprt}
 \KOMAoptions{
   chapterprefix=false,
   headings=openany,
-  parskip=half
+  headings=big,
+  DIV=15,
 }
 \usepackage{scrhack}
 \addtokomafont{disposition}{\rmfamily}
-\addtokomafont{section}{\Huge}
+\addtokomafont{section}{\clearpage\Huge}
+\renewcommand*{\raggedsection}{\centering}
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -14,22 +16,32 @@
 
 \usepackage{microtype}
 \frenchspacing
-\usepackage{indentfirst}
-\usepackage[parfill]{parskip}
+% \usepackage{indentfirst}
+% \usepackage[parfill]{parskip}
 
 \usepackage{multicol}
 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\chaptermark}[1]{}
+\renewcommand{\sectionmark}[1]{}
+
+\leftskip=\parindent
+\parindent=-\parindent
+\parskip=0.5\baselineskip
+
 % Dictionary formatting
 
-\newcommand{\entry}[1]{\textbf{#1}}
+\newcommand{\entry}[1]{\textbf{#1}\markboth{#1}{#1}}
 
-\newcommand{\maintitle}[1]{\end{multicols}\addchap{#1}\begin{multicols}{2}}
+\newcommand{\maintitle}[1]{\end{multicols*}\part{#1}\begin{multicols*}{2}}
 
-\newcommand{\alphaletter}[1]{\end{multicols}\addsec{#1}\begin{multicols}{2}}
+\newcommand{\alphaletter}[1]{\end{multicols*}\addsec{#1}\begin{multicols*}{2}}
 
 \newcommand{\onedefinition}[1]{#1.}
 
-\newcommand{\defsuperscript}[1]{\textsuperscript{#1}}
+\newcommand{\defsuperscript}[1]{\textsuperscript{(#1)}}
 
 \newcommand{\nontranslationdef}[1]{\textit{#1}}
 
@@ -63,11 +75,11 @@
 
 \newcommand{\conjugationtense}[1]{[\textit{#1}}
 
-\newcommand{\conjugationverb}[1]{de \textbf{#1}]}
-\newcommand{\otherconjugation}[1]{: \textbf{#1}]}
+\newcommand{\conjugationverb}[1]{\textit{de} \textbf{#1}]}
+\newcommand{\otherconjugation}[1]{\textit{:} \textbf{#1}]}
 
 \begin{document}
 
 \tableofcontents
 
-\begin{multicols}{2}
+\begin{multicols*}{2}
