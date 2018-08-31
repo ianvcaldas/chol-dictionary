@@ -32,5 +32,5 @@ we make sure every single test in that file passes successfully.
 Sabanilla](https://www.sil.org/resources/archives/35328) is licensed under [CC
 BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and
 attributed to the original authors and speakers. The dictionary with updated
-ortography is licensed under CC BY-NC-SA 4.0 and attribued to Carol Rose Little
-and Ian V. Caldas.
+ortography is a derivative work of the above and likewise under CC BY-NC-SA
+4.0.
