@@ -41,6 +41,7 @@ tsa'_w -> tsa'_aw
 tsaj_ -> tsa'_j
 tsi'_ -> tsa'_i
 tsa_la -> tsa'_la
+mi_laꞌ_ = mi_laꞌ
 
 _lojoñ -> lojoñ
 
@@ -48,3 +49,6 @@ ll -> l
 
 # Exceptions
 = tatuch
+Mi_chon_i_cape_ba'ical_mi_mʌmbentel. -> Mi_ichoñ_ikape_ba'ikal_mi_imäñbeñtyel.
+Tsa'_wit_yajli -> Tsa'_wity_yajli
+= Tsa'_wosmi
