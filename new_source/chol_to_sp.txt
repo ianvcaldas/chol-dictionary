@@ -142,7 +142,7 @@
 \vdl abälel
 \dt 22/May/2007
 
-\lx ak'bä_ts'uñuñ
+\lx ak'bä ts'uñuñ
 \tl gorrioncillo
 \dt 11/Jan/2008
 
@@ -318,7 +318,7 @@
 \tl camote
 \dt 22/May/2007
 
-\lx ajkum_bik'
+\lx ajkum bik'
 \tl papera
 \dt 11/Jan/2008
 
@@ -546,7 +546,7 @@
 \tl naranjal
 \dt 22/May/2007
 
-\lx alä_bij
+\lx alä bij
 \tl senda
 \dt 11/Jan/2008
 
@@ -578,14 +578,14 @@
 \re aläk'äl
 \dt 22/May/2007
 
-\lx alä_tyo
+\lx alätyo
 \cg adj
 \tl pequeño
 \oi Jiñi chityam alätyo.
 \to Ese puerco está pequeño todavía.
 \dt 11/Jan/2008
 
-\lx alä_wakax
+\lx alä wakax
 \cg s
 \tl becerro
 \dt 14/Jan/2008
@@ -658,7 +658,7 @@
 \tl pito
 \dt 22/May/2007
 
-\lx am_bä_i_ye'tyel
+\lx ambä iye'tyel
 \tl una autoridad
 \oi Jiñi komisariado jiñäch juñtyikil ambä iye'tyel tyi ejido.
 \to El comisario es una de las autoridades del ejido.
@@ -719,7 +719,7 @@
 \vp -iñ
 \dt 11/Jan/2008
 
-\lx añ_a_jol
+\lx añ ajol
 \ac 1
 \nd Tum.
 \tl eres inteligente
@@ -830,7 +830,7 @@
 \ts está salado
 \dt 22/May/2007
 
-\lx ats'am_tye'
+\lx ats'am tye'
 \tl tipo de árbol
 \ca sirve para postes y leña
 \dt 11/Jan/2008
@@ -1037,7 +1037,7 @@
 \lx bajañ
 \cg adj
 \tl solo
-\oi Tyikbajañ jach tyik mele.
+\oi Tyikbajañjach tyik mele.
 \to Yo solo lo hice.
 \dt 22/May/2007
 
@@ -1084,14 +1084,14 @@
 \to ¿Cuánto cuesta?
 \dt 22/May/2007
 
-\lx bajche'_i_kach
+\lx bajche' ikach
 \tl comoquiera
 \ca sin cuidado
 \oi Bajche' ikach mi imel iye'tyel jiñi wiñik.
 \to Ese hombre hace su trabajo comoquiera.
 \dt 11/Jan/2008
 
-\lx bajche'_yilal
+\lx bajche' yilal
 \tl ¿cómo está?
 \dt 14/Jan/2008
 
@@ -1177,7 +1177,7 @@
 \to ¿Dónde fuiste?
 \su bakibä
 \ts ¿cuál es?
-\su baki jachbä
+\su bakijachbä
 \ts cualquiera
 \su baki ora
 \ts cuando, ¿cuándo?
@@ -1187,7 +1187,7 @@
 \ts ¿dónde está?
 \dt 22/May/2007
 
-\lx baki_jach
+\lx bakijach
 \tl dondequiera
 \vdn Sab.
 \vdl ba'ika
@@ -1208,7 +1208,7 @@
 \to Ya no lo conocen. ¿Será que es él?
 \dt 22/May/2007
 
-\lx batyiya_tye'
+\lx batyiya tye'
 \cg s esp
 \tl batea
 \dt 11/Jan/2008
@@ -1242,7 +1242,7 @@
 \tl donde
 \dt 22/May/2007
 
-\lx ba'ikach_bä
+\lx ba'ikachbä
 \tl cualquiera
 \oi Ba'ikachbä mi mejlel lakmel.
 \to Podemos hacer cualquier cosa.
@@ -1269,7 +1269,7 @@
 \to Debes escoger uno gordo (|ianimal|i).
 \ac 2
 \dd Da énfasis a un pronombre; p. ej.:
-\oi Ibä jach tsa' majli.
+\oi Ibäjach tsa' majli.
 \to Él se fue por su propia voluntad.
 \ac 3
 \dd Se presenta con palabras que indican el aspecto del verbo para marcar el sujeto u objeto de una acción; p. ej.:
@@ -1419,7 +1419,7 @@
 \to El sol está poniéndose.
 \dt 22/May/2007
 
-\lx *bäjlib_k'iñ
+\lx *bäjlib k'iñ
 \tl poniente
 \dt 14/Jan/2008
 
@@ -1537,7 +1537,7 @@
 \lx bäñlaw
 \cg adv
 \tl desordenadamente
-\oi Baki jachixbäñlaw tsa' ikäyäyob jiñi tye'.
+\oi Bakijachixbäñlaw tsa' ikäyäyob jiñi tye'.
 \to Dejaron los palos desordenadamente, por dondequiera.
 \dt 29/May/2007
 
@@ -1548,11 +1548,11 @@
 \to Ese lápiz se quedó en el suelo.
 \dt 22/May/2007
 
-\lx *bäkel_ejäl
+\lx *bäkel ejäl
 \tl diente
 \dt 11/Jan/2008
 
-\lx *bäkel_joläl
+\lx *bäkel joläl
 \tl calavera
 \dt 11/Jan/2008
 
@@ -1563,7 +1563,7 @@
 \to La mujer siente miedo al ver la culebra.
 \dt 22/May/2007
 
-\lx bäk'eñ_bäk'eñ_jax
+\lx bäk'eñbäk'eñ jax
 \tl temeroso
 \oi Bäk'eñbäk'eñ jax yilal jiñi wiñik.
 \to Parece que ese hombre es algo temeroso.
@@ -1828,16 +1828,16 @@
 \to Cortó el palo en pedacitos.
 \dt 22/May/2007
 
-\lx bik'tyi_chä'tye'
+\lx bik'tyi chä'tye'
 \tl chicozapote
 \ca árbol
 \dt 11/Jan/2008
 
-\lx bik'tyi_ijts'iñ
+\lx bik'tyi ijts'iñ
 \tl sobrino, nieto
 \dt 11/Jan/2008
 
-\lx bik'tyi_päm
+\lx bik'tyi päm
 \tl tucanete verde
 \ca ave
 \dt 11/Jan/2008
@@ -1852,7 +1852,7 @@
 \ts camino real
 \dt 22/May/2007
 
-\lx *bijleyok_ja'
+\lx *bijleyok ja'
 \tl zanja
 \dt 14/Jan/2008
 
@@ -1969,12 +1969,12 @@
 \to Come de poquito en poquito.
 \dt 22/May/2007
 
-\lx bi'tyi_muty
+\lx bi'tyi muty
 \nd Sab., Tila
 \tl pajarito
 \dt 11/Jan/2008
 
-\lx bi'tyi_xajlel
+\lx bi'tyi xajlel
 \nd Sab.
 \tl grava, piedra quebrada
 \dt 11/Jan/2008
@@ -2008,7 +2008,7 @@
 \ca la mazorca
 \dt 22/May/2007
 
-\lx *bojñib_wutyäl
+\lx *bojñib wutyäl
 \tl cosmético
 \dt 14/Jan/2008
 
@@ -2085,7 +2085,7 @@
 \re wits
 \dt 22/May/2007
 
-\lx bombom_jam
+\lx bombom jam
 \tl manojo de zacate
 \dt 11/Jan/2008
 
@@ -2132,7 +2132,7 @@
 \ca árbol
 \dt 22/May/2007
 
-\lx borol_i_bik'
+\lx borol ibik'
 \tl sin cabeza
 \oi Borol ich'och' jiñi lukum che' mi laktsep.
 \to La culebra se queda sin cabeza cuando se la cortamos.
@@ -2421,7 +2421,7 @@
 \to El cebú tiene abultada la espalda.
 \dt 22/May/2007
 
-\lx bulu_ok
+\lx bulu ok
 \nd Tila
 \tl espíritu malo
 \cu Información cultural: Se cree que vive en los cerros. Hace que las personas se pierdan en los caminos de los cerros. Uno puede defenderse al ponerse al revés la ropa.
@@ -2546,7 +2546,7 @@
 \tl frijolar
 \dt 22/May/2007
 
-\lx bu'le_waj
+\lx bu'le waj
 \tl memela, tortilla con frijol
 \dt 23/Jan/2008
 
@@ -2670,7 +2670,7 @@
 \tl cafetal
 \dt 22/May/2007
 
-\lx kaj_testigo
+\lx kaj testigo
 \cg esp
 \tl mi testigo
 \dt 11/Jan/2008
@@ -2713,7 +2713,7 @@
 \to Fue a trabajar para recibir sueldo.
 \dt 22/May/2007
 
-\lx kañar_x'e'tyel
+\lx kañar x'e'tyel
 \tl jornalero
 \dt 11/Jan/2008
 
@@ -2729,7 +2729,7 @@
 \ca víbora
 \dt 22/May/2007
 
-\lx kañal_lak_wuty
+\lx kañal lakwuty
 \tl despierto
 \vdn Sab.
 \vdl p'ixil
@@ -2749,7 +2749,7 @@
 \re kajpe'lel
 \dt 22/May/2007
 
-\lx kapityañ_muty
+\lx kapityañ muty
 \cg s esp
 \tl tipo de pájaro con pico largo
 \dt 11/Jan/2008
@@ -2855,7 +2855,7 @@
 \tl uno que no es indígena, ladino
 \dt 22/May/2007
 
-\lx kaxlañ_waj
+\lx kaxlañ waj
 \tl pan
 \dt 14/Jan/2008
 
@@ -3097,7 +3097,7 @@
 \ca tipo de zacate
 \dt 22/May/2007
 
-\lx kiñtya_laj_ko'
+\lx kiñtya laj ko'
 \cg esp
 \tl coralillo
 \dib asg002v.tif
@@ -3178,7 +3178,7 @@
 \lx kojoñ
 \cg adj
 \tl único
-\oi Kojoñ jachbä ch'ityoñ, ma'añik kerañ.
+\oi Kojoñjachbä ch'ityoñ, ma'añik kerañ.
 \to Soy el único muchacho, no tengo hermano.
 \dt 22/May/2007
 
@@ -3195,7 +3195,7 @@
 \to El niño gatea en el suelo.
 \dt 22/May/2007
 
-\lx koj_tyo_bä_i_yalobil
+\lx kojtyobä iyalobil
 \tl primogénito
 \dt 11/Jan/2008
 
@@ -3294,20 +3294,20 @@
 \to Aquí he estado en tierra fría desde que me vine criando.
 \dt 22/May/2007
 
-\lx kolem_matye'_chityam
+\lx kolem matye' chityam
 \tl tamborcillo
 \tl marina
 \ca mamífero
 \dib awd002v.tif
 \dt 16/Apr/2009
 
-\lx kolem_päm
+\lx kolem päm
 \tl tucán, pico de canoa
 \ca ave
 \dib abbb028.tif
 \dt 16/Apr/2009
 
-\lx kolem_p'ok
+\lx kolem p'ok
 \tl iguana
 \ca reptil
 \dt 11/Jan/2008
@@ -3470,11 +3470,11 @@
 \to Juntos eligen al que los va a gobernar.
 \dt 22/May/2007
 
-\lx komol_e'tyel
+\lx komol e'tyel
 \tl trabajo comunal
 \dt 11/Jan/2008
 
-\lx komol_jach_lak_cha'añ
+\lx komoljach lakcha'añ
 \tl es de nosotros juntos
 \ca modismo
 \dt 11/Jan/2008
@@ -3712,7 +3712,7 @@
 \to Vete a tu trabajo, porque ya es hora.
 \dt 22/May/2007
 
-\lx kukuch_yopom
+\lx kukuch yopom
 \tl tipo de insecto verde
 \dt 11/Jan/2008
 
@@ -3752,7 +3752,7 @@
 \to Llevaron cargado al enfermo.
 \dt 22/May/2007
 
-\lx kuchib_pich
+\lx kuchib pich
 \tl vejiga
 \re chujyib jpich
 \dt 11/Jan/2008
@@ -3905,11 +3905,11 @@
 \tl vivir
 \dt 22/May/2007
 
-\lx kuxu_i_bajñel
+\lx kuxu ibajñel
 \tl completamente solo
 \dt 11/Jan/2008
 
-\lx kuxu_i_ty'ojol
+\lx kuxu ity'ojol
 \tl simpático
 \dt 11/Jan/2008
 
@@ -3937,7 +3937,7 @@
 \to Su nombre es José.
 \dt 14/Jan/2008
 
-\lx k'ak_xäñ
+\lx k'ak xäñ
 \nd Sab.
 \tl menear
 \dt 11/Jan/2008
@@ -3984,7 +3984,7 @@
 \re uts
 \dt 22/May/2007
 
-\lx k'ajakñayix_yo
+\lx k'ajakñayix yo
 \nd Sab.
 \tl le está gustando
 \dt 11/Jan/2008
@@ -4055,7 +4055,7 @@
 \ca uña
 \dt 22/May/2007
 
-\lx k'aj_la_ko
+\lx k'aj lako
 \tl descansar
 \oi Mi laj k'aj lako tyi ojlil bij.
 \to Descansamos a medio camino.
@@ -4075,7 +4075,7 @@
 \ca pintura o repello
 \dt 22/May/2007
 
-\lx k'aj_o
+\lx k'aj o
 \cg s
 \tl descanso
 \oi Lakomix k'aj o che' tyi ak'älel.
@@ -4359,7 +4359,7 @@
 \vdl ñaklib
 \dt 22/May/2007
 
-\lx *k'äklib_i_kuch
+\lx *k'äklib ikuch
 \tl yugo
 \dt 14/Jan/2008
 
@@ -4476,7 +4476,7 @@
 \ac 2
 \cg vi
 \tl usarse
-\oi K'ämbil jiñi jacha cha'añ sek' tye'.
+\oi K'ämbil jiñijacha cha'añ sek' tye'.
 \to Se usa el hacha para tumbar árboles.
 \dt 22/May/2007
 
@@ -4492,7 +4492,7 @@
 \to Esa mujer ya está pálida por la enfermedad.
 \dt 22/May/2007
 
-\lx k'äñ_bo'lay
+\lx k'äñ bo'lay
 \cg s
 \tl jaguar
 \ca mamífero
@@ -4512,13 +4512,13 @@
 \to Ese zorro es amarillo.
 \dt 22/May/2007
 
-\lx k'äñk'äñ_max
+\lx k'äñk'äñ max
 \tl mico de noche
 \ca mamífero
 \dib akb001.tif
 \dt 16/Apr/2009
 
-\lx k'äñk'äñ_uch
+\lx k'äñk'äñ uch
 \tl tizón, pulgón
 \ca enfermedad del maíz
 \dt 11/Jan/2008
@@ -4539,7 +4539,7 @@
 \ca reptil
 \dt 22/May/2007
 
-\lx k'äñ_jaläjp
+\lx k'äñ jaläjp
 \tl canícula, temporada de sequía
 \ca agosto a septiembre
 \dt 11/Jan/2008
@@ -4681,7 +4681,7 @@
 \ca palo, hueso
 \dt 22/May/2007
 
-\lx k'ästye'_bij
+\lx k'ästye' bij
 \tl vereda
 \dt 23/Jan/2008
 
@@ -4803,7 +4803,7 @@
 \to Tu cara no está limpia (hablado con desprecio).
 \dt 23/Jan/2008
 
-\lx k'ojchel_bij
+\lx k'ojchel bij
 \tl curva del camino
 \dt 11/Jan/2008
 
@@ -4970,7 +4970,7 @@
 \to El cafetal está en una rejoya.
 \dt 22/May/2007
 
-\lx k'okil_ts'i'
+\lx k'okil ts'i'
 \nd Sab.
 \tl perro de monte
 \tl agutí
@@ -5121,7 +5121,7 @@
 \to Arqueamos el gajo de café para que le salga retoño.
 \dt 22/May/2007
 
-\lx k'uch_buchul
+\lx k'uch buchul
 \tl sentado, agachado
 \oi K'uch buchul tsak tyaja.
 \to Lo encontré sentado con la cabeza agachada.
@@ -5134,7 +5134,7 @@
 \to El viejo camina encorvado.
 \dt 22/May/2007
 
-\lx k'uchu_paty
+\lx k'uchu paty
 \tl jorobado
 \dt 11/Jan/2008
 
@@ -5251,7 +5251,7 @@
 \to Debemos ir despacio.
 \dt 22/May/2007
 
-\lx k'uñ_tyo
+\lx k'uñtyo
 \cg adj
 \tl débil todavía
 \oi Añkese tsa' lajmi, k'uñtyo pañimil.
@@ -5370,7 +5370,7 @@
 \tl amar, querer
 \dt 30/May/2007
 
-\lx *k'uxlel_i_pusik'al
+\lx *k'uxlel ipusik'al
 \nd Sab.
 \tl envidia
 \oi Añ kabäl ik'uxlel ipusik'al cha'añ ichubä'añ ipi'älob.
@@ -5463,7 +5463,7 @@
 \dib ins001.tif
 \dt 16/Apr/2009
 
-\lx chak_wa'al
+\lx chak wa'al
 \tl desnudo y parado
 \oi Chak wa'al jiñi ch'ityoñ.
 \to Ese chamaco está parado y desnudo.
@@ -5595,7 +5595,7 @@
 \to Así de delgado es el zancudo.
 \dt 22/May/2007
 
-\lx chax_läktyik
+\lx chax läktyik
 \ac 1
 \tl raíces
 \ca de árboles, que sobresalen del suelo.
@@ -5655,7 +5655,7 @@
 \to Te vas a adueñar de sus bienes.
 \dt 22/May/2007
 
-\lx cha'chajp_i_pusik'al
+\lx cha'chajp ipusik'al
 \tl dos caras, hipócrita
 \oi Cha'chajp ipusik'al jiñi wiñik.
 \to Ese hombre es hipócrita.
@@ -5762,12 +5762,12 @@
 \to Ese hombre se enferma muy seguido (lit.: seguidamente).
 \dt 31/May/2007
 
-\lx chäkäl_aty
+\lx chäkäl aty
 \tl insecto
 \ca p. ej.: el zancudo
 \dt 24/Jan/2008
 
-\lx chäkä_k'el
+\lx chäkä k'el
 \cg vt
 \ac 1
 \tl cuidar
@@ -5780,7 +5780,7 @@
 \to Está encargado de dirigir a los trabajadores que están en el cafetal.
 \dt 11/Jan/2008
 
-\lx chäk_bajlum
+\lx chäkbajlum
 \tl puma
 \ca mamífero
 \dib alb017m.tif
@@ -5830,19 +5830,19 @@
 \tl maíz negro
 \dt 22/May/2007
 
-\lx chäk_ik'lel
+\lx chäk ik'lel
 \nd Sab.
 \tl norte
 \ca mal tiempo
 \dt 11/Jan/2008
 
-\lx chäkjocho_chuch
+\lx chäkjocho chuch
 \tl ardilla
 \ca mamífero
 \dib ash012.tif
 \dt 16/Apr/2009
 
-\lx chäkjocho_chup
+\lx chäkjocho chup
 \tl osito lanudo
 \ca larva de cierto insecto
 \dt 11/Jan/2008
@@ -5906,7 +5906,7 @@
 \ca la cáscara se usa para mecate
 \dt 22/May/2007
 
-\lx chäk_ox
+\lx chäk ox
 \tl tipo de abeja grande y colorada
 \dt 11/Jan/2008
 
@@ -5916,7 +5916,7 @@
 \ca de madera dura y amarilla con corazón colorado
 \dt 22/May/2007
 
-\lx chäkpiräñ_jol
+\lx chäkpiräñ jol
 \tl calvo
 \re ch'umjol
 \dt 11/Jan/2008
@@ -6101,7 +6101,7 @@
 \to Continuamente está peleando.
 \dt 22/May/2007
 
-\lx chäñchäñ_ik'
+\lx chäñchäñ ik'
 \nd Sab.
 \tl epilepsia
 \dt 11/Jan/2008
@@ -6262,13 +6262,13 @@
 \to Se cayó su casa cuando pasó el viento.
 \dt 22/May/2007
 
-\lx che'_bajche'
+\lx che'bajche'
 \tl así como
 \oi Tsa' imele iyotyoty che'bajche' ityaty.
 \to Hizo su casa igual que la de su padre.
 \dt 14/Jan/2008
 
-\lx che'_bä
+\lx che'bä
 \tl cuando
 \oi Jumuk' ijulel che'bä tsa' kaji ja'al.
 \to Acababa de llegar cuando comenzó la lluvia.
@@ -6302,24 +6302,24 @@
 \to Así se va a cambiar la autoridad.
 \dt 22/May/2007
 
-\lx che'ix_chaxtyäl_k'iñ
+\lx che'ix chaxtyäl k'iñ
 \tl ya está alto el sol
 \dt 11/Jan/2008
 
-\lx che'_jach
+\lx che'jach
 \tl así nada más
-\oi Che' jachbajche' iliyi tsa' subeñtyi.
+\oi Che'jachbajche' iliyi tsa' subeñtyi.
 \to Así nada más se lo dijeron.
 \dt 14/Jan/2008
 
-\lx che'_ja'el
+\lx che' ja'el
 \cg part
 \tl así también
 \oi Mach mejlikoñ tyi majlel kome k'am'oñ. che' ja'el k'am kña'.
 \to No puedo ir porque estoy enfermo. Mi mamá también está enferma así.
 \dt 14/Jan/2008
 
-\lx che'_jiñi
+\lx che' jiñi
 \tl entonces
 \oi Tsa' chämi iñoxi'al kchich. che' jiñi tsak melbe ichol.
 \to Se murió el esposo de mi hermana. Entonces le hice su milpa.
@@ -6333,7 +6333,7 @@
 \to No está bien la forma en que ustedes están trabajando. Deben de hacerlo así.
 \dt 22/May/2007
 
-\lx che'_ñak
+\lx che' ñak
 \nd Sab., Tila
 \tl cuando
 \oi Che' ñak tsa' tyejchi k'iñ tsa' jkäyä ktyroñel.
@@ -6431,7 +6431,7 @@
 \dib ada006.tif
 \dt 16/Apr/2009
 
-\lx chij_ok
+\lx chij ok
 \tl venoso
 \oi Chijlo'tyik iyok jiñi x'ixik.
 \to Se le nota la pierna venosa a esa mujer.
@@ -6500,7 +6500,7 @@
 \tl nido de la zacua
 \dt 22/May/2007
 
-\lx chimo'_chäy
+\lx chimo' chäy
 \cg s
 \tl red
 \ca para pescar
@@ -6541,7 +6541,7 @@
 \tl oreja
 \dt 22/May/2007
 
-\lx *chikiñ_i_majts
+\lx *chikiñ imajts
 \tl el exceso de enaguas que sirve para llevar cosas
 \dt 14/Jan/2008
 
@@ -6569,7 +6569,7 @@
 \tl cerdo
 \dt 22/May/2007
 
-\lx chityam_tye'
+\lx chityam tye'
 \tl tipo de árbol
 \ca el olor de su madera es como el olor de la carne de jabalí; la madera es maciza y medio morada.
 \dt 11/Jan/2008
@@ -6616,11 +6616,11 @@
 \to Se fue al río a tirar el perro muerto.
 \dt 22/May/2007
 
-\lx chok_majlel
+\lx chok majlel
 \tl enviar allá
 \dt 11/Jan/2008
 
-\lx chok_tyilel
+\lx chok tyilel
 \tl enviar acá
 \oi Mi kaj ichok tyilel juñtyikil wiñik.
 \to Enviará acá a un hombre.
@@ -6791,7 +6791,7 @@
 \to Vamos a la pesca en el río.
 \dt 22/May/2007
 
-\lx chuk_majlel
+\lx chuk majlel
 \tl llevar agarrado
 \ca en la mano
 \oi Yom mi achuk majlel chityam.
@@ -6819,7 +6819,7 @@
 \ca donde se agarra
 \dt 22/May/2007
 
-\lx chuk_tyilel
+\lx chuk tyilel
 \tl traer agarrado
 \oi Yom mi achuk tyilel chityam.
 \to Vaya y traiga agarrado al puerco.
@@ -6867,7 +6867,7 @@
 \tl placenta
 \dt 14/Jan/2008
 
-\lx *chujyil_i_pich
+\lx *chujyil ipich
 \tl vejiga
 \dt 14/Jan/2008
 
@@ -6876,7 +6876,7 @@
 \tl nombre de colonia
 \dt 22/May/2007
 
-\lx chulu'_ja'
+\lx chulu' ja'
 \cg s
 \tl chorrito de agua
 \dt 14/Jan/2008
@@ -6925,11 +6925,11 @@
 \to Ese hombre es muy rico.
 \dt 22/May/2007
 
-\lx *chumwi'_ajkum
+\lx *chumwi' ajkum
 \tl la primera raíz del camote
 \dt 14/Jan/2008
 
-\lx *chuñchuñ_muty
+\lx *chuñchuñ muty
 \ac 1
 \tl base de la cola de las aves
 \ac 2
@@ -6942,7 +6942,7 @@
 \tl oruga, larva
 \dt 30/May/2007
 
-\lx chup_jam
+\lx chup jam
 \tl un tipo de zacate que da flor
 \dt 11/Jan/2008
 
@@ -6950,7 +6950,7 @@
 \cg part
 \ac 1
 \tl lo que
-\oi Chuki jach awom mi käk'eñety.
+\oi Chukijach awom mi käk'eñety.
 \to Te doy lo que quieras.
 \ac 2
 \tl ¿qué?
@@ -7050,7 +7050,7 @@
 \to La criatura está mamando el pecho de su madre.
 \dt 22/May/2007
 
-\lx *chu'yib_i_yal
+\lx *chu'yib iyal
 \tl matriz
 \dt 14/Jan/2008
 
@@ -7195,7 +7195,7 @@
 \cg vt
 \tl absorber
 \ca algodón, trapo, tierra
-\oi Ora jach mi ich'äch' ja' jiñi lum.
+\oi Orajach mi ich'äch' ja' jiñi lum.
 \to La tierra absorbe el agua en seguida.
 \dt 22/May/2007
 
@@ -7266,7 +7266,7 @@
 \ca en la mano
 \dt 11/Jun/2007
 
-\lx ch'ämbeñ_isujm
+\lx ch'ämbeñ isujm
 \tl comprender
 \oi Ch'ämbeñ isujm kome tyik'ol woli asubeñtyel.
 \to Comprende, porque es un consejo que él te está dando.
@@ -7404,7 +7404,7 @@
 \dd Se relaciona con el sonido que hacen las hojas y palitos que levanta el viento y caen sobre el techo.
 \dt 22/May/2007
 
-\lx *ch'ejñal_tye'
+\lx *ch'ejñal tye'
 \nd Sab.
 \tl hueco de un árbol
 \re *ch'eñal
@@ -7499,7 +7499,7 @@
 \tl una palma que da fruta comestible
 \dt 22/May/2007
 
-\lx *ch'ibilel_matye'el
+\lx *ch'ibilel matye'el
 \tl palma del monte
 \dt 14/Jan/2008
 
@@ -7666,7 +7666,7 @@
 \vdl alo'
 \dt 29/May/2007
 
-\lx ch'ityoñ_muty
+\lx ch'ityoñ muty
 \cg s
 \tl pollo chico, pollito
 \vdn Sab.
@@ -7688,7 +7688,7 @@
 \ts su espina
 \dt 22/May/2007
 
-\lx ch'ix_ajk
+\lx ch'ix ajk
 \tl chiquiguao
 \tl tortuga cocodrilo
 \ca reptil
@@ -7713,7 +7713,7 @@
 \tl columna vertebral
 \dt 22/May/2007
 
-\lx ch'ix_tyak'iñ
+\lx ch'ix tyak'iñ
 \tl alambrado
 \dt 11/Jan/2008
 
@@ -7724,13 +7724,13 @@
 \to Así de alto es el niño.
 \dt 22/May/2007
 
-\lx ch'ix_uch, ch'ix'uch
+\lx ch'ix uch, ch'ix'uch
 \tl puerco espín
 \ca mamífero
 \dib apa002.tif
 \dt 16/Apr/2009
 
-\lx ch'ix_wiñik
+\lx ch'ix wiñik
 \nd Tila
 \tl fantasma, un espíritu malo
 \cu Información cultural: Se dice que aparece como hombre malo con espinas, pero es la creación de Dios. Se cree que al fin del mundo se va a comer a todos los malos.
@@ -7744,16 +7744,16 @@
 \ts su musgo
 \dt 22/May/2007
 
-\lx ch'ok_aläl
+\lx ch'ok aläl
 \cg s
 \tl criatura
 \dt 11/Jan/2008
 
-\lx ch'ok_bu'ul
+\lx ch'ok bu'ul
 \tl frijol tierno
 \dt 11/Jan/2008
 
-\lx ch'ok_tyo
+\lx ch'oktyo
 \tl verde todavía
 \oi Ch'oktyo jiñi bu'ul che' tyi ñoviembre.
 \to En noviembre el frijol está verde todavía.
@@ -8418,7 +8418,7 @@
 \dib ala031v.tif
 \dt 16/Apr/2009
 
-\lx ik'_k'uts
+\lx ik' k'uts
 \tl flor de gusano
 \ca hierba
 \dt 11/Jan/2008
@@ -8447,7 +8447,7 @@
 \to La cueva está oscura.
 \dt 22/May/2007
 
-\lx ik'_lukum
+\lx ik' lukum
 \nd Tila
 \tl cola de fuego
 \tl lagartijera olivácea
@@ -8492,7 +8492,7 @@
 \tl tipo de árbol de madera negra
 \dt 22/May/2007
 
-\lx ik'_tyo
+\lx ik'tyo
 \cg adv
 \tl madrugada
 \dt 11/Jan/2008
@@ -8602,7 +8602,7 @@
 \re *buts
 \dt 14/Jan/2008
 
-\lx ijk'al_max
+\lx ijk'al max
 \tl mono araña
 \ca mamífero
 \dib amb004v.tif
@@ -8691,7 +8691,7 @@
 \ac 1
 \tl reconocer
 \ca sus pensamientos
-\oi Woli jach kiläbeñ ipusik'al cha'añ mik ña'tyañbajche' mi iyäl.
+\oi Wolijach kiläbeñ ipusik'al cha'añ mik ña'tyañbajche' mi iyäl.
 \to Estoy nada más reconociendo sus pensamientos para saber que va a decir.
 \ac 2
 \tl probar
@@ -8753,7 +8753,7 @@
 \to Ya estaba oscuro cuando llegué a Yajalón.
 \dt 30/May/2007
 
-\lx i_sujm
+\lx isujm
 \tl cierto, verdadero
 \oi Isujm chuki woli isub.
 \to Es cierto lo que está diciendo.
@@ -8762,19 +8762,19 @@
 \ts verdad
 \dt 11/Jan/2008
 
-\lx i_tyajol
+\lx ityajol
 \tl a veces
 \oi Añ ityajol mi ijobel ityojol kajpe'.
 \to A veces baja el precio de café.
 \dt 11/Jan/2008
 
-\lx i_tyilel
+\lx ityilel
 \tl de por sí
 \oi Ityilel che'äch mi ityeñe esmañ tyi pejtyelel ora.
 \to De por sí, así hace siempre.
 \dt 11/Jan/2008
 
-\lx i_tyojol
+\lx ityojol
 \ac 1
 \tl precio
 \oi Wolix iletsel ityojol lakbujk.
@@ -8912,7 +8912,7 @@
 \ca de cáscara negra y da fruta como la ciruela
 \dt 22/May/2007
 
-\lx i'ik'ix_tyi_buts'
+\lx i'ik'ix tyi buts'
 \tl ahumado
 \oi I'ik'ix tyi buts' jiñi pixoläl.
 \to El sombrero está ahumado.
@@ -8948,14 +8948,14 @@
 \to No me obedeció en lo que le dije.
 \dt 22/May/2007
 
-\lx jak'_ik'
+\lx jak' ik'
 \nd Sab.
 \tl jadear
 \oi Yäkel tyi jak' ik' kome ajñel yäkel.
 \to Como está corriendo, está jadeando.
 \dt 11/Jan/2008
 
-\lx jak'_i_yoj
+\lx jak' iyoj
 \tl suspirar
 \oi Woli ijak' iyoj jiñi x'ixik cha'añ ch'ijiyem.
 \to Esta mujer está suspirando de tristeza.
@@ -8968,7 +8968,7 @@
 \lx jach
 \cg adv
 \tl sólo
-\oi Ibajñel jach tsa' majli tyi e'tyel.
+\oi Ibajñeljach tsa' majli tyi e'tyel.
 \to Sólo él se fue a trabajar.
 \dt 22/May/2007
 
@@ -8977,7 +8977,7 @@
 \tl hacha
 \dt 22/May/2007
 
-\lx jacha_lak_mam
+\lx jacha lakmam
 \tl obsidiana
 \cu Información cultural: Algunos pedazos son verde oscuro, otros amarillos y otros negros; algunos son planos, otros redondos. Se dice que se producen por los rayos. Se encuentran en los arroyos.
 \dt 28/Jan/2008
@@ -9002,7 +9002,7 @@
 \lx jajayajl
 \cg part
 \tl cada vez
-\oi Jajayajl mi amajlel tyi awe'tyel mach buchtyäl jach mi amajlel.
+\oi Jajayajl mi amajlel tyi awe'tyel mach buchtyäljach mi amajlel.
 \to Cada vez que vas a tu trabajo no vayas solamente a sentarte.
 \dt 22/May/2007
 
@@ -9021,7 +9021,7 @@
 \lx jajkuñ
 \cg vt
 \tl descuartizar
-\oi Ora jach mi lakjakulañ jiñi chityam che' chämeñix.
+\oi Orajach mi lakjakulañ jiñi chityam che' chämeñix.
 \to Cuando el cerdo ya está muerto, rápidamente lo descuartizamos.
 \dt 22/May/2007
 
@@ -9102,12 +9102,12 @@
 \to Esa mujer frota con medicina la espalda de su hijo.
 \dt 22/May/2007
 
-\lx jajp_wits
+\lx jajp wits
 \tl paso
 \ca entre dos cerros
 \dt 14/Jan/2008
 
-\lx jaj_sepoñel
+\lx jaj sepoñel
 \nd Sab.
 \tl rastrojo
 \dt 11/Jan/2008
@@ -9136,7 +9136,7 @@
 \lx *jajts'
 \cg s
 \tl viento leve
-\oi Ijajts' jach ik' tsa' iyäsa jiñi tye'.
+\oi Ijajts'jach ik' tsa' iyäsa jiñi tye'.
 \to Un viento leve hizo caer el árbol.
 \dt 14/Jan/2008
 
@@ -9221,7 +9221,7 @@
 \lx jalbal
 \cg s
 \tl tejido
-\oi Ora jach tsi'bäk' ñopo jalbal yik'oty chij.
+\oi Orajach tsi'bäk' ñopo jalbal yik'oty chij.
 \to Aprendió luego a hacer el tejido con ixtle.
 \dt 22/May/2007
 
@@ -9337,7 +9337,7 @@
 \to La mejilla del hombre está marcada con la cicatriz de cuando se cortó con el machete.
 \dt 22/May/2007
 
-\lx jap_ik'
+\lx jap ik'
 \tl respirar
 \oi Wokol jax mi ijap ik' kome weñ mäkäl iñi' cha'añ sijmal.
 \to Le es difícil respirar, porque su nariz está tapada por el catarro.
@@ -9432,7 +9432,7 @@
 \hm 2
 \cg adv
 \tl rozando
-\oi Che' mik jul jiñi muty mu' jach ijax ñumel tyi' ts'ejtyä'lel.
+\oi Che' mik jul jiñi muty mu'jach ijax ñumel tyi' ts'ejtyä'lel.
 \to Cuando le tiro a ese pájaro solamente le pasa rozando por los lados.
 \dt 22/May/2007
 
@@ -9570,12 +9570,12 @@
 \tl lluvia
 \dt 22/May/2007
 
-\lx ja'al_pech
+\lx ja'al pech
 \tl garza
 \ca lit.: pato de agua
 \dt 11/Jan/2008
 
-\lx ja'al_ts'i'
+\lx ja'al ts'i'
 \tl nutria
 \ca lit.: perro de agua
 \dib aoc001.tif
@@ -10069,7 +10069,7 @@
 \ca insecto
 \dt 22/May/2007
 
-\lx jijik'_ojbal
+\lx jijik' ojbal
 \tl tos ferina
 \dt 11/Jan/2008
 
@@ -10173,7 +10173,7 @@
 \oi Jiñikña jiñi ts'i' che' yom ik'uxoñla.
 \to El perro está gruñendo porque nos quiere morder.
 
-\lx jiñi_jach
+\lx jiñijach
 \tl sólo ése
 \dt 11/Jan/2008
 
@@ -10314,7 +10314,7 @@
 \to Está muy bajo el tablero donde muele el pozol.
 \dt 22/May/2007
 
-\lx jobeñtye'_xux
+\lx jobeñtye' xux
 \cg s
 \tl avispa polistes
 \dib ins166v.tif
@@ -10464,7 +10464,7 @@
 \ca maíz
 \dt 22/May/2007
 
-\lx joch'_lo'_patye'
+\lx joch' lo' patye'
 \tl hongo
 \ca de árboles, blanco, comestible
 \dt 11/Jan/2008
@@ -10532,7 +10532,7 @@
 
 \lx -jojyel
 \dd Sufijo numeral para medir la circunferencia; p. ej.:
-\oi Juñjojyel jach mi lakcha'leñ ajñel tyi' yebal jiñi tye'.
+\oi Juñjojyeljach mi lakcha'leñ ajñel tyi' yebal jiñi tye'.
 \to Solamente corremos una vuelta alrededor del árbol.
 \dt 11/Jan/2008
 
@@ -10727,7 +10727,7 @@
 \to Hay un montón de gusanos moviéndose en el camino.
 \dt 22/May/2007
 
-\lx jop_ochel
+\lx jop ochel
 \cg vt
 \tl juntar
 \ca café, frijol, maíz
@@ -10778,7 +10778,7 @@
 \cg vt
 \ac 1
 \tl arrancar
-\oi Ora jach mi lakjots' lok'el postye che' mach tyamik ts'äpbil.
+\oi Orajach mi lakjots' lok'el postye che' mach tyamik ts'äpbil.
 \to Cuando el poste no está enterrado muy hondo, fácilmente lo arrancamos.
 \ac 2
 \tl desenvainar
@@ -10980,7 +10980,7 @@
 \tl cepillo dental
 \dt 22/May/2007
 
-\lx juk'o'_pisil
+\lx juk'o' pisil
 \tl plancha
 \dt 14/Jan/2008
 
@@ -11002,7 +11002,7 @@
 \lx juchtyek'
 \cg vt
 \tl no cumplir
-\oi Jiñi wiñik mu' jach ijuchtyek'beñ imañdar jiñi yumälob.
+\oi Jiñi wiñik mu'jach ijuchtyek'beñ imañdar jiñi yumälob.
 \to Ese hombre no cumple las leyes de las autoridades.
 \dt 22/May/2007
 
@@ -11084,7 +11084,7 @@
 \to Es necesario que me afeite.
 \dt 22/May/2007
 
-\lx jujl_p'ok
+\lx jujl p'ok
 \cg s
 \tl iguana
 \ca reptil
@@ -11192,7 +11192,7 @@
 \tl escopeta, rifle, arma
 \dt 30/May/2007
 
-\lx jultyesañ_i_pusik'al
+\lx jultyesañ ipusik'al
 \tl corregir
 \oi Jujump'ejl k'iñ woli ijultyesañ ipusik'al iyalobil.
 \to Cada día está corrigiendo a su hijo.
@@ -11275,9 +11275,9 @@
 \tl once
 \dt 22/May/2007
 
-\lx juññumel_jach
+\lx juññumeljach
 \tl una sola vez
-\oi Juññumel jach tsa' tyili ja'al.
+\oi Juññumeljach tsa' tyili ja'al.
 \to Una sola vez llovió.
 \dt 11/Jan/2008
 
@@ -11285,7 +11285,7 @@
 \cg adj
 \tl un, una
 \ca género, clase
-\oi Juñsujm jachbä e'tyel mi iyesmañ.
+\oi Juñsujmjachbä e'tyel mi iyesmañ.
 \to Solamente hace una clase de trabajo.
 \dt 22/May/2007
 
@@ -11504,7 +11504,7 @@
 \ac 3
 \tl componerse
 \ca en sentido figurado
-\oi Che' jach tsa' lajmi jiñi letyo tsa'bä ñaxañ tyejchi ya' tyi komisariado.
+\oi Che'jach tsa' lajmi jiñi letyo tsa'bä ñaxañ tyejchi ya' tyi komisariado.
 \to Así nada más se compuso la disputa que comenzó con el comisariado.
 \dt 29/Jan/2008
 
@@ -11602,7 +11602,7 @@
 \oi La'tyika mi isujmäch awujiläch e'tyel.
 \to A ver si es cierto que sabes trabajar.
 
-\lx la'_tyo
+\lx la'tyo
 \tl deja
 \oi La'tyo imelbajche' yom.
 \to Deja que lo haga como él quiera.
@@ -11711,7 +11711,7 @@
 \ac 1
 \tl encharcarse
 \ca agua
-\oi Ya' jach mi ilämtyäl jiñi ja'ba' joyol jiñi lum.
+\oi Ya'jach mi ilämtyäl jiñi ja'ba' joyol jiñi lum.
 \to Allí no más se quedó encharcada el agua donde está hueca la tierra.
 \ac 2
 \tl calmarse
@@ -11935,7 +11935,7 @@
 \lx lejeñsia
 \cg adv
 \tl para probar
-\oi Lejeñsia jach mik majlel jk'el jiñi doktyor ame muk'ikixtyo klajmel.
+\oi Lejeñsiajach mik majlel jk'el jiñi doktyor ame muk'ikixtyo klajmel.
 \to Voy a ver al doctor para probar y ver si acaso puedo sanar.
 \dt 22/May/2007
 
@@ -11956,7 +11956,7 @@
 \cg adj
 \tl palmeando
 \ca acción repetida con regla o machete
-\oi Woli jach ilejles jats' yik'oty wechelbä tye'.
+\oi Wolijach ilejles jats' yik'oty wechelbä tye'.
 \to Está nada más palmeando con una regla.
 \dt 22/May/2007
 
@@ -12206,7 +12206,7 @@
 \to Todos los hijos de ese hombre están acostados en la cama por enfermedad.
 \dt 22/May/2007
 
-\lx limóñ_jam
+\lx limóñ jam
 \cg s
 \dd Tipo de zacate que sirve para hacer un té.
 \dt 11/Jan/2008
@@ -12269,7 +12269,7 @@
 \to Ya debes sacar la comida de la olla.
 \dt 22/May/2007
 
-\lx lok'_jol
+\lx lok' jol
 \tl cortar el pelo
 \dt 11/Jan/2008
 
@@ -12281,7 +12281,7 @@
 \to Esa camisa parece ser una copia de la mía.
 \dt 14/Jan/2008
 
-\lx lok'oñ_baj
+\lx lok'oñbaj
 \nd Tila
 \cg s
 \tl cuadro
@@ -12307,7 +12307,7 @@
 \hm 1
 \cg vt
 \tl sacar líquido con las manos
-\oi Woli jach iloch' lok'el ja' tyi' k'äb cha'añ mi ijap.
+\oi Wolijach iloch' lok'el ja' tyi' k'äb cha'añ mi ijap.
 \to Está sacando agua para tomar con las manos.
 
 \lx loch'
@@ -12321,7 +12321,7 @@
 \lx loch'ilañ
 \cg vt
 \tl sacar agua con la mano
-\oi Che' jach yatyoktyälba' mi lakloch'ilañ jiñi ja' yik'oty laj k'äb.
+\oi Che'jach yatyoktyälba' mi lakloch'ilañ jiñi ja' yik'oty laj k'äb.
 \to Es un hueco donde se saca el agua con la mano.
 \dt 22/May/2007
 
@@ -12393,9 +12393,9 @@
 \tl cicatriz
 \dt 14/Jan/2008
 
-\lx lolom_jach
+\lx lolomjach
 \tl de balde
-\oi Lolom jach tsa' majliyoñ ksätye' k'iñ.
+\oi Lolomjach tsa' majliyoñ ksätye' k'iñ.
 \to De balde fui a perder el día.
 \dt 11/Jan/2008
 
@@ -12405,7 +12405,7 @@
 \ca olla o caja
 \dt 22/May/2007
 
-\lx *lomojlel_i_paty
+\lx *lomojlel ipaty
 \cg s esp
 \tl lomo
 \ca de animal
@@ -12436,7 +12436,7 @@
 \to Ya no resulta hacer la milpa por nuestra cuenta porque ya no se da muy bien.
 \dt 22/May/2007
 
-\lx *lok'ib_ja'
+\lx *lok'ib ja'
 \tl vertiente
 \dt 14/Jan/2008
 
@@ -12516,12 +12516,12 @@
 \lx lo'loya
 \cg s
 \tl engaño
-\oi Woli jach tyi lo'loya jiñi wiñik kome mach isujmik chuki woli iyäl.
+\oi Wolijach tyi lo'loya jiñi wiñik kome mach isujmik chuki woli iyäl.
 \to Lo que dice ese hombre es nada más un engaño, porque no es verdad.
 \vp lotyiya
 \dt 04/Jun/2007
 
-\lx luko'_chäy
+\lx luko' chäy
 \cg s
 \tl anzuelo
 \dt 14/Jan/2008
@@ -12629,7 +12629,7 @@
 \to Ese toro no puede cornear porque no tiene cuernos.
 \dt 22/May/2007
 
-\lx lujchuñ_ej
+\lx lujchuñ ej
 \cg s
 \tl uña de gato
 \ca bejuco con espina curvada
@@ -12697,7 +12697,7 @@
 \to Debes regar el suelo con agua para que el sembrado crezca.
 \ac 4
 \tl piso
-\oi Tyi lum jach mi imel ik'ajk.
+\oi Tyi lumjach mi imel ik'ajk.
 \to Hace lumbre en el piso de su casa.
 \dt 22/May/2007
 
@@ -12808,7 +12808,7 @@
 \cg adj
 \tl doblado
 \ca rodilla, camino
-\oi Luxul jach iyok, ma'añik mi mejlel isäts'.
+\oi Luxuljach iyok, ma'añik mi mejlel isäts'.
 \to Su rodilla está doblada; no puede estirarla.
 \dt 22/May/2007
 
@@ -12924,7 +12924,7 @@
 \lx majañ
 \cg adv
 \tl prestado
-\oi Tyi majañ jach tsa' iyäk'eyoñ jiñi mula.
+\oi Tyi majañjach tsa' iyäk'eyoñ jiñi mula.
 \to Sólo me dio su mula prestada.
 \su *majañ *äskuñ
 \ts hermanastro mayor
@@ -12989,12 +12989,12 @@
 \re Gram. 6.17
 \dt 09/Jan/2008
 
-\lx *majlib_k'iñ
+\lx *majlib k'iñ
 \nd Tila
 \tl Oeste
 \dt 14/Jan/2008
 
-\lx majmaj_ul
+\lx majmaj ul
 \tl tipo de mariposa chica
 \ca sale en mayo
 \dt 11/Jan/2008
@@ -13016,7 +13016,7 @@
 \lx majñäñtyel
 \cg vi
 \tl prestar
-\oi Woli jach iyäk' tyi majñäñtyel ityak'iñ.
+\oi Wolijach iyäk' tyi majñäñtyel ityak'iñ.
 \to Sólo está dando a prestar su dinero.
 \dt 22/May/2007
 
@@ -13039,7 +13039,7 @@
 \tl regalo
 \dt 22/May/2007
 
-\lx majts_aläl
+\lx majts aläl
 \tl pañal
 \dt 14/Jan/2008
 
@@ -13136,7 +13136,7 @@
 \to Es muy mañoso para robar dinero.
 \dt 22/May/2007
 
-\lx mañax_bu'ul
+\lx mañax bu'ul
 \tl cacahuate
 \dt 11/Jan/2008
 
@@ -13158,12 +13158,12 @@
 \tl pájaro del monte de cualquier tipo
 \dt 22/May/2007
 
-\lx matye'_chityam
+\lx matye' chityam
 \tl jabalí de collar
 \ca mamífero
 \dt 14/Jan/2008
 
-\lx matye'el_ts'i'
+\lx matye'el ts'i'
 \tl coyote
 \ca mamífero
 \dt 11/Jan/2008
@@ -13181,7 +13181,7 @@
 \ca mamífero
 \dt 31/May/2007
 
-\lx max_tyo
+\lx maxtyo
 \tl todavía
 \dt 11/Jan/2008
 
@@ -13298,7 +13298,7 @@
 \to Ese hombre camina débilmente porque ya está viejo.
 \dt 22/May/2007
 
-\lx mäch_p'ok
+\lx mäch p'ok
 \cg s
 \tl iguana
 \ca reptil
@@ -13316,7 +13316,7 @@
 \tl cárcel
 \dt 22/May/2007
 
-\lx *mäjkib_chityam
+\lx *mäjkib chityam
 \tl chiquero
 \dt 14/Jan/2008
 
@@ -13339,7 +13339,7 @@
 \ca pez; vivíparo
 \dt 22/May/2007
 
-\lx mämäksijlel_ja'
+\lx mämäksijlel ja'
 \cg s
 \tl tipo de insecto de agua
 \dt 11/Jan/2008
@@ -13394,7 +13394,7 @@
 \cg vt
 \tl voltear
 \ca la cara
-\oi Mu' jach wa' mäy iwuty jiñi wiñik che' mi ik'eloñ, kome mich' kik'oty.
+\oi Mu'jach wa' mäy iwuty jiñi wiñik che' mi ik'eloñ, kome mich' kik'oty.
 \to Cuando ese hombre me mira, voltea la cara para otro lado porque está enojado conmigo.
 \dt 22/May/2007
 
@@ -13437,7 +13437,7 @@
 \ts viuda
 \dt 22/May/2007
 
-\lx meba'_jijch
+\lx meba' jijch
 \tl langosta
 \ca tipo que se come
 \dt 14/Jan/2008
@@ -13456,7 +13456,7 @@
 \to Abrazamos a la criatura cuando está chica.
 \dt 22/May/2007
 
-\lx mek'_ajtso'
+\lx mek' ajtso'
 \nd Tila
 \cg s
 \tl ocelote
@@ -13473,7 +13473,7 @@
 \lx mech
 \cg adj
 \tl inmovilizado
-\oi Buchul jach kome mech.
+\oi Buchuljach kome mech.
 \to Sólo está sentado porque está inmovilizado.
 \dt 22/May/2007
 
@@ -13619,7 +13619,7 @@
 \lx mich'añ
 \cg vi
 \tl enojarse
-\oi Che' añ chuki leko mik subeñtyel, ora jach mik mich'añ.
+\oi Che' añ chuki leko mik subeñtyel, orajach mik mich'añ.
 \to Cuando me dice algo desagradable, de inmediato me enojo.
 \dt 22/May/2007
 
@@ -13765,7 +13765,7 @@
 \to Hace su milpa en el tiempo de calor.
 \dt 22/May/2007
 
-\lx mi'_mel_i_pusik'al
+\lx mi imel ipusik'al
 \tl ponerse triste
 \tl estar preocupado
 \ca lit.: le hace su corazón
@@ -14041,7 +14041,7 @@
 \vp mujkibäl
 \dt 22/May/2007
 
-\lx mukuk_pisil
+\lx mukuk pisil
 \cg s
 \tl bolsa donde se envasa el azúcar
 \dt 11/Jan/2008
@@ -14245,7 +14245,7 @@
 \lx musmusña
 \cg adj
 \tl lloviznando
-\oi Mach k'amik jiñi ja'al, musmusña jach.
+\oi Mach k'amik jiñi ja'al, musmusñajach.
 \to El agua no está fuerte; sólo está lloviznando.
 \dt 22/May/2007
 
@@ -14277,7 +14277,7 @@
 \lx muts'wutyañ
 \cg vt
 \dd Hacer señas con los ojos para comunicar al compañero que el otro está mintiendo; p. ej.:
-\oi Jiñi x'ixik woli jach imuts'wutyañ ipi'äl.
+\oi Jiñi x'ixik wolijach imuts'wutyañ ipi'äl.
 \to Esa mujer sólo le está haciendo señas con los ojos a su compañera para comunicarle que el otro está mintiendo.
 \dt 22/May/2007
 
@@ -14328,7 +14328,7 @@
 \to El viento forzó la casa, inclinándola.
 \dt 22/May/2007
 
-\lx *ñich_k'ajk
+\lx *ñich k'ajk
 \cg s
 \tl brasa
 \dt 14/Jan/2008
@@ -14380,7 +14380,7 @@
 \to Esa mujer está arreando su pollo.
 \dt 22/May/2007
 
-\lx ñijkäbeñ_i_pusik'al
+\lx ñijkäbeñ ipusik'al
 \tl tocar el corazón
 \oi Tsa' ñjijkäbeñtyi ipusik'al jiñi wiñik.
 \to Le tocó el corazón a ese hombre.
@@ -14414,7 +14414,7 @@
 \tl yerno
 \dt 14/Jan/2008
 
-\lx *ñij'añ_ña'
+\lx *ñij'añ ña'
 \nd Sab.
 \tl suegra
 \dt 14/Jan/2008
@@ -14452,7 +14452,7 @@
 \lx ñi'law
 \cg adv
 \dd Se relaciona con la forma en que se mueven muchos gusanos; p. ej.
-\oi Ñi'law jachix woli iñijkañ ibä jiñi motso' ya' tyi' lojwemal wakax.
+\oi Ñi'lawjachix woli iñijkañ ibä jiñi motso' ya' tyi' lojwemal wakax.
 \to Muchos gusanos se están moviendo en la herida del ganado.
 \dt 22/May/2007
 
@@ -14714,7 +14714,7 @@
 \ca hermana de la madre
 \dt 14/Jan/2008
 
-\lx ña'_muty
+\lx ña' muty
 \cg s
 \tl gallina
 \dt 14/Jan/2008
@@ -14793,7 +14793,7 @@
 \lx ñäkwa'al
 \cg adj
 \tl parado e inclinado
-\oi Ñäkwa'al jach jiñi wiñik ya' tyi xujk otyoty.
+\oi Ñäkwa'aljach jiñi wiñik ya' tyi xujk otyoty.
 \to Ese hombre está nada más parado e inclinado en la esquina de la casa.
 \dt 22/May/2007
 
@@ -14959,7 +14959,7 @@
 \to El plátano ya se está madurando.
 \dt 22/May/2007
 
-\lx *ñejtyib_joläl
+\lx *ñejtyib joläl
 \cg s
 \tl prensador de pelo
 \dt 14/Jan/2008
@@ -14981,14 +14981,14 @@
 \lx ñelekña
 \cg adv
 \dd Se relaciona con la forma en que se pasa algo por un lado; p. ej.:
-\oi Ñelekña jach tsa' ñumi jiñi kalejóñ.
+\oi Ñelekñajach tsa' ñumi jiñi kalejóñ.
 \to Por un lado de mi casa pasó el callejón.
 \dt 22/May/2007
 
 \lx ñelel
 \cg adj
 \tl por un lado
-\oi Ñelel jach tsa' ñumi jiñi kalejóñ ya' tyi kotyoty.
+\oi Ñeleljach tsa' ñumi jiñi kalejóñ ya' tyi kotyoty.
 \to El callejón pasó mi casa por un lado.
 \dt 22/May/2007
 
@@ -15041,7 +15041,7 @@
 \ac 2
 \cg adv
 \tl cerca
-\oi Ya' jach ñochol añ iyotyoty jiñi wiñik.
+\oi Ya'jach ñochol añ iyotyoty jiñi wiñik.
 \to La casa de aquel hombre está muy cerca.
 \dt 01/Feb/2008
 
@@ -15056,7 +15056,7 @@
 \hm 3
 \cg adv
 \tl siempre
-\oi Jiñi jach josé mi iñoj tyech juñtya.
+\oi Jiñijach josé mi iñoj tyech juñtya.
 \to Sólo José dirige siempre la junta.
 \vdn Sab.
 \vdl ñuj
@@ -15126,7 +15126,7 @@
 \to Una piedra viene rodándose del cerro.
 \dt 22/May/2007
 
-\lx Ñoj_lum
+\lx Ñoj lum
 \cg s
 \tl pueblo principal, nombre de Tumbalá
 \dt 11/Jan/2008
@@ -15223,7 +15223,7 @@
 \to Voy a probar si se da la milpa en otro terreno.
 \dt 22/May/2007
 
-\lx ñokeb_ja'as
+\lx ñokeb ja'as
 \tl plátano enano
 \re xpek' ja'as
 \dt 11/Jan/2008
@@ -15365,7 +15365,7 @@
 \to Ese anciano camina medio agachado.
 \dt 22/May/2007
 
-\lx ñuk_ñumejach
+\lx ñuk ñumejach
 \tl muy fácil
 \dt 11/Jan/2008
 
@@ -15456,7 +15456,7 @@
 \tl cárcel
 \dt 22/May/2007
 
-\lx *ñujp'ib_la_kuk'ib
+\lx *ñujp'ib lakuk'ib
 \tl angina
 \dt 14/Jan/2008
 
@@ -15476,7 +15476,7 @@
 \cg vi
 \ac 1
 \tl pasar
-\oi Ya' jach mi kaj kñumel tyi' tyi' xchumtyäl.
+\oi Ya'jach mi kaj kñumel tyi' tyi' xchumtyäl.
 \to Sólo voy a pasar a la orilla de la ranchería.
 \ac 2
 \tl exceder
@@ -15555,11 +15555,11 @@
 \lx ñuki
 \cg adv
 \tl comoquiera
-\oi Tsa' jach ñuki mele iyotyoty, mach ity'ojolik.
+\oi Tsa'jach ñuki mele iyotyoty, mach ity'ojolik.
 \to Su casa no está bonita porque la hizo comoquiera.
 \dt 22/May/2007
 
-\lx ñuki_ik'
+\lx ñuki ik'
 \cg s
 \tl viento fuerte
 \dt 11/Jan/2008
@@ -15753,7 +15753,7 @@
 \ca dentro de la casa
 \dt 04/Jun/2007
 
-\lx ochix_k'iñ
+\lx ochix k'iñ
 \tl ya es tarde
 \ca en el día
 \dt 11/Jan/2008
@@ -15763,11 +15763,11 @@
 \tl gotera
 \dt 22/May/2007
 
-\lx och'ajel_k'iñ
+\lx och'ajel k'iñ
 \tl de las tres hasta las cinco de la tarde
 \dt 11/Jan/2008
 
-\lx och'ä_k'iñ
+\lx och'ä k'iñ
 \nd Sab.
 \tl de las tres hasta las cinco de la tarde
 \dt 11/Jan/2008
@@ -15899,10 +15899,10 @@
 \re tyi ora
 \dt 22/May/2007
 
-\lx ora_jach
+\lx orajach
 \cg adv
 \tl de inmediato
-\oi Ora jach yom ma'bäk' k'ux awaj.
+\oi Orajach yom ma'bäk' k'ux awaj.
 \to Debes comer de inmediato.
 \dt 11/Jan/2008
 
@@ -16081,7 +16081,7 @@
 \to Hizo su casa embarrada de lodo.
 \dt 22/May/2007
 
-\lx paj_sa'
+\lx paj sa'
 \cg s
 \tl pozol (pozole) agrio
 \dt 11/Jan/2008
@@ -16152,7 +16152,7 @@
 \to El piso de mi casa está nivelado.
 \dt 22/May/2007
 
-\lx *pamäk_ej
+\lx *pamäk ej
 \tl dientes
 \dt 14/Jan/2008
 
@@ -16191,9 +16191,9 @@
 \vdl chañ
 \dt 22/May/2007
 
-\lx pañchañ_wuty
+\lx pañchañ wuty
 \tl persona mirando al cielo
-\oi Pañchañ wuty jiñi alob kome tyi chañ jach añ iwuty.
+\oi Pañchañ wuty jiñi alob kome tyi chañjach añ iwuty.
 \to El chamaco siempre anda mirando al cielo (lit.: el muchacho que está mirando al cielo, siempre tiene los ojos levantados hacia arriba).
 \dt 14/Jan/2008
 
@@ -16284,7 +16284,7 @@
 \to El maíz empieza a brotar a los ocho días.
 \dt 05/Jun/2007
 
-\lx *pasib_k'iñ
+\lx *pasib k'iñ
 \tl Oriente
 \dt 14/Jan/2008
 
@@ -16304,7 +16304,7 @@
 \vdl pots'lom
 \dt 22/May/2007
 
-\lx paso'_k'iñ
+\lx paso' k'iñ
 \nd Sab.
 \tl Oriente
 \dt 14/Jan/2008
@@ -16360,7 +16360,7 @@
 \ts mi pie
 \dt 22/May/2007
 
-\lx *pats'tyilel_laj_k'äb
+\lx *pats'tyilel laj k'äb
 \tl anchura de la mano
 \dt 14/Jan/2008
 
@@ -16390,7 +16390,7 @@
 \tl arroyo
 \dt 22/May/2007
 
-\lx Pa'as_lum
+\lx Pa'as lum
 \tl Vía Láctea
 \dt 11/Jan/2008
 
@@ -16582,7 +16582,7 @@
 \to Todavía no la vendemos; apenas es la primera fruta.
 \dt 22/May/2007
 
-\lx päñ_ñumel
+\lx päñ ñumel
 \tl pasar de largo
 \ca sin saludar
 \oi Mi ipäñ ñumel tyi lakty'ejl jiñi x'ixik.
@@ -16616,7 +16616,7 @@
 \tl antepasados
 \dt 14/Jan/2008
 
-\lx päk'il_i_wuty
+\lx päk'il iwuty
 \tl lunar del ojo
 \dt 11/Jan/2008
 
@@ -16835,7 +16835,7 @@
 \ca roncha
 \dt 04/Feb/2008
 
-\lx pejpeñ_tye'
+\lx pejpeñ tye'
 \tl árbol de mariposa (las hojas son semejantes a las alas de las mariposas)
 \dt 11/Jan/2008
 
@@ -16967,7 +16967,7 @@
 \to Así de redonda es la luna cuando está llena.
 \ac 2
 \tl redondo y sentado
-\oi Petstyäl jach mi imejlel tyi lum.
+\oi Petstyäljach mi imejlel tyi lum.
 \to Sólo puede quedarse sentada en el suelo.
 \dt 22/May/2007
 
@@ -17041,7 +17041,7 @@
 \lx pik'xuñ
 \cg vt
 \tl manosear
-\oi Jiñi alob woli jach ipik'xuñ we'eläl.
+\oi Jiñi alob wolijach ipik'xuñ we'eläl.
 \to Ese niño nada más está manoseando la carne.
 \dt 22/May/2007
 
@@ -17093,7 +17093,7 @@
 \tl finca
 \dt 22/May/2007
 
-\lx piñtsik'_päm
+\lx piñtsik' päm
 \cg s
 \tl pico de garza
 \dt 11/Jan/2008
@@ -17118,7 +17118,7 @@
 \lx pipity
 \cg adv
 \dd Se relaciona con objetos redondos; p. ej.:
-\oi Mu' jach ipipity k'ech tyi' kejlab jiñi xajlel.
+\oi Mu'jach ipipity k'ech tyi' kejlab jiñi xajlel.
 \to Carga en su hombro la piedra.
 \dt 22/May/2007
 
@@ -17208,7 +17208,7 @@
 \ts mi sombrero
 \dt 22/May/2007
 
-\lx *pixol_xiba
+\lx *pixol xiba
 \cg s
 \tl flor de pato, flor de pelícano
 \ca bejuco
@@ -17322,7 +17322,7 @@
 \dd Personas que participan en la fiesta de carnaval disfrazadas con cueros de tigres y enaguas negras.
 \dt 30/May/2007
 
-\lx pochol_bä_k'uts
+\lx pocholbä k'uts
 \tl hoja de tabaco
 \dt 11/Jan/2008
 
@@ -17473,7 +17473,7 @@
 \lx *pomlel
 \cg s
 \tl cantidad de agua
-\oi Ts'itya' jach ipomlel ja' añ tyi pok'.
+\oi Ts'itya'jach ipomlel ja' añ tyi pok'.
 \to Es muy poca el agua que hay en el jicalpeste.
 \dt 14/Jan/2008
 
@@ -17485,7 +17485,7 @@
 \to En el jicalpeste hay un poco de agua.
 \dt 22/May/2007
 
-\lx pomol_uw
+\lx pomol uw
 \tl luna llena
 \oi Pomol jiñi uw.
 \to La luna está llena.
@@ -17545,7 +17545,7 @@
 \lx potsokña
 \cg adj
 \tl muy espumoso
-\oi Potsokña jachix ilojk jiñi ñoja'.
+\oi Potsokñajachix ilojk jiñi ñoja'.
 \to El río está muy espumoso.
 \dt 22/May/2007
 
@@ -17627,7 +17627,7 @@
 \to El comité está repartiendo papeles.
 \dt 22/May/2007
 
-\lx puk_ty'añ
+\lx puk ty'añ
 \tl anunciar
 \oi Woli ipuk majlel ty'añ cha'añ tyal diputyado.
 \to Están anunciando que viene el diputado.
@@ -17942,14 +17942,14 @@
 \to Así suena la lluvia goteando encima de la casa.
 \dt 22/May/2007
 
-\lx p'äk'_oka
+\lx p'äk' oka
 \cg vt
 \tl tropezar
 \oi Jiñi ch'ityoñ tsa' ipäk oka tye'.
 \to Ese muchacho tropezó con un palo.
 \dt 11/Jan/2008
 
-\lx p'äjkel_k'iñ
+\lx p'äjkel k'iñ
 \nd Sab.
 \cg vi
 \tl ponerse el sol
@@ -18113,7 +18113,7 @@
 \lx p'ip'iktyäl
 \cg adj
 \tl así de pequeño
-\oi Che' jach ya p'ip'iktyäl ibäk' jiñi ich.
+\oi Che'jach ya p'ip'iktyäl ibäk' jiñi ich.
 \to Así de pequeña es la pepita del chile.
 \dt 22/May/2007
 
@@ -18199,7 +18199,7 @@
 \lx p'ojlesañ
 \cg vt
 \tl aumentar
-\oi Ibajñel jach woli ip'ojlesañ iye'tyel.
+\oi Ibajñeljach woli ip'ojlesañ iye'tyel.
 \to Él solo está aumentando su trabajo.
 \dt 22/May/2007
 
@@ -18330,7 +18330,7 @@
 \lx p'ul
 \cg adj
 \tl amontonado
-\oi Ya' jach tsa' ip'ul käyä jiñi xajlel.
+\oi Ya'jach tsa' ip'ul käyä jiñi xajlel.
 \to Ahí dejó nada más amontonadas las piedras.
 \dt 22/May/2007
 
@@ -18494,7 +18494,7 @@
 \lx kep
 \cg adv
 \tl pendiente
-\oi Mu' jach ikep käy ichobal.
+\oi Mu'jach ikep käy ichobal.
 \to Únicamente deja pendiente su rozadura.
 \dt 05/Jun/2007
 
@@ -18522,7 +18522,7 @@
 \lx keptyäl
 \cg vi
 \tl quedar pendiente
-\oi Ya' jach mi ikeptyäl ichobalba' jaxäl.
+\oi Ya'jach mi ikeptyäl ichobalba' jaxäl.
 \to La rozadura queda pendiente allí en donde termina su terreno
 \dt 22/May/2007
 
@@ -18587,7 +18587,7 @@
 \to La cadena viene sonando cuando la traemos jalando.
 \dt 05/Jun/2007
 
-\lx kiliñ_wuluj
+\lx kiliñ wuluj
 \cg adv
 \dd Se relaciona con el ruido de un objeto al caer; p. ej.:
 \oi Kiliñ wuluj tsa' yajli jiñi kaxatye'.
@@ -18721,7 +18721,7 @@
 \cg vt
 \tl levantar
 \ca el pie
-\oi Woli jach ik'echulañ letsel iyok.
+\oi Wolijach ik'echulañ letsel iyok.
 \to Sólo está levantando su pie hacia arriba.
 \dt 22/May/2007
 
@@ -18731,7 +18731,7 @@
 \tl hacer a un lado
 \dt 22/May/2007
 
-\lx k'ejcheñ_k'ejcheñ
+\lx k'ejcheñ k'ejcheñ
 \cg adv
 \tl cojeando
 \oi K'ejcheñ k'ejcheñ che' mi icha'leñ xämbal.
@@ -18786,7 +18786,7 @@
 \tl reloj
 \dt 22/May/2007
 
-\lx k'el_pañimil
+\lx k'el pañimil
 \cg vt
 \tl nacer
 \vdn Sab., Tila
@@ -18799,7 +18799,7 @@
 \ca mamífero
 \dt 22/May/2007
 
-\lx k'e_tyo_sajl
+\lx k'etyo sajl
 \nd Sab.
 \tl de nada (respuesta después que se dice “gracias”)
 \dt 11/Jan/2008
@@ -18882,7 +18882,7 @@
 \tl día
 \dt 22/May/2007
 
-\lx k'iñi_ja'lel
+\lx k'iñi ja'lel
 \cg adj
 \tl temporada de lluvia
 \dt 11/Jan/2008
@@ -18914,11 +18914,11 @@
 \to La noche está clara porque ya hay luna.
 \dt 22/May/2007
 
-\lx k'iñ_tyuñil
+\lx k'iñ tyuñil
 \tl tiempo de seca
 \dt 11/Jan/2008
 
-\lx k'iñ_tyuñimuty
+\lx k'iñ tyuñimuty
 \tl cuco bobo, cuclillo chiflador
 \ca ave
 \dt 04/Feb/2008
@@ -18947,7 +18947,7 @@
 \to El agua para chamuscar el cerdo está caliente.
 \dt 22/May/2007
 
-\lx k'ixiñ_pañimil
+\lx k'ixiñ pañimil
 \tl hacer calor
 \oi Wolix ichäk'añ kajpe' cha'añ k'ixiñ pañimil.
 \to El café está madurándose porque hace calor.
@@ -18966,7 +18966,7 @@
 \to Está calentando el agua.
 \dt 22/May/2007
 
-\lx k'ix_k'iñ
+\lx k'ix k'iñ
 \cg vi
 \tl asolearse
 \oi Jiñi xñox woli tyi k'ix k'iñ.
@@ -19128,7 +19128,7 @@
 \lx *sajl
 \cg s
 \tl migaja
-\oi Isajl jach waj tsa' iyäk'eyoñ.
+\oi Isajljach waj tsa' iyäk'eyoñ.
 \to Solamente me dio las migajas de las tortillas.
 \su *sajl tye'
 \ts astilla de palo
@@ -19141,10 +19141,10 @@
 \to Se fue desde hoy.
 \dt 22/May/2007
 
-\lx saj_ora
+\lx saj ora
 \nd Sab.
 \tl luego
-\oi Saj ora jach tsajñiyob tyi tyejklum.
+\oi Saj orajach tsajñiyob tyi tyejklum.
 \to Luego fueron al pueblo.
 \re tyi ora
 \dt 11/Jan/2008
@@ -19249,7 +19249,7 @@
 \lx säkchaxañ
 \cg adj
 \tl blanco
-\oi Ibäkel jach jiñi kawayu' säkchaxañ tsa' käle.
+\oi Ibäkeljach jiñi kawayu' säkchaxañ tsa' käle.
 \to Solamente los huesos del caballo quedaron blancos.
 \dt 22/May/2007
 
@@ -19268,7 +19268,7 @@
 \to Vamos a donde haya claridad (cuando está en oscuridad una casa).
 \dt 31/May/2007
 
-\lx säk_jilel
+\lx säk jilel
 \cg vt
 \tl desaparecer
 \oi Wolix isäk jilel its'ijbal ibujk.
@@ -19380,7 +19380,7 @@
 \to Está bien limpia nuestra casa.
 \dt 22/May/2007
 
-\lx säkp'ilañ_pañchañ
+\lx säkp'ilañ pañchañ
 \cg s
 \tl nubes altas y delgadas a distintos niveles
 \dt 11/Jan/2008
@@ -19448,7 +19448,7 @@
 \to Esa roca blanca se ve desde lejos.
 \dt 22/May/2007
 
-\lx säk_waj
+\lx säk waj
 \tl maíz blanco
 \dt 14/Jan/2008
 
@@ -19536,7 +19536,7 @@
 \lx sämäkña
 \cg adj
 \tl ondeando
-\oi Juñsujm jachbä' sämäkña woli iñijkañ ibä jiñi ja'.
+\oi Juñsujmjachbä' sämäkña woli iñijkañ ibä jiñi ja'.
 \to El agua está ondeando tranquilamente en un sólo lugar.
 \dt 22/May/2007
 
@@ -19548,7 +19548,7 @@
 \to El agua está quieta.
 \dt 22/May/2007
 
-\lx sämlaw_i_yik'añ
+\lx sämlaw iyik'añ
 \tl oscuro
 \oi Sämlaw iyik'añ tsa' juliyoñ tyi kotyoty.
 \to Llegué a mi casa cuando ya estaba oscuro.
@@ -19575,7 +19575,7 @@
 \ca alambre, soga
 \dt 22/May/2007
 
-\lx säpäty_yopom
+\lx säpäty yopom
 \tl hoja de pozol
 \dt 11/Jan/2008
 
@@ -19595,11 +19595,11 @@
 \to El río ya está bajo.
 \dt 04/Feb/2008
 
-\lx *säkel_tyumuty
+\lx *säkel tyumuty
 \tl clara de huevo
 \dt 14/Jan/2008
 
-\lx säkix_i_jol
+\lx säkix ijol
 \tl cabeza blanca
 \dt 11/Jan/2008
 
@@ -19608,18 +19608,18 @@
 \tl blanco
 \dt 22/May/2007
 
-\lx säsäk_k'ätsats
+\lx säsäk k'ätsats
 \tl papausa, ilama
 \ca árbol frutal
 \dib Anona.tif
 \dt 16/Apr/2009
 
-\lx säsäk_tye'
+\lx säsäk tye'
 \tl árbol de madera blanca
 \ca se utiliza para muebles y leña
 \dt 11/Jan/2008
 
-\lx säsäk_uch'
+\lx säsäk uch'
 \tl piojos del cuerpo
 \dt 11/Jan/2008
 
@@ -19685,7 +19685,7 @@
 \lx sejb
 \cg adj
 \tl liviano
-\oi Sejb jach ikuch kmula.
+\oi Sejbjach ikuch kmula.
 \to La carga de mi mula está liviana.
 \dt 22/May/2007
 
@@ -19822,7 +19822,7 @@
 \to El zacate está amarrado en manojos.
 \dt 22/May/2007
 
-\lx ses_p'ok
+\lx ses p'ok
 \tl salamandra
 \dt 11/Jan/2008
 
@@ -19930,7 +19930,7 @@
 \to Terminó de limpiar su cañal.
 \dt 22/May/2007
 
-\lx *sik'bal_ixim
+\lx *sik'bal ixim
 \tl palo o tallo (de maíz)
 \dt 14/Jan/2008
 
@@ -19997,7 +19997,7 @@
 \hm 1
 \cg adj
 \tl angosto
-\oi Silikña jach jiñi tyabla.
+\oi Silikñajach jiñi tyabla.
 \to Esta tabla está angosta.
 \dt 22/May/2007
 
@@ -20049,7 +20049,7 @@
 \dib ins126b.tif
 \dt 16/Apr/2009
 
-\lx siñañ_ak'
+\lx siñañ ak'
 \cg s
 \tl bejuco de alacrán
 \cu Información cultural: Si uno está sudando y toca el bejuco, la piel arde mucho.
@@ -20270,7 +20270,7 @@
 \to La olla de frijoles está burbujeante porque está hirviendo.
 \dt 22/May/2007
 
-\lx *sos_muty
+\lx *sos muty
 \tl molleja
 \dt 14/Jan/2008
 
@@ -20310,7 +20310,7 @@
 \tl tripa
 \dt 22/May/2007
 
-\lx stsaja_tyuñ
+\lx stsaja tyuñ
 \tl chaya pica
 \ca hierba que produce ronchas ardientes
 \dt 11/Jan/2008
@@ -20351,7 +20351,7 @@
 \ca árbol
 \dt 05/Feb/2008
 
-\lx stsuk_bajlum
+\lx stsukbajlum
 \cg s
 \tl leoncillo, jaguarundi
 \ca mamífero
@@ -20374,7 +20374,7 @@
 \cu Información cultural: El curandero frota el cuerpo del enfermo con agua y hierbas. Sopla el epazote. Mata un puerco, ave o pollo. Usa el caldo para soplarle al enfermo.
 \dt 30/May/2007
 
-\lx sts'äptye'_bu'ul
+\lx sts'äptye' bu'ul
 \tl frijol de vara
 \dt 14/Jan/2008
 
@@ -20471,7 +20471,7 @@
 \ac 1
 \tl cáscara
 \ca de arroz, café, frijol, maíz
-\oi Tsa' jach käle isujl bu'ul.
+\oi Tsa'jach käle isujl bu'ul.
 \to Solamente quedó la cáscara del frijol.
 \ac 2
 \tl escama
@@ -20486,7 +20486,7 @@
 
 \lx -sujm
 \dd Sufijo numeral para contar cosas de la misma sustancia o pieza; p. ej.:
-\oi Juñsujm jach lakpislel.
+\oi Juñsujmjach lakpislel.
 \to Nuestras telas son de la misma pieza.
 \dt 11/Jan/2008
 
@@ -20614,12 +20614,12 @@
 \to El chamaco está dando vueltas.
 \dt 22/May/2007
 
-\lx sutyuty_ik'
+\lx sutyuty ik'
 \cg s
 \tl remolino de viento
 \dt 11/Jan/2008
 
-\lx suty'_kächbil
+\lx suty' kächbil
 \cg adj
 \tl amarrado
 \ca un rollo
@@ -20640,7 +20640,7 @@
 \tl murciélago
 \dt 22/May/2007
 
-\lx suts'atyax_i_wuty
+\lx suts'atyax iwuty
 \tl tiene sueño
 \ca lit.: tiene cara de murciélago; porque el murciélago duerme con la cabeza para abajo
 \dt 11/Jan/2008
@@ -20791,7 +20791,7 @@
 \tl tambor
 \dt 22/May/2007
 
-\lx tyame_ch'ijty
+\lx tyame ch'ijty
 \cg s
 \tl tzumi
 \ca reg.; árbol
@@ -20837,12 +20837,12 @@
 \ts metal
 \dt 22/May/2007
 
-\lx tyak'iñ_ch'ijty
+\lx tyak'iñ ch'ijty
 \tl caimito
 \ca árbol
 \dt 11/Jan/2008
 
-\lx tyak'iñ_pimel
+\lx tyak'iñ pimel
 \tl planta que se tiende en el suelo
 \cu Información cultural: Sirve para compresas en heridas. Se dice que cuando se crían tumores en el cuerpo, se puede despedazar en una jícara con agua. Luego se envuelve la herida y el hierbatero lo amarra, y así se cura.
 \dt 11/Jan/2008
@@ -20956,7 +20956,7 @@
 \to Mi escopeta está muy oxidada.
 \dt 22/May/2007
 
-\lx *tya'_tyokal
+\lx *tya'tyokal
 \cg s
 \tl neblina
 \dt 14/Jan/2008
@@ -21044,7 +21044,7 @@
 \tl venir
 \re tyilel
 
-\lx tyäñäl_k'ajk
+\lx tyäñäl k'ajk
 \tl ceniza
 \dt 11/Jan/2008
 
@@ -21144,7 +21144,7 @@
 \to Está levantando su cama.
 \dt 22/May/2007
 
-\lx tyech_ty'añ
+\lx tyech ty'añ
 \nd Sab.
 \cg vt
 \tl buscar pleito
@@ -21206,7 +21206,7 @@
 \tl banca
 \dt 22/May/2007
 
-\lx *tyem_cha'añ
+\lx *tyem cha'añ
 \tl colectivo
 \oi Jiñi kajpe'lel ityem cha'añ wiñikob.
 \to Este es un cafetal colectivo.
@@ -21310,7 +21310,7 @@
 \tl árbol, palo, madera
 \dt 22/May/2007
 
-\lx tye'_bu'ul
+\lx tye' bu'ul
 \cg s
 \tl varita para que suba el frijol
 \dt 14/Jan/2008
@@ -21376,7 +21376,7 @@
 \to Usó agua caliente para batir su pozol.
 \dt 22/May/2007
 
-\lx tyikäw_pañimil
+\lx tyikäw pañimil
 \tl hace calor
 \dt 14/Jan/2008
 
@@ -21554,7 +21554,7 @@
 \vdl tyälel
 \dt 09/Jan/2008
 
-\lx tyilel_bixel_lak_pusik'al
+\lx tyilel bixel lakpusik'al
 \tl inconstante
 \oi Mach yomik tyilel bixel lakpusik'al.
 \to No debemos ser inconstantes.
@@ -21588,7 +21588,7 @@
 \tl agacharse, inclinarse
 \dt 22/May/2007
 
-\lx tyi_ora
+\lx tyi ora
 \cg adv
 \tl luego, de inmediato
 \oi Tyi ora mi icha' sujtyel.
@@ -21718,7 +21718,7 @@
 \ts grieta
 \dt 22/May/2007
 
-\lx Tyokol_ja'
+\lx Tyokol ja'
 \tl Vertiente de la Apertura
 \ca nombre de lugar
 \dt 11/Jan/2008
@@ -21861,7 +21861,7 @@
 \lx tyojtyojil
 \cg vi
 \tl agotarse
-\oi Tyojtyojil jach iyixim jujump'ejl k'iñ.
+\oi Tyojtyojiljach iyixim jujump'ejl k'iñ.
 \to Cada día se le agota su maíz.
 \dt 22/May/2007
 
@@ -22057,9 +22057,9 @@
 \tl un tipo de oruga
 \dt 06/Feb/2008
 
-\lx tyo'ol_jach
+\lx tyo'oljach
 \tl en vano
-\oi Tyo'ol jach tsa' imele iyotyoty mi ma'añik woli ik'äñ.
+\oi Tyo'oljach tsa' imele iyotyoty mi ma'añik woli ik'äñ.
 \to En vano hizo su casa si no la está usando.
 \dt 11/Jan/2008
 
@@ -22135,7 +22135,7 @@
 \ca colonia
 \dt 22/May/2007
 
-\lx tyuk'o'_bij
+\lx tyuk'o' bij
 \cg s
 \tl vereda
 \dt 14/Jan/2008
@@ -22152,7 +22152,7 @@
 \cu Información cultural: Produce hinchazón y calentura; se encuentra en tierra caliente.
 \dt 22/May/2007
 
-\lx tyuch_pajch'
+\lx tyuch pajch'
 \cg s
 \tl piña chica
 \dt 11/Jan/2008
@@ -22254,11 +22254,11 @@
 \tl nombre de un río
 \dt 22/May/2007
 
-\lx *tyul_mal_tye'
+\lx *tyul mal tye'
 \tl corazón del árbol
 \dt 14/Jan/2008
 
-\lx tyul_mek'
+\lx tyul mek'
 \cg vt
 \tl abrazar
 \oi Jiñi kaxlañob mi ityul mek'ob ibä.
@@ -22335,7 +22335,7 @@
 \tl granizo, hielo
 \dt 22/May/2007
 
-\lx *tyuñil_la_kok
+\lx *tyuñil lakok
 \tl talón
 \dt 14/Jan/2008
 
@@ -22422,7 +22422,7 @@
 \cg s
 \ac 1
 \tl palabra
-\oi Pejtyel ora jiñi jachbä ty'añ mi iyäl.
+\oi Pejtyel ora jiñijachbä ty'añ mi iyäl.
 \to Siempre dice la misma palabra.
 \ac 2
 \tl idioma
@@ -22468,7 +22468,7 @@
 \lx *ty'ejl
 \cg s
 \tl lado
-\oi Ya jach chumul tyi' ty'ejl kotyoty.
+\oi Yajach chumul tyi' ty'ejl kotyoty.
 \to Él vive al lado de mi casa.
 \dt 14/Jan/2008
 
@@ -22614,7 +22614,7 @@
 \to Va a dividir su terreno.
 \dt 22/May/2007
 
-\lx ty'ox_ja'
+\lx ty'ox ja'
 \cg s
 \tl arco iris
 \dt 11/Jan/2008
@@ -22735,7 +22735,7 @@
 \to Es dulce el café.
 \dt 22/May/2007
 
-\lx tsaja_bul'ich
+\lx tsaja bul'ich
 \cg s
 \tl salpullido
 \ca Erupción cutánea que se produce en tiempo de sequía y calor, cuando no se baña uno diario.
@@ -22916,7 +22916,7 @@
 \to Debes ponerle agua fría al pozol.
 \dt 22/May/2007
 
-\lx tsäñä_wäyel
+\lx tsäñä wäyel
 \cg vi
 \tl dormir sin cobija
 \ca sufriendo el frío
@@ -22947,14 +22947,14 @@
 \to A mi hermano se le dio un trabajo responsable.
 \dt 22/May/2007
 
-\lx tsätsä_bichil
+\lx tsätsä bichil
 \cg adj
 \tl tieso
 \oi Tsätsä bichil ik'äb.
 \to Tiene tiesa la mano.
 \dt 11/Jan/2008
 
-\lx tsätsä_ñu'ty'ul
+\lx tsätsä ñu'ty'ul
 \cg adj
 \tl reducido
 \oi Tsäts ñuty'ul jax jiñi kotyoty.
@@ -22968,7 +22968,7 @@
 \to Esa tierra es muy dura (lit.: tiene dureza).
 \dt 14/Jan/2008
 
-\lx tsäwañ_pañimil
+\lx tsäwañ pañimil
 \tl tierra fría
 \dt 11/Jan/2008
 
@@ -23009,7 +23009,7 @@
 \to Su corazón es tacaño por no querer prestar su mula.
 \dt 22/May/2007
 
-\lx tsejluk_ak'
+\lx tsejluk ak'
 \tl bejuco de uva
 \dt 11/Jan/2008
 
@@ -23032,7 +23032,7 @@
 \ca reptil
 \dt 22/May/2007
 
-\lx *tsel_muty
+\lx *tsel muty
 \cg s
 \tl cresta de pájaro o gallo
 \dt 14/Jan/2008
@@ -23079,7 +23079,7 @@
 \ac 2
 \cg s
 \tl mes
-\oi Ora jach woli iñumel tyak majlel jiñi tsik.
+\oi Orajach woli iñumel tyak majlel jiñi tsik.
 \to Muy pronto están pasando los meses.
 \su tsik pusik'al
 \ts preocupación
@@ -23354,7 +23354,7 @@
 \ca mamífero
 \dt 22/May/2007
 
-\lx tsuk_bajlum
+\lx tsukbajlum
 \tl ocelote, tigrillo
 \ca mamífero
 \dib ala031v.tif
@@ -23369,7 +23369,7 @@
 \cg vi
 \tl pasar
 \ca de casa en casa
-\oi Tsuktsukñiyel jach mi icha'leñ jiñi x'ixik.
+\oi Tsuktsukñiyeljach mi icha'leñ jiñi x'ixik.
 \to A esa mujer solo le gusta pasar de casa en casa.
 \dt 22/May/2007
 
@@ -23419,7 +23419,7 @@
 \hm 1
 \cg adv
 \dd Se relaciona con la manera de introducir una cosa delgada; p. ej.:
-\oi Tsa' jach itsuk' ts'aja ik'äb tyi tyikäw ja'.
+\oi Tsa'jach itsuk' ts'aja ik'äb tyi tyikäw ja'.
 \to Sólo mojó la punta de su dedo en el agua caliente.
 \dt 22/May/2007
 
@@ -23456,9 +23456,9 @@
 \ca verde oscuro que se cría en la corteza de algunos árboles
 \dt 14/Jan/2008
 
-\lx *tsukil_ixim
+\lx *tsukil ixim
 \tl sobras del ratón
-\oi Jiñi jachix itsukil ixim tsa käle.
+\oi Jiñijachix itsukil ixim tsa käle.
 \to Del maíz solamente quedaron las sobras del ratón.
 \dt 14/Jan/2008
 
@@ -23487,7 +23487,7 @@
 \to Quiere que lleves una chamarra cuando vayas a Las Casas.
 \dt 22/May/2007
 
-\lx tsuts_chikiñ
+\lx tsuts chikiñ
 \cg s
 \tl tipo de hongo
 \ca de color café arriba y blanco abajo, que se cría en los árboles; se come cuando está brotando
@@ -23613,7 +23613,7 @@
 \cg vt
 \tl remojar
 \ca la cabeza
-\oi Woli jach its'ajts'añ ijol.
+\oi Wolijach its'ajts'añ ijol.
 \to Sólo se está remojando la cabeza.
 \dt 22/May/2007
 
@@ -23785,7 +23785,7 @@
 \cg adj
 \tl tranquilo
 \ca agua, río
-\oi Ts'ämäl jach añ jiñi ja'.
+\oi Ts'ämäljach añ jiñi ja'.
 \to El agua está tranquila.
 \dt 22/May/2007
 
@@ -23796,7 +23796,7 @@
 \to Uso agua fría para mi baño.
 \dt 22/May/2007
 
-\lx ts'ämi'_chityam
+\lx ts'ämi ichityam
 \tl bañadero de puerco
 \dt 14/Jan/2008
 
@@ -23894,13 +23894,13 @@
 \to Me caí de lado.
 \dt 22/May/2007
 
-\lx ts'ej_ñolol
+\lx ts'ej ñolol
 \tl acostado de lado
 \oi Ts'ej ñolol tyi' wäyib jiñi ch'ityoñ.
 \to Ese muchacho está acostado de lado en su cama.
 \dt 11/Jan/2008
 
-\lx ts'ej_ñoltyäl
+\lx ts'ej ñoltyäl
 \tl acostarse de lado
 \oi Mi kaj kts'ej ñoltyäl ilatyi wäyibäl.
 \to Me voy a acostar de lado en esta cama.
@@ -23909,7 +23909,7 @@
 \lx *ts'ejtyäl
 \cg s
 \tl lado
-\oi Jiñi kchol ya' jach tsak mele tyi' ts'ejtyäl jkajpe'lel.
+\oi Jiñi kchol ya'jach tsak mele tyi' ts'ejtyäl jkajpe'lel.
 \to Hice mi milpa al lado de mi cafetal.
 \dt 14/Jan/2008
 
@@ -24076,7 +24076,7 @@
 \tl chiquitín
 \dt 22/May/2007
 
-\lx ts'ir_bu'ul
+\lx ts'ir bu'ul
 \tl tipo de frijol chico
 \dt 11/Jan/2008
 
@@ -24148,7 +24148,7 @@
 \lx ts'obokña
 \cg adj
 \tl humeante
-\oi Ts'obokña jach ibuts'il jiñi cholel; ma'añik woli tyi pulel.
+\oi Ts'obokñajach ibuts'il jiñi cholel; ma'añik woli tyi pulel.
 \to La milpa sólo está humeante; no está quemándose.
 \dt 22/May/2007
 
@@ -24217,7 +24217,7 @@
 \to El árbol está torcido.
 \dt 22/May/2007
 
-\lx ts'otyol_metyel
+\lx ts'otyol metyel
 \tl torcido
 \oi Ts'otyol metyel jiñi bij.
 \to Ese camino está muy torcido.
@@ -24320,7 +24320,7 @@
 \cg adj
 \tl poquito
 \ca líquido
-\oi Che' jach ya ts'ujtyäl mi ijap sa'.
+\oi Che'jach ya ts'ujtyäl mi ijap sa'.
 \to Toma sólo un poquito de pozol.
 \dt 22/May/2007
 
@@ -24427,11 +24427,11 @@
 \lx ts'u'
 \cg vt
 \tl chupar
-\oi Che' jach yik'oty ipaty woli its'u' jiñi alaxax.
+\oi Che'jach yik'oty ipaty woli its'u' jiñi alaxax.
 \to Está chupando la naranja con la cáscara.
 \dt 22/May/2007
 
-\lx ts'u'_chab
+\lx ts'u' chab
 \tl oso hormiguero, chupamiel
 \ca mamífero
 \dt 14/Jan/2008
@@ -24443,7 +24443,7 @@
 \to No se fue a trabajar por flojera.
 \dt 14/Jan/2008
 
-\lx ts'u'_lukum
+\lx ts'u' lukum
 \tl tipo de pájaro con pico largo
 \ca Tiene la cabeza blanca y amarilla, el cuerpo negro y amarillo arriba, y blanco abajo. Las alas son negras y amarillas, la cola verde y negra, y los pies blancos. Se encuentra en tierra fría.
 \dt 14/Jan/2008
@@ -24658,7 +24658,7 @@
 \to La muchacha besa la mano de la mujer.
 \dt 22/May/2007
 
-\lx ujux_chaxtyäl_k'iñ
+\lx ujux chaxtyäl k'iñ
 \tl ¡mira qué alto está ya el sol!
 \dt 11/Jan/2008
 
@@ -24725,13 +24725,13 @@
 \tl mudo
 \dt 22/May/2007
 
-\lx um_ba'añ
+\lx umba'añ
 \tl aquí está
 \oi Umba'añ awaj.
 \to Aquí están tus tortillas.
 \dt 11/Jan/2008
 
-\lx *um_ja'
+\lx *um ja'
 \cg vt
 \tl enjuagar
 \ca la boca
@@ -24758,7 +24758,7 @@
 \ca árbol
 \dt 05/Sep/2007
 
-\lx uñ_tsa'
+\lx uñ tsa'
 \tl aquí está, mira
 \oi Uñ tsa' mi atsa' awomik.
 \to ¡Mira!, ya ves que no quieres.
@@ -24876,7 +24876,7 @@
 \to Hay que cortar los palos para horcones cuando la luna se muere.
 \ac 2
 \tl mes
-\oi Jiñi cholel mi ikolel tyi cha'p'ejl jach uw.
+\oi Jiñi cholel mi ikolel tyi cha'p'ejljach uw.
 \to La milpa crece en sólo dos meses.
 \su iyuwil
 \cs s
@@ -25200,7 +25200,7 @@
 \to Está rodando una piedra del cerro.
 \dt 22/May/2007
 
-\lx way_ja'as
+\lx way ja'as
 \cg s
 \tl zapote
 \ca árbol
@@ -25227,7 +25227,7 @@
 \lx wa'al
 \cg adj
 \tl parado
-\oi Ibajñel jach ya' wa'al.
+\oi Ibajñeljach ya' wa'al.
 \to Él solo está parado.
 \dt 22/May/2007
 
@@ -25315,7 +25315,7 @@
 \to Él mismo se cortó.
 \dt 22/May/2007
 
-\lx wäläk_paty_ok
+\lx wäläk paty ok
 \tl espíritu malo
 \cu Información cultural: Se dice que es peligroso quedarse solo en la casa o en el camino, porque el <wʌlʌc pat oc> viene hablando y muerde la punta de nuestra lengua de la cual emana cantidad de sangre. Después nos deja muertos. Sucede que el mismo espíritu aparece en la selva como perdiz, chachalaca, etc. Entonces la persona va siguiendo al animal con el fin de cazarlo, pero no se imagina que al estar siguiéndolo queda desorientado, sin saber por dónde seguir.
 \dt 11/Jan/2008
@@ -25334,7 +25334,7 @@
 \to Nuestros compañeros nos critican.
 \dt 22/May/2007
 
-\lx wälwäl_ty'añ
+\lx wälwäl ty'añ
 \tl murmuración
 \dt 11/Jan/2008
 
@@ -25487,7 +25487,7 @@
 \to Así de ancha es la puerta de mi casa.
 \dt 22/May/2007
 
-\lx wech_wech
+\lx wech wech
 \tl ancho
 \oi Wech wech lamiña.
 \to Esa lámina es muy ancha.
@@ -25530,7 +25530,7 @@
 \to El pájaro ya no puede volar porque se le quebró el ala.
 \dt 22/May/2007
 
-\lx *wejlib_ja'
+\lx *wejlib ja'
 \tl caída de agua
 \dt 14/Jan/2008
 
@@ -25758,7 +25758,7 @@
 \tl carne
 \tl alimento
 
-\lx *we'el_chajk
+\lx *we'el chajk
 \tl tipo de gusano
 \ca de aproximadamente doce centímetros de largo y con muchos pies
 \dt 07/Feb/2008
@@ -25812,7 +25812,7 @@
 \lx wijwis
 \cg adv
 \tl en pedacitos
-\oi Mu' jach iwijwis k'ux iwaj.
+\oi Mu'jach iwijwis k'ux iwaj.
 \to Solamente come tortilla en pedacitos.
 \dt 22/May/2007
 
@@ -25897,7 +25897,7 @@
 \lx wity
 \cg adv
 \tl manera de caer
-\oi Tsa' awity yajli tyi' jol otyoty.
+\oi Tsa' awityy yajli tyi' jol otyoty.
 \to Se cayó del techo de la casa.
 \dt 22/May/2007
 
@@ -25928,7 +25928,7 @@
 \cg adj
 \tl amontonado
 \ca maíz, café, frijol
-\oi Witsikña jach woli tyi p'ajtyel ixim tyi lum.
+\oi Witsikñajach woli tyi p'ajtyel ixim tyi lum.
 \to Amontonado se cae el maíz.
 \dt 22/May/2007
 
@@ -25996,7 +25996,7 @@
 \to Está enfermo (lit.: tiene enfermedad), pues está tosiendo mucho.
 \dt 31/May/2007
 
-\lx wokolix_a_wälä
+\lx wokolix awälä
 \tl gracias
 \su awokolik
 \cs part
@@ -26060,9 +26060,9 @@
 \to En la tienda compramos una botella de Aceite Triunfo.
 \dt 11/Jan/2008
 
-\lx wojlel_jach
+\lx wojleljach
 \tl de vez en cuando
-\oi Wojlel jach mi ityilel ktatuch.
+\oi Wojleljach mi ityilel ktatuch.
 \to De vez en cuando viene mi abuelo.
 \dt 11/Jan/2008
 
@@ -26110,11 +26110,11 @@
 \vdl yäkel
 \dt 22/May/2007
 
-\lx wolix_i_bäjlel_k'iñ
+\lx wolix ibäjlel k'iñ
 \tl ya se está poniendo el sol
 \dt 11/Jan/2008
 
-\lx wolix_tyi_pasel_k'iñ
+\lx wolix tyi pasel k'iñ
 \tl ya está saliendo el sol
 \dt 11/Jan/2008
 
@@ -26129,7 +26129,7 @@
 \cg vt
 \tl molestar
 \ca con palabras
-\oi Jatyety jach woli awolts'iñoñ tyi ty'añ.
+\oi Jatyetyjach woli awolts'iñoñ tyi ty'añ.
 \to Tú me estás molestando con palabras.
 \dt 22/May/2007
 
@@ -26368,7 +26368,7 @@
 \to Esos hombres están hablando en murmullo.
 \dt 22/May/2007
 
-\lx wulwul_ty'añ
+\lx wulwul ty'añ
 \tl regañada
 \oi Woli tyi chäñ wulwul ty'añ tyi' koñtyra ipi'äl.
 \to Está dándole una regañada a su compañero.
@@ -26506,7 +26506,7 @@
 \vdl tyuñ
 \dt 22/May/2007
 
-\lx xajlelal_pa'
+\lx xajlelal pa'
 \tl piedras de arroyo
 \dt 11/Jan/2008
 
@@ -26551,7 +26551,7 @@
 \to Las patas de la vaca están separadas.
 \dt 21/Feb/2008
 
-\lx xaty_wa'al
+\lx xaty wa'al
 \tl parado con los pies separados
 \oi Xaty wa'al jiñi wiñik tyi pam otyoty.
 \to El hombre está parado afuera de la casa con los pies separados.
@@ -26698,7 +26698,7 @@
 \tl criatura
 \dt 22/May/2007
 
-\lx xbäk_ch'ip
+\lx xbäk ch'ip
 \tl tipo de palma sin espinas
 \ca chocón, chapalla
 \dt 11/Jan/2008
@@ -26725,7 +26725,7 @@
 \tl cola larga de gallina o gallo
 \dt 22/May/2007
 
-\lx xboch_jol
+\lx xboch jol
 \tl capulinero
 \ca ave
 \dt 11/Jan/2008
@@ -26758,7 +26758,7 @@
 \re kajkaña
 \dt 22/May/2007
 
-\lx xkañso_pech
+\lx xkañso pech
 \cg s esp
 \tl ganso de collar
 \ca ave
@@ -26786,7 +26786,7 @@
 \tl cuidador
 \dt 22/May/2007
 
-\lx xkäñä_aläl
+\lx xkäñä aläl
 \tl la que cuida una criatura
 \dt 11/Jan/2008
 
@@ -26807,11 +26807,11 @@
 \cg s
 \ac 1
 \tl ayudante
-\oi Jiñi xch'okbä kalobil jiñi jach juñtyikil xkoltyaya kcha'añ.
+\oi Jiñi xch'okbä kalobil jiñijach juñtyikil xkoltyaya kcha'añ.
 \to Mi ayudante es mi hija.
 \ac 2
 \tl salvador
-\oi Ma'añik tsa' chämi jiñi wiñik tsa'bä yajli tyi ja' kome ora jach tsa' tyili jiñi xkoltyaya ilok'sañ.
+\oi Ma'añik tsa' chämi jiñi wiñik tsa'bä yajli tyi ja' kome orajach tsa' tyili jiñi xkoltyaya ilok'sañ.
 \to Ese hombre que se cayó en el río no murió porque vino uno que lo salvó.
 \vdn Sab.
 \vdl ajkoltyaya
@@ -26883,7 +26883,7 @@
 \ca insecto chico
 \dt 22/May/2007
 
-\lx xk'ajk'äy_aty
+\lx xk'ajk'äy aty
 \tl mútila mora
 \ca tipo de insecto como avispa; grande, pica fuerte y tiene alas coloradas
 \vp xk'ajk'äy'aty
@@ -26944,7 +26944,7 @@
 \tl persona con hueso quebrado
 \dt 22/May/2007
 
-\lx xk'ok'_chij
+\lx xk'ok' chij
 \tl conjoyo
 \tl izote
 \ca árbol
@@ -26968,7 +26968,7 @@
 \ca arbusto que da fruta colorada
 \dt 22/May/2007
 
-\lx xk'ux_tsuk
+\lx xk'ux tsuk
 \tl coralillo
 \ca víbora
 \dib asg002v.tif
@@ -26999,12 +26999,12 @@
 \ca planta
 \dt 22/May/2007
 
-\lx xchäkäl_aty
+\lx xchäkäl aty
 \cg s
 \tl tipo de insecto
 \dt 11/Jan/2008
 
-\lx xchäk_chab_ixim
+\lx xchäk chab ixim
 \tl maíz negro
 \dt 11/Jan/2008
 
@@ -27014,7 +27014,7 @@
 \ca de madera colorada y dura, con fruta amarga
 \dt 22/May/2007
 
-\lx xchäk_jalä'tye'
+\lx xchäk jalä'tye'
 \tl tipo de árbol
 \ca sirve para postes y leña
 \dt 11/Jan/2008
@@ -27083,7 +27083,7 @@
 \tl sacristán
 \dt 22/May/2007
 
-\lx xchu'_bu'ul
+\lx xchu' bu'ul
 \tl tipo de frijol grande
 \dt 14/Jan/2008
 
@@ -27093,7 +27093,7 @@
 \ca tiene hojas como las de la palma
 \dt 22/May/2007
 
-\lx xch'aj_päm
+\lx xch'aj päm
 \tl pitorreal
 \tl tucancillo collarejo
 \ca ave
@@ -27153,7 +27153,7 @@
 \tl cualquier tipo de pajarito
 \dt 22/May/2007
 
-\lx xch'ix_pajch'
+\lx xch'ix pajch'
 \cg s
 \tl piñuela, piña silvestre
 \ca planta
@@ -27293,7 +27293,7 @@
 \tl peinar
 \dt 22/May/2007
 
-\lx xiba_yopom
+\lx xiba yopom
 \tl judas
 \cu Información cultural: figura que se cuelga durante la Semana Santa
 \dt 11/Jan/2008
@@ -27320,7 +27320,7 @@
 \to Él está obligando a su hijo a trabajar.
 \dt 22/May/2007
 
-\lx xik'_sajp
+\lx xik' sajp
 \tl jaguar, tigre americano
 \dib ala014s.tif
 \dt 16/Apr/2009
@@ -27409,7 +27409,7 @@
 \to Hice la troje en medio de mi milpa.
 \dt 22/May/2007
 
-\lx xiñ_pañchañ_uw
+\lx xiñ pañchañ uw
 \dd Se dice cuando la luna está en cuarto menguante.
 \dt 11/Jan/2008
 
@@ -27421,7 +27421,7 @@
 \lx xiñol
 \cg adj
 \tl mitad
-\oi Tyi' xiñol jach tsa' bujty'i tyi wiñikob jiñi otyoty.
+\oi Tyi' xiñoljach tsa' bujty'i tyi wiñikob jiñi otyoty.
 \to Nada más la mitad de la casa se llenó de gente.
 \dt 22/May/2007
 
@@ -27528,7 +27528,7 @@
 \ca ave grande
 \dt 22/May/2007
 
-\lx xjabi_bu'ul
+\lx xjabi bu'ul
 \tl frijol del año
 \dt 11/Jan/2008
 
@@ -27537,7 +27537,7 @@
 \tl obediente
 \dt 22/May/2007
 
-\lx xjol_max
+\lx xjol max
 \tl flor de corazón
 \tl yolosóchil
 \ca árbol
@@ -27574,7 +27574,7 @@
 \ca de aguardiente
 \dt 22/May/2007
 
-\lx xles_ak'
+\lx xles ak'
 \cg s
 \tl tartamudo
 \dt 11/Jan/2008
@@ -27585,7 +27585,7 @@
 \ca ave chica
 \dt 22/May/2007
 
-\lx xlok'_joläl
+\lx xlok' joläl
 \cg s
 \tl peluquero
 \dt 11/Jan/2008
@@ -27602,12 +27602,12 @@
 \cg s
 \tl testigo falso
 
-\lx xlo'_patye'
+\lx xlo' patye'
 \tl tipo de hongo
 \ca colorado, comestible
 \dt 14/Jan/2008
 
-\lx xlumil_bu'ul
+\lx xlumil bu'ul
 \cg s
 \tl frijol de tierra
 \dt 11/Jan/2008
@@ -27664,7 +27664,7 @@
 \tl larva del mosquito
 \dt 22/May/2007
 
-\lx xmel_waj
+\lx xmel waj
 \cg s
 \tl molendera
 \oi Jiñi xmel waj woli imel waj cha'añ mi ik'uxob jiñi x'e'tyelob.
@@ -27719,7 +27719,7 @@
 \tl tipo de grillo
 \dt 22/May/2007
 
-\lx xña'a_xu'
+\lx xña'a xu'
 \cg s
 \tl culebra arroyera
 \dib asg021.tif
@@ -27896,7 +27896,7 @@
 \to Da vuelta para no pasar en medio de la ranchería.
 \dt 22/May/2007
 
-\lx xoy_bij
+\lx xoy bij
 \cg s
 \tl vuelta
 \dt 11/Jan/2008
@@ -27932,7 +27932,7 @@
 \tl término de regaño
 \dt 22/May/2007
 
-\lx xpajtyo'_tsuk
+\lx xpajtyo' tsuk
 \tl tipo de uva silvestre con fruta colorada y agria
 \cu Información cultural: Se come el racimo de las frutitas; se mascan para tomar el jugo.
 \dt 14/Jan/2008
@@ -27993,15 +27993,15 @@
 \tl llamador
 \dt 22/May/2007
 
-\lx xpek'_ja'as
+\lx xpek' ja'as
 \tl plátano enano
 \dt 11/Jan/2008
 
-\lx xpech_bu'ul
+\lx xpech bu'ul
 \tl frijol pato
 \dt 11/Jan/2008
 
-\lx xpejka_xotyäl
+\lx xpejka xotyäl
 \tl hechicero
 \dt 11/Jan/2008
 
@@ -28048,7 +28048,7 @@
 \ca reg.; frijol grande y colorado
 \dt 22/May/2007
 
-\lx xpomaros_pätyal
+\lx xpomaros pätyal
 \tl pomarrosa
 \ca árbol
 \dt 11/Jan/2008
@@ -28091,7 +28091,7 @@
 \ca ave chica de color blanco, moteado de rojo
 \dt 22/May/2007
 
-\lx xpuy_ch'ajañ
+\lx xpuy ch'ajañ
 \cg s
 \tl talismecate
 \tl cuero de toro
@@ -28133,7 +28133,7 @@
 \dib abbb015.tif
 \dt 16/Apr/2009
 
-\lx xkeräch'_patye'
+\lx xkeräch' patye'
 \cg s
 \tl tipo de hongo negro
 \ca comestible
@@ -28155,7 +28155,7 @@
 \ts fiesta
 \dt 22/May/2007
 
-\lx xrokiñ_ok
+\lx xrokiñ ok
 \cg adj
 \tl cojo
 \dt 11/Jan/2008
@@ -28194,7 +28194,7 @@
 \ca tipo de insecto
 \dt 22/May/2007
 
-\lx xtye'_bu'ul
+\lx xtye' bu'ul
 \tl chícharo
 \ca tipo de hierba
 \dt 14/Jan/2008
@@ -28234,7 +28234,7 @@
 \ca ave; tiene la cabeza amarilla arriba y blanca abajo; la cola es amarilla y las patas blancas; es de tierra fría y anda solita
 \dt 31/May/2007
 
-\lx xtyuk'_kajpe'
+\lx xtyuk' kajpe'
 \cg s
 \tl cortador de café
 \dt 11/Jan/2008
@@ -28245,12 +28245,12 @@
 \ca fruta
 \dt 22/May/2007
 
-\lx xtyuch'_k'iñ
+\lx xtyuch' k'iñ
 \cg s
 \tl insecto palo, zacatón
 \dt 11/Jan/2008
 
-\lx xtyujk'atye'_wakax
+\lx xtyujk'atye' wakax
 \tl toro
 \dt 14/Jan/2008
 
@@ -28415,7 +28415,7 @@
 \cg s
 \tl mitad
 \ca vela
-\oi Xujty'om jach tsa' käle.
+\oi Xujty'omjach tsa' käle.
 \to Solamente quedó la mitad de la vela.
 \dt 22/May/2007
 
@@ -28530,12 +28530,12 @@
 \tl Cerro Firme, nombre de Tumbalá
 \dt 22/May/2007
 
-\lx xwak_che'e'
+\lx xwak che'e'
 \tl codorniz común
 \ca ave
 \dt 11/Jan/2008
 
-\lx xwak_ch'e'
+\lx xwak ch'e'
 \tl cojolita
 \ca ave
 \dt 11/Jan/2008
@@ -28553,11 +28553,11 @@
 \tl tipo de pájaro de color negro
 \dt 22/May/2007
 
-\lx xwach'_bu'ul
+\lx xwach' bu'ul
 \tl frijol de castilla
 \dt 11/Jan/2008
 
-\lx xwajch'_me'
+\lx xwajch' me'
 \tl venado colorado, temazate
 \dib ada021.tif
 \dt 16/Apr/2009
@@ -28592,7 +28592,7 @@
 \ca mamífero
 \dt 11/Jun/2007
 
-\lx xwets'_mula
+\lx xwets' mula
 \tl arriero
 \dt 11/Jan/2008
 
@@ -28649,7 +28649,7 @@
 \dib abbb017s.tif
 \dt 16/Apr/2009
 
-\lx xyäx_chup
+\lx xyäx chup
 \cg s
 \tl larva de mariposa
 \dt 11/Jan/2008
@@ -28660,7 +28660,7 @@
 \ca de madera blanca y flor verde
 \dt 22/May/2007
 
-\lx xyäx_p'ok
+\lx xyäx p'ok
 \cg s
 \tl lagartija de color verde
 \dt 11/Jan/2008
@@ -28670,7 +28670,7 @@
 \tl tipo de bejuco
 \dt 22/May/2007
 
-\lx xyok_muty_patye'
+\lx xyok muty patye'
 \cg s
 \tl hongo
 \dt 08/Feb/2008
@@ -28715,13 +28715,13 @@
 \tl persona que está corriendo
 \dt 22/May/2007
 
-\lx x'al_mis
+\lx x'al mis
 \cg s
 \tl viborina
 \cu Información cultural: La semilla de esta hierba se usa para el piquete de culebra o de alacrán.
 \dt 11/Jan/2008
 
-\lx x'almis_kajpe'
+\lx x'almis kajpe'
 \cg s
 \tl hierba grande
 \cu Información cultural: La fruta se usa para una bebida.
@@ -28777,7 +28777,7 @@
 \tl trabajador
 \dt 22/May/2007
 
-\lx x'ik'_bäk'tyal
+\lx x'ik'bäk'tyal
 \cg s
 \tl animal o ave negro
 \dt 11/Jan/2008
@@ -28848,12 +28848,12 @@
 \tl mudo
 \dt 22/May/2007
 
-\lx x'uxkuruñwech_patye'
+\lx x'uxkuruñwech patye'
 \cg s
 \tl hongo gris, comestible
 \dt 11/Jan/2008
 
-\lx x'yok_muty_patye'
+\lx x'yok muty patye'
 \cg s
 \tl tipo de hongo blanco, comestible
 \dt 11/Jan/2008
@@ -28937,22 +28937,22 @@
 \to Un árbol está caído en medio del camino.
 \dt 22/May/2007
 
-\lx *yajlib_xwich'
+\lx *yajlib xwich'
 \cg s
 \tl campo de aterrizaje
 \dt 14/Jan/2008
 
-\lx *yajñib_k'ajk
+\lx *yajñib k'ajk
 \cg s
 \tl lámpara
 \dt 14/Jan/2008
 
-\lx *yajñib_chab
+\lx *yajñib chab
 \cg s
 \tl abejera, colmena
 \dt 14/Jan/2008
 
-\lx *yajñib_ñich_k'ajk
+\lx *yajñib ñich k'ajk
 \cg s
 \tl brasero
 \dt 14/Jan/2008
@@ -29034,12 +29034,12 @@
 \ca dirigida a un joven por uno de mayor edad.
 \dt 11/Jun/2007
 
-\lx *yal_i_k'äb
+\lx *yal ik'äb
 \cg s
 \tl meñique
 \dt 14/Jan/2008
 
-\lx *yal_la_kok
+\lx *yal lakok
 \cg s
 \tl dedo de los pies
 \dt 14/Jan/2008
@@ -29080,7 +29080,7 @@
 \tl testículos
 \dt 14/Jan/2008
 
-\lx *yaty_k'ajk
+\lx *yaty k'ajk
 \cg s
 \tl llama de fuego
 \dt 14/Jan/2008
@@ -29276,7 +29276,7 @@
 \to El cielo es azul.
 \dt 22/May/2007
 
-\lx yäjyäx_xajlel
+\lx yäjyäx xajlel
 \cg s
 \tl obsidiana
 \dt 11/Jan/2008
@@ -29422,14 +29422,14 @@
 \tl de color verde o azul
 \dt 14/Jan/2008
 
-\lx yäx_i_yo
+\lx yäx iyo
 \cg vt
 \tl vigilar
 \oi Mi iyäx iyo tyi pejtyelel ora jiñi wiñik.
 \to Ese hombre vigila todo el tiempo.
 \dt 11/Jan/2008
 
-\lx yäx_jaj
+\lx yäx jaj
 \cg s
 \tl mosca verde
 \dt 14/Jan/2008
@@ -29553,7 +29553,7 @@
 \to Tiene agarrado el balde en la mano.
 \dt 22/May/2007
 
-\lx *yeklib_i_bäl_ñäk'äl
+\lx *yeklib ibäl ñäk'äl
 \tl mesa para comer
 \dt 14/Jan/2008
 
@@ -29636,7 +29636,7 @@
 \ca colonia
 \dt 22/May/2007
 
-\lx *yik'al_i_yej
+\lx *yik'al iyej
 \cg s
 \tl caries
 \dt 14/Jan/2008
@@ -29672,13 +29672,13 @@
 \to La dificultad está probándote.
 \dt 22/May/2007
 
-\lx yilol_jach
+\lx yiloljach
 \tl espontáneamente, de por sí
-\oi Yilol jach tsa' tyejchi ik'amäjel.
+\oi Yiloljach tsa' tyejchi ik'amäjel.
 \to De por sí comenzó su enfermedad.
 \dt 11/Jan/2008
 
-\lx *yik'el_lum
+\lx *yik'el lum
 \ac 1
 \tl tierra negra
 \ac 2
@@ -29711,12 +29711,12 @@
 \tl ni siquiera
 \dt 22/May/2007
 
-\lx yokä_ja'as
+\lx yokä ja'as
 \nd Sab.
 \tl plátano enano
 \dt 11/Jan/2008
 
-\lx *yok_ja'lel
+\lx *yok ja'lel
 \cg s
 \tl zanja
 \dt 14/Jan/2008
@@ -29751,7 +29751,7 @@
 \re xyojch'oya
 \dt 22/May/2007
 
-\lx *yojlil_tye'
+\lx *yojlil tye'
 \cg s
 \tl corazón del árbol
 \dt 14/Jan/2008
@@ -29841,11 +29841,11 @@
 \lx yomäch
 \tl sí, es conveniente
 
-\lx yom_i_tyaj_xiñk'iñil
+\lx yom ityaj xiñk'iñil
 \tl ya falta poco para el mediodía
 \dt 11/Jan/2008
 
-\lx yomix_bäjlel_k'iñ
+\lx yomixbäjlel k'iñ
 \tl ya se está poniendo el sol
 \dt 11/Jan/2008
 
@@ -29925,12 +29925,12 @@
 \tl casa de animales
 \dt 14/Jan/2008
 
-\lx *yotylel_chab
+\lx *yotylel chab
 \cg s
 \tl colmena
 \dt 14/Jan/2008
 
-\lx *yotyoty_xux
+\lx *yotyoty xux
 \cg s
 \tl panal de avispa
 \dt 14/Jan/2008
@@ -29974,7 +29974,7 @@
 \tl verdura que comen los guajolotes
 \dt 14/Jan/2008
 
-\lx yuch'_muty
+\lx yuch' muty
 \tl piojo de gallina
 \dt 11/Jan/2008
 

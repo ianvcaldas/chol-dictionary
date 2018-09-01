@@ -1489,7 +1489,7 @@
 \tsi che'kuyi
 \cai respuesta
 \sui así nada más
-\tsi chejachi, che' jach
+\tsi chejachi, che'jach
 \sui así suena
 \tsi p'äklaw
 \cai sonido de la lluvia
@@ -1775,7 +1775,7 @@
 \tsi pojob
 \cai Sab.
 \sui de balde
-\tsi lolom jach, milik
+\tsi lolomjach, milik
 \tsi ¹pojol
 \cai Tila
 
@@ -4364,7 +4364,7 @@
 
 \lxi cualquiera
 \cgi pron
-\tli ba'ikachbä,baki jachbä
+\tli ba'ikachbä,bakijachbä
 
 \lxi cuando
 \cgi adv
@@ -4374,7 +4374,7 @@
 \tli che'bä, che' ñak, ³ñak
 \cai Sab., Tila
 \sui de vez en cuando
-\tsi bixeltyik, wojlel jach, xä'
+\tsi bixeltyik, wojleljach, xä'
 
 \lxi cuándo
 \cgi adv
@@ -4683,7 +4683,7 @@
 \sui de aquí a tres días
 \tsi uxi
 \sui de balde
-\tsi lolom jach, milik
+\tsi lolomjach, milik
 \tsi ¹pojol
 \cai Tila
 
@@ -5352,7 +5352,7 @@
 \lxi dondequiera
 \cgi adv
 \aci 1
-\tli baki jach
+\tli bakijach
 \aci 2
 \tli ba'ikal
 \cai Sab.
@@ -6133,7 +6133,7 @@
 \lxi espontáneo
 \cgi adj
 \sui espontáneamente
-\tsi yilol jach
+\tsi yiloljach
 
 \lxi esposa
 \cgi f
@@ -7787,7 +7787,7 @@
 \lxi inmediato
 \cgi adj
 \aci 1
-\tli ora jach, tyi ora
+\tli orajach, tyi ora
 \aci 2
 \tli ñux
 \cai Tila
@@ -9043,7 +9043,7 @@
 \cgi adv
 \tli bej
 \sui así nada más
-\tsi chejachi, che' jach
+\tsi chejachi, che'jach
 
 \lxi masa
 \cgi f
@@ -9732,7 +9732,7 @@
 \lxi nada
 \cgi pron
 \sui así nada más
-\tsi chejachi, che' jach
+\tsi chejachi, che'jach
 \sui de nada
 \tsi k'ebtyo
 \cai respuesta
@@ -10534,7 +10534,7 @@
 \cai animal
 \tli ñäkwa'al
 \cai inclinado
-\tli xaty_wa'al
+\tli xaty wa'al
 \cai con los pies separados
 \sui poner parado
 \tsi kotychokoñ
@@ -11516,7 +11516,7 @@
 \cgi prep
 \tli cha'añ
 \sui de por sí
-\tsi ityilel, yilol jach
+\tsi ityilel, yiloljach
 \sui por causa de
 \tsi kaj
 \sui por favor
@@ -13241,7 +13241,7 @@
 \sui es de
 \tsi ch'oyol
 \sui es de nosotros juntos
-\tsi komol jach lakcha'añ
+\tsi komoljach lakcha'añ
 \sui no sea que
 \tsi ame
 \sui será
@@ -13398,11 +13398,11 @@
 
 \lxi sólo
 \cgi adv
-\tli kojach, jach, putyuñ
+\tli kojach,jach, putyuñ
 \sui sólo esa vez
 \tsi kojax
 \sui sólo ése
-\tsi jiñi jach
+\tsi jiñijach
 
 \lxi soltar
 \cgi vt
@@ -14831,7 +14831,7 @@
 \tli pojts'emal
 \cai del café
 \sui en vano
-\tsi tyo'ol jach
+\tsi tyo'oljach
 
 \lxi vapor
 \cgi m
@@ -15079,7 +15079,7 @@
 \sui tal vez
 \tsi tyik'äl
 \sui una sola vez
-\tsi juññumel jach
+\tsi juññumeljach
 \sui varias veces
 \tsi chä'chäk'
 \cai acción repetida

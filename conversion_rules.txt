@@ -6,6 +6,11 @@
 # Add exceptions by starting a line with = and then writing the thing that's
 # not supposed to change.
 
+# Special cases
+# Do them first so they aren't affected by any rule
+mi_chon_i_cape_ba'ical_mi_mʌmbentel -> mi_ichoñ_ikape_ba'ikal_mi_imäñbeñtyel
+tsa'_wit_yajli -> tsa'_wity_yajli
+
 # Letter replacements
 ch -> TMP00
 c -> k
@@ -52,6 +57,4 @@ ll -> l
 # Exceptions and special cases
 = tatuch
 = tsa'_wosmi
-mi_chon_i_cape_ba'ical_mi_mʌmbentel -> mi_ichoñ_ikape_ba'ikal_mi_imäñbeñtyel
-tsa'_wit_yajli -> tsa'_wity_yajli
 = testigo

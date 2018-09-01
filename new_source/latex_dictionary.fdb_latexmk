@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1535743018 "latex_dictionary.tex" "latex_dictionary.pdf" "latex_dictionary" 1535743020
+["pdflatex"] 1535809888 "latex_dictionary.tex" "latex_dictionary.pdf" "latex_dictionary" 1535809890
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb" 1480098737 144215 c89c56d5c5b828c5c1657b4326c29df7 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1480098737 145408 43d44302ca7d82d487f511f83e309505 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1480098737 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
@@ -40,11 +40,11 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-cmr.cfg" 1516054892 22870 180ea2dc1e81d6b0ff570aa0250865ae ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty" 1492297155 30180 4d723b83c66873ba53f72c4a8730d6d3 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/xpatch/xpatch.sty" 1480098843 8322 5f9c642edadff4ce819c39eb7dccea61 ""
-  "latex_dictionary.aux" 1535743020 2414 b4f2313bcaba5c2545ee42f3989b7790 ""
-  "latex_dictionary.tex" 1535743017 1038143 ebe8732a18fad78ed0fa6c389d684040 ""
-  "latex_dictionary.toc" 1535743020 1653 86bcc7e4315fc324664703f8644657e6 ""
+  "latex_dictionary.aux" 1535809890 2415 41a04b0d1ed2d3b857705a922b682540 ""
+  "latex_dictionary.tex" 1535809876 1037962 a71ee101e16a8ddad141307e5fd259af ""
+  "latex_dictionary.toc" 1535809890 1654 bfc621e5687c5ac9e39a3b9ab760dc93 ""
   (generated)
-  "latex_dictionary.toc"
-  "latex_dictionary.aux"
-  "latex_dictionary.pdf"
   "latex_dictionary.log"
+  "latex_dictionary.aux"
+  "latex_dictionary.toc"
+  "latex_dictionary.pdf"

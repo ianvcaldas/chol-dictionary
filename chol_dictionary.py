@@ -51,7 +51,7 @@ class CholConverter():
         """
         if expression[0].isupper():
             capitalize = True
-        result = ' ' + expression.lower()
+        result = ' ' + expression.lower().replace('_', ' ')
         for ix, exc in enumerate(self.exceptions):
             result = result.replace(exc, f'TMP{ix}')
         for source, modified in self.rules.items():

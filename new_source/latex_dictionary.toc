@@ -11,24 +11,24 @@
 \contentsline {section}{\nonumberline G}{38}
 \contentsline {section}{\nonumberline I}{39}
 \contentsline {section}{\nonumberline J}{42}
-\contentsline {section}{\nonumberline L}{51}
-\contentsline {section}{\nonumberline M}{57}
-\contentsline {section}{\nonumberline \IeC {\~N}}{63}
+\contentsline {section}{\nonumberline L}{52}
+\contentsline {section}{\nonumberline M}{58}
 \contentsline {section}{\nonumberline \IeC {\~N}}{64}
-\contentsline {section}{\nonumberline O}{69}
-\contentsline {section}{\nonumberline P}{71}
-\contentsline {section}{\nonumberline P'}{78}
-\contentsline {section}{\nonumberline Q}{81}
-\contentsline {section}{\nonumberline Q'}{83}
-\contentsline {section}{\nonumberline R}{85}
-\contentsline {section}{\nonumberline S}{86}
-\contentsline {section}{\nonumberline Ty}{92}
-\contentsline {section}{\nonumberline Ty'}{99}
-\contentsline {section}{\nonumberline Ts}{101}
-\contentsline {section}{\nonumberline Ts'}{105}
-\contentsline {section}{\nonumberline U}{109}
-\contentsline {section}{\nonumberline W}{111}
-\contentsline {section}{\nonumberline X}{117}
-\contentsline {section}{\nonumberline X'}{125}
-\contentsline {section}{\nonumberline Y}{126}
-\contentsline {part}{\numberline {II}ESPA\IeC {\~N}OL \IeC {\textendash } CH'OL}{131}
+\contentsline {section}{\nonumberline \IeC {\~N}}{65}
+\contentsline {section}{\nonumberline O}{70}
+\contentsline {section}{\nonumberline P}{72}
+\contentsline {section}{\nonumberline P'}{79}
+\contentsline {section}{\nonumberline Q}{82}
+\contentsline {section}{\nonumberline Q'}{84}
+\contentsline {section}{\nonumberline R}{86}
+\contentsline {section}{\nonumberline S}{87}
+\contentsline {section}{\nonumberline Ty}{93}
+\contentsline {section}{\nonumberline Ty'}{100}
+\contentsline {section}{\nonumberline Ts}{102}
+\contentsline {section}{\nonumberline Ts'}{106}
+\contentsline {section}{\nonumberline U}{110}
+\contentsline {section}{\nonumberline W}{112}
+\contentsline {section}{\nonumberline X}{118}
+\contentsline {section}{\nonumberline X'}{126}
+\contentsline {section}{\nonumberline Y}{127}
+\contentsline {part}{\numberline {II}ESPA\IeC {\~N}OL \IeC {\textendash } CH'OL}{132}
