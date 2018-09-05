@@ -8,8 +8,11 @@
 \usepackage{scrhack}
 \addtokomafont{disposition}{\rmfamily}
 \addtokomafont{section}{\clearpage\Huge}
+\addtokomafont{author}{\large}
+\setkomafont{title}{\scshape}
 \renewcommand*{\raggedsection}{\centering}
 
+\usepackage[spanish]{babel}
 % Fonts and encoding
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -37,8 +40,7 @@
 % Whitespace between entries
 \parskip=0.5\baselineskip
 
-% Prevent underfull hbox warnings
-\hbadness=10000
+\usepackage{bookmark} % Add PDF bookmarks
 
 % Dictionary formatting
 
@@ -67,6 +69,38 @@
 \newcommand{\otherconjugation}[1]{\textit{:} \textbf{#1}]}
 
 \begin{document}
+
+\title{Diccionario Ch'ol}
+\subtitle{de Tumbalá, Chiapas,\\con variaciones dialectales de Tila y Sabanilla
+  \vspace{25em}
+}
+\author{
+  Compilado por H. Wilbur Aulie y Evelyn W. de Aulie\\
+  1978\\
+  \\
+  Reeditado por Emily F. Scharfe de Stairs\\
+  1996\\
+  \\
+  Ortografia atualizada por Carol R. Little y Ian V. Caldas\\
+2018}
+\date{}
+
+\maketitle
+
+\vspace*{18em}
+\begin{center}
+\parbox{0.7\textwidth}{
+  \centering
+  Diccionario Ch'ol de Tumbalá, Chiapas, con variaciones dialectales de Tila y
+  Sabanilla (\url{https://www.sil.org/resources/archives/35328}) is licensed
+  under CC BY-NC-SA 4.0
+  (\url{https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode}) and
+  attributed to the original authors and speakers. This document is a
+  derivative work of the above, with updated ortography and realphabetization
+  of entries done by Carol R. Little and Ian V. Caldas. It is also licensed
+  under CC BY-NC-SA 4.0.
+}
+\end{center}
 
 \tableofcontents
 

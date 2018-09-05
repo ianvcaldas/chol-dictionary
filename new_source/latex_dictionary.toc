@@ -1,34 +1,35 @@
-\contentsline {part}{\numberline {I}CH'OL \IeC {\textemdash } ESPA\IeC {\~N}OL}{2}
-\contentsline {section}{\nonumberline A}{3}
-\contentsline {section}{\nonumberline \IeC {\"A}}{7}
-\contentsline {section}{\nonumberline B}{8}
-\contentsline {section}{\nonumberline K}{14}
-\contentsline {section}{\nonumberline K'}{19}
-\contentsline {section}{\nonumberline Ch}{25}
-\contentsline {section}{\nonumberline Ch'}{31}
-\contentsline {section}{\nonumberline D}{36}
-\contentsline {section}{\nonumberline E}{37}
-\contentsline {section}{\nonumberline G}{38}
-\contentsline {section}{\nonumberline I}{39}
-\contentsline {section}{\nonumberline J}{42}
-\contentsline {section}{\nonumberline L}{52}
-\contentsline {section}{\nonumberline M}{58}
-\contentsline {section}{\nonumberline \IeC {\~N}}{64}
-\contentsline {section}{\nonumberline \IeC {\~N}}{65}
-\contentsline {section}{\nonumberline O}{70}
-\contentsline {section}{\nonumberline P}{72}
-\contentsline {section}{\nonumberline P'}{79}
-\contentsline {section}{\nonumberline Q}{82}
-\contentsline {section}{\nonumberline Q'}{84}
-\contentsline {section}{\nonumberline R}{86}
-\contentsline {section}{\nonumberline S}{87}
-\contentsline {section}{\nonumberline Ty}{93}
-\contentsline {section}{\nonumberline Ty'}{100}
-\contentsline {section}{\nonumberline Ts}{102}
-\contentsline {section}{\nonumberline Ts'}{106}
-\contentsline {section}{\nonumberline U}{110}
-\contentsline {section}{\nonumberline W}{112}
-\contentsline {section}{\nonumberline X}{118}
-\contentsline {section}{\nonumberline X'}{126}
-\contentsline {section}{\nonumberline Y}{127}
-\contentsline {part}{\numberline {II}ESPA\IeC {\~N}OL \IeC {\textendash } CH'OL}{132}
+\babel@toc {spanish}{}
+\contentsline {part}{\numberline {I}CH'OL \IeC {\textemdash } ESPA\IeC {\~N}OL}{4}{part.1}
+\contentsline {section}{\nonumberline A}{5}{section*.2}
+\contentsline {section}{\nonumberline \IeC {\"A}}{9}{section*.3}
+\contentsline {section}{\nonumberline B}{10}{section*.4}
+\contentsline {section}{\nonumberline K}{16}{section*.5}
+\contentsline {section}{\nonumberline K'}{21}{section*.6}
+\contentsline {section}{\nonumberline Ch}{27}{section*.7}
+\contentsline {section}{\nonumberline Ch'}{33}{section*.8}
+\contentsline {section}{\nonumberline D}{38}{section*.9}
+\contentsline {section}{\nonumberline E}{39}{section*.10}
+\contentsline {section}{\nonumberline G}{40}{section*.11}
+\contentsline {section}{\nonumberline I}{41}{section*.12}
+\contentsline {section}{\nonumberline J}{44}{section*.13}
+\contentsline {section}{\nonumberline L}{54}{section*.14}
+\contentsline {section}{\nonumberline M}{60}{section*.15}
+\contentsline {section}{\nonumberline \IeC {\~N}}{66}{section*.16}
+\contentsline {section}{\nonumberline \IeC {\~N}}{67}{section*.17}
+\contentsline {section}{\nonumberline O}{72}{section*.18}
+\contentsline {section}{\nonumberline P}{74}{section*.19}
+\contentsline {section}{\nonumberline P'}{81}{section*.20}
+\contentsline {section}{\nonumberline Q}{84}{section*.21}
+\contentsline {section}{\nonumberline Q'}{86}{section*.22}
+\contentsline {section}{\nonumberline R}{88}{section*.23}
+\contentsline {section}{\nonumberline S}{89}{section*.24}
+\contentsline {section}{\nonumberline Ty}{95}{section*.25}
+\contentsline {section}{\nonumberline Ty'}{102}{section*.26}
+\contentsline {section}{\nonumberline Ts}{104}{section*.27}
+\contentsline {section}{\nonumberline Ts'}{108}{section*.28}
+\contentsline {section}{\nonumberline U}{112}{section*.29}
+\contentsline {section}{\nonumberline W}{114}{section*.30}
+\contentsline {section}{\nonumberline X}{120}{section*.31}
+\contentsline {section}{\nonumberline X'}{128}{section*.32}
+\contentsline {section}{\nonumberline Y}{129}{section*.33}
+\contentsline {part}{\numberline {II}ESPA\IeC {\~N}OL \IeC {\textendash } CH'OL}{134}{part.2}
