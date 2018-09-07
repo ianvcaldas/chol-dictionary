@@ -119,64 +119,14 @@ class SourceConverter():
         out.close()
 
 
-    def convert_to_latex(self, output=None):
-        """Convert a source file into LaTeX, using the new ortography.
-        This function converts both Ch'ol to Spanish and the Spanish to Ch'ol
-        sources.
-
-        Args:
-            output: Path to the output file. If None, write to stdout.
-
-        Returns:
-            Nothing.
-        """
-        if output is None:
-            out = sys.stdout
-        else:
-            out = open(Path(output), 'w')
-        out.write(self.latex_header + '\n')
-        self._output_latex(out, 'original_source/chol_to_sp.txt')
-        self._start_spanish(out)
-        self._output_latex(out, 'original_source/sp_to_chol.txt')
-        out.write(self.latex_closing)
-        out.close()
-
-
-    def _output_latex(self, out, source_name):
-        """Parses the dictionary source and writes output to a LaTeX file.
-
-        Args:
-            out: The file object representing the LaTeX file.
-            source_name: The name of the file containing the source.
-
-        Returns:
-            Nothing.
-        """
-        with open(Path(source_name), 'r') as f:
-            for ix, line in enumerate(f):
-                if line.strip() == '':
-                    out.write(line)
-                    continue
-                new_line = self._convert_line(line, latex=True)
-                if new_line is not None:
-                    out.write(new_line + '\n')
-
-
-    def _start_spanish(self, out):
-        """Creates a header for the Spanish--Ch'ol part of the dictionary.
-
-        Args:
-            out: The file object representing the LaTeX file.
-        """
-        header = "\\end{multicols*}\\part{ESPAÑOL – CH'OL}\\begin{multicols*}{2}"
-        out.write(header + '\n')
-
-
-    def _convert_line(self, line, latex=False):
+    def _convert_line(self, line, convert_chol=True, latex=False):
         """Parse and convert a single line in the dictionary source.
 
         Args:
             line: The raw string representing the source line.
+            convert_chol: Whether to update the Ch'ol ortography.
+            latex: Whether to convert line to LaTeX.
+
         Returns:
             The converted line, including converting to LaTeX if wanted.
         """
@@ -195,8 +145,9 @@ class SourceConverter():
             return None
         # Replace unicode characters with common ones
         content = content.replace('ꞌ', "'") 
-        if self._is_chol(code):
-            content = self.chol.convert(content)
+        if convert_chol:
+            if self._is_chol(code):
+                content = self.chol.convert(content)
         if latex:
             if code in skip_codes:
                 return None
@@ -271,10 +222,86 @@ class SourceConverter():
         return new_line
 
 
+    def realphabetize(self, source, target, add_alpha=False):
+        """Reorder entries in the MDF source file.
+
+        Args:
+            source: The MDF source file.
+            target: The output file in MDF format.
+            add_alpha: Whether to add alphabetic letter headers.
+
+        Returns:
+            Nothing.
+        """
+        pass
+
+
+    def convert_to_latex(self, ch_to_sp, sp_to_ch, target=None):
+        """Convert source files into LaTeX format.
+        This function converts both Ch'ol to Spanish and the Spanish to Ch'ol
+        sources.
+        Assumes the source files already have had their ortography updated.
+
+        Args:
+            ch_to_sp: Path to the source file of the Ch'ol to Spanish
+            dictionary.
+            sp_to_ch: Path to the source file of the Spanish to Ch'ol
+            dictionary.
+            target: Path to the output file. If None, write to stdout.
+
+        Returns:
+            Nothing.
+        """
+        if target is None:
+            out = sys.stdout
+        else:
+            out = open(Path(target), 'w')
+        out.write(self.latex_header + '\n')
+        self._output_latex(out, ch_to_sp)
+        self._start_spanish(out)
+        self._output_latex(out, sp_to_ch)
+        out.write(self.latex_closing)
+        out.close()
+
+
+    def _output_latex(self, out, source_name):
+        """Parses the dictionary source and writes output to a LaTeX file.
+
+        Args:
+            out: The file object representing the LaTeX file.
+            source_name: The name of the file containing the source.
+
+        Returns:
+            Nothing.
+        """
+        with open(Path(source_name), 'r') as f:
+            for ix, line in enumerate(f):
+                if line.strip() == '':
+                    out.write(line)
+                    continue
+                new_line = self._convert_line(line, convert_chol=False, latex=True)
+                if new_line is not None:
+                    out.write(new_line + '\n')
+
+
+    def _start_spanish(self, out):
+        """Creates a header for the Spanish--Ch'ol part of the dictionary.
+
+        Args:
+            out: The file object representing the LaTeX file.
+        """
+        header = "\\maintitle{ESPAÑOL – CH'OL}\n"
+        out.write(header + '\n')
+
+
+
+
 if __name__ == '__main__':
     conv = SourceConverter()
     conv.convert_source('original_source/chol_to_sp.txt',
                         'new_source/chol_to_sp.txt')
     conv.convert_source('original_source/sp_to_chol.txt',
                         'new_source/sp_to_chol.txt')
-    conv.convert_to_latex('new_source/latex_dictionary.tex')
+    conv.convert_to_latex(ch_to_sp='new_source/chol_to_sp.txt',
+                          sp_to_ch='new_source/sp_to_chol.txt',
+                          target='new_source/latex_dictionary.tex')

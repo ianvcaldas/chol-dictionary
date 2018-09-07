@@ -33,12 +33,64 @@ def get_chol_test_cases():
 
 def test_full_conversion():
     case = "\\oi t'an\n"
-    converter = SourceConverter(latex=False,
-                              rules='conversion_rules.txt')
+    converter = SourceConverter(rules='conversion_rules.txt')
     result = converter._convert_line(case)
     assert result == "\\oi ty'añ"
-    latex = SourceConverter(latex=True,
-                          rules='conversion_rules.txt')
-    result = latex._convert_line(case)
+    result = converter._convert_line(case, latex=True)
     assert result[0] == '\\'
     assert result[-1] == '}'
+
+
+def test_realphabetize(tmpdir):
+    test_case = r"""
+\lx bbäk
+\cg s
+\tl carbón
+\dt 22/May/2007
+
+\lx abälel
+\nd Sab.
+\cg s
+\tl noche
+\re ak'älel
+\dt 22/May/2007
+    """
+    source = tmpdir.join("test_source.txt")
+    source.write(test_case)
+    converter = SourceConverter(rules='conversion_rules.txt')
+    target = tmpdir.join("target.txt")
+    target_alf = tmpdir.join("target_alf.txt")
+    converter.realphabetize(source, target)
+    converter.realphabetize(source, target_alf, add_alpha=True)
+    # result = target.read()
+    # result_alf = target_alf.read()
+    expected = r"""
+\lx abälel
+\nd Sab.
+\cg s
+\tl noche
+\re ak'älel
+\dt 22/May/2007
+
+\lx bbäk
+\cg s
+\tl carbón
+\dt 22/May/2007
+    """
+    expected_alf = r"""
+\lx abälel
+\nd Sab.
+\cg s
+\tl noche
+\re ak'älel
+\dt 22/May/2007
+
+\alf B
+
+\lx bbäk
+\cg s
+\tl carbón
+\dt 22/May/2007
+    """
+    # assert result == expected
+    # assert result_alf == expected_alf
