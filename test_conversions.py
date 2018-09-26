@@ -62,8 +62,8 @@ def test_realphabetize(tmpdir):
     target_alf = tmpdir.join("target_alf.txt")
     converter.realphabetize(source, target)
     converter.realphabetize(source, target_alf, add_alpha=True)
-    # result = target.read()
-    # result_alf = target_alf.read()
+    result = target.read()
+    result_alf = target_alf.read()
     expected = r"""
 \lx abälel
 \nd Sab.
@@ -92,5 +92,5 @@ def test_realphabetize(tmpdir):
 \tl carbón
 \dt 22/May/2007
     """
-    # assert result == expected
-    # assert result_alf == expected_alf
+    assert result == expected
+    assert result_alf == expected_alf

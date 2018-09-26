@@ -141,6 +141,9 @@ class SourceConverter():
         elements = line.split()
         code = elements[0]
         content = ' '.join(elements[1:])
+        # Edge case
+        if code == '\\_DateStampHasFourDigitYear':
+            return code
         if content == '': # happens sometimes
             return None
         # Replace unicode characters with common ones
@@ -233,7 +236,12 @@ class SourceConverter():
         Returns:
             Nothing.
         """
-        pass
+        source = Path(source)
+        target = Path(target)
+        with open(target, 'w') as t:
+            with open(source, 'r') as s:
+                for line in s:
+                    t.write(line)
 
 
     def convert_to_latex(self, ch_to_sp, sp_to_ch, target=None):

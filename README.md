@@ -9,7 +9,14 @@ dictionary into the modern ortrography. The previous source is in folder
 
 ## TODO
 * Add command-line arguments to the main script.
-* Decide a definitive font.
+* Add regular expression support.
+* Realphabetize.
+    * Write whole-document realphabetizer (WDR) that keeps entries as
+attributes.
+    * Write AlphaLetter class that implements sorting and merging.
+    * Modify WDR to generate and keep AlphaLetter objects.
+    * Modify WDR to sort and merge AlphaLetters as needed.
+    * Implement printint out WDR to file.
 
 
 ## Rules for ortography update
