@@ -36,7 +36,7 @@ class CholConverter():
                     continue
                 old, new = [s.strip().replace('_', ' ') for s in line.split(' -> ')]
                 rules[old] = new
-        return rules, exceptions 
+        return rules, exceptions
 
 
     def convert(self, expression, capitalize=False):
@@ -70,7 +70,7 @@ class SourceConverter():
 
     Args:
         rules: File where the conversion rules are kept.
-        latex_header: File where the LaTeX header is written 
+        latex_header: File where the LaTeX header is written
         for the output in LaTeX.
     """
 
@@ -143,11 +143,14 @@ class SourceConverter():
         content = ' '.join(elements[1:])
         # Edge case
         if code == '\\_DateStampHasFourDigitYear':
-            return code
+            if latex:
+                return None
+            else:
+                return code
         if content == '': # happens sometimes
             return None
         # Replace unicode characters with common ones
-        content = content.replace('ꞌ', "'") 
+        content = content.replace('ꞌ', "'")
         if convert_chol:
             if self._is_chol(code):
                 content = self.chol.convert(content)
@@ -165,14 +168,14 @@ class SourceConverter():
 
         Args:
             code: The annotation for the line.
-            
+
         Returns:
             True if the code corresponds to a Ch'ol line, False otherwise.
         """
         return code in ['\\lx', '\\oi', '\\re', '\\su', '\\vdl',
                         '\\vp', '\\fbl', '\\alf', '\\tli', '\\tsi']
 
-    
+
     def _to_latex(self, code, content):
         """Convert source dictionary line to a LaTeX line.
 
@@ -225,23 +228,74 @@ class SourceConverter():
         return new_line
 
 
-    def realphabetize(self, source, target, add_alpha=False):
+    def realphabetize(self, source, target, spanish=False):
         """Reorder entries in the MDF source file.
 
         Args:
             source: The MDF source file.
             target: The output file in MDF format.
-            add_alpha: Whether to add alphabetic letter headers.
+            spanish: Whether to add alphabetic letter headers.
 
         Returns:
             Nothing.
         """
         source = Path(source)
         target = Path(target)
-        with open(target, 'w') as t:
-            with open(source, 'r') as s:
-                for line in s:
-                    t.write(line)
+
+        if spanish:
+            all_alfs = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k',
+                        'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v',
+                        'w', 'x', 'y', 'z']
+        else:
+            # Ch'ol
+            all_alfs = ["a", "ä", "b", "ch", "ch'", "d", "e", "g", "i", "j",
+                        "k", "k'", "l", "m", "n", "ñ", "o", "p", "p'", "q", "q'",
+                        "r", "s", "t", "ts", "ts'", "ty", "ty'", "u", "w", "x",
+                        "x'", "y"]
+        entries = odict()
+        for alf in ["_header"] + all_alfs:
+            entries[alf] = []
+
+        entry = []
+        current_alf = '_header'
+        with open(source, 'r') as s:
+            for line in s:
+                if line.strip() == '':
+                    entries[current_alf].append(entry)
+                    entry = []
+                else:
+                    if spanish and line.startswith('\\lxi'):
+                        key = line.strip().split()[1].lower()[0]
+                        key = key.replace("á", "a").replace("é", "e")\
+                                .replace("í", "i").replace("ó", "o")\
+                                .replace("ú", "u")
+                        current_alf = key
+                    else:
+                        if line.strip().startswith('\\alf'):
+                            current_alf = line.strip().split()[-1].lower()
+                    entry.append(line.strip())
+
+        if not spanish: # We don't need to resort the Spanish entries
+            for alf in entries:
+                unsorted = entries[alf]
+                entries[alf] = sorted(unsorted, key=self._entry_sort_key)
+
+        with open(target, 'w') as f:
+            for key, key_entries in entries.items():
+                if key_entries == []: # no entries for this alphabet letter
+                    continue
+                if spanish and key != "_header":
+                    f.write(f'\\lxi {key.upper()}\n\\alf {key.upper()}\n\n')
+                for key_entry in key_entries:
+                    f.write('\n'.join(key_entry))
+                    f.write('\n\n')
+
+    @staticmethod
+    def _entry_sort_key(entry):
+        base = entry[0].split()[1].lower()
+        base = base.replace("*", "").replace("-", "").replace("'", "")
+        base = base.replace("ä", "a")
+        return base
 
 
     def convert_to_latex(self, ch_to_sp, sp_to_ch, target=None):
@@ -303,13 +357,17 @@ class SourceConverter():
 
 
 
-
 if __name__ == '__main__':
     conv = SourceConverter()
     conv.convert_source('original_source/chol_to_sp.txt',
                         'new_source/chol_to_sp.txt')
     conv.convert_source('original_source/sp_to_chol.txt',
                         'new_source/sp_to_chol.txt')
-    conv.convert_to_latex(ch_to_sp='new_source/chol_to_sp.txt',
-                          sp_to_ch='new_source/sp_to_chol.txt',
-                          target='new_source/latex_dictionary.tex')
+    conv.realphabetize('new_source/chol_to_sp.txt',
+                       'new_source/chol_to_sp_realpha.txt')
+    conv.realphabetize('new_source/sp_to_chol.txt',
+                       'new_source/sp_to_chol_realpha.txt',
+                       spanish=True)
+    conv.convert_to_latex(ch_to_sp='new_source/chol_to_sp_realpha.txt',
+                          sp_to_ch='new_source/sp_to_chol_realpha.txt',
+                          target='new_source/latex_dictionary_realpha.tex')

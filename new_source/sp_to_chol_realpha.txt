@@ -1,0 +1,15519 @@
+\_sh v3.0 400 MXB_Rev-U
+
+\lxi A
+\alf A
+
+\lxi abajo
+\cgi adv
+\tli eñtyäl
+
+\lxi Abajo de la Cueva
+\tli Yebalch'eñ
+\cai colonia
+
+\lxi Abajo del Cerro
+\tli Ye'wits
+\cai colonia
+
+\lxi abandonar
+\cgi vt
+\sui abandonado
+\tsi käyäl
+
+\lxi abdomen
+\cgi m
+\aci 1
+\tli jo'ñal
+\aci 2
+\tli pusik'al
+\cai región central del cuerpo
+
+\lxi abeja
+\cgi f
+\aci 1
+\tli *chäñil chab
+\aci 2
+\tli chäkchab
+\cai colorada
+\aci 3
+\tli chäk ox
+\cai grande y colorada
+
+\lxi abejera
+\cgi f
+\tli *yajñib chab
+
+\lxi abertura
+\cgi f
+\tli *kawtyilel
+
+\lxi abierto
+\cgi adj
+\aci 1
+\tli kawakña, kawal
+\cai boca
+\aci 2
+\tli kalal
+\cai pared o tabla
+\aci 3
+\tli jajmeñ,tyokol
+\cai puerta de una casa
+\aci 4
+\tli japal
+\cai tablas, setos
+\aci 5
+\tli utsil
+\cai Tila; tiempo
+\aci 6
+\tli xalal
+\cai corral
+\sui abierto abajo
+\tsi choxol
+
+\lxi ablandar
+\cgi vt
+\sui ablandarse
+\tsi k'uñ'añ
+
+\lxi abofetear
+\cgi vt
+\tli poch'iñ
+
+\lxi abono
+\cgi m
+\tli *yik'el lum
+\cai fertilizante
+
+\lxi aborrecer
+\cgi vt
+\tli ts'a'leñ
+\sui aborrecido
+\tsi ts'a'lebil
+
+\lxi abortar
+\cgi vt
+\tli ñusañ
+
+\lxi abrazar
+\cgi vt
+\aci 1
+\tli mek', tyul mek'
+\aci 2
+\tli luts'
+\cai con alas
+\sui abrazado
+\tsi mek'el; *mek'bal
+\cai cosa o criatura
+\sui cosa abrazada
+\tsi mek'bal
+
+\lxi abrir
+\cgi vt
+\aci 1
+\tli kal
+\cai pared
+\aci 2
+\tli kañ
+\cai los ojos
+\aci 3
+\tli kaw
+\cai boca
+\aci 4
+\tli ²ch'ep, ch'ewe
+\cai bolsa, costal, morral, ojos
+\aci 5
+\tli japuñ
+\cai brecha, zanja
+\aci 6
+\tli ¹jam
+\cai casa, libro, caja
+\sui abrir un poco
+\tsi ch'ip
+\cai costal, cartón, ojos
+\sui abrirse
+\tsi jam ibä, jajmel
+
+\lxi absorber
+\cgi vt
+\tli ch'äch'
+\cai algodón, trapo, tierra
+
+\lxi abuela
+\cgi f
+\aci 1
+\tli ko'äl, chuchu'
+\aci 2
+\tli ²kolaj
+\cai Tila
+
+\lxi abuelo
+\cgi m
+\tli *tatuch
+\cai paterno
+
+\lxi abultado
+\cgi adj
+\tli bujul
+\cai cerrito
+\tli ²bulul
+\sui abultadamente
+\tsi bultyäl
+\cai señalando el tamaño de una hinchazón
+
+\lxi abundancia
+\cgi f
+\tli *k'amel, *k'amlel, *p'ejwlel
+
+\lxi abundante
+\cgi adj
+\tli sejel
+
+\lxi acabar
+\cgi vi
+\tli jojmel
+
+\lxi acahual
+\cgi m
+\aci 1
+\tli tye'e pimel
+\cai hierba
+\aci 2
+\tli wumälel
+\cai milpa después de una cosecha
+
+\lxi acariciar
+\cgi vt
+\tli jajpiñ
+
+\lxi acaso
+\cgi adv
+\tli k'o'awom
+\cai Sab.
+
+\lxi acercar
+\cgi vt
+\tli läk'tyesañ
+\sui acercarse
+\tsi ñoch; ñochtyañ
+\cai a una persona o animal
+
+\lxi acezar
+\cgi vi
+\sui acezando
+\tsi lejlejña
+\cai perro
+
+\lxi achicar
+\cgi vt
+\tli ch'och'oktyesañ
+
+\lxi achiote
+\cgi m
+\tli jo'ox
+\cai árbol
+
+\lxi aclarar
+\cgi vt
+\tli sujmityesañ
+\sui aclararse
+\tsi jajmel
+\cai el tiempo
+\sui ya está aclarando
+\tsi säkkolañ
+\cai de mañana
+
+\lxi acompañar
+\cgi vt
+\tli pi'leñ
+\sui lo que acompaña
+\tsi ñujp
+
+\lxi aconsejar
+\cgi vt
+\tsi tyumbiñ
+\cai Sab.
+
+\lxi acordar
+\cgi vt
+\tli k'ajtyisañ
+\cai Sab.
+\sui acordado
+\tsi k'ajal
+\sui acordarse
+\tsi k'ajatyañ
+\cai Sab.
+\sui acordarse de
+\tsi k'ajtyesañ
+
+\lxi acortar
+\cgi vt
+\tsi kom'esañ
+
+\lxi acostar
+\cgi vt
+\aci 1
+\tli ñolchokoñ,tyots'chokoñ
+\aci 2
+\tli jämchokoñ
+\cai en una hamaca
+\sui acostado
+\tsi tyots'ol
+\cai boca arriba
+\tsi le'ekña
+\cai las piernas abiertas
+\tsi limil
+\cai toda la familia por enfermedad
+\tsi mochol
+\cai con los pies encogidos
+\sui acostarse
+\tsi ñoltyäl,tyots'tyäl
+\tsi jämtyäl
+\cai en hamaca
+\tsi metyañ
+\cai sobre
+\sui acostado boca arriba
+\tsi ch'ebñolol
+\sui acostado con las piernas estiradas
+\tsi ch'ebtyots'ol
+\sui acostado de lado
+\tsi ts'ej ñolol
+\sui acostarse de lado
+\tsi ts'ej ñoltyäl
+\sui acostarse boca arriba
+\tsi ch'a'tyäl
+\sui acostarse boca abajo
+\tsi päktyäl
+
+\lxi acostumbrar
+\cgi vt
+\tli ñämtyesañ
+\sui acostumbrarse
+\tsi ñäm'añ
+
+\lxi activo
+\cgi adj
+\tli bäx
+
+\lxi acuerdo
+\cgi m
+\tli tyratyo
+
+\lxi acuñar
+\cgi vt
+\tli xojñiñ
+
+\lxi acurrucarse
+\cgi prnl
+\sui acurrucado
+\tsi petspetsña
+\tsi lutsul
+\cai persona o animal
+
+\lxi acusar
+\aci 1
+\cgi vt
+\tli ²jop'
+\aci 2
+\cgi vi
+\tli jojp'el
+\cai falsamente
+\sui el que acusa
+\tsi xk'äñty'añ
+
+\lxi adelante
+\cgi adv
+\aci 1
+\tli ñaxañ
+\aci 2
+\tli ajapam, ñajañ
+\cai Sab.
+
+\lxi adentro
+\cgi adv
+\tli mal
+\sui adentro de la casa
+\tli imal otyoty
+
+\lxi adiós
+\cgi interj
+\tli ¡kotyo!
+
+\lxi adolorido
+\cgi adj
+\tli k'ux
+
+\lxi adoptar
+\cgi vt
+\tli yalobtyesañ
+\cai como a un hijo
+
+\lxi adorar
+\cgi vt
+\aci 1
+\tli ch'ujutyesañ
+\aci 2
+\tli diosiñ, yosiñ
+\cai esp.
+\aci 3
+\tli ch'ujuña'iñ
+\cai como a la madre santa
+
+\lxi adormecer
+\cgi vt
+\aci 1
+\tli wäysañ, wäytyesañ
+\aci 2
+\tli xixbañ
+\cai criatura
+
+\lxi adornar
+\cgi vt
+\tli ch'äl
+
+\lxi adorno
+\cgi m
+\tli ch'äjlil, ch'äloñib
+
+\lxi adueñarse
+\cgi prnl
+\tli cha'añiñ
+
+\lxi adulterio
+\cgi m
+\tli *ts'i'lel
+
+\lxi afeitar
+\cgi vt
+\tli jujchiñ
+\cai barbas
+
+\lxi afilar
+\cgi vt
+\tli ¹juk', tyajpuñ
+\cai machete, cuchillo
+\sui afilado
+\tsi jay
+\tsi ¹säkpochañ
+\cai bien
+
+\lxi afirmar
+\cgi vt
+\aci 1
+\tli xuk'chokoñ
+\cai horcón de casa
+\aci 2
+\tli tyejñañ
+\cai la tierra
+
+\lxi aflojar
+\cgi vt
+\tli ¹loj
+
+\lxi afuera
+\cgi adv
+\tli -jumpaty
+
+\lxi agachar
+\cgi vt
+\sui agacharse
+\tsi ñuktyäl
+\tsi tyiñtyäl
+\cai Sab.
+\tsi wutstyäl
+\cai en posición acurrucada
+\sui agachadamente
+\tsi päkäkña
+\cai gallina
+\tsi wutsukña
+\sui agachado
+\tsi k'uch buchul
+\tsi kotyol
+\cai personas
+\tsi luts
+\cai al estar sentado
+\tsi ²ñuk
+\cai forma de persona caída en el camino
+\tsi ñukñukña
+\cai al caminar
+\tsi wutsul
+\cai en posición acurrucada
+\sui boca agachado
+\tsi ñukye'el
+\cai persona, cubeta
+\sui en posición agachada
+\tsi wutswutsña
+\sui poner agachado
+\tsi wutschokoñ
+
+\lxi agarrar
+\aci 1
+\cgi vt
+\tli chuk
+\aci 2
+\cgi vt
+\tli ye'
+\cai en la mano
+\aci 3
+\cgi vt
+\tli ch'äm
+\cai llevar
+\aci 4
+\cgi vt
+\tli käl
+\cai con la boca
+\aci 5
+\cgi vt
+\tli jämch'äm
+\cai rápidamente
+\aci 6
+\cgi vi
+\tli chujkel
+\sui agarrado
+\tsi chukbil, yebil, ye'el
+\cai en la mano
+\tsi ²lak
+\cai objeto largo
+
+\lxi agitar
+\cgi vt
+\aci 1
+\tli yujmañ, yumilañ
+\aci 2
+\tli chejpañ
+\cai costal
+
+\lxi agobiar
+\cgi vt
+\sui agobiarse
+\tsi lijk'el
+
+\lxi agotar
+\cgi vt
+\aci 1
+\tli säjlel
+\aci 2
+\tli tyojtyojil
+\cai dinero o alimentos
+
+\lxi agriar
+\cgi vt
+\tli paj'añ
+
+\lxi agrio
+\cgi adj
+\tli paj
+
+\lxi agrupar
+\cgi vt
+\sui agrupadamente
+\tsi momotyña
+
+\lxi agua
+\cgi f
+\tli ja'
+\sui agua que sale de una cueva
+\tsi ch'eñbä ja'
+\sui forma en que corre el agua
+\tsi yolyolña
+
+\lxi Agua Brotante
+\tli Pasija'
+\cai Sab.; colonia
+
+\lxi Agua de Cal
+\tli Tyañija'
+\cai colonia
+
+\lxi aguacatillo
+\cgi m
+\aci 1
+\tli xpomtye'
+\cai árbol
+\aci 2
+\tli tyremeñtyiñatye'
+\cai Tila; árbol
+
+\lxi aguacero
+\cgi m
+\tli ja'lel
+
+\lxi aguado
+\cgi adj
+\tli yäx, yäxkäñañ
+
+\lxi aguantar
+\cgi vt
+\aci 1
+\tli läty'
+\cai carga o dolor
+\aci 2
+\tli mäl
+\cai día de trabajo
+
+\lxi aguardiente
+\cgi m
+\aci 1
+\tli lembal
+\aci 2
+\tli chicha
+\cai la esencia del jugo de la caña ya fermentado
+\aci 3
+\tli ts'a'añ, ²*ya'lel
+\cai Sab.
+
+\lxi aguazal
+\cgi m
+\tli ja'lumil
+
+\lxi agüero
+\cgi m
+\tli iyejtyal wokol
+
+\lxi águila real
+\cgi f
+\tli kolembä xiye'
+\cai ave
+
+\lxi aguja
+\cgi f
+\tli akuxañ
+\sui aguja para quitar espinas
+\tsi p'iko'ch'ix
+
+\lxi agujerar
+\cgi vt
+\tli ch'ub
+\cai lámina, tabla
+\sui agujerado
+\tsi ch'äch'äñtyik
+\cai tela, lámina
+\tsi ch'ubul
+\cai madera, balde, cuero, lámina
+
+\lxi agutí
+\cgi m
+\tli ujchib, xuchijp
+\cai mamífero
+\dib arc052.tif
+
+\lxi ahí
+\cgi adv
+\tli ya'äch, ya'i
+
+\lxi ahijado
+\cgi m
+\tli *jala'al
+
+\lxi ahogar
+\cgi vt
+\tli jik'tyañ
+\cai con comida
+
+\lxi ahora
+\cgi adv
+\tli wäle
+
+\lxi ahorquillar
+\cgi vt
+\sui ahorquillado
+\tli xakal, xäk'äl
+\cai ramas de árbol
+
+\lxi ahumar
+\cgi vt
+\sui ahumado
+\tsi i'ik'ix tyi buts'
+
+\lxi aire
+\cgi m
+\aci 1
+\tli ik'
+\aci 2
+\tli ik'uyel
+\cai del estómago
+
+\lxi ajo
+\cgi m
+\tli axux, x'axux
+
+\lxi ajustar
+\cgi vt
+\sui ajustado
+\tsi jaxakña
+
+\lxi ala
+\cgi f
+\tli wich'
+
+\lxi alacrán
+\cgi m
+\tli siñañ
+\dib ins126b.tif
+
+\lxi alambrado
+\cgi m
+\tli ch'ix tyak'iñ
+
+\lxi alargar
+\cgi vt
+\tli päl'esañ
+\cai mecate, soga
+
+\lxi alcalde
+\cgi m
+\tli ajkal
+
+\lxi alcanzar
+\cgi vt
+\aci 1
+\tli ¹tyaj
+\aci 2
+\tli jastyiyel
+\cai alimento, paga, ropa
+\sui apenas alcanza
+\tsi k'ebel
+
+\lxi alentar
+\cgi vt
+\tli moñ
+\cai niño
+
+\lxi algodón
+\cgi m
+\tli tyiñäm, tyäñäm
+
+\lxi alguacil
+\cgi m
+\tli wasil
+
+\lxi alimentar
+\cgi vt
+\tli buk'sañ
+\cai animales
+
+\lxi alimento
+\cgi m
+\aci 1
+\tli ²bäl
+\cai en el plato
+\aci 2
+\tli *we'el, we'eläl,bälñäk'äl
+
+\lxi alinear
+\cgi vt
+\tli tsol
+\cai poner en fila
+
+\lxi allá
+\cgi adv
+\aci 1
+\tli ya'
+\aci 2
+\tli ixixi, ixtyi
+\cai hasta allá
+\aci 3
+\tli ixäch
+\cai señalando
+
+\lxi allí
+\cgi adv
+\aci 1
+\tli ya'i
+\aci 2
+\tli ixba'añ
+\cai donde está eso
+
+\lxi almacén
+\cgi m
+\tli *yotylel
+\cai de maíz
+
+\lxi almácigo
+\cgi m
+\tli almasio
+
+\lxi almohada
+\cgi f
+\tli k'äñjoläl
+
+\lxi alomar
+\cgi vt
+\sui alomado
+\tsi p'uchul
+
+\lxi alrededor
+\aci 1
+\cgi adv
+\tli selol
+\aci 2
+\cgi m
+\tli *sutyolel
+\cai sing.
+\tli *joytyilel
+\cai pl.
+
+\lxi alto
+\cgi adj
+\tli chañ
+\sui lugar alto
+\tsi k'eloñib
+
+\lxi altura
+\cgi f
+\aci 1
+\tli *chañelal, *chañlel
+\aci 2
+\tli *kotyilel, *pitytyälel
+\cai de animales
+\aci 3
+\tli *chaxtyiklel
+\cai tapesco para secar café, frijol
+\aci 4
+\tli *ñojal
+\cai de niños o animales
+\aci 5
+\tli *wa'tyilel
+\cai de persona
+
+\lxi amable
+\cgi adj
+\sui es muy amable
+\tsi uts ipusik'al
+
+\lxi Amado Nervo
+\tli Amarko
+\cai colonia
+
+\lxi amanecer
+\cgi m
+\sui al amanecer
+\tsi säk'ajel
+
+\lxi amansar
+\cgi vt
+\aci 1
+\tli utsbiñ
+\aci 2
+\tli mañsojiyel
+\cai caballo o mula
+
+\lxi amar
+\cgi vt
+\tli k'uxbiñ
+
+\lxi amargo
+\cgi adj
+\tli ch'aj
+
+\lxi amarillo
+\cgi adj
+\aci 1
+\tli k'äñk'äñ, k'äñtyijañ
+\aci 2
+\tli k'äñlemañ
+\cai milpa, pero sin cosecha
+\sui ponerse amarillo
+\tsi *k'äñajel
+\sui amarillo y plano
+\tsi k'äñwechañ
+\cai objeto
+
+\lxi amarrador
+\cgi m
+\tli *käjchil
+\cai de tela
+
+\lxi amarrar
+\aci 1
+\cgi vt
+\tli käch
+\aci 2
+\cgi vt
+\tli ¹jop'
+\cai enaguas
+\aci 3
+\cgi vt
+\tli mochilañ, mochiñ
+\cai animal
+\aci 4
+\cgi vi
+\tli käjchel
+\sui amarrar carga
+\tsi p'äty
+\sui amarrar repetidas veces
+\tsi mochiñ
+\cai costal
+\sui amarrado
+\tsi kächäl
+\tsi jity'bil
+\cai cerco, puente
+\tsi suty' kächbil
+\cai un rollo
+
+\lxi amate
+\cgi m
+\tli ²juñ
+\cai árbol
+
+\lxi Amate Hollado por Dentro
+\tli Ty'obojuñ
+\cai colonia
+
+\lxi amigo
+\cgi m
+\tli pi'äl
+
+\lxi amonestación
+\cgi f
+\tli *tyik'ol
+
+\lxi amontonar
+\aci 1
+\cgi vt
+\tli much'chokoñ
+\cai granos de café, piedra
+\aci 2
+\cgi vt
+\tli p'ulchokoñ
+\cai maíz, frijol, piedra
+\sui amontonarse
+\tsi mojtyañ
+\cai moscas en comida
+\sui amontonado
+\tsi p'ul, p'ulul, p'ulukña
+\tsi jomol
+\cai gente
+\tsi much'ul
+\cai como granos de café, piedra
+\tsi p'uchul
+\cai cosas
+\tsi wamal
+\cai muchas cosas
+\tsi *witsikña
+\cai maíz, café, frijol
+\tsi wotsol
+\cai ropa, arriera o avispa ya muerta
+\tsi yomol
+\cai rollo de palos
+\sui amontonados así
+\tsi omtyäl
+\cai señalando personas, animales
+
+\lxi ampliar
+\aci 1
+\cgi vt
+\tli ñuk'esañ
+\aci 2
+\cgi vi
+\tli ñuk'esäñtyel
+
+\lxi ampolla
+\cgi f
+\tli *wosmäjel
+
+\lxi ampollar
+\cgi vt
+\tli wosmäl
+\cai piel
+\sui ampollado
+\tsi wosol
+
+\lxi analizar
+\cgi vt
+\tli ñejñañ
+\cai a un paciente
+
+\lxi ancho
+\cgi adj
+\aci 1
+\tli pechekña
+\cai piedra
+\aci 2
+\tli wech wech
+\cai lámina
+\aci 3
+\tli pats'al
+\cai el pie
+\sui ancho y largo
+\tsi pach'al
+\cai pie, mano
+
+\lxi anchura
+\cgi f
+\tli *leñtyilel, *weltyiklel
+\sui anchura de la mano
+\tsi *pats'tyilel laj k'äb
+
+\lxi anciano
+\cgi m
+\tli ¡tyatye!
+\cai Sab.; saludo a un anciano de un joven
+
+\lxi andamiada
+\cgi f
+\tli *wa'lib
+\cai de un edificio, donde el cazador espera la caza
+\re miradero
+
+\lxi andar
+\cgi vi
+\tli xäñ, mi icha'leñ xämbal
+
+\lxi anginas
+\cgi f
+\tli *ñujp'ib lakuk'ib
+
+\lxi angosto
+\cgi adj
+\aci 1
+\tli läts'äl
+\cai camino
+\aci 2
+\tli ¹silikña
+\cai tabla
+\aci 3
+\tli tsäyäl
+\cai cintura
+
+\lxi anguila
+\cgi f
+\tli mijts'ity
+\cai pez
+\sui falsa anguila
+\tsi mits'ijty
+\cai pez
+
+\lxi anillo
+\cgi m
+\tli mätyk'äb
+
+\lxi animal
+\cgi m
+\sui animal doméstico
+\tsi aläk'äl
+\tsi aläk'il
+\cai Sab.
+\sui animal silvestre
+\tsi bälmatye'el
+\sui animal muerto que ya apesta
+\tsi cheñek
+\sui animal negro
+\tsi x'ik'bäk'tyal
+
+\lxi ano
+\cgi m
+\tli *ch'uyity
+
+\lxi anochecer
+\cgi vi
+\tli ik'añ
+
+\lxi anona
+\cgi f
+\aci 1
+\tli k'ewex
+\cai árbol
+\aci 2
+\tli k'ätsats
+\cai Tila; árbol
+\sui anona morada
+\tsi pox
+
+\lxi ansiar
+\cgi vt
+\tli k'upiñ
+
+\lxi anteayer
+\cgi adv
+\tli chäbiji
+
+\lxi antemano
+\sui de antemano
+\tsi wäñ
+
+\lxi antepasados
+\cgi m
+\tli *päk'il
+
+\lxi anteriormente
+\cgi adv
+\tli wajalix
+
+\lxi anudar
+\cgi vt
+\sui anudado
+\tsi k'ojlostyik
+
+\lxi anular
+\cgi vt
+\tli jem
+\cai plan
+
+\lxi anunciar
+\cgi vt
+\tli puk ty'añ
+\sui anunciado
+\tsi tsiktyesäbil
+
+\lxi anzuelo
+\cgi m
+\tli luko' chäy
+
+\lxi añadidura
+\cgi f
+\tli *yok'äjib
+
+\lxi añadir
+\cgi vt
+\tli tyäk'
+
+\lxi año
+\cgi m
+\tli jab
+\sui cada año
+\tsi ja'jabil
+\sui fin del año
+\tsi ijilibal jabil
+\sui todos los años
+\tsi pejtyel jabil
+
+\lxi añublo
+\cgi m
+\tli *kuxemal, *kuxil
+
+\lxi apachurrar
+\aci 1
+\cgi vt
+\tli puch'
+\aci 2
+\cgi vi
+\tli tyup
+
+\lxi apagar
+\aci 1
+\cgi vt
+\tli yäp
+\aci 2
+\cgi vt
+\tli mäyxuñ
+\cai la vista
+\sui apagarse
+\tsi yajpel
+\sui apagándose
+\tsi yäpyäpña
+\cai candil cuando le falta petróleo
+\sui apagado
+\tsi yajpem
+
+\lxi aparecer
+\cgi vi
+\tli tsiktyiyel
+
+\lxi apellido
+\cgi m
+\tli *jol ik'aba'
+
+\lxi apenas
+\cgi adv
+\tli komkatsa', tsal
+\sui apenas alcanza
+\tsi k'ebel
+
+\lxi apestoso
+\cgi adj
+\tli tyuw, tyuweñ
+
+\lxi aplanar
+\cgi vt
+\sui aplanado y ancho
+\tsi petsekña
+\sui en forma aplanada
+\tsi petsel
+
+\lxi aplastar
+\cgi vt
+\aci 1
+\tli ñety', tyeñ
+\cai con instrumento
+\aci 2
+\tli pechtyeñ
+\cai en trampa
+
+\lxi apoyar
+\cgi vt
+\sui apoyarse
+\tsi xijty'añ
+\cai con palo, piedra
+
+\lxi aprender
+\cgi vt
+\tli käñ, ñop, sojlel
+
+\lxi apresurar
+\cgi vt
+\sui apresúrate
+\tsi ¡kukuñuñ!
+
+\lxi apretar
+\cgi vt
+\aci 1
+\tli pets'
+\cai con la mano
+\aci 2
+\tli wity'
+\cai cincha de mula o rollo de leña
+\aci 3
+\tli yäty'
+\cai leña al amarrarla
+\aci 4
+\tli yots'
+\cai en la mano
+\sui apretado
+\tsi luty'ul
+\cai piernas
+
+\lxi apuntalar
+\cgi vt
+\tli xijk'otye'añ
+
+\lxi apuntar
+\cgi vt
+\tli ñejñañ,tyojbiñ
+\cai con un arma
+
+\lxi apuñalar
+\cgi vt
+\tli jek'
+
+\lxi apurar
+\cgi vt
+\tli p'ulbeñ, sebuñ
+\sui apúrate
+\tsi ¡la'ñuñ!, ¡se'ñuñ!
+\sui debes apurarte
+\tsi ¡se'sebety!
+
+\lxi aquél
+\cgi pron
+\tli ixiyi
+\sui es aquél
+\tsi jiñjiñi
+
+\lxi aquí
+\cgi adv
+\aci 1
+\tli äj, ilayi, um, wä', wä'i
+\aci 2
+\tli ilawä
+\cai Sab.
+\sui aquí está
+\tsi umba'añ, wä'añ, uñ tsa'
+
+\lxi aquietar
+\aci 1
+\cgi vt
+\tli ñäch'tyesañ
+\cai a una persona
+\aci 2
+\cgi vi
+\tli ñäjch'el
+
+\lxi araña
+\cgi f
+\tli am
+
+\lxi árbol
+\cgi m
+\tli tye'
+\cai palo, madera
+\sui árbol de sangre
+\tsi xch'ich'bäty
+
+\lxi Arboleda de Madera Colorada
+\tli Chäkluñtye'el
+\cai colonia
+
+\lxi arbusto
+\cgi m
+\aci 1
+\tli ch'upujk
+\aci 2
+\tli xch'ajch'ib
+\cai tiene hojas como las de la palma
+
+\lxi arco
+\cgi m
+\tli jaläjp
+\cai arma, puente
+\sui arco iris
+\tsi ty'ox ja'
+
+\lxi ardilla
+\cgi f
+\tli chuch, chäkjocho chuch
+\dib ash012.tif
+
+\lxi arena
+\cgi f
+\tli ji'
+
+\lxi arenal
+\cgi m
+\tli ¹ji'il
+
+\lxi arenoso
+\cgi adj
+\sui lugar arenoso
+\tsi ji'lumil
+
+\lxi arete
+\cgi m
+\tli uya'
+
+\lxi arisco
+\cgi adj
+\tli p'ip'
+
+\lxi arma
+\cgi f
+\tli juloñib
+
+\lxi armadillo
+\cgi m
+\tli ib
+\cai Tila
+\tli ²wech, xwech
+\dib aac002v.tif
+
+\lxi armónica
+\cgi f
+\tli labityo
+
+\lxi aro
+\cgi m
+\tli xotyolbä tye'
+
+\lxi aroma
+\cgi m
+\tli *yujts'il
+
+\lxi aromático
+\cgi adj
+\tli xojokña
+
+\lxi arquear
+\cgi vt
+\tli k'uch
+
+\lxi arracimarse
+\cgi prnl
+\sui arracimado
+\tli palal
+
+\lxi arrancar
+\cgi vt
+\aci 1
+\tli bok
+\cai mata
+\aci 2
+\tli bots'
+\cai poste
+\aci 3
+\tli k'ol
+\cai hijuelo de plátano
+\aci 4
+\tli jots'
+\cai poste, diente
+\sui arrancarse
+\tli bojkel
+\cai camote, cabello
+\tli k'ojlel
+\cai hijuelo de plátano
+\tli k'ojkel
+\cai dientes
+\sui arrancado
+\tsi bokbil
+\cai camote, papas, cebollas
+\tsi jots'bil
+\cai dientes, postes
+
+\lxi arrastrar
+\cgi vt
+\tli jexbañ, jexk'uñ
+\cai viga, persona, animal; en el suelo
+\sui arrastrando
+\tsi jäläkña, jolokña
+\cai culebra
+\tsi jetyjetyña, jexjexña
+\cai viga, persona, animal; en el suelo
+\sui arrastrándose
+\tsi jexekña
+
+\lxi arrear
+\aci 1
+\cgi vt
+\tli ñijkañ
+\aci 2
+\cgi vt
+\tli wets'
+\aci 3
+\cgi vi
+\tli ñijkäñtyel
+
+\lxi arriba
+\cgi adv
+\tli tyi chañ
+
+\lxi arriera
+\cgi f
+\tli xu'
+\cai hormiga
+
+\lxi arriero
+\cgi m
+\tli arieru, xwets' mula
+
+\lxi arrodillar
+\cgi vt
+\tli ñokchokoñ
+\sui arrodillarse
+\tli ñoktyäl
+\sui arrodillado
+\tsi ñokol
+
+\lxi arroyo
+\cgi m
+\aci 1
+\tli arayojil, ja', pa'
+\aci 2
+\tli jajpa'
+\cai pasa en medio de dos cerritos
+
+\lxi Arroyo Amarillo
+\tli K'äñk'ämpa'
+\cai finca
+
+\lxi Arroyo con Caracoles
+\tli Puypa'
+\cai lugar
+
+\lxi Arroyo de Bambú
+\tli Che'opa'
+\cai colonia
+
+\lxi Arroyo de Piedra Negra
+\tli Ik'tyumpa'
+\cai Tila; ranchería
+
+\lxi Arroyo de Tierra Blanca
+\tli Säklumpa'
+\cai colonia
+
+\lxi Arroyo del Palmar
+\tli Aktye'pa'
+\cai colonia
+
+\lxi Arroyo del Palo Colorado
+\tli Chäktye'pa'
+\cai colonia
+
+\lxi Arroyo Hondo
+\tli Tyambäpa'
+\cai colonia
+
+\lxi arroz
+\cgi m
+\tli arus
+
+\lxi arrugar
+\cgi vt
+\tli ¹sowilañ
+\cai trapo
+\sui arrugado
+\tsi lu'ichtyik
+\cai piel de una persona
+\tsi mujchik'
+\cai piel o fruta seca
+\tsi wojtsik'tyik
+\cai ropa, trapo
+
+\lxi asa
+\cgi f
+\tli chukoñib
+\cai de trastos
+
+\lxi asar
+\cgi vt
+\tli pojpoñ
+\sui asado
+\tsi pojpobil
+
+\lxi ascender
+\cgi vi
+\tli letsel
+
+\lxi asco
+\cgi m
+\sui tener asco por mal olor
+\tsi bi'leñ
+
+\lxi aserrador
+\cgi m
+\aci 1
+\tli xp'eltye'
+\aci 2
+\tli ajp'eltye'
+\cai Sab.
+
+\lxi aserrar
+\cgi vt
+\tli p'el
+\cai madera
+
+\lxi así
+\cgi adv
+\aci 1
+\tli ¹abi, che', che'i, kiñtyäl
+\aci 2
+\tli chebi
+\cai Sab.
+\sui así como
+\tsi che'bajche'
+\sui así debes decir
+\tsi che'ety
+\sui así dice
+\tsi che'eñ
+\sui así dicen
+\tsi che'ob
+\cai terminación
+\sui así digo yo
+\tsi cho'oñ
+\sui así es
+\tsi che'kuyi
+\cai respuesta
+\sui así nada más
+\tsi chejachi, che'jach
+\sui así suena
+\tsi p'äklaw
+\cai sonido de la lluvia
+\sui así también
+\tsi che' ja'el
+
+\lxi asiento
+\cgi m
+\aci 1
+\tli *buchlib
+\aci 2
+\tli xix
+\cai de café
+
+\lxi asolear
+\cgi vt
+\sui asolearse
+\tsi k'ix k'iñ
+
+\lxi áspero
+\cgi adj
+\aci 1
+\tli k'ojlostyik
+\cai madera
+\aci 2
+\tli jeñk'extyik
+\cai árbol
+\aci 3
+\tli jejñex
+\cai piedra o tabla
+\aci 4
+\tli tsäts
+\cai palabra
+
+\lxi asqueroso
+\cgi adj
+\aci 1
+\tli bi'ijtyik
+\aci 2
+\tli xijiñ
+\cai olor
+
+\lxi astilla
+\cgi f
+\tli *xu'il
+\sui astilla de palo
+\tsi *sajl tye'
+
+\lxi astillar
+\cgi vt
+\sui astillado
+\tsi xalal
+
+\lxi atajar
+\cgi vt
+\tli mäktyañ
+
+\lxi atardecer
+\cgi vi
+\sui atardeciendo
+\tsi mächäkña
+
+\lxi atizar
+\cgi vt
+\tli ¹xik'
+\cai fuego
+
+\lxi atole
+\cgi m
+\tli ul
+\cai de masa
+
+\lxi atorar
+\cgi vt
+\sui atorado
+\tsi kets'
+
+\lxi atrás
+\cgi adv
+\aci 1
+\tli wi'il
+\cai posición de persona al caminar
+\aci 2
+\tli *paty
+\cai Sab.
+
+\lxi atrasado
+\cgi adj
+\tli tyoñkots
+
+\lxi atravesar
+\cgi vt
+\sui atravesado
+\tsi k'äty, k'ätyäl
+\sui atravesando
+\tsi ñäkäkña
+
+\lxi aumentar
+\cgi vt
+\aci 1
+\tli p'ew
+\cai bienes
+\aci 2
+\tli p'ojlesañ
+\cai personas, animales
+
+\lxi aunque
+\cgi conj
+\aci 1
+\tli añkese
+\aci 2
+\tli añkimi
+\cai Sab.
+
+\lxi autoridad
+\cgi f
+\aci 1
+\tli ambä iye'tyel
+\aci 2
+\tli mayor
+\aci 3
+\tli yumäl
+\cai Sab.; no indígena
+
+\lxi auxiliador
+\cgi m
+\tli ajkoltyaya
+\cai Sab.
+
+\lxi auxiliar
+\cgi m
+\tli wasil
+\cai de ayuntamiento
+
+\lxi auxilio
+\cgi m
+\tli koltyäñtyel
+
+\lxi avanzar
+\cgi vi
+\tli jojyel
+
+\lxi ave
+\cgi f
+\sui tipo de ave
+\tli tsuñkay
+\cai tipo de ave
+\sui ave negra
+\tsi x'ik'bäk'tyal
+
+\lxi avergonzar
+\cgi vt
+\tli kisñiñ
+
+\lxi avión
+\cgi m
+\tli xwich'
+
+\lxi avisar
+\cgi vt
+\tli sub
+
+\lxi avispa
+\cgi f
+\tli xux
+\sui avispa polista
+\tli jobeñtye' xux
+\sui avispa de cabeza amarilla
+\tsi ¹xoy
+\dib ins166v.tif
+
+\lxi ayer
+\cgi adv
+\aci 1
+\tli ak'bi
+\aci 2
+\tli ²abi
+\cai Sab.
+
+\lxi ayuda
+\cgi f
+\tli koltyaya
+
+\lxi ayudante
+\cgi m
+\tli xkoltyaya
+
+\lxi ayudar
+\cgi vt
+\tli koltyañ
+\sui ayudado
+\tsi koltyäbil
+
+\lxi ayunar
+\cgi vi
+\tli ch'ajbañ
+
+\lxi ayuno
+\cgi m
+\tli ch'ajb
+
+\lxi azúcar
+\cgi m
+\tli asukal
+
+\lxi azul
+\cgi adj
+\aci 1
+\tli yäjyäx
+\aci 2
+\tli yäxlemañ
+\cai río, mar
+\aci 3
+\tli yäxmulañ
+\cai oscuro
+\aci 4
+\tli yäxmojañ
+\cai reflejado
+\sui de color azul
+\tsi *yäxel
+
+\lxi B
+\alf B
+
+\lxi babear
+\cgi vi
+\sui babeando
+\tsi ch'äyäkña
+
+\lxi bagre barrigón
+\aci 1
+\tli ¹xlu'
+\cai pez
+\aci 2
+\tli *ajlu'
+\cai Tila; pez
+
+\lxi baile
+\cgi m
+\tli soñ
+
+\lxi bajar
+\cgi vi
+\aci 1
+\tli jubel
+\aci 2
+\tli jets
+\cai asiento de café, pozol
+\aci 3
+\tli ju'sañ
+\cai alguna cosa
+\aci 4
+\tli sajp'el
+\cai agua
+\sui bajar y quedar
+\tsi sämtyäl
+\cai neblina
+\sui bajar por un palo
+\tsi yujlel
+
+\lxi bajo
+\cgi adj
+\aci 1
+\tli jubeñ
+\cai precios
+\aci 2
+\tli pek'
+\cai altura de casa
+\aci 3
+\tli säp'äl
+\cai agua
+
+\lxi balanza
+\cgi f
+\tli *p'isoñib
+
+\lxi balché
+
+\cgi f
+\tli xijiñtye'
+\cai árbol
+
+\lxi balde
+\cgi adv
+\sui en balde
+\tsi pojob
+\cai Sab.
+\sui de balde
+\tsi lolomjach, milik
+\tsi ¹pojol
+\cai Tila
+
+\lxi balsa
+\cgi f
+\tli poy
+
+\lxi bambú
+\cgi m
+\aci 1
+\tli chejp
+\cai planta
+\aci 2
+\tli ²k'äñchejb
+\cai amarillo
+\aci 3
+\tli jimba
+\cai Tila
+\sui lugar donde hay mucho bambú
+\tsi chejboy, ch'ijbol
+
+\lxi banca
+\cgi f
+\aci 1
+\tli tyem
+\aci 2
+\tli wañku
+\cai Sab.
+\sui banqueta
+\tsi ts'ajk
+
+\lxi bañadero
+\cgi m
+\sui bañadero de puerco
+\tsi ts'ämi ichityam
+
+\lxi bañar
+\cgi vt
+\tli ts'äñsañ
+\sui bañado
+\tsi ts'äñsäbil
+\sui bañarse
+\tsi ts'äñsäñtyel
+
+\lxi baño
+\cgi m
+\tli ts'ämel
+\sui baño de vapor
+\tsi pus
+
+\lxi barba
+\cgi f
+\tli *tsuktyi', *tsutsel lakchoj
+
+\lxi barbilla
+\cgi f
+\tli *xäk'tyi'
+
+\lxi barco
+\cgi m
+\tli xäñwibäl
+\cai Sab.
+
+\lxi barrer
+\aci 1
+\cgi vt
+\tli misuñ
+\aci 2
+\cgi vi
+\tli misujel
+\aci 3
+\cgi vi
+\tli misuñtyel
+\cai parte de una ceremonia
+
+\lxi barro
+\cgi m
+\tli wajpam
+\cai en la cara
+
+\lxi base
+\cgi f
+\aci 1
+\tli k'äklib
+\aci 2
+\tli ñaklib
+\cai Sab.; de una casa
+\sui base de cola de aves
+\tsi *chuñchuñ muty, *k'ajk
+
+\lxi basilisco
+\cgi m
+\tli tseljol
+
+\lxi bastante
+\cgi adj
+\aci 1
+\tli oñ
+\aci 2
+\tli ts'iwil
+\aci 3
+\tli wets'ekña
+\cai hombres, animales, nubes
+\aci 4
+\tli *yilal, ¹yokä
+\cai trabajo
+
+\lxi basura
+\cgi f
+\tli misujeläl
+
+\lxi batea
+\cgi f
+\tli batyiya tye'
+
+\lxi batir
+\cgi vt
+\aci 1
+\tli puk'
+\cai pozol
+\aci 2
+\tli yolk'iñ
+\cai lodo
+
+\lxi bautismo
+\cgi m
+\tli ch'ämja'
+
+\lxi bautizar
+\cgi vt
+\tli mi iyäk' ch'ämja'
+
+\lxi beber
+\cgi vt
+\tli jap
+\sui acto de bebe
+\tsi uch'el
+
+\lxi becerro
+\cgi m
+\tli alä wakax
+
+\lxi bejuco
+\cgi m
+\aci 1
+\tli ¹ak'
+\aci 2
+\tli kojkom
+\cai para amarrar cercos
+\sui tipo de bejuco silvestre
+\tsi bayil
+\tsi sibikchuch
+\cai de tierra caliente
+\tsi xyk'ak'
+\sui bejuco de tecomate
+\tsi bux
+\sui tipo de bejuco grande
+\tsi ch'äb
+\sui bejuco que se tiende en el suelo
+\tsi pepech'ak'
+\sui bejuco de alalcrán
+\tsi siñañ ak'
+\sui bejuco de uva
+\tsi tsejluk ak'
+\sui tipo de bejuco chico y espinoso
+\tsi ts'äbab
+
+\lxi bejuquillo verde
+\tli yaxajachañ
+\cai reptil
+\dib asg018v.tif
+
+\lxi belleza
+\cgi f
+\tli *ty'ojläwib
+
+\lxi besar
+\cgi vt
+\tli ts'ujts'uñ
+
+\lxi bien
+\cgi adv
+\tli uts'aty, weñ
+
+\lxi bienestar
+\cgi m
+\tli *weñlel
+
+\lxi bifurcación
+\cgi f
+\tli *xäk' bij
+\cai del camino
+
+\lxi blanco
+\cgi adj
+\aci 1
+\tli säsäk, säkchaxañ, säkwa'añ
+\aci 2
+\tli säkluts'añ
+\cai piel
+\aci 3
+\tli säkmotyañ
+\cai conjunto de piedras
+\aci 4
+\tli säktyijañ
+\cai cabello, trenzas
+\aci 5
+\tli säkts'ijañ, säkñup'añ
+\cai piedra
+\aci 6
+\tli säkwelañ
+\cai tela
+\aci 7
+\tli säkwolañ
+\cai pelo
+\sui blanco oscuro
+\tsi säktyojañ
+\cai como nubes
+
+\lxi blando
+\cgi adj
+\tli k'uñ
+\cai alimentos, tierra, palo
+\sui muy blando
+\tsi k'uñyumañ
+\cai palo
+
+\lxi boa
+\cgi f
+\tli uchchañ
+\cai reptil
+\dib asg003.tif
+
+\lxi boca
+\cgi f
+\tli ejäl, *yej
+\sui boca abajo
+\tsi ñukye'el, xity, xityil
+\sui boca agachado
+\tsi ñukye'el
+\cai persona, cubeta
+\sui boca arriba
+\tsi ch'a'al
+\cai acostado
+\sui poner boca abajo
+\tsi ñukchokoñ, xitychokoñ
+
+\lxi bofa
+\cgi adj
+\tli wojts
+\cai madera, tierra
+
+\lxi bola
+\cgi f
+\tli k'oxol
+\cai de masa, alimento, tierra
+\sui hacer bola
+\tsi k'olilañ
+\cai sing.
+\tsi k'oliñ
+\cai pl.
+\tsi woxilañ
+\cai masa, tierra
+
+\lxi bolsa
+\cgi f
+\aci 1
+\tli borxa, *borxajlel
+\aci 2
+\tli mukujk
+\cai de tela
+\sui bolsa donde se envasa el azúcar
+\tsi mukuk pisil
+
+\lxi bolsero espalda amarilla
+\tli yujyum
+\cai calandria real; ave
+
+\lxi bondad
+\cgi f
+\tli *yutslel
+
+\lxi bonito
+\cgi adj
+\aci 1
+\tli *ty'ojol
+\aci 2
+\tli k'otya
+\cai Sab., Tila
+\aci 3
+\tli tsäñtsäña
+\cai sonido
+
+\lxi bordar
+\cgi vt
+\tli ²joch'
+\cai tela
+
+\lxi bordón
+\cgi m
+\tli ñä'tye'
+\cai Sab.
+
+\lxi borracho
+\cgi adj
+\aci 1
+\tli lemel, yäk
+\aci 2
+\tli ¹k'ixiñ
+\cai Sab.
+
+\lxi bosque
+\cgi m
+\aci 1
+\tli tye'el
+\cai pequeño
+\aci 2
+\tli ñojtye'el
+\cai Sab.; grande
+\sui bosque sin monte bajo
+\tsi kolokña
+
+\lxi Bosque de Los Huesos
+\tli Baktye'el
+\cai ranchería
+
+\lxi bostezo
+\cgi m
+\tli jayäb
+
+\lxi botar
+\cgi vt
+\sui botado
+\tsi xipil
+\cai ave
+\tsi ty'usul
+\cai cosa gruesa
+
+\lxi botella
+\cgi f
+\tli limetye
+
+\lxi botil
+\tli (reg.)
+\cgi m
+\tli xpojkäm
+\cai frijol grande y colorado
+
+\lxi bramar
+\cgi vi
+\sui bramando
+\tsi jujujña
+\cai tigre
+
+\lxi brasa
+\cgi f
+\tli *ñich k'ajk
+
+\lxi brasero
+\cgi m
+\tli *yajñib ñich k'ajk
+
+\lxi bravo
+\cgi adj
+\tli ch'ejl
+
+\lxi brazo
+\cgi m
+\tli k'äbäl
+\sui su brazo
+\tsi ik'äb
+\sui en los brazos
+\tsi ²loch'
+
+\lxi breve
+\cgi adj
+\sui hacer breve
+\tsi kom'esañ
+
+\lxi brilloso
+\cgi adj
+\tli k'äñlemañ, säklemañ
+\cai lámina
+\sui brilloso y blanco
+\tsi säktyilañ
+\sui brilloso y liso
+\tsi elekña
+
+\lxi brincar
+\cgi vi
+\aci 1
+\tli lujty'el
+\cai caer en el mismo lugar
+\aci 2
+\tli tyijp'ejl
+\cai con paso
+\sui brincar con un pie
+\tsi ty'ijchiñ
+
+\lxi brisa
+\cgi f
+\tli *yik'il
+\cai de río
+
+\lxi broma
+\cgi f
+\tli alas ty'añ
+
+\lxi brotar
+\cgi vi
+\tli pasel
+\cai planta
+\sui brotado
+\tsi bulux
+\sui brotando
+\tsi wulwulña
+\cai lentamente
+
+\lxi brote
+\cgi m
+\sui brote de agua
+\tsi bulux ja'
+
+\lxi broza
+\cgi f
+\tli k'u'
+\cai de la milpa
+
+\lxi brujo
+\cgi m
+\tli sts'äkaya, xiba, xwujty
+
+\lxi brumoso
+\cgi adj
+\tli mäkäl
+
+\lxi bueno
+\cgi adj
+\aci 1
+\tli uts
+\aci 2
+\tli uts'aty
+\cai una respuesta
+\sui buen tiempo
+\tsi jamäl
+\sui no está bueno
+\tsi mach weñik
+
+\lxi burbujear
+\cgi vi
+\sui burbujeante
+\tsi sorokña
+
+\lxi burla
+\cgi f
+\tli wajal
+
+\lxi burlar
+\cgi vt
+\tli wajleñ
+
+\lxi buscador
+\cgi m
+\tli xsäklaya
+
+\lxi buscar
+\cgi vt
+\tli sajkañ, säklañ
+\sui buscar pleito
+\tsi tyech ty'añ
+\cai Sab.
+
+\lxi C
+\alf C
+
+\lxi caballero
+\cgi m
+\tli pujyu'
+\cai chotacabra; ave
+
+\lxi caballete
+\cgi m
+\tli *jol otyoty, tyek'jol
+\cai de casa
+
+\lxi caballito del diablo
+\cgi m
+\tli tyujlux
+\cai libélula; insecto
+
+\lxi caballo
+\cgi m
+\tli kawayu', k'ächlibäl
+
+\lxi cabello
+\cgi m
+\tli *tsutsel lakol
+
+\lxi cabeza
+\cgi f
+\tli *jol
+\sui cabeza blanca
+\tsi säkix ijol
+\cai vieja del monte
+\sui cabeza de negro
+\tsi kulak'
+\cai bejuco grande
+\sui de cabeza
+\tsi xityikña
+\sui sin cabeza
+\tsi borol ibik'
+
+\lxi Cabeza del Arroyo
+\aci 1
+\tli Jolja'
+\cai colonia
+\aci 2
+\tli Jolñopa'
+\cai Tila; colonia
+
+\lxi Cabeza del Cerro
+\tli Jolwits
+\cai colonia
+
+\lxi Cabeza del Zacatal
+\tli Joljamil
+\cai colonia
+
+\lxi cacahuate
+\cgi m
+\tli mañax bu'ul
+
+\lxi cacao
+\cgi m
+\tli käkäw
+\dib ova084.tif
+
+\lxi cacaotal
+\cgi m
+\tli käkäwol
+
+\lxi cacarear
+\cgi vi
+\sui cacareando
+\tsi ch'e'ekña
+
+\lxi cacaté
+\cgi m
+\sui lugar donde hay muchas matas de cacaté
+\tsi *käkätye'ol
+
+\lxi cacería
+\cgi f
+\tli julbäl
+
+\lxi cada
+\cgi adj
+\sui a cada rato
+\tli wo'wo
+\sui cada año
+\tli ja'jabil
+\sui cada cinco
+\tli jo'jo'p'ejl
+\sui cada clase
+\tli jujuñchajp
+\sui cada día
+\tli jujump'ejl k'iñ
+\sui cada uno
+\tli jujump'ejl
+\sui cada vez
+\tli jajayajl, jujuñyajl
+\sui cada vez más
+\tsi utsi
+
+\lxi cadáver
+\cgi m
+\tli ch'ujleläl
+
+\lxi cadena
+\cgi f
+\tli kareña
+
+\lxi cadera
+\cgi f
+\tli *jol ya'
+
+\lxi caer
+\cgi vi
+\aci 1
+\tli yajlel, bojkel
+\aci 2
+\tli jojchel
+\cai calzón, pantalón
+\aci 3
+\tli p'ajtyel
+\cai fruta, carne, dinero, tortillas
+\aci 4
+\tli sijpel
+\cai trampa
+\aci 5
+\tli wejtyuyel
+\cai arroz, frijol, maíz
+\sui a punto de caer
+\tsi xuyiña
+\cai carga de animal
+\sui dejar caer
+\tsi yäsañ; p'ätsañ
+\cai alimento o dinero
+\sui manera de caer
+\tsi wity
+\sui caído
+\tsi yajlem, bujchem
+\cai árbol, casa
+\sui cayendo
+\tsi ts'äplaw
+\cai cuantas gotas
+
+\lxi café
+\cgi m
+\aci 1
+\tli kajpe'
+\aci 2
+\tli kajwe'
+\cai Tila
+\aci 3
+\tli kape
+\cai Sab.
+\sui mata de café
+\tsi itye'el kajpe'
+\sui fruta verde del café
+\tsi *ch'okel
+
+\lxi cafetal
+\cgi m
+\aci 1
+\tli kajpe'lel
+\aci 2
+\tli kapejol
+\cai Sab.
+
+\lxi caída
+\cgi f
+\sui caída de agua
+\tsi *wejlib ja'
+
+\lxi caimito
+\cgi m
+\tli tyak'iñ ch'ijty
+\cai palo de canela; árbol
+
+\lxi cajete
+\cgi m
+\tli ch'ejew
+\cai cazuela hecha de barro
+
+\lxi cajón
+\cgi m
+\tli kajoñtye', kaxatye'
+
+\lxi cal
+\cgi f
+\tli tyañ
+
+\lxi calabaza
+\cgi f
+\tli ch'ujm
+
+\lxi calambre
+\cgi m
+\tli lo'chij
+
+\lxi calandria
+\cgi f
+\tli tyojty
+\cai ave
+\sui calandria real
+\tsi yujyum
+\cai ave
+
+\lxi calavera
+\cgi f
+\tli *bäkel joläl
+
+\lxi caldo
+\cgi m
+\tli ²*ya'lel
+\cai Sab.
+\sui sin caldo
+\tsi tyikiñjopol
+\cai frijol
+
+\lxi calentar
+\cgi vt
+\aci 1
+\tli k'ix
+\cai en el fuego
+\aci 2
+\tli k'ixñesañ
+\cai poco
+\aci 3
+\tli tyikwesañ
+\cai mucho
+
+\lxi calentura
+\cgi f
+\tli k'ajk
+
+\lxi caliente
+\cgi adj
+\aci 1
+\tli ²k'ixiñ
+\cai poco
+\aci 2
+\tli tyikäw
+\cai muy
+
+\lxi cáliz
+\cgi m
+\tli *yutybal
+
+\lxi callado
+\cgi adj
+\tli ämäl, ñäch'äl
+
+\lxi callar
+\cgi vt
+\tli ch'ä'tyesañ
+\cai Sab.
+\sui cállate
+\tsi ¡ch'äbix!
+
+\lxi callejón
+\cgi m
+\tli kayajoñ
+
+\lxi calmar
+\aci 1
+\cgi vt
+\tli läm, ñäjch'el
+\cai enfermedad
+\aci 2
+\cgi vi
+\tli lämtyäl
+\cai Sab.; enfermedad
+
+\lxi calor
+\cgi m
+\tli tyikwal
+\sui hacer calor
+\tsi k'ixiñ pañimil, tyikäw pañimil
+
+\lxi caluroso
+\cgi adj
+\aci 1
+\tli chäpäkña
+\cai adentro de la casa
+\aci 2
+\tli yo'okñajax
+\cai con fiebre
+\aci 3
+\tli yowyowña
+\cai adentro del cuerpo
+
+\lxi calvo
+\cgi adj
+\tli chäkpiräñ jol, xpok'jol, ch'umjol
+\cai lit.: cabeza de calabaza
+
+\lxi calzoncillo
+\cgi m
+\tli *wex, wexäl
+
+\lxi cama
+\cgi f
+\aci 1
+\tli ch'ak
+\cai fija
+\aci 2
+\tli wäyib, wäyibäl
+\cai movible
+
+\lxi camaleón
+\cgi m
+\tli o'chañ
+\cai reptil
+
+\lxi camarón
+\cgi m
+\tli xex, xuñ
+\sui lugar de camarones
+\tsi xexkokil
+
+\lxi cambiar
+\aci 1
+\cgi vi
+\tli k'axel, k'ex
+\aci 2
+\cgi vt
+\tli jaw
+\cai moneda
+\aci 3
+\cgi vt
+\tli yäñ
+\cai lugar, color o dibujo
+\sui cambiado
+\tsi yäñäl
+\sui cambiarse
+\tsi k'extyiyel
+\tsi yäjñel
+\cai de cara
+\sui acción de cambiar
+\tsi k'exoñel
+
+\lxi cambio
+\cgi m
+\tli sujtyib
+\cai dinero
+
+\lxi camilla
+\cgi f
+\sui camilla de un muerto
+\tsi *k'ejchil
+
+\lxi caminar
+\cgi vt
+\tli xäñtyesañ
+\cai hacer
+\sui caminando
+\tsi kotykotyña
+\cai persona, en cuatro patas
+\tsi ty'ity'ichñayok
+\cai de puntillas
+\tsi xäñwi
+\cai Sab.
+\sui manera de caminar echando la cabeza hacia atrás
+\tsi ch'a'ch'a'ña
+
+\lxi camino
+\cgi m
+\tli bij
+\sui camino real
+\tsi kolem bij
+\sui camino compuesto de palos atravesados
+\tsi ji'tye'ol
+\sui camino principal
+\tsi ñoj bij
+
+\lxi camisa
+\cgi f
+\tli bujkäl
+
+\lxi camote
+\cgi m
+\tli ajkum
+\sui primera raíz del camote
+\tsi *chumwi' ajkum
+
+\lxi campana
+\cgi f
+\tli xpapañichim, pañpañichim
+\cai arbusto
+
+\lxi campo
+\cgi m
+\sui campo de aterrizaje
+\tsi *yajlib xwich'
+
+\lxi campomocha
+\cgi f
+\tli tyuch'k'iñ
+\cai tipo de mantis
+\dib ins141s.tif
+
+\lxi canasta
+\cgi f
+\tli chikib
+
+\lxi candado
+\cgi m
+\sui echar candado
+\tsi ñety
+
+\lxi candente
+\cgi adj
+\tli chäktsäñañ
+\cai fierro
+
+\lxi candil
+\cgi m
+\tli kañtyil
+\cai víbora
+
+\lxi cangrejo
+\cgi m
+\tli mep'
+
+\lxi canícula
+\cgi f
+\tli k'äñ jaläjp
+\cai temporada de sequía en agosto o septiembre
+
+\lxi canilla
+\cgi f
+\tli *tseñek
+\cai de la pierna
+
+\lxi canoa
+\cgi f
+\tli *tyilib
+
+\lxi cansado
+\cgi adj
+\aci 1
+\tli lujb, lujbeñ
+\cai persona, animal
+\aci 2
+\tli sop'
+\cai pies, piernas
+
+\lxi cansancio
+\cgi m
+\tli *lujbel, *lujbeñal
+
+\lxi cansar
+\cgi vt
+\sui cansarse
+\tsi lujb'añ
+
+\lxi cantar
+\cgi vt
+\tli k'äyiñ, mi icha'leñ k'ay
+\sui cantando
+\tsi jichikña
+\cai chicharra
+
+\lxi cántaro
+\cgi m
+\aci 1
+\tli uk'um
+\aci 2
+\tli akaras
+\cai Tila
+
+\lxi cantear
+\cgi vt
+\sui canteado
+\tsi bexel
+
+\lxi cantidad
+\cgi f
+\sui cantidad de agua
+\tsi *pomlel
+
+\lxi canto
+\cgi m
+\aci 1
+\tli k'ay
+\aci 2
+\tli uk'el
+\cai radio, tocadisco, gallo
+\aci 3
+\tli kokorojo'
+\cai gallo
+
+\lxi caña
+\cgi f
+\tli sik'äb
+\sui caña agria
+\tsi pajtyo'
+\cai hierba
+
+\lxi cañal
+\cgi m
+\tli sik'bal
+
+\lxi caoba
+\cgi f
+\tli suts'ul
+
+\lxi capa
+\cgi f
+\tli mojch'
+
+\lxi capacitado
+\cgi adj
+\tli sojlem
+
+\lxi capar
+\cgi vt
+\sui capado
+\tsi kapom
+\cai animal
+
+\lxi capulín cimarrón
+\tli ch'ajañ, pomoy
+\cai majagua colorada; árbol
+
+\lxi capulinero
+\cgi m
+\tli xboch jol
+
+\lxi cara
+\cgi f
+\aci 1
+\tli ¹*wuty
+\aci 2
+\tli säkpojañ
+\cai medio blanca
+
+\lxi caracol
+\cgi m
+\aci 1
+\tli puy
+\aci 2
+\tli ty'oty'
+\cai del monte
+
+\lxi carbón
+\cgi m
+\tli abäk, *yäbäklel
+
+\lxi carbúnculo
+\cgi m
+\tli chäkajl
+
+\lxi carcajada
+\cgi f
+\sui a carcajadas
+\tsi jajakña
+
+\lxi cárcel
+\cgi f
+\tli mäjkibäl, ñujp'ibäl
+
+\lxi carga
+\cgi f
+\tli *kuch, kuchäl
+
+\lxi cargador
+\cgi m
+\tli xkuchijel
+
+\lxi cargar
+\cgi vt
+\aci 1
+\tli *kuch, kuchijel
+\cai sobre espalda
+\aci 2
+\tli k'ech
+\cai en hombro
+\sui cargado
+\tsi kuchbil
+\cai sobre espalda
+\tsi k'echel
+\cai en hombro
+\sui bien cargado
+\tsi pakal
+\cai de maíz, fruta
+
+\lxi carie
+\cgi f
+\tli *yik'al iyej
+
+\lxi carne
+\cgi f
+\tli we'eläl, *we'el
+
+\lxi caro
+\cgi adj
+\tli letsem
+
+\lxi carpa
+\cgi f
+\tli xk'äñchäy
+\cai pez
+
+\lxi carpintero
+\cgi m
+\tli xjuk'tye'
+\cai ave
+\sui carpintero real
+\tsi stselel, xbijmuty
+\cai ave
+\sui carpintero listado
+\tsi xch'ejku
+\cai ave
+\dib abbc004v.tif
+
+\lxi carrizo
+\cgi m
+\tli amäy, ¹pochob
+
+\lxi carta
+\cgi f
+\tli ¹juñ
+
+\lxi cartucho
+\cgi m
+\tli ibäk' juloñib
+\cai de arma
+
+\lxi casa
+\cgi f
+\tli otyoty
+\sui casa de animales
+\tli *yotylel
+\sui entrada de casa
+\tsi ityi' otyoty
+
+\lxi casarse
+\cgi prnl
+\tli ñujpuñel, päy
+\sui dar en casamiento
+\tsi sijiñ
+
+\lxi cascajo
+\cgi m
+\tli k'äsäb
+
+\lxi cáscara
+\cgi f
+\aci 1
+\tli ipaty tye'
+\cai corteza
+\aci 2
+\tli *sujl
+\cai de arroz, café, frijol, maíz
+\sui cáscara de árbol que usan para paludismo
+\tsi makuliñ
+\sui cáscara del maíz
+\tsi jomojch'
+
+\lxi casco
+\cgi m
+\tli ejk'ach
+\cai de caballo
+
+\lxi casi
+\cgi adv
+\aci 1
+\tli kolel, yomal
+\aci 2
+\tli ts'itya'
+\cai falta poco
+
+\lxi caspa
+\cgi f
+\tli xixjol
+
+\lxi castellano
+\cgi m
+\tli kastyiya
+
+\lxi castigo
+\cgi m
+\tli tyojmulil
+
+\lxi catarro
+\cgi m
+\tli sijmal
+
+\lxi catorce
+\cgi adj
+\tli chäñlujump'ejl
+
+\lxi causa
+\cgi f
+\sui por causa de
+\tsi kaj
+
+\lxi cavar
+\cgi vt
+\tli pik
+
+\lxi cayuco
+\cgi m
+\tli jukub
+
+\lxi cazar
+\cgi vt
+\tli kolmäjel
+
+\lxi cedro
+\cgi m
+\tli chäktye', ch'ujtye'
+\cai árbol
+
+\lxi cegar
+\cgi vt
+\tli ¹mixuñ
+\cai por luz fuerte
+
+\lxi ceiba
+\cgi f
+\tli yäxtye'
+\cai árbol
+
+\lxi ceja
+\cgi f
+\tli mätsab
+
+\lxi ceniza
+\cgi f
+\tli tyäñäl k'ajk, ityäñil k'ajk
+
+\lxi cepillar
+\cgi vt
+\tli ¹juk'
+\cai madera, dientes
+
+\lxi cepillo
+\cgi m
+\tli poki'ejäl, juk'o'ejäl
+\cai dental
+
+\lxi cera
+\cgi f
+\tli tya'chäb
+
+\lxi cerbatana
+\cgi f
+\tli jots'amäy
+\cai hecha de carrizo
+
+\lxi cerca
+\cgi adv
+\aci 1
+\tli läk', läk'äl
+\aci 2
+\tli ñochol
+\cai pegado
+\aci 3
+\tli k'ajpa'añ
+\cai visible
+
+\lxi cerca
+\cgi f
+\tli *bojtye'lel
+\cai de casa
+
+\lxi cercar
+\cgi vt
+\tli korälijel
+\sui cercado
+\tsi koraläjem
+
+\lxi cerco
+\cgi m
+\sui hacer cerco
+\tsi korälijel
+
+\lxi cerdito
+\cgi m
+\aci 1
+\tli k'oyem
+\cai puerquito, viuda; ave
+\aci 2
+\tli ch'ämpäk'
+\cai Sab.
+
+\lxi cerdo
+\cgi m
+\tli chityam
+
+\lxi cerradura
+\cgi f
+\tli *ñejty'il
+\cai de una casa
+
+\lxi cerrar
+\cgi vt
+\aci 1
+\tli ñup'
+\cai casa
+\aci 2
+\tli muts'
+\cai ojos
+\sui cerrar con llave
+\tsi ts'oty
+\cai Sab.
+\sui cerrado
+\tsi ñup'ul
+\cai casa
+\tsi k'o'mäkäl
+\cai de nubes
+\tsi mäkäkña
+\cai por nubes
+
+\lxi cerro
+\cgi m
+\aci 1
+\tli wits
+\aci 2
+\tli boltyäl
+\cai Sab.
+\sui cerro grande
+\tsi ñoj wits
+
+\lxi Cerro Alto
+\tli K'uk'wits
+\cai Tumbalá
+
+\lxi Cerro del Tambor
+\tli Lajtye'wits
+\cai cerro
+
+\lxi Cerro Firme
+\tli Xu'wits
+
+\lxi chachalaca olivácea
+\tli xk'el
+\cai chachalaca común; ave
+
+\lxi chamarra
+\cgi f
+\tli ²tsuts
+
+\lxi champa
+\cgi vt
+\tli lejchiñpaty
+\cai Sab.
+
+\lxi chanté
+\cgi m
+\tli chañtye'
+\cai madre de cacao; árbol
+
+\lxi chaparro
+\cgi adj
+\sui chaparrito
+\tsi pek'
+
+\lxi chapaya
+\cgi f
+\aci 1
+\tli bajtyuñ
+\cai tierna
+\aci 2
+\tli chapäy
+\cai fruta de palma
+\sui chapay amargo
+\tsi tyuk
+\cai vegetal comestible
+
+\lxi chaperla
+\cgi f
+\aci 1
+\tli xijiñtye'
+\cai balché; árbol
+\aci 2
+\tli yaxokiñtye'
+\cai Tila; árbol
+
+\lxi chaporrear
+\cgi vt
+\aci 1
+\tli wejlujel
+\cai chapodar
+\aci 2
+\tli ²wejluñ
+\aci 3
+\tli ¹päty
+\cai camino
+
+\lxi chapotear
+\cgi vi
+\sui chapoteando
+\tsi ts'opts'opña
+
+\lxi chapulín
+\cgi m
+\aci 1
+\tli sajk'
+\cai insecto
+\aci 2
+\tli xk'ajbasajk'
+\sui chapulín fraile
+\tsi xkukuchyopom
+\cai langosta verde
+\dib ins036.tif
+
+\lxi chaquiste
+\cgi m
+\tli ch'ikijl
+\cai insectillo crepuscular muy voraz
+
+\lxi chaya
+\cgi f
+\tli * ²ek', x'ek'
+\cai quelite
+\sui chaya pica
+\tsi stsaja tyuñ
+
+\lxi chayote
+\cgi m
+\tli ch'ijch'um, ñi'uk'
+\dib ofdb290.tif
+
+\lxi chayotestle
+\tli (reg.)
+\cgi m
+\tli yame
+\cai raíz de chayote
+
+\lxi chechén
+\cgi m
+\tli ixtye'
+\cai malamujer; árbol
+
+\lxi cheje
+\cgi m
+\tli xch'ejku'
+\cai ave
+
+\lxi chicantor
+\cgi m
+\tli tsijkotso'
+\cai ave
+
+\lxi chícharo
+\cgi m
+\tli xtye' bu'ul
+\cai tipo de hierba
+
+\lxi chicharra
+\cgi vt
+\tli jijch, ts'ijkityiñ
+
+\lxi chicle
+\cgi m
+\aci 1
+\tli tyulum
+\cai árbol
+\aci 2
+\tli tsak'iñ
+\cai goma de mascar
+
+\lxi chico
+\cgi adj
+\aci 1
+\tli bik'ity
+\aci 2
+\tli chuty
+\cai Sab., Tila
+\sui chiquito
+\tsi ch'o'ch'ok
+\tsi wijwistyäl
+\cai granos
+\tsi wisil
+\cai pedacito
+
+\lxi chicote
+\cgi m
+\tli asiyal, pächi
+\cai látigo
+
+\lxi chicotear
+\cgi vt
+\tli jäjluñ
+\cai persona, animal
+
+\lxi chicozapote
+\cgi m
+\tli bik'tyi chä'tye', chä'tye'
+\cai árbol
+
+\lxi chiflar
+\cgi vt
+\tli ch'uybañ
+
+\lxi chile
+\cgi m
+\tli ich
+
+\lxi chinche
+\cgi m
+\tli poch'
+\cai insecto
+
+\lxi chincuyu
+\cgi f
+\tli pox
+\cai anona colorada; árbol
+
+\lxi chinino
+\cgi m
+\tli koyoj
+\cai tipo de aguacate
+
+\lxi chiquero
+\cgi m
+\tli *mäjkib chityam
+
+\lxi chiquiguao
+\cgi m
+\tli ch'ix ajk
+\cai tipo de tortuga
+\dib atg011.tif
+\nt change to tortuga cocodrilo?
+
+\lxi chiquitín
+\cgi m
+\tli ts'ikijk
+
+\lxi chisme
+\cgi m
+\aci 1
+\tli jop'ty'añ, u'yaj
+\aci 2
+\tli choñtyi'
+\cai Tila
+
+\lxi chispa
+\cgi f
+\sui echar chispas
+\tsi ts'iplaw
+
+\lxi chispeante
+\cgi adj
+\tli ts'äylaw
+
+\lxi chiste
+\cgi m
+\tli alas ty'añ
+
+\lxi chistoso
+\cgi adj
+\sui chistosamente
+\tsi tse'tyeñtyik
+
+\lxi chorrear
+\cgi vi
+\sui chorreando
+\tsi kelkelña
+\cai sangre, agua
+
+\lxi chorro
+\cgi m
+\sui chorrito de agua
+\tsi chulu' ja'
+
+\lxi choza
+\cgi f
+\tli lejchempaty
+
+\lxi chupaflor
+\cgi m
+\tli ts'uñuñ
+\cai ave
+
+\lxi chupamiel
+\cgi m
+\tli ts'u' chab
+\cai mamífero
+
+\lxi chupar
+\cgi vt
+\aci 1
+\tli majts'añ
+\cai mano
+\aci 2
+\tli ñul
+\cai dulce
+\aci 3
+\tli ts'u'
+\cai naranja
+\aci 4
+\tli ts'u'ts'uñ
+\cai jugo de fruta
+
+\lxi chuy
+\cgi m
+\tli ts'iwi'
+\cai hierba
+
+\lxi cicatriz
+\cgi f
+\tli *lojweñal
+
+\lxi ciego
+\aci 1
+\cgi adj
+\tli pots'
+\aci 2
+\cgi m
+\tli xpots'
+\sui ciego con los ojos abiertos
+\tli tyokal wuty
+
+\lxi cielo
+\cgi m
+\aci 1
+\tli pañchañ
+\aci 2
+\tli chañ, gloria
+\cai Tila
+
+\lxi ciénaga
+\cgi f
+\tli ja'lumil, lumija'
+
+\lxi cierto
+\cgi adj
+\tli isujm
+\sui es cierto
+\tsi melel
+
+\lxi ciervo volante
+\cgi m
+\tli jäx
+\cai escarbajo de los árboles; insecto
+
+\lxi cigarra
+\cgi f
+\tli jichityiñ
+\cai cicada, chicarra; insecto
+
+\lxi cigarro
+\cgi m
+\tli k'ujts
+
+\lxi cilantro
+\cgi m
+\tli kulañtya, xkulañtye
+\dib Cilantro.tif
+
+\lxi cima
+\cgi f
+\tli pam
+\sui cima de una loma
+\tsi bujulum
+
+\lxi cinco
+\cgi adj
+\tli jo'p'ejl
+\sui cada cinco
+\tsi jo'jo'p'ejl
+
+\lxi cinta
+\cgi f
+\tli *ts'omtye'lel
+\cai de casa
+
+\lxi cinturón
+\cgi m
+\tli kajchiñäk', siñcho
+
+\lxi Circundado por Agua
+\tli Joyo'ja'
+\cai colonia
+
+\lxi circundar
+\cgi vt
+\sui circundado
+\tsi joyol
+
+\lxi circunferencia
+\cgi f
+\tli *xotytyilel
+
+\lxi clan
+\cgi m
+\tli majchil
+\cai Tila
+
+\lxi clara
+\cgi f
+\tli *säkel tyumuty
+\cai del huevo
+
+\lxi claridad
+\cgi f
+\aci 1
+\tli säkjamtyäl
+\cai adentro
+\aci 2
+\tli *säklel
+\cai afuera
+\aci 3
+\tli *xojob
+\cai del sol
+
+\lxi claro
+\cgi adj
+\aci 1
+\tli chäkkolañ
+\aci 2
+\tli yäx
+\cai agua
+\aci 3
+\tli chäklemañ
+\cai luz
+\aci 4
+\tli jajmeñ, säkjamañ
+\cai el tiempo
+\aci 5
+\tli k'iñlaw
+\cai la noche
+\sui se ve claro
+\tsi säkxojañ
+
+\lxi clavar
+\cgi vt
+\aci 1
+\tli ch'ij
+\aci 2
+\tli ²baj
+\cai Sab., Tila
+
+\lxi clavo
+\cgi m
+\aci 1
+\tli lawux
+\aci 2
+\tli *jok'lib
+\cai para colgar cosas
+
+\lxi clueca
+\cgi f
+\tli xpäklojm
+
+\lxi coa
+\cgi f
+\tli pikoñib
+
+\lxi cobertor
+\cgi m
+\tli *tyasil
+
+\lxi cobija
+\cgi f
+\tli ²tsuts
+
+\lxi cocer
+\cgi vt
+\aci 1
+\tli tyik'añ
+\aci 2
+\tli ch'äx
+\cai hervir
+\sui cocido
+\tsi ch'äxbil
+\sui falta de cocimiento
+\tsi k'äsix
+\cai frijol
+
+\lxi cocina
+\cgi f
+\tli kusiñaj
+
+\lxi cocodrilo
+\cgi m
+\tli ajiñ
+\cai de pantano, río
+
+\lxi cocohuite
+\cgi m
+\tli chañtye'
+\cai árbol
+
+\lxi cocoyol
+\cgi m
+\tli mäp
+\cai Sab.; corozo; árbol
+
+\lxi cocsán
+\cgi m
+\tli bits'
+\cai cuajinicuil; árbol
+
+\lxi cocuyo
+\cgi m
+\tli kukluñtya'
+\cai insecto
+
+\lxi codo
+\cgi m
+\tli xujk'äb
+
+\lxi codorniz
+\cgi f
+\aci 1
+\tli *ñakob, ñakol, xwak che'e'
+\cai ave
+\aci 2
+\tli xchäläl
+\cai perdiz chica; ave con patas verdes
+\sui codorniz bolonchaco
+\tsi chañwox
+\sui codorniz común
+\tsi tyojk'ay
+\dib abbh007v.tif
+
+\lxi cohete
+\cgi m
+\tli sibik
+
+\lxi cojear
+\cgi vi
+\tli k'ijchiñ
+\sui cojeando
+\tsi k'uyiña, k'ejcheñ k'ejcheñ, k'ichk'ichña
+
+\lxi cojo
+\cgi adj
+\tli xrokiñ ok
+
+\lxi cojolita
+\cgi f
+\tli xwak ch'e'
+\cai pava cojolita; ave
+
+\lxi cola
+\cgi f
+\tli ñej
+\cai de aves y animales
+\sui cola larga de gallina o gallo
+\tsi xbits
+\sui cola que es puro hueso
+\tsi xbakñej
+\sui cola de fuego
+\tsi ik' lukum
+\cai Tila; reptil
+
+\lxi colar
+\cgi vt
+\tli chik, chijkañ
+
+\lxi colectivo
+\cgi adj
+\tli *tyem cha'añ
+
+\lxi colgar
+\cgi vt
+\aci 1
+\tli ts'uychokoñ
+\aci 2
+\tli ²jich', jich'chokoñ
+\cai libremente
+\aci 3
+\tli ²jok', jok'chokoñ
+\cai contra una pared
+\sui colgar en un palo
+\tsi likchokoñ
+\sui colgarse
+\tsi jich'tyäl
+\tsi ts'ujyel
+\cai sube y baja
+\sui colgado
+\tsi jich'bil
+\cai por alguien
+\tsi jich'chokobil
+\cai libremente
+\tsi jich'il
+\cai cosa chica
+\tsi jok'ol
+\cai cosa grande
+\sui colgado de la mano
+\tsi ts'uye'el
+
+\lxi colibrí
+\cgi m
+\tli ts'uñuñ
+\cai ave
+
+\lxi colindancia
+\cgi f
+\tli ñup'
+
+\lxi colindar
+\cgi vi
+\sui colindado
+\tsi jaxal
+\cai Sab.; terreno
+
+\lxi colmena
+\cgi f
+\tli *yajñib chab, *yotylel chab
+
+\lxi colocar
+\cgi vt
+\aci 1
+\tli k'äktyäl
+\cai atravesado
+\aci 2
+\tli k'o'chokoñ
+\cai objeto esférico
+\aci 3
+\tli ekchokoñ
+\cai boca arriba
+\aci 4
+\tli suty'chokoñ
+\cai rollo de zacate, palitos
+\sui colocar boca arriba
+\tsi ch'a'chokoñ
+\cai persona, animal
+\sui colocar con objeto redondo
+\tsi xetychokoñ
+\sui colocar de lado
+\tsi ts'ejchokoñ
+\sui colocar encima de
+\tsi chumchokoñ
+\sui colocado
+\tsi ekel
+\cai canasto, plato
+
+\lxi color
+\cgi m
+\tli *bojñil, *ts'ijbal
+
+\lxi colorado
+\cgi adj
+\aci 1
+\tli chächäk
+\cai rojo
+\aci 2
+\tli chäklak'añ
+\cai piel
+\aci 3
+\tli chäkwatsañ
+\cai pelo
+\aci 4
+\tli chäkyumañ
+\cai líquido
+\sui colorado y maduro
+\tsi chäkix
+\sui medio colorado
+\tsi chäkkojañ
+\cai trapo, perro
+
+\lxi columna
+\cgi f
+\sui columna vertebral
+\tsi ch'ixpaty
+
+\lxi comadre
+\cgi f
+\tli kumale
+
+\lxi comadreja
+\cgi f
+\tli sajbiñ
+\cai mamífero
+\dib aoc002v.tif
+
+\lxi comal
+\cgi m
+\tli semejty
+
+\lxi comején
+\cgi m
+\tli ts'islum
+\cai hormiga blanca
+\dib ins009v.tif
+
+\lxi comenzar
+\cgi vi
+\aci 1
+\tli kajel
+\aci 2
+\tli ñijlel
+\cai Sab.
+\sui comenzar a ser
+\tsi ochel
+
+\lxi comer
+\cgi vt
+\aci 1
+\tli ¹k'ux, uch'eñ
+\aci 2
+\tli k'uxuk
+\cai negativo
+\aci 3
+\tli cha'leñ we'el
+\cai carne
+\aci 4
+\tli mäk'
+\cai alimento blando
+\sui acto de comer
+\tsi uch'el
+\sui comer demasiado
+\tsi jojmañ
+\sui comer poco
+\tsi ñich'käm
+\sui comer una bola
+\tsi kats'
+\sui ganas de comer
+\tsi *sits'
+\cai carne
+
+\lxi comestible
+\cgi adj
+\aci 1
+\tli k'uxbil
+\aci 2
+\tli *k'uxbälel
+\cai Sab.
+\aci 3
+\tli mäk'bil
+\cai blando
+
+\lxi comida
+\cgi f
+\tli *buk'bal
+\cai de animales
+\sui comida que se ofrece a los santos
+\tsi kompirar
+
+\lxi comienzo
+\cgi m
+\tli *tyejchibal
+
+\lxi comisión
+\cgi f
+\tli xpay
+\cai personas que llevan mensaje o carga
+
+\lxi como
+\cgi adv
+\tli bajche'
+\sui comoquiera
+\tsi bajche' ikach
+\cai sin cuidado
+\tsi ñuki
+
+\lxi cómo
+\cgi adv
+\tli ¿bajche'?
+\sui cómo está
+\tsi ¿bajche' yilal?
+
+\lxi compadecerse
+\cgi prnl
+\tli p'uñtyäñtyel
+
+\lxi compadre
+\cgi m
+\tli kumpale
+
+\lxi compañero
+\cgi m
+\aci 1
+\tli pi'äl
+\aci 2
+\tli ajaw
+\cai del diablo
+\aci 3
+\tli wajmäl
+\cai término de desprecio
+\aci 4
+\tli wäy
+\cai espíritu
+
+\lxi completar
+\cgi vt
+\tli ts'äktyesañ
+
+\lxi completo
+\cgi adj
+\aci 1
+\tli ts'äkäl
+\aci 2
+\tli sety'el
+\cai cantidad necesaria para ajustar
+
+\lxi componerse
+\cgi prnl
+\aci 1
+\tli lajmel
+\cai el tiempo o por ej.: una disputa
+\aci 2
+\tli uts'atyiyel
+\cai Sab.; el tiempo
+
+\lxi comprar
+\cgi vt
+\tli mäñ
+
+\lxi comprender
+\cgi vt
+\tli ch'ämbeñ isujm, ña'tyañ
+
+\lxi comprensible
+\cgi adj
+\tli tsikil
+
+\lxi comprensión
+\cgi f
+\tli *ña'tyäbal
+
+\lxi comprometer
+\cgi vt
+\sui comprometida
+\tsi k'ajtyibil
+\cai muchacha
+
+\lxi con
+\cgi prep
+\tli yik'oty, yity'ok
+
+\lxi concha
+\cgi f
+\tli jujch
+\sui concha vacía de caracol
+\tsi pupuy
+
+\lxi condición
+\cgi f
+\sui la condición en que está
+\tsi *ilal
+
+\lxi condimento
+\cgi m
+\tli *ats'mil
+
+\lxi conejo
+\cgi m
+\tli ty'ul
+\dib ara011v.tif
+
+\lxi conferencia
+\cgi f
+\tli subty'añ
+
+\lxi confesar
+\cgi vt
+\tli sub
+
+\lxi confirmar
+\cgi vt
+\tli xuk'chokoñ
+
+\lxi conjoyo
+\cgi m
+\tli xk'ok' chij
+\cai izote; tipo de yuca
+
+\lxi conocer
+\cgi vt
+\aci 1
+\tli käñ
+\aci 2
+\tli pojleñ
+\cai Sab., Tila
+\sui conocido
+\tsi käñäl
+\tsi ²pojol
+\cai Sab., Tila; camino
+
+\lxi conseguir
+\cgi vt
+\tli mäñtyañ
+\cai agua
+
+\lxi consolar
+\cgi vt
+\aci 1
+\tli ch'äbtyesañ
+\cai un niño
+\aci 2
+\tli ñuk'esäbeñ
+\aci 3
+\tli ñukityesañ
+\cai Sab.
+
+\lxi constantemente
+\cgi adv
+\tli belekña
+
+\lxi constelacion
+\cgi vt
+\tli ek'xäñäb
+
+\lxi construir
+\cgi vt
+\tli k'äl
+\cai casa
+
+\lxi consumir
+\aci 1
+\cgi vt
+\tli tsäk'mesañ
+\cai por hervir
+\aci 2
+\cgi vi
+\tli tsäk'mäl
+\cai en fuego
+
+\lxi consumo
+\cgi m
+\sui gran consumo
+\tsi *jojmäñtyel
+\cai de alimento
+
+\lxi contagiar
+\cgi vt
+\tli tyoy
+
+\lxi contaminar
+\cgi vt
+\tli xaxañ
+
+\lxi contar
+\cgi vt
+\tli tsik
+
+\lxi contenido
+\cgi m
+\tli ²bäl
+
+\lxi contento
+\cgi adj
+\aci 1
+\tli tyijikña
+\cai satisfecho
+\aci 2
+\tli uts
+\cai bueno
+\aci 3
+\tli utyesañ
+\cai Sab.
+\aci 4
+\tli k'ajakña
+\cai Sab.
+\sui hacer contento
+\tsi utsesañ
+\cai Sab.
+
+\lxi contestar
+\cgi vt
+\tli jak'
+
+\lxi contiguo
+\cgi adj
+\tli jaxäl
+
+\lxi continuamente
+\cgi adv
+\tli chäñ, ñik'i
+
+\lxi continuar
+\cgi vi
+\tli yajñel
+
+\lxi contrariar
+\cgi vt
+\tli koñtyrajiñ
+
+\lxi contrato
+\cgi m
+\tli tyratyo
+
+\lxi conveniente
+\cgi adj
+\sui es conveniente
+\tsi yomäch
+
+\lxi convertirse
+\cgi prnl
+\tli päñtyiyel
+
+\lxi copia
+\cgi f
+\tli *lok'omlel
+\cai Sab.
+
+\lxi copularse
+\cgi prnl
+\tli ²pejkañ
+\cai con
+
+\lxi coraje
+\cgi m
+\tli mich'ajel, *mich'lel
+
+\lxi coralillo
+\cgi m
+\tli kiñtya laj ko', xk'ux tsuk, xotyo'chel, yäxajachañ
+\cai venenoso; reptil
+\dib asg002v.tif
+
+\lxi corazón
+\cgi m
+\aci 1
+\tli pusik'al
+\aci 2
+\tli tyulum, *tyul mal tye', *yojlil tye'
+\cai de árbol
+
+\lxi corcho
+\cgi m
+\tli majaw, ojol, poytye'
+\sui corteza de corcho
+\tsi pätye'
+
+\lxi cordón
+\cgi m
+\tli ch'ajñal
+\cai de piel, de mecate
+
+\lxi cornear
+\cgi vt
+\tli lujchiñ
+\sui corneado
+\tsi lujchiya
+
+\lxi correcamino
+\cgi m
+\tli ajkuñts'u'
+\cai ave
+\dib abbg015.tif
+
+\lxi corrección
+\cgi f
+\tli tyoj'esaty'añ
+\cai de acta o carta
+
+\lxi corregir
+\cgi vt
+\tli jultyesañ ipusik'al
+\sui el que corrige
+\tsi xtyojesaty'añ
+
+\lxi correr
+\cgi vi
+\tli ajñel
+\sui el que está corriendo
+\tsi x'ajñel
+
+\lxi corretear
+\cgi vt
+\tli ajñesañ
+
+\lxi corriente
+\cgi f
+\sui corriente rápida
+\tsi wek'uña
+
+\lxi cortador
+\cgi m
+\sui cortador de café
+\tsi xtyuk' kajpe'
+
+\lxi cortar
+\cgi vt
+\aci 1
+\tli k'ok, tyuk'
+\cai cosa redonda
+\aci 2
+\tli chij
+\cai fruta con palo
+\aci 3
+\tli joty
+\cai con machete
+\aci 4
+\tli p'asuñ
+\cai en trozos
+\aci 5
+\tli kejkañ, tsep
+\cai gajos de árbol, zacate
+\aci 6
+\tli setyuñ
+\cai palo, tabla
+\aci 7
+\tli sety'
+\cai papel, tela, pelo
+\aci 8
+\tli ty'oj
+\cai carne, piedra, madera
+\sui cortar el pelo
+\tsi lok' jol
+\sui corte alto
+\tsi ch'ixluktyik
+\cai vegetación
+\sui el que corta
+\tsi xtyuk'oñel
+\cai fruta
+\sui acto de cortar leña
+\tsi sibal
+
+\lxi corteza
+\cgi f
+\tli ipaty tye'
+\sui corteza de árbol que usan para paludismo
+\tsi makuliñ
+
+\lxi corto
+\cgi adj
+\tli ²kom, p'ots, tyutsul
+\sui muy corto
+\tsi komatyax
+
+\lxi corva
+\cgi f
+\tli muk'
+
+\lxi cosa
+\cgi f
+\sui cosa entera
+\tsi -jump'ejlel
+\sui muchas cosas
+\tsi bäl
+\sui cosa abrazada
+\tsi mek'bal
+
+\lxi cosecha
+\cgi f
+\tli tyroñeläl
+\cai Sab.
+
+\lxi cosmético
+\cgi m
+\tli *bojñib wutyäl
+
+\lxi cosquilla
+\cgi f
+\tli tyäkäch
+\sui hacer cosquillas
+\tsi tyäkchuñ
+
+\lxi costal
+\cgi m
+\tli koxtyal
+
+\lxi costilla
+\cgi f
+\tli *ch'il'aty
+\cai persona, animal
+
+\lxi costumbre
+\cgi f
+\sui costumbres vanas
+\tsi *yesomal
+
+\lxi costurar
+\cgi vt
+\tli ts'is
+
+\lxi coyol
+\cgi m
+\tli chiñiño, kokoyol
+\cai árbol
+
+\lxi coyote
+\cgi m
+\tli matye'el ts'i'
+\cai mamífero
+
+\lxi coyuntura
+\cgi f
+\aci 1
+\tli p'akel
+\aci 2
+\tli *p'akel laj k'äb, ibik' laj k'äb
+\cai de la mano
+
+\lxi crecer
+\cgi vi
+\tli kolel, ñuk'añ
+\sui bien crecidas
+\tsi xekel
+\cai hojas
+
+\lxi creciente
+\cgi adj
+\tli buty'ja'
+
+\lxi creer
+\cgi vt
+\aci 1
+\tli ñop
+\aci 2
+\tli ch'ujbiñ
+\cai Tila
+
+\lxi crepúsculo
+\cgi m
+\tli ik'ajel
+
+\lxi crespo
+\cgi adj
+\tli ñoroch'
+
+\lxi cresta
+\cgi f
+\tli *tsel muty
+\cai de pájaro, gallo
+
+\lxi creta
+\cgi f
+\tli jis
+\cai gis
+
+\lxi cría
+\cgi f
+\tli *al
+\sui cría de puerco
+\tsi sts'ots'
+\sui con cría
+\tsi chujkem
+\cai vaca, perra, puerca, yegua
+
+\lxi criada
+\cgi f
+\tli *yara, yaräjäl
+\cai Sab.
+
+\lxi criado
+\cgi m
+\tli moso
+
+\lxi crianza
+\cgi f
+\sui crianza primera
+\tsi *yajtyi'al, *yäx'al
+
+\lxi criar
+\cgi vt
+\tli kosañ
+\sui criarse
+\tsi kolemäyel
+\sui criando
+\tsi bots
+
+\lxi criatura
+\cgi f
+\tli aläl, ch'ok aläl, meme', xba'
+\sui criatura chiquita que llora
+\tsi uñe'
+\sui criatura del agua con muchos pies
+\tsi tyajbachim
+
+\lxi criticar
+\cgi vt
+\tli wälilañ
+\sui criticarse
+\tsi ajlel
+
+\lxi crucero
+\cgi m
+\tli rusibal bij
+
+\lxi crudo
+\cgi adj
+\tli tsij
+
+\lxi crujiente
+\cgi adj
+\tli woch'okña
+
+\lxi cruz
+\cgi f
+\tli rus
+
+\lxi Cruz Colorada
+\tli Chächäkruz
+\cai colonia
+
+\lxi cruzar
+\aci 1
+\cgi vi
+\tli k'axel
+\aci 2
+\cgi vt
+\tli k'axtyañ
+
+\lxi cuadrado
+\cgi adj
+\tli joyxujk
+
+\lxi cuadro
+\cgi m
+\tli lok'oñbaj
+\cai Tila
+
+\lxi cuajinicuil
+\cgi m
+\aci 1
+\tli bits', xlasobits'
+\cai árbol
+\aci 2
+\tli bits'chajk
+\cai Tila; árbol
+
+\lxi cuál
+\cgi pron
+\sui cuál es
+\tsi ¿bakibä?
+
+\lxi cualquiera
+\cgi pron
+\tli ba'ikachbä,bakijachbä
+
+\lxi cuando
+\cgi adv
+\aci 1
+\tli che'
+\aci 2
+\tli che'bä, che' ñak, ³ñak
+\cai Sab., Tila
+\sui de vez en cuando
+\tsi bixeltyik, wojleljach, xä'
+
+\lxi cuándo
+\cgi adv
+\tli ¿baki ora?, ¿jalaj?, ¿jaläxki?
+
+\lxi cuánto
+\cgi adv
+\tli ¿bajche'?, ¿jay-?
+\sui en cuánto a
+\tsi ixku
+
+\lxi cuarta
+\cgi f
+\tli juñajb
+\cai medida
+\sui medir con la cuarta de la mano
+\tsi ñajbañ
+
+\lxi cuarto
+\cgi m
+\tli tsaläl
+
+\lxi cuatro
+\cgi adj
+\tli chämp'ejl
+\sui cuatro días
+\tsi chäñi
+
+\lxi cuaulote
+\cgi m
+\tli xpapastye'
+\cai guácimo; árbol
+
+\lxi cuautecomate
+\cgi m
+\tli stsimajtye'
+\cai árbol
+
+\lxi cubeta
+\cgi f
+\tli lucho'ja'
+
+\lxi cubrir
+\cgi vt
+\tli mujlañ
+\cai con arena, hojas, tierra, zacate
+
+\lxi cucaracha
+\cgi f
+\tli mako', pewal
+\cai insecto
+\dib ins092v.tif
+
+\lxi cuchara
+\cgi f
+\tli luchoñib
+
+\lxi cuchichear
+\cgi vi
+\tli mukuty'añ
+
+\lxi cuchillo
+\cgi m
+\tli kuchilu
+
+\lxi cuchunuc
+\cgi m
+\tli xchañtye'
+\cai madre de cacao; árbol
+
+\lxi cucu bobo
+\cgi m
+\tli k'iñ tyuñimuty
+\cai cuclillo chiflador; ave
+
+\lxi cuello
+\cgi m
+\tli bik'
+
+\lxi cuenca
+\cgi f
+\tli japal
+\cai de río
+
+\lxi cuerda
+\cgi f
+\sui dar cuerda
+\tsi wilts'uñ
+
+\lxi cuerno
+\cgi m
+\tli xulub
+
+\lxi cuero
+\cgi m
+\tli pächi
+\sui cuero de toro
+\tsi xpuy ch'ajañ
+\cai talismecate; árbol
+
+\lxi cuerpo
+\cgi m
+\aci 1
+\tli bäk'tyaläl
+\aci 2
+\tli *pächälel
+\cai Sab.
+
+\lxi cuervo
+\cgi m
+\tli i'ik' muty
+\cai ave
+
+\lxi cueva
+\cgi f
+\tli ch'eñ
+\sui lugar encima de una cueva
+\tsi pañch'eñ
+
+\lxi cueza
+\cgi f
+\tli xko'siñ
+\cai raíz comestible de chayote
+
+\lxi cuiche
+\cgi m
+\tli tyojk'ay
+\cai codorniz común; ave
+\dib abbh007v.tif
+
+\lxi cuidado
+\cgi m
+\tli tsajilety
+
+\lxi cuidador
+\cgi m
+\aci 1
+\tli xkäñañ, xkäñtyaya
+\sui cuidador de la iglesia
+\tsi motyomaj
+\sui cuidador de una criatura
+\tsi xkäñä aläl
+
+\lxi cuidar
+\cgi vt
+\tli käñtyañ, chäkä k'el
+\sui cuidarse
+\tsi tsajiñ
+
+\lxi cuipu
+\cgi m
+\tli bäkch'umtye'
+\cai piñoncillo; árbol
+
+\lxi culebra
+\cgi f
+\tli lukum
+\sui culebra arroyera
+\tsi xña'a xu'
+\sui culebra de agua
+\tli mijts'ity
+\cai tilcoate
+\sui culebra voladora
+\tsi k'äñjixil
+\dib asg020v.tif
+\sui tipo de culebra
+\tsi xk'äñäñej
+\sui tipo de culebra venenosa
+\tsi chikixchañ
+\dib asg021.tif
+
+\lxi culeca (reg.)
+\cgi f
+\tli xpäklojm
+\cai clueca
+
+\lxi culpa
+\cgi f
+\aci 1
+\tli ²mul, mulil
+\aci 2
+\tli ajmulil
+\cai Sab.
+
+\lxi culpable
+\cgi adj
+\tli bäjäch
+
+\lxi culpar
+\cgi vt
+\tli ³päk'
+
+\lxi cumbre
+\cgi f
+\tli *ñi'wits
+
+\lxi cumplir
+\cgi vi
+\tli ts'äktyesäñtyel
+\sui no cumplir
+\tsi juchtyek'
+
+\lxi cuna
+\cgi f
+\tli wäyib aläl
+
+\lxi cundido
+\cgi adj
+\tli lañal
+\cai granos de sarampión
+
+\lxi cuña
+\cgi f
+\tli *ñejty'il, *xojñil
+
+\lxi cuñada
+\cgi f
+\aci 1
+\tli *jawäñ
+\cai de mujer
+\aci 2
+\tli *mu'
+\cai de hombre
+
+\lxi cuñado
+\cgi m
+\tli *ja'añ
+\cai de hombre
+
+\lxi cura
+\cgi m
+\aci 1
+\tli pale
+\aci 2
+\tli tyal'a
+\cai Tila
+
+\lxi curación
+\cgi f
+\tli ilol
+\cai que hace un curandero
+
+\lxi curandero
+\cgi m
+\aci 1
+\tli x'ilo, sts'äkaya, xwujty
+\aci 2
+\tli awujtyaya
+\cai Sab.
+
+\lxi curar
+\cgi vt
+\aci 1
+\tli lajmesañ, ts'äkañ
+\aci 2
+\tli ²ilañ
+\cai por hechicería
+\sui curarse
+\tsi ts'äkäñtyel, lajmel
+\tsi wujtyiñtyel
+\cai por hechicería
+
+\lxi curva
+\cgi f
+\tli k'ojchel bij
+\cai del camino
+
+\lxi curvado
+\cgi adj
+\aci 1
+\tli lokokña
+\cai árbol, palo
+\aci 2
+\tli lokol
+\cai palo, alambre
+
+\lxi D
+\alf D
+
+\lxi daño
+\cgi m
+\tli *jisälel
+
+\lxi dar
+\cgi vt
+\aci 1
+\tli ²ak'
+\aci 2
+\tli yebeñ
+\cai comida a pollitos, pavos
+\sui dar alimento
+\tsi we'sañ
+\sui dar cuerda
+\tsi wilts'uñ
+\sui dar patada
+\tsi tyoñtyek'
+\sui dar vuelta
+\tsi ²xoy, wilts'uñ
+\sui dar vueltas
+\tsi wijlel
+\sui dáselo
+\tsi ¡ak'eñ!
+
+\lxi de
+\cgi prep
+\tli cha'añ
+\sui de antemano
+\tsi wäñ
+\sui de aquí a tres días
+\tsi uxi
+\sui de balde
+\tsi lolomjach, milik
+\tsi ¹pojol
+\cai Tila
+
+\lxi debajo
+\cgi adv
+\tli yebal
+
+\lxi deber
+\cgi m
+\tli *k'äjñibal
+
+\lxi deber
+\cgi vi
+\tli yom
+
+\lxi débil
+\cgi adj
+\aci 1
+\tli k'uñ, k'uñlitsañ
+\cai cuerpo, palo largo
+\aci 2
+\tli luk'law
+\cai palo o tabla
+\sui débil todavía
+\tsi k'uñtyo
+\sui débilmente
+\tsi mächäkña
+
+\lxi debilidad
+\cgi f
+\tli k'uñukñiyel
+
+\lxi debilitar
+\cgi vt
+\tli k'uñ'añ
+
+\lxi decir
+\cgi vt
+\tli ²al, ajlel
+\sui así debes decir
+\tsi che'ety
+\sui así dice
+\tsi che'eñ
+\sui así dicen
+\tsi che'ob
+\cai terminación
+\sui así digo yo
+\tsi cho'oñ
+\sui dicho
+\tsi subil, sujbem
+
+\lxi declarar
+\cgi vt
+\tli tsiktyesañ
+
+\lxi dedicarse
+\cgi prnl
+\tli esmañ
+
+\lxi dedo
+\cgi m
+\sui pulgar
+\tli *ña'al laj k'äb
+\sui dedo índice
+\tli *tyuch'oñib
+\sui dedo mayor
+\tli xiñk'äb
+\sui dedo meñique
+\tli *xuty laj k'äb
+\sui dedo de los pies
+\tli *yal lakok
+
+\lxi deficiente
+\cgi adj
+\tli leko
+
+\lxi dejar
+\cgi vt
+\tli setychokoñ
+\cai rollo de palos
+\sui deja
+\tsi la'tyo
+\sui dejado
+\tsi kälem, käyäl
+\tsi käyleñ
+\cai Sab.
+\tsi xetyel
+\cai objeto redondo
+
+\lxi delantal
+\cgi m
+\tli welñäk'
+
+\lxi delgado
+\cgi adj
+\aci 1
+\tli jay
+\aci 2
+\tli yajyaj
+\cai persona
+\sui delgado y alto
+\tsi bilil
+
+\lxi delito
+\cgi m
+\tli mulil
+
+\lxi demasiado
+\cgi adj
+\tli käläx
+
+\lxi demolición
+\cgi f
+\tli *jembal
+
+\lxi derecho
+\cgi adj
+\tli ²ñoj
+\sui derechamente
+\tsi ñäxäkña
+
+\lxi derramar
+\cgi vt
+\tli bek'
+\sui derramar un poco
+\tsi ts'uj
+
+\lxi derretir
+\cgi vt
+\tli ulmesañ
+\sui derretirse
+\tsi ulmäl
+
+\lxi derrumbar
+\cgi vt
+\tli buch
+\cai árbol, casa
+\sui derrumbarse
+\tli yejmel
+\cai tierra
+
+\lxi derrumbe
+\cgi m
+\tli ejmel
+
+\lxi desagradable
+\cgi adj
+\tli leko, xijiñ
+
+\lxi desajustado
+\cgi adj
+\tli jelel
+
+\lxi desaparecer
+\cgi vt
+\tli säk jilel
+
+\lxi desarmar
+\cgi vt
+\tli ²poj
+
+\lxi desatar
+\cgi vt
+\aci 1
+\tli jity, tyik
+\aci 2
+\tli tyil
+\cai la manera de
+\sui desatado
+\tsi jitybil
+
+\lxi desbaratar
+\cgi vt
+\tli jem
+
+\lxi descansadero
+\cgi m
+\tli jijlibäl
+\cai en camino
+
+\lxi descansar
+\cgi vi
+\aci 1
+\tli k'aj lako
+\aci 2
+\tli jijlel
+\cai por la noche
+\sui descansa
+\tsi ¡jijleñ!
+
+\lxi descanso
+\cgi m
+\tli k'aj o
+\sui lugar de descanso
+\tsi k'ajo'o'
+\cai para la noche
+
+\lxi descascarar
+\cgi vt
+\tli cho'
+\cai plátano, frijol, maíz
+
+\lxi descendiente
+\cgi m
+\aci 1
+\tli *p'olbal
+\aci 2
+\tli mam
+\cai Tila
+
+\lxi descomponer
+\cgi vt
+\sui descomponerse
+\tsi jejmel
+\cai carga, casa, plan
+\tsi yäsiyel
+\cai trabajo
+
+\lxi descoyuntar
+\cgi vt
+\tli jits'kuyel
+
+\lxi descuartizar
+\cgi vt
+\tli jajkuñ
+
+\lxi descubrir
+\cgi vt
+\tli tsiktyiyel
+
+\lxi desenterrar
+\cgi vt
+\tli k'ol
+\cai piedra
+
+\lxi desenvainar
+\cgi vt
+\tli jots'
+\cai machete de su funda
+
+\lxi desenvolver
+\cgi vt
+\tli chaw
+
+\lxi desgajar
+\cgi vt
+\tli jak
+
+\lxi desgranar
+\cgi vt
+\aci 1
+\tli ixmañ
+\cai maíz
+\aci 2
+\tli ty'ojchiñ
+\cai con el pulgar
+\sui acción de desgranar
+\tsi ixom
+
+\lxi deshilachar
+\cgi vt
+\sui deshilacharse
+\tsi tyijlel
+
+\lxi desmayarse
+\cgi prnl
+\aci 1
+\tli puk' chämel
+\aci 2
+\tli jits'kwäyel
+\cai Sab.
+
+\lxi desnivelar
+\cgi vt
+\sui desnivelado
+\tsi bexel
+
+\lxi desnudar
+\cgi vt
+\tli pits'chokoñ
+
+\lxi desnudo
+\cgi adj
+\aci 1
+\tli bulux
+\cai pollo
+\aci 2
+\tli chakal
+\cai Tila; general
+\aci 3
+\tli pits'il
+\cai persona, plátano, maíz
+\aci 4
+\tli tyañal
+\cai Sab.; niño
+\aci 5
+\tli ts'ul
+\cai de pelo
+\sui desnudo y parado
+\tli chak wa'al
+
+\lxi desobedecer
+\cgi vt
+\tli ñusañ
+
+\lxi desobediente
+\cgi adj
+\aci 1
+\tli xñusaty'añ
+\cai persona
+\aci 2
+\tli ñuñty'añ
+\cai Sab.; persona
+
+\lxi desocupar
+\cgi vt
+\tli jochtyesañ, ²poj
+\sui desocuparse
+\tli jochtyiyel
+\sui desocupado
+\tsi jochokña, ²pojol
+\cai casa
+\tsi jochol
+\cai casa, tierra
+
+\lxi desordenar
+\cgi vt
+\sui desordenadamente
+\tsi bäñlaw
+
+\lxi desorientar
+\cgi vt
+\sui desorientado
+\tsi ch'älch'älña, sojkem
+
+\lxi despacio
+\cgi adv
+\aci 1
+\tli k'uñtye'
+\aci 2
+\tli xuk'ukña
+\cai muy
+\aci 3
+\tli xuk'ul
+\cai Sab.
+
+\lxi despedazar
+\cgi vt
+\tli xujty'el
+
+\lxi despegar
+\cgi vt
+\aci 1
+\tli k'ajchel
+\cai una parte
+\aci 2
+\tli k'ajlel
+\cai pintura, repello
+\sui despegarse
+\tli ty'ajchel
+\cai una parte
+\sui despegado
+\tsi k'ajchem
+\cai uña
+\tsi k'ajlem
+\cai pintura, repello
+\sui despegando
+\tsi ts'ul
+
+\lxi despejado
+\cgi adj
+\aci 1
+\tli jamakña, k'elekña, yäxpiyañ
+\aci 2
+\tli utsil
+\cai Tila
+
+\lxi despertar
+\cgi vt
+\tli p'ixel, tyejchel
+
+\lxi despierto
+\cgi adj
+\aci 1
+\tli kañal lakwuty
+\aci 2
+\tli p'ixil
+\cai Sab.
+
+\lxi desplumar
+\cgi vt
+\tli tyujtyuñ
+
+\lxi despreciar
+\cgi vt
+\sui despreciado
+\tsi ts'a'lebil
+
+\lxi desprecio
+\cgi m
+\sui expresión de desprecio
+\tsi yaj'ojl
+
+\lxi desprender
+\cgi vt
+\tli k'ojkel
+\sui desprenderse
+\tsi sijpel
+\cai viga
+
+\lxi después
+\cgi adv
+\aci 1
+\tli wi'il
+\aci 2
+\tli tsäktsäkña
+\cai por detrás
+
+\lxi destapador
+\cgi m
+\tli jamoñib
+\cai de botellas
+
+\lxi destino
+\cgi m
+\tli k'otyib
+
+\lxi destruir
+\cgi vt
+\tli jem, jisañ
+
+\lxi desviación
+\cgi f
+\tli *xäk' bij
+\cai del camino
+
+\lxi deuda
+\cgi f
+\tli bety
+
+\lxi devolver
+\cgi vt
+\tli sutyk'iñ
+
+\lxi día
+\cgi m
+\tli k'iñ
+\sui cada día
+\tsi jujump'ejl k'iñ
+\sui de día
+\tsi k'iñil
+\sui día especial
+\tsi *k'iñilel
+\sui el décimo día
+\tsi lujuñij
+\sui noveno día
+\tsi boloñij
+\sui séptimo día
+\tsi wukñij
+\sui todos los días
+\tsi pejtyel k'iñ
+
+\lxi diablo
+\cgi m
+\aci 1
+\tli tyeñtsuñ, xbakñej, xiba
+\aci 2
+\tli bäwits, judío, judas
+\cai Sab.
+
+\lxi diarrea
+\cgi f
+\tli tyukñäk'
+
+\lxi dibujo
+\cgi m
+\tli *ts'ijbal
+
+\lxi diecinueve
+\cgi adj
+\tli boloñlujump'ejl
+
+\lxi dieciocho
+\cgi adj
+\tli waxäklujump'ejl
+
+\lxi dieciséis
+\cgi adj
+\tli wäklujump'ejl
+
+\lxi diecisiete
+\cgi adj
+\tli wuklujump'ejl
+
+\lxi diente
+\cgi m
+\aci 1
+\tli *bäkel ejäl
+\aci 2
+\tli *pamäk ej
+\cai de enfrente
+
+\lxi diez
+\cgi adj
+\aci 1
+\tli lujump'ejl
+\aci 2
+\tli lämp'ejl
+\cai Tila
+
+\lxi diferente
+\cgi adv
+\tli jelchojk
+
+\lxi difícil
+\cgi adj
+\tli ¹wokol
+\sui difícilmente
+\tsi komkatsa'
+
+\lxi dificultad
+\cgi f
+\tli ¹wokol
+
+\lxi diminutivo
+\cgi m
+\tli xep
+\cai jóvenes, hombres
+
+\lxi dinero
+\cgi m
+\tli tyak'iñ
+\sui el que lleva dinero
+\tsi x'ak'bety
+
+\lxi dintel
+\cgi m
+\tli *k'ätyloñtye'el
+
+\lxi Dios
+\cgi m
+\tli *ch'ujutyaty
+\cai lit.: Padre Santo
+\sui dios de la abundancia de plantas y animales
+\tli ³*ña'al
+\sui diosa del agua de la creación
+\tli ²kolaj
+\cai Tila
+
+\lxi dirigir
+\cgi vt
+\tli chäkä k'el
+\cai trabajadores
+
+\lxi discípulo
+\cgi m
+\aci 1
+\tli xk'äñty'añ
+\aci 2
+\tli ajkäñty'añ
+\cai Sab.
+
+\lxi disentería
+\cgi f
+\tli ch'ich'tya'
+\cai lit.: excremento con sangre
+
+\lxi disminuir
+\cgi vt
+\tli tsiñ
+\cai como meteor
+\sui disminuyendo
+\tsi tsiñtyäl
+
+\lxi disparar
+\cgi vt
+\tli tyojmesañ
+\cai arma
+
+\lxi disparejo
+\cgi adj
+\aci 1
+\tli bolo'ty'axal
+\cai poco
+\aci 2
+\tli bulubexel
+\cai piso de la casa
+\aci 3
+\tli bujbujtyäl
+\cai terreno
+\aci 4
+\tli ty'olol, ty'ojlox
+\cai pared, suelo
+
+\lxi disputa
+\cgi f
+\tli letyo
+
+\lxi distinto
+\cgi adj
+\tli jelchojk
+
+\lxi distribuir
+\cgi vt
+\tli pujkel
+
+\lxi dividir
+\cgi vt
+\tli ty'ox
+\sui dividido
+\tsi ty'oxlem
+\cai terreno, dinero
+\tsi japal
+\cai cerro, montaña
+
+\lxi divulgar
+\cgi vt
+\tli pujkel
+
+\lxi doblar
+\cgi vt
+\aci 1
+\tli k'ochilañ
+\cai mano
+\aci 2
+\tli lok, lokilañ
+\cai palo, alambre
+\aci 3
+\tli lux
+\cai rodilla, brazo, callejón
+\aci 4
+\tli päk
+\cai milpa
+\sui doblarse el tobillo
+\tli k'ujyel
+\sui doblado
+\tsi litslitsña
+\cai manera
+\tsi luxul
+\cai rodilla, camino
+\tsi päjkem
+\cai papel, tela
+\sui doblando
+\tsi luk'luk'ña
+
+\lxi doce
+\cgi adj
+\tli lajchämp'ejl
+
+\lxi doler
+\cgi vi
+\tli ²k'ux
+\sui me duele el corazón
+\tsi k'ux kpusik'al
+
+\lxi doloroso
+\cgi adj
+\tli tyäk'äkña
+
+\lxi dónde
+\cgi adv
+\tli baki,ba'
+\sui dónde está
+\tsi ¿baki añ?, ¿bak añ?
+
+\lxi dondequiera
+\cgi adv
+\aci 1
+\tli bakijach
+\aci 2
+\tli ba'ikal
+\cai Sab.
+
+\lxi dormir
+\cgi vi
+\tli wäyel, mi icha'leñ wäyel
+\sui dormir sin cobija
+\tli tsäñä wäyel
+\cai sufriendo el frío
+\sui dormido
+\tsi wäyäl
+
+\lxi dormitar
+\cgi vi
+\sui acción de dormitar
+\tsi ñäkäb
+
+\lxi dorso
+\cgi m
+\tli ipaty laj k'äb
+\cai de la mano
+
+\lxi dos
+\cgi adj
+\tli cha'p'ejl
+\sui dos dobladas
+\tsi cha'päjk
+
+\lxi dueño
+\cgi m
+\tli yumäl
+\cai Sab.; espíritu malo
+\sui dueño del cerro
+\tsi bäwits
+\cai Sab.
+
+\lxi dulce
+\cgi adj
+\tli chäb, tsaj
+
+\lxi durable
+\cgi adj
+\tli ch'äjy
+\cai camisa
+
+\lxi dureza
+\cgi f
+\tli *tsätslel
+
+\lxi duro
+\cgi adj
+\aci 1
+\tli tsäts, ¹wokol
+\aci 2
+\tli ts'ujy
+\cai cáscara de fruta
+\sui es duro su carácter
+\tsi tsäts ipusik'al
+
+\lxi E
+\alf E
+
+\lxi echar
+\cgi vt
+\aci 1
+\tli päkchokoñ
+\cai gallina
+\aci 2
+\tli päktyañ
+\cai sobre huevos
+\sui echado
+\tsi päkäl
+\cai animal
+\sui echar puntal
+\tsi xikñi'iñ
+\cai para reforzar
+\sui echarse a perder
+\tsi pujch'el
+\sui echarse a un lado por susto
+\tsi bijty'el
+
+\lxi eclipse
+\cgi m
+\sui haber eclipse
+\tsi pulel
+\cai Sab.
+
+\lxi edad
+\cgi f
+\tli *jabilel
+
+\lxi edificar
+\cgi vt
+\tli wa'chokoñ
+
+\lxi él
+\cgi pron
+\tli jiñi
+
+\lxi elegido
+\cgi adj
+\tli yajkäbil
+
+\lxi ella
+\cgi pron
+\tli jiñi
+
+\lxi elote
+\cgi m
+\tli wajtyañ
+
+\lxi embarazada
+\cgi adj
+\tli käñtyäbil
+
+\lxi embarrar
+\cgi vt
+\tli jujk'uñ
+\sui embarrado
+\tsi pajk'ibil
+\cai pared
+
+\lxi emborracharse
+\cgi prnl
+\tli yäk'añ
+
+\lxi emboscar
+\cgi vt
+\sui el que está emboscado
+\tsi xchijty
+
+\lxi embrocar
+\cgi vt
+\aci 1
+\tli kol
+\cai agua
+\aci 2
+\tli yojyoñ
+\cai maíz, frijol, café
+\sui embrocado
+\tsi ñukul
+\cai olla, canasto
+
+\lxi empapar
+\cgi vt
+\tli ¹chäy
+\cai algodón en agua
+\sui empapado
+\tsi chäybil
+\cai algodón
+\tsi lutsañ
+\cai personas, animales
+
+\lxi empelotar
+\cgi vt
+\sui empelotado
+\tsi woxbil
+
+\lxi empezar
+\cgi vt
+\tli tyech
+
+\lxi empinado
+\cgi adj
+\tli bäläl
+
+\lxi empleado
+\cgi m
+\aci 1
+\tli wiñik, *wiñiklel
+\aci 2
+\tli *wiñkilel
+\cai Sab.
+\sui empleado a la fuerza en una finca o en el gobierno
+\tsi xk'äjñibäyel
+
+\lxi emplear
+\cgi vt
+\tli wiñikañ
+\cai para trabajo
+
+\lxi empujar
+\cgi vt
+\tli xitytyek'
+
+\lxi empuñar
+\cgi vt
+\aci 1
+\tli ¹moch', mop'
+\cai mano
+\aci 2
+\tli moch'ye', mop'ye'
+\cai con algo en la mano
+\sui empuñado
+\tsi moch'ol
+\cai mano
+
+\lxi enagua
+\cgi f
+\tli majtsäl
+
+\lxi enamorar
+\cgi vt
+\tli ²pejkañ
+
+\lxi encaramar
+\cgi vt
+\aci 1
+\tli k'äk
+\aci 2
+\tli k'äkchokoñ
+\cai sobre
+
+\lxi encarcelar
+\cgi vt
+\tli käjchel
+\sui encarcelado
+\tsi kächäl
+
+\lxi encargo
+\cgi m
+\aci 1
+\tli *e'tyel
+\aci 2
+\tli tyroñel
+\cai Tila
+
+\lxi encendedor
+\cgi m
+\tli *ts'äboñib
+\sui encendedor de velas en la iglesia
+\tsi stsuk'ñichim
+
+\lxi encender
+\cgi vt
+\aci 1
+\tli ²tsuk'
+\cai fuego
+\aci 2
+\tli ts'äb
+\cai lámpara
+\sui encendido
+\tsi tsujk'em, ts'äyäl
+
+\lxi encerrar
+\cgi vt
+\sui encerrado
+\tsi ñup'ul
+
+\lxi encharcar
+\cgi vt
+\sui encharcado
+\tsi lämäl
+\sui encharcarse
+\tsi lämtyäl
+\cai Sab.; agua
+
+\lxi encima
+\cgi adv
+\tli ipamlel
+\sui encima del pie
+\tsi ipaty lakok
+
+\lxi encoger
+\cgi vt
+\tli ²tsäy
+\cai cintura
+\sui encogerse
+\tli sombäl
+\cai ropa
+
+\lxi encontrar
+\cgi vt
+\tli ¹tyaj
+
+\lxi encrespar
+\cgi vt
+\tli ñoroch'iyel
+\cai cabello
+\sui encrespado
+\tsi murux
+
+\lxi enderezar
+\cgi vt
+\tli tyoj'esañ
+
+\lxi endurecer
+\cgi vt
+\sui endurecerse
+\tsi ch'äjy'añ
+\cai tortilla, pan
+
+\lxi eneldo
+\cgi m
+\tli x'eñtyoj
+\cai hierba
+
+\lxi enemigo
+\cgi m
+\tli koñtyra
+
+\lxi energía
+\cgi f
+\tli *bäxlel
+
+\lxi enfadar
+\cgi vt
+\tli mich'esañ
+
+\lxi enfermar
+\cgi vt
+\tli k'am'añ
+
+\lxi enfermedad
+\cgi f
+\tli k'amäjel, chämel, ²wokol
+\sui enfermedad mortal
+\tli ch'ämoñel
+
+\lxi enfermo
+\aci 1
+\cgi adj
+\tli ¹k'am
+\aci 2
+\cgi m
+\tli xk'amäjel
+
+\lxi enflaquecer
+\cgi vt
+\tli yaj'añ
+
+\lxi enfriar
+\cgi vt
+\tli tsäñesañ
+
+\lxi engañar
+\cgi vt
+\tli lotyiñ, lo'loñ
+\sui engañarse
+\tsi lotyiñtyel
+
+\lxi engaño
+\cgi m
+\tli lotyiya, lo'loya
+
+\lxi engendrar
+\cgi vt
+\tli p'ol
+
+\lxi engordar
+\cgi vt
+\tli jujp'el
+
+\lxi engrandecer
+\cgi vt
+\tli ñuk'esañ
+\sui engrandecerse
+\tsi ñuk'esäñtyel
+
+\lxi enjambrar
+\cgi vt
+\sui emjambrado
+\tsi wotswotsña
+
+\lxi enjuagar
+\cgi vt
+\tli *um ja'
+\cai la boca
+
+\lxi enojar
+\aci 1
+\cgi vt
+\tli *mich'esañ
+\sui enojarse
+\tli mich'añ
+\sui enojarse con
+\tli mich'leñ
+\cai constantemente
+\sui enojado
+\tsi mich', mich'ikña
+
+\lxi enredar
+\cgi vt
+\aci 1
+\tli ¹sok
+\aci 2
+\tli ²sowilañ
+\cai hilo
+\sui enredarse
+\tli sojkel
+\sui enredado
+\tsi sojkem, sojwik'tyik
+
+\lxi enrollar
+\cgi vt
+\aci 1
+\tli ¹bäl,bälulañ
+\cai tela, papel, cobija
+\aci 2
+\tli bech',bäch', bejch'iñ, jaxulañ
+\cai ixtle, hilo
+\aci 3
+\tli xopiñ
+\cai ropa
+\aci 4
+\tli xotyilañ
+\cai alambre, soga
+\sui enrollarse
+\tsi bäch'tyäl
+\cai ixtle, hilo
+\tli ²sel
+\cai culebra
+\tli selulañtyel
+\cai alambre, soga
+\sui enrollado
+\tsi bäch'äl
+\cai estado
+\tsi bäch'bil
+\cai por alguien
+
+\lxi enroscar
+\cgi vt
+\tli ²wox
+
+\lxi ensartar
+\cgi vt
+\aci 1
+\tli beljul
+\cai gargantillas
+\aci 2
+\tli säl
+\cai carne
+\sui ensartado
+\tsi beljulbil
+\cai gargantillas
+
+\lxi enseñanza
+\cgi f
+\tli käñtyesa, käñtyesaya, *käñtyesäbal, *päsbal, *tyoj'ijib
+
+\lxi enseñar
+\cgi vt
+\tli käñtyesañ, päs
+
+\lxi ensuciar
+\cgi vt
+\tli bib'esañ
+\sui ensuciarse
+\tsi bib'añ
+
+\lxi entarimar
+\cgi vt
+\sui entarimado
+\tli ts'ältye'ebil
+\cai con palos
+
+\lxi enterrar
+\cgi vt
+\tli muk
+\sui enterrado
+\tsi ts'äpäl
+\cai poste
+
+\lxi entierro
+\cgi m
+\sui lugar de entierro
+\tli mukoñibäl, mujkibäl
+
+\lxi entonces
+\cgi adv
+\tli che' jiñi
+
+\lxi entrada
+\cgi f
+\tli *yochib
+
+\lxi entrar
+\cgi vi
+\aci 1
+\tli ochel
+\aci 2
+\tli ts'ajmel
+\cai agua en casa
+
+\lxi entregar
+\cgi vt
+\tli ke'ñañ
+\cai para cuidar taburete
+
+\lxi entronque
+\cgi m
+\tli *xäk' bij
+\cai de camino
+
+\lxi entumirse
+\cgi prnl
+\tli señ'añ
+\sui entumido
+\tsi señ
+
+\lxi envejecer
+\cgi vi
+\tli ñejp'añ, ñox'añ
+
+\lxi enviar
+\cgi vt
+\tli wets'
+\sui enviar acá
+\tsi chok tyilel
+\sui enviar allá
+\tsi chok majlel
+
+\lxi envidia
+\cgi f
+\aci 1
+\tli *mich'lel
+\aci 2
+\tli *k'uxlel ipusik'al
+\cai Sab.
+
+\lxi envidioso
+\cgi adj
+\tli xuxjoño
+\cai Sab.
+
+\lxi envolver
+\cgi vt
+\aci 1
+\tli ¹pix, tyep'
+\aci 2
+\tli ³bäk'
+\cai criatura
+\sui envuelto
+\tsi chuybil
+\cai envuelto con joloche
+\tsi pixil
+\cai estado
+\tsi tyep'bil
+\cai por alguien
+\tsi xipikña
+\cai ropa
+\sui material para envolver
+\tsi *pixiñtyib
+
+\lxi epiglotis
+\cgi f
+\tli ñup'ip
+
+\lxi epilepsia
+\cgi f
+\tli chäñchäñ ik'
+\cai Sab.
+
+\lxi equipo
+\cgi m
+\sui equipo de trabajo
+\tsi e'tyijibäl
+
+\lxi eructo
+\cgi m
+\tli keb
+
+\lxi ésa
+\cgi pron
+\tli jiñi
+
+\lxi escaldar
+\cgi vt
+\tli pits'
+
+\lxi escalera
+\cgi f
+\tli tyek'oñib
+
+\lxi escalón
+\cgi m
+\tli *kejp
+
+\lxi escama
+\cgi f
+\tli *sujl
+
+\lxi escarabajo
+\cgi m
+\tli jäx
+\cai ciervo volante
+\sui escarabajo buey
+\tsi xkukluñtya'
+\dib ins079.tif
+\pie ciervo volante
+\dib ins081s.tif
+\pie escarabajo buey
+
+\lxi escarbar
+\cgi vt
+\aci 1
+\tli p'ik
+\cai con aguja o palillo
+\aci 2
+\tli tyuksiñ
+\cai como el cerdo
+
+\lxi escarpa
+\cgi f
+\tli pañch'eñ
+
+\lxi esclavitud
+\cgi f
+\tli mosojil
+\cai Sab.
+
+\lxi escoba
+\cgi f
+\tli *misujib
+
+\lxi escocer
+\cgi vi
+\sui escocido
+\tsi sak'
+
+\lxi escoger
+\cgi vt
+\aci 1
+\tli yajkañ
+\aci 2
+\tli lajmañ
+\cai tortillas
+\sui escogido
+\tsi yajkäbil
+
+\lxi esconder
+\cgi vt
+\aci 1
+\tli muk
+\aci 2
+\tli puts'tyañ
+\cai de una persona
+\sui esconder de
+\tsi mujkuñ
+\sui escondido
+\tsi mukbil
+
+\lxi escopeta
+\cgi f
+\tli juloñib
+
+\lxi escozor
+\cgi m
+\tli *sak'el
+
+\lxi escriba
+\cgi m
+\tli sts'ijb
+
+\lxi escribano
+\cgi m
+\tli ajts'ijb
+\cai Sab.
+
+\lxi escribir
+\cgi vt
+\aci 1
+\tli ts'ijbañ, ts'ijbujel, ts'ijbuñ
+\aci 2
+\tli otsañ
+\cai nombre
+\sui el que escribe
+\tsi ts'ijbaya
+
+\lxi escritor
+\cgi m
+\tli sts'ijbaya, sts'ijbujel
+
+\lxi escritura
+\cgi f
+\tli ts'ijb, ts'ijbujel
+\sui escritura falsa
+\tsi payxo tsi'ijba
+
+\lxi escuchar
+\cgi vt
+\tli ñich'tyañ, ubiñ
+
+\lxi escupir
+\cgi vt
+\tli tyujbañ
+
+\lxi ése
+\cgi pron
+\tli jiñi, jiñjiñi
+\sui ése es
+\tsi jiñäch
+\sui todo ése
+\tsi pejtyel jiñi
+
+\lxi esférico
+\cgi adj
+\tli wolol, woxol, wotyol, k'o'ol
+
+\lxi eso
+\cgi pron
+\sui eso es
+\tsi jiñäch, jiñkuyi
+\tsi jiñkwäyi
+\cai Sab.
+
+\lxi espacio
+\cgi m
+\tli *jawtyälel
+\cai de una casa
+
+\lxi espalda
+\cgi f
+\tli *paty
+\cai Sab.
+
+\lxi espantar
+\cgi vt
+\tli bäk'tyesañ
+
+\lxi espatifilo
+\cgi m
+\tli x'ik'ujts'
+\cai planta
+
+\lxi esperar
+\cgi vt
+\aci 1
+\tli pijtyañ
+\aci 2
+\tli chijtyañ
+\cai presa
+\sui esperado
+\tsi pijtyäbil
+
+\lxi esperma
+\cgi f
+\tli *p'eñel
+\cai Sab.; del hombre
+
+\lxi espeso
+\cgi adj
+\tli tyity
+
+\lxi espía
+\cgi m, f
+\tli xchijty, xk'elojel, xyojch'oya
+
+\lxi espiar
+\cgi vt
+\tli yojch'oñ
+
+\lxi espina
+\cgi f
+\tli ²ch'ix
+\sui lugar donde hay muchas espinas
+\tsi ch'ixol
+
+\lxi espíritu
+\cgi m
+\tli *ch'ujlel, kuktyal
+\sui espíritu bueno
+\tsi ik'ty'ojal
+\cai Tila
+\sui espíritu malo
+\tsi ajal, bulu ok, ñek
+\cai Tila
+\tsi ajaw
+\cai de la tierra, del agua
+\tsi ajtso'
+\cai compañero del brujo
+\tsi wäläk paty ok, ch'ix wiñik
+\cai Tila
+
+\lxi esponja
+\cgi f
+\tli tsutspuy
+\cai Sab.
+
+\lxi espontáneo
+\cgi adj
+\sui espontáneamente
+\tsi yiloljach
+
+\lxi esposa
+\cgi f
+\aci 1
+\tli *ijñam, pi'äl
+\aci 2
+\tli si'im
+\cai del hermano de mi madre
+
+\lxi esposo
+\cgi m
+\tli *ñoxi'al, pi'äl
+
+\lxi espuma
+\cgi f
+\tli lojk, *säklojk
+
+\lxi espumajoso
+\cgi adj
+\tli wotswotsña
+
+\lxi espumar
+\cgi vi
+\sui espumando
+\tsi potspotsña
+
+\lxi espumoso
+\cgi adj
+\tli potsol, wotsol, potsokña
+
+\lxi esquina
+\cgi vt
+\tli *xujk
+
+\lxi esta
+\cgi adj
+\tli ili, iliyi
+
+\lxi ésta
+\cgi pron
+\tli jiñi
+
+\lxi estaca
+\cgi f
+\tli balisajlel
+
+\lxi estalagmita
+\cgi f
+\tli chu'tyuñ
+
+\lxi estar
+\cgi vi
+\sui está bien
+\tsi yom
+\cai respuesta
+
+\lxi este
+\cgi adj
+\tli ili, iliyi
+
+\lxi éste
+\cgi pron
+\tli jiñi, jimbä
+
+\lxi estiércol
+\cgi m
+\tli tya'
+
+\lxi estimar
+\cgi vt
+\tli k'uxultyañ
+\sui estimado
+\tsi pasaru
+\cai por su edad
+
+\lxi estirar
+\cgi vt
+\tli ¹säts'
+\sui estirado
+\tsi säpäl
+\cai alambre, soga
+
+\lxi estómago
+\cgi m
+\aci 1
+\tli *chuyib, jo'ñal, *ñäk'
+\aci 2
+\tli chuyo'
+\cai Sab.
+
+\lxi estornudo
+\cgi m
+\tli ja'tsijm
+
+\lxi estrangular
+\cgi vt
+\tli mil
+
+\lxi estrecho
+\cgi adj
+\tli ñutsul
+
+\lxi estrella
+\cgi f
+\tli ¹ek'
+
+\lxi estreñimiento
+\cgi m
+\tli mäktya'
+
+\lxi estruendoso
+\cgi adv
+\sui estruendosamente
+\tsi ty'äläkña
+\cai agua
+\tsi ¹balakña
+\cai como una creciente
+
+\lxi estufa
+\cgi f
+\tli tyik'äjib
+
+\lxi estupidez
+\cgi f
+\tli *tyoñtyojlel
+
+\lxi examinar
+\cgi vt
+\tli tsajiñ
+
+\lxi exceder
+\cgi vi
+\tli ñumel
+
+\lxi excremento
+\cgi m
+\tli tya'
+
+\lxi excusado
+\cgi m
+\aci 1
+\tli paxyal
+\aci 2
+\tli tya'jibäl
+\cai lugar que usa como excusado
+
+\lxi explotar
+\cgi vi
+\tli tyojmel
+
+\lxi exprimir
+\cgi vt
+\tli pets', yäts'
+\sui acción de exprimir
+\tsi yäts'oñel
+
+\lxi extender
+\cgi vt
+\tli ²tsuy
+\sui extendido
+\tsi tyich'il
+
+\lxi extraer
+\cgi vt
+\sui extraído
+\tsi jots'bil
+
+\lxi F
+\alf F
+
+\lxi facción
+\cgi f
+\tli partye
+\cai Sab.
+
+\lxi fácil
+\cgi adj
+\tli mach wokolik
+\cai lit.: no es difícil
+\sui muy fácil
+\tli ñuk ñumejach
+
+\lxi faisán real
+\cgi m
+\tli chäkmuty
+\dib abbh002.tif
+
+\lxi faja
+\cgi f
+\tli *kajchil, chujkiñäk'äl
+
+\lxi falda
+\cgi f
+\tli majtsäl
+
+\lxi falso
+\cgi adj
+\tli payxo
+\sui escritura falsa
+\tsi payxo tsi'ijba
+
+\lxi faltar
+\cgi vt
+\sui falta todavía
+\tsi añtyo yom
+
+\lxi familia
+\cgi f
+\tli majchil
+\cai extendida
+
+\lxi fantasma
+\cgi m
+\aci 1
+\tli sombreroñ, tyeñtsuñ
+\aci 2
+\tli ch'ix wiñik, wicheñop
+\cai Tila
+\aci 3
+\tli yesumil
+\cai Tila; se crea que se muere en la cruz
+
+\lxi fastidiarse
+\cgi prnl
+\aci 1
+\tli k'ojyel
+\aci 2
+\tli bo'oyel
+\cai Sab.
+
+\lxi fatigoso
+\cgi adj
+\sui fatigadamente
+\tsi jesuña
+
+\lxi favor
+\cgi m
+\sui por favor
+\tsi awokolik, wokol ty'añ; ¹poj
+\cai por tiempo limitado
+
+\lxi feliz
+\cgi adj
+\sui está feliz
+\tsi tyijikña ipusik'al
+
+\lxi fetidez
+\cgi f
+\tli *tyuwel
+
+\lxi fibra
+\cgi f
+\tli tyiñäm
+\cai de las capas de plátanos
+
+\lxi fiebre
+\cgi f
+\sui con fiebre
+\tsi yo'okñajax
+
+\lxi fiel
+\cgi adj
+\aci 1
+\tli xuk'ul
+\aci 2
+\tli jump'ejl ipusik'al
+\cai lit.: un solo corazón
+
+\lxi fiesta
+\cgi f
+\tli k'iñijel
+\sui participante en una fiesta
+\tsi ajk'iñijel
+\cai Sab.
+\tsi xk'iñijel
+\sui participante en la fiesta de carnaval
+\tsi ²pochob
+
+\lxi fijo
+\cgi adj
+\tli tyulul
+\cai ojos
+
+\lxi fila
+\cgi f
+\sui en filas
+\tsi ji'ilob, tsolokña, tsolol
+\sui por filas
+\tsi kelekña
+\sui poner en fila
+\tsi tsol
+
+\lxi filín
+\cgi m
+\tli lu'chäy
+\cai pez
+
+\lxi filo
+\cgi m
+\tli *yej
+\sui con mucho filo
+\tsi jaypochañ
+
+\lxi fin
+\cgi m
+\tli *yujtyibal
+
+\lxi finca
+\cgi f
+\tli piñka
+
+\lxi fingir
+\cgi vt
+\aci 1
+\tli kujyel
+\aci 2
+\tli kuy
+
+\lxi fino
+\cgi adj
+\tli ts'ubukña
+
+\lxi firme
+\cgi adj
+\tli xuk'ul
+
+\lxi flaco
+\cgi adj
+\tli yajyaj
+
+\lxi flamante
+\cgi adj
+\tli lemla
+
+\lxi flauta
+\cgi f
+\tli jaläl
+\cai hecha de carrizo
+
+\lxi flojera
+\cgi f
+\tli *ts'u'lel
+
+\lxi flojo
+\cgi adj
+\aci 1
+\tli chojol, pojokña
+\cai objeto
+\aci 2
+\tli ts'ub
+\cai persona
+
+\lxi flor
+\cgi f
+\tli bob, ñichim
+\sui flor de corazón
+\tsi xjol max
+\cai árbol
+\sui flor de gusano
+\tsi ik' k'uts
+\cai hierba
+\sui flor de maíz
+\tsi jañ
+\sui flor de mayo
+\tsi xñichimtye'
+\cai árbol
+\sui flor de muerto
+\tsi xtyiñjol
+\sui flor de pasión
+\tsi ch'um'ak'
+\sui flor de pato
+\tsi *pixol xiba
+\cai bejuco
+
+\lxi Flor del Agua
+\tli Ñichimbäja'
+\cai colonia
+
+\lxi floreciente
+\cgi adj
+\tli ñichikña
+
+\lxi fofa
+\cgi adj
+\tli k'uñluyañ
+\cai piel
+
+\lxi follaje
+\cgi m
+\tli *yopotye'
+
+\lxi formación
+\cgi f
+\sui en formación
+\tsi ²ji'il
+
+\lxi fornicación
+\cgi f
+\tli *ts'i'lel
+
+\lxi forzar
+\cgi vt
+\tli tyujlañ
+\cai para soltarse
+
+\lxi foto
+\cgi f
+\tli ejtyaläl, *yejtyal
+
+\lxi francolina
+\cgi f
+\tli xkulukab
+\cai gallina de monte, gran tinamú; ave
+
+\lxi freír
+\cgi vt
+\tli ch'il
+
+\lxi frente
+\cgi f
+\tli pam
+\cai de la cara
+
+\lxi frijol
+\cgi m
+\tli bu'ul
+\sui frijol amarillo
+\tsi kañcheñek
+\cai Sab.
+\sui frijol botil
+\tsi pojkäm
+\sui frijol de castilla
+\tsi xwach' bu'ul
+\sui frijol de rabia
+\tsi xpermax
+\sui frijol de vara
+\tsi sts'äptye' bu'ul
+\sui frijol del año
+\tsi xjabi bu'ul
+\sui frijol pato
+\tsi xpech bu'ul
+\sui frijol tierno
+\tsi ch'ok bu'ul
+\sui tipo de frijol chico
+\tsi ts'ir bu'ul
+\sui tipo de frijol grande
+\tsi xchu' bu'ul
+\sui tipo de frijol de tierra
+\tsi xtya'lety
+\cai no se enreda y no tiene punta
+\tsi xlumil bu'ul
+
+\lxi frijolar
+\cgi m
+\tli bu'lel
+
+\lxi frío
+\cgi m
+\tli tsäñal, tsäñä
+
+\lxi frontera
+\cgi f
+\tli kayajoñ
+
+\lxi frotar
+\cgi vt
+\aci 1
+\tli bilty'uñ
+\cai piel
+\aci 2
+\tli biyulañ
+\cai cosa resbalosa
+\aci 3
+\tli jajpiñ
+\cai con medicina
+\sui frotarse
+\tli bijyel
+
+\lxi fruta
+\cgi f
+\tli ²*wuty, yäk'bal
+\sui fruta comestible de una planta que madura en junio
+\tsi x'ik'uts
+\sui fruta comestible de un bejuco
+\tli tsots
+\sui fruta del árbol
+\tsi *wuty tye'
+
+\lxi fuego
+\cgi m
+\tli k'ajk
+
+\lxi fuerte
+\cgi adj
+\aci 1
+\tli ch'ejl
+\cai persona, animal
+\aci 2
+\tli ch'e', chalakña
+\cai ruido
+\aci 3
+\tli p'ätyäl
+\cai animal, persona, medicina
+\sui fuertemente
+\tsi ²k'am
+\tsi ts'ilikña
+\cai Sab.; llorando
+\sui hacerse fuerte
+\tsi p'äty'añ
+\sui voz fuerte
+\tsi k'ambä ty'añ
+
+\lxi fuerza
+\cgi f
+\aci 1
+\tli ¹wersa
+\aci 2
+\tli *ts'a'ñal
+\cai de la cal
+
+\lxi fumar
+\aci 1
+\cgi vi
+\tli k'ujtsijel
+\aci 2
+\cgi vt
+\tli ñuk'
+
+\lxi G
+\alf G
+
+\lxi gajo
+\cgi m
+\tli *k'äbtye'
+\cai de un árbol
+\sui gajos secos tirados en la milpa
+\tsi chax läktyik
+\sui donde sale el gajo
+\tsi *xäk'
+
+\lxi gallina
+\cgi f
+\aci 1
+\tli muty, ña' muty
+\aci 2
+\tli xpeloña
+\cai sin plumaje en el cuello
+\sui gallina sin plumas
+\tsi xborox
+\sui gallina crespa
+\tsi xwarach'
+\sui gallina ciega
+\tsi k'ojlom
+\cai gusano
+\sui gallina de monte
+\tsi xkulukab
+
+\lxi gallo
+\cgi m
+\tli kayu, muty
+
+\lxi ganar
+\cgi vt
+\tli chobejtyañ
+
+\lxi gancho
+\cgi m
+\tli *jok'lib
+\cai para colgar cosas
+
+\lxi ganso de collar
+\tli xkañso pech
+\cai ave
+
+\lxi garabato
+\cgi m
+\tli *jok'lib
+\sui garabato de hierro o palo
+\tsi rok
+
+\lxi garganta
+\cgi f
+\tli ch'och'
+
+\lxi gargantilla
+\cgi vt
+\tli ujäl
+\cai sing.
+\tli ujañ
+\cai pl.
+
+\lxi garita
+\cgi f
+\tli karitya
+
+\lxi garrafón
+\cgi m
+\tli limetyoñ
+
+\lxi garrapata
+\cgi f
+\tli sip
+\cai insecto
+
+\lxi garza
+\cgi f
+\tli jojmay, ja'al pech
+
+\lxi gastar
+\cgi vt
+\tli pujch'el
+\cai la punta, fila
+\sui gastado
+\tli tsukul, *tsukulel
+
+\lxi gatear
+\cgi vi
+\aci 1
+\tli kojtyel
+\cai criatura
+\aci 2
+\tli tsojtyel
+\cai niño
+
+\lxi gato
+\cgi m
+\tli mis
+
+\lxi gavilán
+\cgi m
+\aci 1
+\tli xäye', xiye'
+\cai grande
+\aci 2
+\tli xlilik, xuñxulu'
+\cai chico
+\sui gavilán negro
+\tsi xtyow
+\dib abbi001.tif
+\pie gavilán
+
+\lxi gemelos
+\cgi m
+\aci 1
+\tli ²loj
+\aci 2
+\tli luty
+\cai Sab.
+
+\lxi gemido
+\cgi m
+\tli ajkäñ
+
+\lxi gente
+\cgi f
+\tli kixtyañu
+\cai Tila
+\sui gente de Tenejapa
+\tsi tsutsob
+\sui gente dentro de la tierra
+\tsi xma'ity
+\sui gente que no es indígena
+\tsi kaxlañ
+
+\lxi glotón
+\cgi m
+\tli wo'atyax
+
+\lxi glotonería
+\cgi vt
+\tli *sits'lel
+
+\lxi golonchaco
+\cgi m
+\tli chañwox
+\cai ave
+
+\lxi golondrina
+\cgi f
+\tli wirischañ, xwirischañ, x'alum
+\cai ave
+\sui golondrina de cueva
+\tsi xwilis
+
+\lxi goloso
+\cgi adj
+\tli koloso
+
+\lxi golpear
+\cgi vt
+\aci 1
+\tli kuj
+\cai con martillo
+\aci 2
+\tli ch'ojch'oj
+\cai ligeramente
+\aci 3
+\tli jats'
+\cai con objeto
+\sui golpear una herida
+\tsi tyajñañ
+\sui golpeado
+\tsi ch'oj
+\cai la madera con piedra
+\sui golpeando
+\tsi lajlaj
+\tsi chek'chek'ña
+\cai máquina de escribir
+
+\lxi gordo
+\aci 1
+\cgi adj
+\tli jujp'em
+\aci 2
+\cgi m
+\tli *boñtyilel
+\sui muy gordo
+\tsi bayakña
+
+\lxi gorrioncillo
+\cgi m
+\tli ak'bä ts'uñuñ
+\cai zacatonero; ave
+
+\lxi gota
+\cgi f
+\sui gota por gota
+\tsi ts'ujlaw
+
+\lxi gotear
+\cgi vi
+\sui goteando
+\tsi chäk', chäk'chäk'ña
+
+\lxi gotera
+\cgi f
+\tli ochja'
+
+\lxi gracias
+\cgi f
+\tli wokolix awälä, wokol awälä
+
+\lxi gradado
+\cgi adj
+\tli kejpuktyik
+
+\lxi grajo verde
+\cs m
+\tsi peazul, xkekex
+\cai queisque; ave
+\dib abbb015.tif
+
+\lxi gran tinamú
+\cgi m
+\tli xkulukab
+\cai gallina de monte; ave
+
+\lxi granadilla
+\cgi f
+\tli ch'um'ak'
+\cai fruta
+
+\lxi grande
+\cgi adj
+\aci 1
+\tli kolem, ¹ñoj, ¹ñuk
+\aci 2
+\tli pitytyäl
+\cai animal, carga
+\aci 3
+\tli ty'uñul
+\cai mazorca de maíz
+\sui no es grande
+\tsi mach ñukik
+\sui tamaño grande
+\tsi *ñojel
+\cai mazorca
+
+\lxi granizo
+\cgi m
+\tli tyuñija'
+
+\lxi grano
+\cgi m
+\aci 1
+\tli k'osäl
+\cai en la cabeza
+\aci 2
+\tli ty'äsläk
+\cai tiene la carne del cerdo
+\sui granos podridos
+\tsi jom
+\cai mazorca
+
+\lxi grava
+\cgi vt
+\tli bi'tyi xajlel
+\cai Sab.
+
+\lxi grieta
+\cgi f
+\tli tyokolbä lum
+
+\lxi grillo
+\cgi m
+\tli ²chil
+\sui un tipo de grillo
+\tsi xña'ak'bal
+
+\lxi grisón
+\cgi m
+\tli sakol
+\cai mamífero
+
+\lxi gritar
+\cgi vt
+\tli otyañ
+\cai a una persona
+\tli mi icha'leñ oñel
+
+\lxi grito
+\cgi m
+\tli oñel
+\sui a gritos
+\tsi ts'elekña
+
+\lxi grosería
+\cgi f
+\tli p'ajoñel, *tsukulel
+
+\lxi grosero
+
+\cgi adj
+\tli leko
+
+\lxi grueso
+\aci 1
+\cgi adj
+\tli ty'uñul
+\aci 2
+\cgi adj
+\tli pim
+\cai tortilla, cobija, tabla
+\aci 3
+\cgi adj
+\tli p'ojp'ostyäl
+\cai frijol
+\aci 4
+\cgi m
+\tli ¹*jaylel
+\cai de tabla, papel
+
+\lxi gruñir
+\cgi vi
+\sui gruñendo
+\tsi käräkña, jiñikña
+
+\lxi guabina
+\cgi f
+\tli ²sok
+\cai pez
+
+\lxi guacamayo
+\cgi m
+\tli jochitye'
+\cai árbol
+
+\lxi guachipilín
+\cgi m
+\tli k'äñsijñ
+\cai árbol
+
+\lxi guaco
+\cgi m
+\aci 1
+\tli xchawa'ik'
+\cai planta
+\aci 2
+\tli mo'och
+\cai ave
+
+\lxi guaje blanco
+\cgi m
+\tli pipäl, amila
+\cai árbol
+
+\lxi guajolote
+\cgi m
+\tli ak'ach
+
+\lxi guamúchil
+\cgi m
+\tli tyuk'ul
+\cai patzagua; árbol
+
+\lxi guanábana
+\cgi f
+\tli k'ätsats
+\cai árbol
+
+\lxi guano
+\cgi m
+\tli xlecheñtyo'
+\cai palma
+
+\lxi guao
+\cgi m
+\tli waw
+\cai tres lomas; tipo de tortuga
+
+\lxi guapaque
+\cgi m
+\tli wäch'
+\cai árbol
+
+\lxi guaqueque negro
+\cgi m
+\tli ujchib, xuchijp
+\cai agutí; mamífero
+
+\lxi guardabarranco
+\cgi m
+\tli xwukpik
+\cai péndulo de corona; ave
+
+\lxi guardar
+\cgi vt
+\tli ²loty
+
+\lxi guardia
+\cgi f
+\tli xk'elojel
+
+\lxi guarumbo
+\cgi m
+\tli k'olok'
+\cai chancarro; árbol
+
+\lxi guayabillo
+\cgi m
+\tli pätyatye', xpapätyal
+\cai árbol
+
+\lxi guayabo
+\cgi m
+\tli pätya
+\dib ofda080.tif
+
+\lxi guía
+\cgi f
+\aci 1
+\tli xpäsbij
+\aci 2
+\tli *yä'k'il
+\cai de planta
+
+\lxi guiar
+\cgi vt
+\tli tyoj'esañ
+
+\lxi guindar
+\cgi vt
+\sui guindado
+\tli litsil
+\cai cabeza de pavo, cuerpo de culebra
+\tli tsok'ol
+\cai racimo de plátanos
+\sui guindado de la mano
+\tli jich'ye'el
+
+\lxi gusano
+\cgi m
+\tli motso'
+\sui tipo de gusano comestible
+\tsi ²säts'
+\sui gusano de agua
+\tsi xtyajbachim
+
+\lxi gustar
+\cgi vt
+\tli mulañ
+\sui le está gustando
+\tsi k'ajakñayix yo
+\cai Sab.
+
+\lxi H
+\alf H
+
+\lxi haber
+\cgi vt
+\sui hay
+\tsi añ
+\sui lo hay
+\tsi añ ku
+\sui no hay
+\tsi ma'añik, k'ebäch
+\cai respuesta al dar lo que se pide
+\sui no hay
+\tsi ma'añ
+\cai Sab., Tila
+\sui si hay
+\tsi añäch
+\sui si hubiera
+\tsi añik
+
+\lxi habitación
+\cgi f
+\tli chumlibäl
+
+\lxi habitante
+\cgi m
+\aci 1
+\tli ajchumtyäl
+\cai Sab.
+\aci 2
+\tli xchumtyäl
+\cai pl.
+
+\lxi hablar
+\cgi vi
+\tli ¹pejkañ, mi icha'leñ ty'añ
+\sui hablar mal
+\tsi pampañ
+\cai Sab.; de otro
+\sui el que habla
+\tsi x'alty'añ; ajsubty'añ
+\cai Sab.
+
+\lxi hacer
+\cgi vt
+\tli cha'leñ, mel, tyumbeñ
+\sui hacer a un lado
+\tsi k'ej
+\cai Tila
+\sui hacer calor
+\tsi k'ixiñ pañimil, tyikäw pañimil
+\sui hacer casa
+\tsi ²päty
+\cai Tila
+\sui hacer tacos
+\tsi p'ich
+\sui hacer tortillas
+\tsi pechañ
+\tsi pechmañ
+\cai Sab.
+\sui hace tiempo
+\tsi wajalix
+\sui hace mucho tiempo
+\tsi oñiyi
+
+\lxi hacha
+\cgi vt
+\tli jachaj
+
+\lxi hacinar
+\cgi vt
+\tli ts'äl, läts, lätschokoñ
+\cai leña, maíz
+\sui hacinado
+\tsi lätsäl, ts'äläl
+\cai leña, maíz
+\tsi ts'älbil
+\cai por alguien
+
+\lxi hallar
+\cgi vt
+\sui hallado
+\tsi k'ajyem
+
+\lxi hamaca
+\cgi f
+\tli ab
+\sui hamaca hecha de palitos
+\tsi ji'tye'ol
+
+\lxi hambre
+\cgi f
+\tli wi'ñal
+
+\lxi haragán
+\cgi m
+\tli sts'u'lel
+
+\lxi hasta
+\cgi prep
+\tli k'äläl, jiñtyo
+
+\lxi hechicería
+\cgi f
+\tli ch'äkoñel, wujty, xpejka xotyäl
+
+\lxi helado
+\cgi adj
+\tli *ña'al tsäñal
+
+\lxi helecho
+\cgi m
+\tli stsijb
+
+\lxi hembra
+\cgi f
+\aci 1
+\tli ²*ña'al
+\cai de animal
+\aci 2
+\tli iña'al ña' muty
+\cai gallina
+
+\lxi hendidura
+\cgi f
+\tli *jajp
+\cai hendedura
+
+\lxi henequén
+\cgi m
+\tli k'ok'chi
+
+\lxi hepatitis
+\cgi f
+\tli *k'äñajel
+
+\lxi herida
+\cgi f
+\aci 1
+\tli lojwel
+\aci 2
+\tli *tsejpel
+\cai cortada
+
+\lxi hermana
+\cgi f
+\aci 1
+\tli *chich, chichäl, ñoj chich
+\cai mayor
+\aci 2
+\tli *ijtyi'añ
+\cai de hombre
+\sui hermana de la madre del padre
+\tsi ko'äl
+
+\lxi hermanastra
+\cgi f
+\tli *majañ chich, *majañ ijtyi'añ
+
+\lxi hermanastro
+\cgi m
+\aci 1
+\tli *majañ ijtyi'añ
+\aci 2
+\tli *majañ *äskuñ
+\cai mayor
+
+\lxi hermano
+\cgi m
+\aci 1
+\tli erañ, ermañu, ²*yaj
+\aci 2
+\tli askuñ, ñoj *äskuñ
+\cai mayor
+\aci 3
+\tli xuty
+\cai menor
+\sui hermanito
+\tsi *ijts'iñ
+\sui hermano de la abuela paterna
+\tsi mam
+\sui hermano de mi padre
+\tsi *yumijel
+
+\lxi herrumbre
+\cgi f
+\tli tya', *tsukulel
+
+\lxi hervido
+\cgi adj
+\tli ch'äxbil
+
+\lxi hervir
+\cgi vt
+\tli chäp, ch'äx
+\cai frijol, maíz
+\sui hervirse
+\tsi echmäl
+\sui hacer hervir
+\tsi lojkesañ
+\sui acción de hervir
+\tsi lojk
+
+\lxi hielo
+\cgi m
+\tli tyuñija', ña'al tsäñal
+
+\lxi hierba
+\cgi f
+\tli pimel
+\sui hierba laxante que se come
+\tsi ¹tsuy
+\sui hierba para condimentar carne
+\tsi xajb
+\sui un tipe de hierba grande
+\tsi x'almis kajpe'
+\sui hierba mora
+\tsi ch'ajuk'
+\sui hierba santa
+\tsi momoy, serbatyañ
+\cai arbusto
+\sui sin hierba
+\tsi chäk
+
+\lxi hierbabuena
+\cgi f
+\tli araweño, x'araweño
+
+\lxi hierbatero
+\cgi m
+\tli sts'äkaya
+
+\lxi hígado
+\cgi m
+\tli *olmal, *soty'oty'
+
+\lxi higuerilla
+\cgi f
+\tli ch'upujk
+\cai ricino; planta
+
+\lxi hija
+\cgi f
+\aci 1
+\tli *ajty'al, *ixik'al
+\cai de mujer
+\aci 2
+\tli *ixikp'eñel
+\cai de hombre, grande
+
+\lxi hijastro
+\cgi m
+\tli *majañ kalobil
+
+\lxi hijo
+\cgi m
+\aci 1
+\tli *ajty'al
+\cai de mujer
+\aci 2
+\tli *p'eñel
+\cai Sab.; del padre
+\aci 3
+\tli wiñikbä *alobil
+\cai adulto
+\sui hijo de hermana de mi padre
+\tsi *ichak'
+\sui hijos
+\tsi *p'olbal
+
+\lxi hilar
+\cgi vt
+\tli ñok'ijel, ñok'iñ
+
+\lxi hilo
+\cgi m
+\tli puy
+
+\lxi hinchar
+\cgi vt
+\sui hincharse
+\tsi sity'kuyel, sity'olajel
+\sui hinchado
+\tsi sijty'em, sity'il
+
+\lxi hipo
+\cgi m
+\tli jäch'bik'
+
+\lxi hipócrita
+\cgi f
+\tli cha'chajp ipusik'al
+\cai lit.: tiene dos corazones
+
+\lxi hocofaisán
+\cgi m
+\tli chäkmuty
+\cai faisán; ave
+\dib abbh002.tif
+
+\lxi hoja
+\cgi f
+\aci 1
+\tli yopol
+\aci 2
+\tli yopmal
+\cai Sab.
+\sui hoja de platana
+\tsi *pechäjib
+\cai done se echan las tortillas
+\sui hoja de quequeste
+\tsi poko'
+\sui hoja de tabaco
+\tsi pocholbä k'uts
+\sui hoja grande para envolver pozol
+\tsi säktyo', tyuñtyo'
+\sui hoja de pozol
+\tli säpäty yopom
+\sui hoja de tamales
+\tsi xwaj'uñ
+\sui una sola hoja
+\tsi yopom
+\sui hojas podridas
+\tsi omos
+\sui el cambio de hoja de los árboles
+\tsi ch'ajb
+
+\lxi hollar
+\cgi vt
+\sui hollado
+\tsi tyokbil
+
+\lxi hombre
+\cgi m
+\tli wiñik
+\sui hombre tzeltal
+\tsi amiku
+\sui hombre de más edad
+\tsi askuñäl
+\sui hombre con mucha barba
+\tsi tsutschoj
+\sui hombre con lobanillo
+\tsi xbulubik'
+\sui hombre que anda confuso
+\tsi xkajka
+
+\lxi hombro
+\cgi m
+\aci 1
+\tli kejlo'
+\aci 2
+\tli *kejlab
+\cai Sab.
+
+\lxi homicidio
+\cgi m
+\tli tsäñsa
+
+\lxi honda
+\cgi f
+\tli päräñtyuñ
+\cai tirador
+
+\lxi hondo
+\cgi adj
+\tli tyam
+\cai río, lodazal
+\tli *tyamlel
+
+\lxi hondonada
+\cgi f
+\tli *lomtyilel
+\cai del terreno
+
+\lxi hondonado
+\cgi adj
+\tli k'omokña, k'omol
+
+\lxi hongo
+\cgi m
+\tli tyeñkech
+\sui hongo que crece en los árboles
+\tsi ityeñkechlel tye'
+\sui tipo de hongo
+\tsi k'o'loch
+\cai comestible
+\tsi x'uxkuruñwech patye'
+\cai gris, comestible
+\tsi xyok muty patye', x'yok muty patye'
+\cai blanco, comestible
+\tsi xkeräch' patye'
+\cai negro, comestible
+\tsi xlo' patye'
+\cai colorado, comestible
+\tsi tsuts chikiñ
+\cai de color café arriba y blanco abajo, comestible
+\tsi joch' lo' patye'
+\cai de árboles, blanco, comestible
+
+\lxi hora
+\cgi f
+\tli *tyiempojlel
+\cai Sab.
+\sui una hora antes
+\tsi juñwa'le
+\cai Sab.
+
+\lxi horcajada
+\sui a horcajadas
+\tsi xak'
+\cai sobre un palo
+
+\lxi horcón
+\cgi m
+\aci 1
+\tli oy
+\aci 2
+\tli iyoyel otyoty
+\cai de la casa
+
+\lxi hormiga
+\cgi f
+\tli xiñich'
+\sui tipo de homiga
+\tsi chakatyorex
+\cai colorada, pica fuerte
+\tli xty'ojty'ojbak
+\cai negra, grande
+\dib ins001.tif
+
+\lxi hormiguillo
+\cgi m
+\tli bu'ultye'
+\cai palo de marimba; árbol
+
+\lxi horqueta
+\cgi f
+\tli xäk'tye'
+
+\lxi hortaliza
+\cgi f
+\tli päk'äbäl
+
+\lxi hoy
+\cgi adv
+\tli wäle
+
+\lxi hoyar
+\cgi vi
+\sui hoyado
+\tsi ch'ubul
+\cai chico
+\tsi boxol
+\cai adentro en forma redonda
+
+\lxi hoyuelo
+\cgi m
+\tli *chojk'ib
+
+\lxi huarache
+\cgi m
+\aci 1
+\tli kaktye', warach, xäñäbäl
+\aci 2
+\tli ²pats'
+\cai Sab.
+
+\lxi hueco
+\cgi adj
+\tli ch'omol
+\cai terreno
+\sui hueco de un árbol
+\tsi *ch'eñal
+\tsi *ch'ejñal tye'
+\cai Sab.
+\sui hueco hondo
+\tli ch'eñ
+
+\lxi huérfano
+\cgi m
+\tli meba', meba' aläl
+\sui muchacho dejado huéfano
+\tsi meba' ch'ityoñ
+\sui muchacha dejada huéfana
+\tsi meba' xch'ok
+
+\lxi hueso
+\cgi m
+\tli bak
+\sui persona con hueso quebrado
+\tsi xk'äskujel
+
+\lxi huésped
+\cgi m
+\tli jula'
+
+\lxi huevo
+\cgi m
+\aci 1
+\tli tyumuty
+\aci 2
+\tli tyuñ
+\cai Tila
+\sui huevo que no brota
+\tsi puk'tya'
+
+\lxi huirse
+\cgi prnl
+\tli puts'el
+
+\lxi humeante
+\cgi adj
+\tli ts'obokña
+\cai al quemar milpa
+
+\lxi humedad
+\cgi vt
+\tli *yäch'lel
+
+\lxi humillar
+\cgi vt
+\sui humillado
+\tsi pek'
+
+\lxi humo
+\cgi m
+\tli buts'
+
+\lxi humus
+\cgi m
+\tli omos
+
+\lxi hundir
+\cgi vt
+\sui hundido
+\tsi ch'omol
+
+\lxi huso
+\cgi m
+\tli petyejty
+\cai palito para enrollar hilo
+
+\lxi I
+\alf I
+
+\lxi idioma
+\cgi m
+\tli *ty'añ
+
+\lxi ídolo
+\cgi m
+\tli rus, sañtyo
+
+\lxi iglesia
+\cgi f
+\tli lesia
+
+\lxi ignorante
+\cgi adj
+\tli tyoñkots
+
+\lxi igual
+\cgi adv
+\tli juñlajal, lajal
+\sui no es igual
+\tsi mach lajalik
+
+\lxi igualar
+\cgi vt
+\tli lajiñ, ²laj
+
+\lxi iguana
+\cgi f
+\tli kolem p'ok, ²juj, jujl p'ok, mäch p'ok, tseljol
+
+\lxi ilama
+\cgi f
+\tli säsäk k'ätsats
+\cai árbol
+\dib Anona.tif
+
+\lxi imagen
+\cgi f
+\sui imagen de Cristo
+\tsi *ch'ujutyaty
+
+\lxi impensado
+\cgi adj
+\sui impensadamente
+\tsi ch'äñch'äña
+\cai hablar
+
+\lxi importancia
+\cgi f
+\tli *k'äjñibal, *k'äjñibäyel, *ñuklel
+
+\lxi importante
+\cgi adj
+\tli ¹ñuk
+
+\lxi imposible
+\cgi adj
+\tli mach mejlik
+
+\lxi impuesto
+\cgi m
+\tli tyojoñel
+
+\lxi incendio
+\cgi m
+\tli tyojklel
+
+\lxi incienso
+\cgi m
+\tli pom
+
+\lxi inclinar
+\cgi vt
+\aci 1
+\tli lij
+\cai la cabeza
+\aci 2
+\tli tyiñtyäl
+\cai Sab.
+\sui inclinado
+\tsi ñäkäl
+\tsi boltyäl
+\cai Sab.
+\tsi lijil
+\cai la cabeza
+\tsi muyul
+\cai casa
+\tsi ñäkye'el
+\cai en la mano
+\tsi tyäkäl
+\cai postes, horcones
+\tsi wits
+\cai camino
+\tsi xewel
+\cai en el agua
+
+\lxi inconcluso
+\cgi adj
+\tli kets'el
+\cai trabajo
+
+\lxi inconstante
+\cgi adj
+\tli tyilel bixel lakpusik'al
+
+\lxi increíble
+\cgi adj
+\tli jemachtyika
+\cai expresión de sorpresa
+
+\lxi infierno
+\cgi m
+\tli tyojmulil
+
+\lxi infinito
+\cgi adj
+\tli läbäkña
+
+\lxi inflamación
+\cgi f
+\aci 1
+\tli paslam
+\aci 2
+\tli pots'lom
+\cai Sab.
+
+\lxi inflar
+\cgi vt
+\sui oprimir e inflar
+\tsi wosilañ
+\cai pelota
+
+\lxi inmediato
+\cgi adj
+\aci 1
+\tli orajach, tyi ora
+\aci 2
+\tli ñux
+\cai Tila
+\aci 3
+\tli ora
+\cai Sab.
+\sui inmediatamente
+\tsi bäläk'
+\cai Tila
+
+\lxi inmovilizado
+\cgi adj
+\tli mech
+
+\lxi insecto
+\cgi m
+\aci 1
+\tli *chäñil pañimil
+\aci 2
+\tli chäkäl aty
+\cai por ej.: zancudo
+\sui insectos de agua
+\tsi *chäñil ja', xpampaja'
+\sui insecto que come maíz
+\tsi chäm'al
+\sui insecto que habita en la tierra
+\tsi xñätyechil
+\sui insecto palo
+\tsi xtyuch' k'iñ
+\sui insecto parecido a la avispa
+\tsi xbijlum
+\sui insecto parecido a la lechuza
+\tsi xty'ojty'ojbak
+\sui tipo de insecto
+\tsi ²juk
+\tsi xchäkäl aty
+\tsi xjuy'ul
+\tsi chikityíñ
+\cai abunda en tiempo de rozaduras
+\sui tipo de insecto de agua
+\tsi mämäksijlel ja'
+\sui tipo de insecto verde
+\tsi kukuch yopom
+
+\lxi insistentemente
+\cgi adv
+\tli ch'ujch'uj
+\cai mirar
+
+\lxi instrucción
+\cgi f
+\tli *käñtyesäñtyel, *tyoj'ijib
+
+\lxi inteligencia
+\cgi f
+\tli *ña'tyäbal
+
+\lxi inteligente
+\cgi adj
+\tli p'ip'
+\sui eres inteligente
+\tsi añ ajol
+\cai Tum.
+\sui ser inteligente
+\tsi p'ip'añ
+
+\lxi intención
+\cgi f
+\tli ¹ñak
+\cai del corazón
+
+\lxi interés
+\cgi m
+\tli *jol tyak'iñ
+\cai de dinero
+
+\lxi interior
+\cgi m
+\tli jo'ñal
+\cai de árbol, cuerpo
+
+\lxi inundar
+\cgi vt
+\tli buty'ja'iyel
+
+\lxi inútil
+\cgi adj
+\tli wojts
+\cai madera, tierra
+
+\lxi invertir
+\cgi vt
+\tli ñukchokoñ
+
+\lxi inyectar
+\cgi vt
+\tli ¹joch'
+
+\lxi ir
+\cgi vi
+\tli majlel, sami
+\sui ir por primera vez para averiguar
+\tsi k'uñk'el
+\sui fue
+\tsi ¹tsajñi
+\sui me voy
+\tsi koñix
+\sui vamos
+\tsi koñla
+\sui vete
+\tsi ¡kuku!
+\sui yendo
+\tsi welekña
+
+\lxi ixtle
+\cgi m
+\tli chij, *chijil
+
+\lxi izote
+\cgi m
+\tli koñjoyo
+
+\lxi J
+\alf J
+
+\lxi jabalí
+\cgi m
+\aci 1
+\tli k'em
+\cai mamífero
+\aci 2
+\tli matye' chityam
+\cai de collar; mamífero
+
+\lxi jabón
+\cgi m
+\tli xapom
+
+\lxi jadeante
+\cgi adj
+\aci 1
+\tli woswosña
+\aci 2
+\tli kojm
+\cai por falta de aire
+
+\lxi jadear
+\cgi vi
+\tli jak' ik'
+\cai Sab.
+\sui jadeando
+\tsi jäp'uña, lejlejña
+
+\lxi jaguar
+\cgi m
+\tli bajlum, bo'lay, k'äñ bo'lay, xik' sajp
+\cai mamífero
+\dib ala014s.tif
+
+\lxi jaguarundi
+\cgi m
+\tli stsukbajlum
+\cai mamífero
+\dib alb007v.tif
+
+\lxi jalar
+\cgi vt
+\tli tyujk'añ, yu'
+
+\lxi jaspeado
+\cgi adj
+\tli sälem
+
+\lxi jaula
+\cgi f
+\sui jaula grande
+\tsi kolotye'
+\cai para transportar aves
+
+\lxi jefe
+\cgi m
+\sui tener por jefe
+\tsi yumañ
+
+\lxi jengibre
+\cgi m
+\tli kibre
+\cai tipo de zacate
+
+\lxi jicalpeste
+\cgi m
+\tli pok'
+
+\lxi jícara
+\cgi f
+\tli bux, tsima
+\sui jícara para tortillas
+\tsi bux pok'
+
+\lxi jicotea
+\cgi f
+\tli ajiñ
+\cai tipo de tortuga
+
+\lxi jilguero común
+\cgi m
+\tli xwukpik
+\cai ave
+
+\lxi jilote
+\cgi m
+\tli jajch
+
+\lxi jobo
+\cgi m
+\tli luluy
+\cai ciruela; árbol
+
+\lxi jocotillo
+\cgi m
+\aci 1
+\tli yäxluluy
+\cai jobillo; árbol
+\aci 2
+\tli ichitye'
+\cai Sab.; árbol
+
+\lxi joloche
+\cgi m
+\tli jomojch'
+\cai cáscara del maíz
+
+\lxi jolocín
+\cgi m
+\tli ojol
+\cai jonote; árbol
+
+\lxi jonote
+\cgi m
+\aci 1
+\tli poytye'
+\aci 2
+\tli xwax
+\cai árbol
+
+\lxi joñón
+\tli joñochañ
+\cai insecto
+
+\lxi jornalero
+\cgi m
+\tli kañar x'e'tyel
+
+\lxi jorobado
+\cgi adj
+\tli k'uchu paty
+
+\lxi joven
+\cgi m
+\tli alo'
+\cai Sab.
+
+\lxi judas
+\cgi m
+\tli xiba yopom
+
+\lxi juego
+\cgi m
+\aci 1
+\tli alas
+\aci 2
+\tli ²ñak
+\cai Sab.
+
+\lxi juez
+\cgi m
+\sui juez rural
+\tsi koñerol
+
+\lxi jugar
+\cgi vt
+\tli mi icha'leñ alas
+
+\lxi jugo
+\cgi m
+\tli ¹*ya'lel
+\cai Sab., Tum.
+
+\lxi juguete
+\cgi m
+\tli alasäl, *älas
+
+\lxi juguetear
+\cgi vi
+\tli *asiñ
+\cai con un objeto
+
+\lxi julio
+\cgi m
+\tli julio
+\cai Tila
+
+\lxi juntar
+\cgi vt
+\aci 1
+\tli tyempañ
+\aci 2
+\tli ²*jop
+\cai una cosa seca
+\aci 3
+\tli jop ochel, much'kiñ
+\cai frijol, café, maíz
+\aci 4
+\tli moty, motyk'iñ
+\cai leña
+\aci 5
+\tli ok'isañ
+\cai Sab.
+\aci 6
+\tli xipulañ
+\cai ropa
+\sui juntarse
+\tsi tyempäyel
+\tli chujkel
+
+\lxi juntos
+\cgi adj
+\aci 1
+\tli komol, tyemel
+\aci 2
+\tli motyol
+\cai casas
+
+\lxi jurisdicción
+\cgi f
+\tli *yumäñtyel
+
+\lxi justo
+\cgi adj
+\tli tyoj
+\sui justamente
+\tsi jaxakña
+
+\lxi juzgar
+\cgi vt
+\tli mel
+
+\lxi L
+\alf L
+
+\lxi la
+\cgi artículo
+\tli jiñi
+
+\lxi labio
+\cgi m
+\tli pächälel lakej
+
+\lxi ladear
+\cgi vt
+\aci 1
+\tli bech
+\cai avión
+\aci 2
+\tli bets'
+\cai canoa
+\sui ladeando
+\tsi xewuña
+\cai carga de mula
+\tsi ¹yukiña
+\cai casa, árbol
+
+\lxi ladino
+\cgi m
+\tli kaxlañ
+
+\lxi lado
+\cgi m
+\tli *ty'ejl, *ts'ejtyäl
+\sui lado derecho
+\tli ²*ñoj
+\sui de lado
+\tsi bech, bets'el, ts'ej, ts'ejel
+\sui de lado a lado
+\tsi ts'ejuña
+\sui por un lado
+\tsi ñelel
+
+\lxi ladrar
+\cgi vi
+\tli wojiñ
+\sui ladrando
+\tsi wojwojña
+
+\lxi ladrido
+\cgi m
+\tli woj
+
+\lxi ladrón
+\cgi m
+\aci 1
+\tli xujch'
+\aci 2
+\tli ajxujch'
+\cai Sab.
+
+\lxi lagartija
+\cgi f
+\sui lagartija trepadora
+\tsi xmañchajk
+\cai anolis
+\sui lagartija verde
+\tsi xyäx p'ok
+
+\lxi lagarto
+\cgi m
+\tli p'ok
+
+\lxi lágrima
+\cgi f
+\tli ya'lel lakwuty
+
+\lxi laguna
+\cgi f
+\aci 1
+\tli abañ, arayojil
+\aci 2
+\tli petyem
+\cai Sab.
+
+\lxi lamentar
+\cgi vt
+\tli uk'tyañ
+
+\lxi lamer
+\cgi vt
+\tli lek', lem
+\cai perro
+
+\lxi lámina
+\cgi f
+\tli *lamiñajlel
+
+\lxi lámpara
+\cgi f
+\tli *yajñib k'ajk
+
+\lxi lana
+\cgi f
+\tli ²tsuts, *tsutsel tyiñäme'
+
+\lxi langosta
+\cgi f
+\tli meba' jijch
+\cai tipo que se come
+\sui tipo de langosta
+\tsi xbäläl
+\cai de tierra caliente
+\tsi xk'o'k'obäläl
+\cai comestible, verde
+
+\lxi largo
+\aci 1
+\cgi adj
+\tli jältyäl, tyam
+\aci 2
+\cgi adj
+\tli päl
+\cai pantalón, falda
+\aci 3
+\cgi m
+\tli *kiñtyälel, *tyamlel
+\sui palabra para describir un objeto largo
+\tli ²bäñ
+\sui concuerda con todo lo largo
+\tli jälol
+
+\lxi larva
+\cgi f
+\tli chup
+\sui larva de mariposa
+\tsi xyäx chup
+\sui larva de mosquito
+\tli xmäñäksi
+
+\lxi lástima
+\cgi f
+\sui tener lástima de
+\tsi p'uñtyañ
+
+\lxi lastimar
+\cgi vt
+\tli low
+\sui lastimarse
+\tli lojwel
+\sui lastimado
+\tsi lojwem
+
+\lxi lastimoso
+\cgi adj
+\tli p'ump'uñ
+
+\lxi lavar
+\cgi vt
+\aci 1
+\tli jo'
+\cai cabeza
+\aci 2
+\tli pok
+\cai manos, cara, trastos
+\aci 3
+\tli säk'
+\cai café, maíz
+\aci 4
+\tli wuts'
+\cai ropa
+\aci 5
+\tli wajyuñ
+\cai la cara
+\sui acción de lavar
+\tsi säk'oñel
+\cai maíz
+
+\lxi lazar
+\cgi vt
+\tli ¹jich', kich'
+
+\lxi lechuza
+\cgi f
+\aci 1
+\tli xku
+\cai grande
+\aci 2
+\tli xtyutyuy
+\cai chica
+\aci 3
+\tli x'joch'
+\cai chica, de color amarillo
+
+\lxi leer
+\cgi vt
+\tli ¹pejkañ
+\cai en voz alta
+
+\lxi legua
+\cgi vt
+\tli lewa
+
+\lxi lejos
+\cgi adv
+\tli ñajty
+
+\lxi lengua
+\cgi f
+\tli ¹ak'
+\cai de la boca
+
+\lxi lento
+\cgi adj
+\sui lentamente
+\tsi ch'ujukña
+
+\lxi leña
+\cgi f
+\tli si'
+
+\lxi leoncillo
+\cgi m
+\tli stsukbajlum
+\cai jaguarundi
+\dib alb007v.tif
+
+\lxi leopardo
+\cgi m
+\tli xik' sajp
+\cai tigre
+
+\lxi letra
+\cgi f
+\tli ts'ijb
+
+\lxi levantar
+\cgi vt
+\aci 1
+\tli letsañ
+\aci 2
+\tli ch'uy
+\cai cosa pesada
+\aci 3
+\tli k'echulañ
+\cai pie
+\aci 4
+\tli tyech
+\cai cama, piedra, palo
+\aci 5
+\tli wa'chokoñ
+\cai casa
+\sui levantarse
+\tsi ch'ojiyel, tyejchel
+\tsi ch'ujyel
+\cai cosa pesada
+\sui levantado
+\tsi ch'uybil
+\cai cosa pesada
+\tsi k'ichil
+\cai pie
+
+\lxi ley
+\cgi f
+\tli mañdar
+
+\lxi libélula
+\cgi f
+\tli tyujlux
+\cai caballito del diablo; insecto
+
+\lxi libro
+\cgi m
+\tli ¹juñ
+
+\lxi ligero
+\cgi adv
+\tli ora
+\cai Sab.
+
+\lxi lima
+\cgi f
+\tli rima
+\cai para afilar
+
+\lxi limpiar
+\cgi vt
+\aci 1
+\tli sujkuñ
+\cai cara, zapatos
+\aci 2
+\tli yäk'ñañ, ak'ñañ
+\cai milpa, cafetal
+\sui limpiarse
+\tsi ak'ñäñtyel
+
+\lxi limpieza
+\cgi f
+\tli ak'iñ
+\cai milpa, cafetal
+
+\lxi limpio
+\cgi adj
+\aci 1
+\tli säk
+\aci 2
+\tli ak'äl
+\cai de vegetación
+\aci 3
+\tli ak'ñibil
+\cai sembrado
+\aci 4
+\tli chäk
+\cai un camino
+\aci 5
+\tli chäkkolañ
+\cai de monte
+\aci 6
+\tli ²säkpochañ
+\cai camisa
+\aci 7
+\tli säkpojañ
+\cai río, cara
+\aci 8
+\tli säkpoyañ
+\cai Tila; casa, cuarto
+\aci 9
+\tli yäx
+\cai agua
+\sui limpio todavía
+\tsi säktyo
+
+\lxi lindero
+\cgi m
+\tli ñup'
+
+\lxi liquidámbar
+\cgi m
+\tli suts'tye'
+\cai árbol
+\sui arboleda de liquidámbar
+\tsi suts'tye'ol
+
+\lxi líquido
+\cgi m
+\tli ¹*ya'lel
+
+\lxi liso
+\cgi adj
+\aci 1
+\tli ts'ayakña, ulukña
+\aci 2
+\tli piyikña
+\cai brilloso
+\sui brilloso y liso
+\tsi elekña
+
+\lxi listo
+\cgi adj
+\tli bibu
+\cai persona
+
+\lxi liviano
+\cgi adj
+\tli sejb
+\sui hacerse liviano
+\tsi sejb'añ
+
+\lxi llaga
+\cgi f
+\tli tsoy
+
+\lxi llagar
+\cgi vt
+\tli tsoy'ajel
+
+\lxi llama
+\cgi f
+\tli *k'äk'al, *yaty k'ajk
+\cai de fuego
+
+\lxi llamada
+\cgi f
+\sui llamada que se hace al gato
+\tsi mix
+
+\lxi llamador
+\cgi m
+\tli xpäyoñel
+
+\lxi llamar
+\cgi vt
+\aci 1
+\tli päy
+\aci 2
+\tli lich'k'äbañ
+\cai señalando
+\aci 3
+\tli ²mixuñ
+\cai gato
+\aci 4
+\tli tyuxbañ
+\cai aves de corral
+
+\lxi llanto
+\cgi m
+\aci 1
+\tli uk'el
+\aci 2
+\tli ch'e'lel
+\cai del niño
+\aci 3
+\tli bajk'el
+\cai en extremo
+
+\lxi llave
+\cgi f
+\tli *yabejlel
+
+\lxi llegar
+\cgi vi
+\aci 1
+\tli ajñel
+\cai a una parte
+\aci 2
+\tli k'äjkel
+\cai a la cumbre
+\aci 3
+\tli k'otyel
+\cai allá
+\aci 4
+\tli julel
+\cai acá
+\aci 5
+\tli yajñel
+\cai siempre
+\sui llegar agarrado
+\tsi chuk majlel
+\sui llegado
+\tsi k'otyem
+\cai allá
+
+\lxi llenar
+\cgi vt
+\tli buty'
+\sui llenarse
+\tsi ñaj'añ
+\cai de comida
+
+\lxi lleno
+\cgi adj
+\aci 1
+\tli buty'ul
+\aci 2
+\tli buty'ukña
+\cai de gente
+\aci 3
+\tli pamakña
+\cai bien
+
+\lxi llevar
+\cgi vt
+\aci 1
+\tli päy majlel
+\aci 2
+\tli bejlañ
+\cai varios viajes
+\aci 3
+\tli ch'äm
+\cai tomar
+\aci 4
+\tli jich'ye'
+\cai colgado
+\aci 5
+\tli ye', ch'äm majlel
+\cai en la mano
+\aci 6
+\tli ²tsuy
+\cai fuego
+\sui llevado
+\tsi kujchel
+\cai sobre la espalda
+
+\lxi llorar
+\cgi vi
+\tli uk'el, mi icha'leñ uk'el
+
+\lxi lloriquear
+\cgi vi
+\sui lloriqueando
+\tsi jäk'jäk'ña
+
+\lxi llover
+\cgi vi
+\tli mi icha'leñ ja'al
+
+\lxi lloviznar
+\cgi vi
+\sui lloviznando
+\tsi musmusña
+
+\lxi lluvia
+\cgi f
+\tli ja'al
+\sui lluvia recia
+\tsi k'am ja'al
+
+\lxi lluvioso
+\cgi adj
+\tli weswesña
+
+\lxi lobanillo
+\cgi m
+\aci 1
+\tli ¹bulul
+\cai con lobanillo
+\aci 2
+\tli bulul ibik'
+\cai en el cuello
+\sui hombre con lobanillo
+\tsi xbulubik'
+
+\lxi lóbulo
+\cgi m
+\tli *k'uñel
+
+\lxi loco
+\cgi adj
+\tli añ ajol
+\cai Sab.
+
+\lxi lodazal
+\cgi m
+\tli ok'lel
+
+\lxi lodo
+\cgi m
+\tli ok'ol, *yok'liyel
+
+\lxi loma
+\cgi f
+\aci 1
+\tli bujtyäl
+\aci 2
+\tli ch'äktyäl
+\cai sirve como mirador
+
+\lxi lombriz
+\cgi f
+\tli ch'ox
+
+\lxi lomo
+\cgi m
+\tli *lomojlel ipaty
+\cai de animal
+
+\lxi loro
+\cgi m
+\sui loro verde
+\tsi ujrich'
+\cai loro de cabeza azul; ave
+
+\lxi luciérnaga
+\cgi f
+\tli k'äjk'äs, xk'äjk'äs, xmäjmäs
+\cai insecto
+\dib ins099m.tif
+
+\lxi luego
+\cgi adv
+\aci 1
+\tli ²bäk', ñuñ, tyi ora
+\aci 2
+\tli ñux
+\cai Tila
+\aci 3
+\tli ora, saj ora, wa'
+\cai Sab.
+\sui vete luego
+\tsi ¡kukuñuñ!
+
+\lxi lugar
+\cgi m
+\tli ajñibäl
+\sui lugar donde hay muchas matas de cacaté
+\tsi *käkätye'ol
+\sui lugar de descanso
+\tsi k'ajo'o'
+\cai para la noche
+\sui lugar donde hay mucho bambú
+\tsi chejboy, ch'ijbol
+\sui lugar donde hay muchas espinas
+\tsi ch'ixol
+\sui lugar arenoso
+\tsi ji'lumil
+\sui lugar de entierro
+\tli mukoñibäl, mujkibäl
+\sui lugar encima de una cueva
+\tsi pañch'eñ
+\sui lugar alto
+\tsi k'eloñib
+\sui lugar para ver un paisaje
+\tsi k'elo'pañimil
+\sui lugar de camarones
+\tsi xexkokil
+
+\lxi Lugar de Bambú a la Orilla del Agua
+\tli Chejopa'
+\cai Tila; ranchería
+
+\lxi Lugar de Bastante Pescado
+\tli Ma'chäyil
+\cai rancho
+
+\lxi Lugar de la Piedra Aquí
+\tli Tyumbalá
+\cai pueblo
+
+\lxi Lugar Donde se Cortan Flores
+\tli Tyuk'oñichim
+\cai Tila; colonia
+
+\lxi lumbre
+\cgi f
+\tli tyik'äjib
+
+\lxi luna
+\cgi f
+\aci 1
+\tli uw
+\aci 2
+\tli ch'ujuña'
+\cai lit.: madre santa
+\sui luna llena
+\tsi pomol uw
+\sui luna en cuarto menguante
+\tsi xiñ pañchañ uw
+\sui rayos de luna
+\tsi ixojob uw
+
+\lxi lunar del ojo
+\tli päk'il iwuty
+
+\lxi luz
+\cgi f
+\tli k'ajk, *säklel
+\sui hay luz todavía
+\tsi säktyo
+
+\lxi M
+\alf M
+
+\lxi macana
+\cgi f
+\tli päk'ojib
+
+\lxi machete
+\cgi m
+\tli machity
+
+\lxi macho
+\cgi m
+\tli ityaty
+\cai de animales
+
+\lxi machucar
+\cgi vt
+\tli k'uty, k'utyilañ
+\cai chile
+
+\lxi macizo
+\cgi adj
+\tli ch'äjy
+
+\lxi madera
+\cgi vt
+\tli tye'
+
+\lxi madrastra
+\cgi f
+\tli *majañ ña'
+
+\lxi madre
+\cgi f
+\tli ña'
+\sui madre de cacao
+\tsi xchañtye'
+\cai árbol
+
+\lxi madrina
+\cgi f
+\tli jalaña'
+
+\lxi madrugada
+\cgi f
+\tli ik'tyo, ik'atyax
+
+\lxi madurar
+\cgi vi
+\aci 1
+\tli k'äñ'añ, ñejp'añ, ñejp'äyel
+\aci 2
+\tli *k'äñajel
+\cai ponerse amarillo
+\aci 3
+\tli chäk'añ
+\cai café
+
+\lxi maduro
+\aci 1
+\cgi adj
+\tli *k'äñel, k'äñ
+\aci 2
+\tli chäkix
+\cai café
+
+\lxi maestro
+\cgi m
+\tli maestyru, xkäñtyesa
+
+\lxi mafafa
+\cgi f
+\tli ²juk', me'uñ
+\cai quequexte; planta
+
+\lxi maíz
+\cgi m
+\tli ixim
+\sui maíz amarillo
+\tsi k'añal
+\sui maíz blanco
+\tsi säk waj
+\sui maíz negro
+\tsi chäkchab, xchäk chab ixim
+\tsi yaxum
+\cai Sab.
+\sui maíz picado
+\tsi ³joch'
+\sui maíz podrido
+\tsi *jomil
+
+\lxi malacate
+\cgi m
+\tli ñok'ijibäl
+
+\lxi malamujer
+\cgi f
+\tli ixtye', x'ek'
+\cai ortiga; planta
+
+\lxi maldad
+\cgi f
+\aci 1
+\tli *kolosojlel, mulil
+\aci 2
+\tli *simaroñiyel
+\cai Sab.
+\sui su maldad
+\tsi *joñtyolel, *joñtyolil
+
+\lxi maldecir
+\aci 1
+\cgi vt
+\tli ch'äk, p'aj, ty'ojtyi'iñ
+\aci 2
+\cgi vi
+\tli ch'äkojel
+
+\lxi malo
+\cgi adj
+\aci 1
+\tli joñtyol
+\cai Sab.
+\aci 2
+\tli simaroñ
+\cai Tila
+\sui mal de ojo
+\tsi yats'
+\sui mal olor
+\tsi leko iyujts'il
+\sui mala vida
+\tsi *tyoñtyojlel
+
+\lxi mamá
+\cgi f
+\tli ñaña
+
+\lxi mamar
+\cgi vt
+\tli chu'uñ, cha'leñ chu'
+\sui dar de mamar
+\tsi tsu'sañ
+
+\lxi mamífero
+\cgi m
+\tli bätye'el
+\cai silvestre
+
+\lxi manaca
+\cgi f
+\tli koroso
+\cai Tila; palma
+
+\lxi manchar
+\cgi vt
+\aci 1
+\tli ²päk'
+\aci 2
+\tli xaxañ
+\cai extendiéndose
+\sui mancharse
+\tsi ²päjk'el
+\sui el que mancha
+\tsi xpäk'oñel
+\sui manchado
+\tsi tya'tya'
+\tsi ik'selañ
+\cai con mancha redonda y negra; p. ej. de carbón, marca de nacimiento
+
+\lxi mancolón
+\cgi m
+\tli xchäläl
+\cai gallina de monte; ave
+
+\lxi mango
+\cgi m
+\tli mañko
+\cai fruta
+
+\lxi mano
+\cgi f
+\tli k'äbäl
+\sui mano de metate
+\tsi k'ä'tyuñ
+\sui mano izquierda
+\tsi *ts'ej
+\sui con la mano extendida
+\tsi tyich'ikña
+
+\lxi manojo
+\cgi m
+\tli bombom jam
+\cai de zacate
+
+\lxi manosear
+\cgi vt
+\tli pik'xuñ
+
+\lxi manteca
+\cgi f
+\tli lew
+
+\lxi mantel
+\cgi m
+\tli *tyasil
+
+\lxi mantener
+\cgi vt
+\tli mäk'lañ
+
+\lxi mañana
+\cgi f
+\tli ijk'äl
+
+\lxi mañoso
+\cgi adj
+\tli maña
+
+\lxi mapache
+\cgi m
+\tli ejmech
+\cai mamífero
+\dib arb008v.tif
+
+\lxi mar
+\cgi m
+\tli kolem abal, ñajb, kolem ja'
+
+\lxi maraca
+\cgi f
+\tli chikix
+
+\lxi marca
+\cgi f
+\aci 1
+\tli *yejtyal
+\aci 2
+\tli ik'selañ
+\cai de nacimiento
+
+\lxi marcado
+\cgi adj
+\tli japal
+\cai con cicatriz
+
+\lxi marear
+\cgi vi
+\sui mareado
+\tsi jämjämña
+
+\lxi mariposa
+\cgi f
+\tli pejpem
+\sui mariposa gavilana
+\tsi kolem pejpem
+\sui tipo de mariposa
+\tli majmaj ul
+\cai chica; sale en mayo
+\sui mariposa del comején
+\tli sulup
+
+\lxi martillo
+\cgi m
+\tli ch'ijoñib, ch'ijo'lawux
+
+\lxi más
+\cgi adv
+\tli bej
+\sui así nada más
+\tsi chejachi, che'jach
+
+\lxi masa
+\cgi f
+\tli sa'
+
+\lxi masticar
+\cgi vt
+\tli jach'
+
+\lxi mástil
+\cgi m
+\tli ts'omtye'
+\cai de una casa
+
+\lxi matapalo
+\cgi m
+\tli tsu'um
+\cai amate, higuero; árbol
+
+\lxi matar
+\aci 1
+\cgi vt
+\tli jisañ, tsäñsañ
+\aci 2
+\cgi vi
+\tli tsäñsäñtyel
+
+\lxi matilisguate
+\cgi m
+\tli makulis
+\cai palo de rosa; árbol
+
+\lxi matriz
+\cgi vt
+\tli *chu'yib iyal
+
+\lxi mayordomo
+\cgi m
+\sui mayordomo en la iglesia
+\tsi ch'ujwañaj
+\cai Tila
+
+\lxi mazorca
+\cgi f
+\tli bojlox
+\cai con pocos granos
+
+\lxi mecapal
+\cgi m
+\aci 1
+\tli tyajbal
+\aci 2
+\tli tyajm
+\cai Sab.
+\aci 3
+\tli pejk'
+\cai de cuero
+
+\lxi mecer
+\aci 1
+\cgi vt
+\tli jäjmañ, yäjmañ
+\cai en una hamaca
+\aci 2
+\cgi vt
+\tli jäjmesañ
+\cai criatura
+\aci 3
+\cgi vt
+\tli jämts'uñ, ¹wejluñ
+\cai animal, objeto
+\aci 4
+\cgi vi
+\tli jäjmel
+\cai en una hamaca
+\sui meciendo
+\tsi jämuña
+
+\lxi medicina
+\cgi f
+\tli ts'ak, *ts'äkal
+
+\lxi medida
+\cgi f
+\aci 1
+\tli *p'isol
+\aci 2
+\tli *xotytyilel
+\cai de un cafetal, potrero, casa
+
+\lxi medidor
+\cgi m
+\tli *p'isoñib
+
+\lxi medio
+\cgi adj
+\tli chäkkojañ
+\sui en medio
+\tsi ximal, xiñ, xiñil
+\cai Sab.
+\sui medio asar
+\tsi ch'ajtyañ
+
+\lxi mediodía
+\cgi m
+\tli xiñk'iñil
+
+\lxi medir
+\cgi vt
+\aci 1
+\tli p'is
+\aci 2
+\tli jajlañ
+\cai con brazadas
+\aci 3
+\tli p'isbeñtyel
+\cai terreno
+\sui medir con la cuarta de la mano
+\tsi ñajbañ
+
+\lxi mejilla
+\cgi f
+\tli *choj
+
+\lxi mejor
+\cgi adj
+\tli yom
+\cai de salud
+\sui poco mejor
+\tsi k'uñche'ix
+\cai persona
+
+\lxi mejorar
+\cgi vi
+\tli ty'ojläwel
+
+\lxi memela
+\cgi f
+\tli bu'le waj
+
+\lxi menear
+\cgi vt
+\tli k'ak xäñ
+\cai Sab.
+\sui meneando
+\tsi luk'luk'ña
+\cai puente
+\tsi weluña
+\cai trapo
+\tsi ²yukiña
+\cai casa
+
+\lxi menor
+\cgi m
+\tli tyak'
+\cai persona
+
+\lxi menos
+\cgi adv
+\tli kojko
+
+\lxi mensajero
+\cgi m
+\aci 1
+\tli ak'juñ, suboñel
+\aci 2
+\tli x'ak'juñ
+\cai por carta
+
+\lxi mentira
+\cgi vt
+\tli ¹loty
+
+\lxi mentiroso
+\cgi m
+\tli xloty
+
+\lxi mentón
+\cgi m
+\tli *xäk'tyi'
+
+\lxi menudo
+\cgi adj
+\tli tyeñe
+
+\lxi meñique
+\cgi m
+\tli *yal ik'äb
+
+\lxi mercancía
+\cgi f
+\tli *p'olmäjel
+
+\lxi mes
+\cgi m
+\tli tsik, uw
+
+\lxi mesa
+\cgi f
+\tli *yeklib ibäl ñäk'äl
+\cai para comer
+\sui mesita
+\tsi we'tye'
+\cai para comer
+
+\lxi metal
+\cgi m
+\tli tsukul tyak'iñ, tsukutyak'iñ
+
+\lxi metate
+\cgi m
+\tli juch'oñibäl, ña'atyuñ
+
+\lxi meteoro
+\cgi m
+\tli tya'ek'
+\cai lit.: excremento de estrella
+
+\lxi meter
+\cgi vt
+\aci 1
+\tli otsañ
+\aci 2
+\tli ²baj
+\cai Sab.
+\aci 3
+\tli ch'ik
+\cai instrumento pequeño en un agujero
+\aci 4
+\tli xuty' ochel
+\cai por pedazos
+
+\lxi metro
+\cgi m
+\tli *p'isoñib
+
+\lxi mezclar
+\cgi vt
+\aci 1
+\tli xäb, walk'uñ
+\cai maíz con frijol
+\aci 2
+\tli xäk'
+\cai arena, cal, cemento
+\aci 3
+\tli walts'uñ
+\cai con condimento
+
+\lxi mico
+\cgi m
+\tli max
+\sui mico negro
+\tsi i'ik' max
+\sui mico de noche
+\tsi k'äñk'äñ max, uyuj
+\cai mamífero
+\dib akb001.tif
+\pie mico de noche
+
+\lxi miedo
+\cgi m
+\tli bäk'eñ
+
+\lxi miel
+\cgi f
+\tli chab
+\sui miel colorada
+\tsi chäkchab
+
+\lxi miércoles
+\cgi m
+\tli uxp'ejk'iñ
+
+\lxi migaja
+\cgi vt
+\tli *sajl
+
+\lxi milpa
+\cgi f
+\tli cholel
+
+\lxi mirada
+\cgi vt
+\tli chañäl
+
+\lxi miradero
+\cgi m
+\tli wa'lib
+\cai donde el cazador espera la caza
+
+\lxi mirar
+\cgi vt
+\tli chäñtyañ
+\cai Sab.
+\sui mira
+\tsi ¡uñ tsa'!
+\sui mira no más
+\tsi ujax
+
+\lxi mirón
+\cgi m
+\tli xchañäl
+\sui persona mirando al cielo
+\tsi pañchañ wuty
+
+\lxi misa
+\cgi f
+\tli ch'uyijel
+\cai Tila
+
+\lxi mismo
+\cgi adj
+\tli wäläk
+
+\lxi mitad
+\cgi f
+\aci 1
+\tli ojlil, xiñol
+\aci 2
+\tli xujty'om
+\cai vela
+\aci 3
+\tli lamityal
+\cai Sab.
+
+\lxi moco
+\cgi m
+\tli tya'ñi'
+
+\lxi mococha
+\cgi m, f
+\tli buk'tsu'
+\cai nauyaca saltadora
+
+\lxi moho
+\cgi m
+\tli *kuxel
+
+\lxi mojar
+\cgi vt
+\tli ¹mul, wijts'añ
+\sui mojarse
+\tsi ach'añ
+\sui mojado
+\tsi ach', ach'esäbil
+\sui muy mojado
+\tsi ¹chijlaw
+\cai por el rocío
+
+\lxi mojarra
+\cgi f
+\tli ik'chäy
+\cai pez negro
+\sui mojarra jaspeada
+\tsi x'ik'chäy
+\cai pez
+
+\lxi moju
+\cgi m
+\tli ax
+\cai pan de nuez; árbol
+
+\lxi molcate
+\cgi m
+\tli bik'tyal
+\cai mazorca pequeña de maíz
+
+\lxi molendera
+\cgi f
+\tli xmel waj
+
+\lxi moler
+\cgi vt
+\aci 1
+\tli kes
+\cai nixtamal
+\aci 2
+\tli juch'
+\cai maíz, café
+\sui molido
+\tsi ts'ubukña
+\cai fino
+\tsi ts'äbäkña
+\cai granos finos o remolidos de arena, azúcar
+\tsi juch'bil
+\cai maíz, café
+
+\lxi molestar
+\cgi vt
+\aci 1
+\tli tyik'lañ
+\aci 2
+\tli wolts'iñ
+\cai con palabras
+
+\lxi molleja
+\cgi f
+\tli *sos muty
+
+\lxi mollera
+\cgi f
+\tli ²*jaylel
+
+\lxi momento
+\cgi m
+\sui de momento
+\tsi ¹tsäy
+
+\lxi moneda
+\cgi f
+\tli tyak'iñ
+
+\lxi mono
+\cgi m
+\tli bats'
+\sui mono araña
+\tsi ijk'al max
+\dib amb004v.tif
+\pie mono araña
+
+\lxi montañoso
+\cgi adj
+\sui región montañosa
+\tsi *witsilel
+
+\lxi montar
+\cgi vt
+\tli k'ächtyañ
+\sui montar a
+\tsi k'ächchokoñ
+
+\lxi monte
+\cgi m
+\sui monte levantado
+\tsi kolol
+
+\lxi montón
+\cgi m
+\tli busul
+\cai de tierra
+
+\lxi montura
+\cgi f
+\tli *siyajlel
+
+\lxi mora
+\cgi f
+\tli makom
+
+\lxi morado
+\cgi adj
+\tli yäxmojañ
+\sui ponerse morado
+\tsi yäx'añ
+
+\lxi morar
+\cgi vi
+\tli yajñel
+
+\lxi morder
+\cgi vt
+\aci 1
+\tli ¹k'ux
+\aci 2
+\tli ch'oj
+\cai culebra
+\sui mordido
+\tli k'uxul
+
+\lxi morir
+\cgi vi
+\aci 1
+\tli chämel
+\aci 2
+\tli sajtyel
+\cai Tila
+\sui estar a punto de morir
+\tsi chämeläyel
+
+\lxi morona
+\cgi f
+\tli *ts'ubil
+\cai migajas de galletas
+
+\lxi morro
+\cgi m
+\tli stsimajtye'
+\cai cuautecomate, árbol
+
+\lxi mortaja
+\cgi f
+\tli *bäjk'il
+
+\lxi mosca
+\cgi f
+\tli jaj, us
+\sui mosca verde
+\tsi yäx jaj
+
+\lxi mosquera tijereta
+\tli x'ajlum
+\cai ave
+
+\lxi mostacilla
+\cgi f
+\tli xch'asip
+\cai garrapata chica
+
+\lxi mostaza
+\cgi f
+\tli xkulix
+
+\lxi mostrar
+\cgi vt
+\tli päs
+
+\lxi mover
+\cgi vt
+\aci 1
+\tli ñijkañ, ñijkel
+\aci 2
+\tli chijulañ
+\cai en un balde; maíz, frijol
+\aci 3
+\tli juyts'iñ
+\cai atole, pinole, maíz cocido
+\aci 4
+\tli lämulañ
+\cai líquido
+\aci 6
+\tli päñts'uñ
+\cai mano, machete, palo
+\sui mover con palo
+\tsi juy
+\cai atole, pinole
+\sui manera de mover un bulto pesado
+\tsi wotsokña
+\sui moviendo
+\tsi buchbuchña, buchiña
+\tsi ²balakña
+\cai como buena milpa
+\tsi xotyokña
+\cai en un círculo
+
+\lxi movimiento
+\cgi m
+\aci 1
+\tli le'
+\cai de mano para abrir costal
+\aci 2
+\tli kajkaña
+\cai trastornado
+
+\lxi muchacho
+\cgi m
+\aci 1
+\tli ch'ityoñ
+\cai de siete hasta quince años
+\aci 2
+\tli alo'
+\cai Sab.
+
+\lxi mucho
+\aci 1
+\cgi adj
+\tli bajk'äl, kabäl, ts'iwil
+\aci 2
+\cgi adj
+\tli joboñ
+\cai Tila
+\aci 3
+\cgi adv
+\tli bäjñel, putyuñ
+\aci 4
+\cgi adv
+\tli ²jal
+\cai tiempo
+
+\lxi mudar
+\cgi vt
+\sui acción de mudar
+\tsi k'exoñel
+
+\lxi mudo
+\cgi m
+\tli uma', x'uma'
+
+\lxi muela
+\cgi f
+\tli cha'am
+
+\lxi muerto
+\cgi adj
+\aci 1
+\tli chämeñ
+\aci 2
+\tli sajtyem
+\cai Tila
+
+\lxi muesca
+\cgi f
+\sui hacer muescas
+\tsi kepuñ
+
+\lxi mugroso
+\cgi adj
+\tli kuxeñtyik
+
+\lxi mujer
+\cgi f
+\tli x'ixik
+\sui mujer latina
+\tsi xiñolaj
+\cai que no es indígena
+\sui mujer de edad
+\tsi xñejep'
+\sui mujer de pelo largo
+\tsi xtyamijol
+\sui mujer tzeltal
+\tsi x'amiku
+
+\lxi mula
+\cgi f
+\tli k'ächlibäl
+
+\lxi mulato
+\cgi m
+\tli chäkajl
+\cai copal; árbol
+
+\lxi mullir
+\cgi vt
+\tli wotsilañ
+\cai cáscara de frijol
+\sui mullido
+\tsi wotsol
+
+\lxi mundo
+\cgi m
+\aci 1
+\tli pañimil
+\aci 2
+\tli mulawil
+\cai Sab., Tila
+
+\lxi murciélago
+\cgi m
+\tli suts'
+
+\lxi murmullo
+\cgi m
+\sui con murmullo
+\tsi wulwulña
+
+\lxi murmuración
+\cgi f
+\tli wälwäl ty'añ
+
+\lxi musgo
+\cgi m
+\sui tipo de musgo
+\tsi sujlum
+\cai brota de la tierra
+\tsi *tsuñtye'lel
+\cai verde oscuro; de árboles
+\sui musgo verde
+\tsi ch'i'omal
+\cai de río y de árboles
+
+\lxi muslo
+\cgi m
+\tli *tyomel, *ya'
+
+\lxi mútila mora
+\tli xk'ajk'äy aty
+\cai insecto
+
+\lxi N
+\alf N
+
+\lxi nacer
+\cgi vi
+\aci 1
+\tli *ilañ pañimil, k'el pañimil
+\aci 2
+\tli ch'ok'añ
+\cai Sab., Tila
+
+\lxi nada
+\cgi pron
+\sui así nada más
+\tsi chejachi, che'jach
+\sui de nada
+\tsi k'ebtyo
+\cai respuesta
+\tsi k'etyo sajl
+\cai Sab.
+
+\lxi nadar
+\cgi vi
+\tli ñuxijel
+\sui nadando
+\tsi ñuxukña
+
+\lxi nalga
+\cgi f
+\aci 1
+\tli *choj'ity
+\aci 2
+\tli kolo'ity, ñuchil
+\cai Tila
+
+\lxi nanche
+\cgi m
+\tli chi'
+\cai árbol
+
+\lxi naranja
+\cgi f
+\tli alaxax
+
+\lxi naranjal
+\cgi m
+\tli alaxaxil
+
+\lxi nariz
+\cgi f
+\tli *ñi'
+
+\lxi nauyaca
+\cgi f
+\aci 1
+\tli yäxk'äñcho
+\cai fer-de-lance; víbora
+\aci 2
+\tli xbuk'utsu'
+\cai saltadora; reptil
+\sui falsa nauyaca
+\tsi k'äñcho
+\cai colcuate; reptil
+\dib asg025.tif
+\pie nauyaca saltadora
+
+\lxi navaja
+\cgi f
+\tli ñawaxax
+
+\lxi neblina
+\cgi f
+\tli *tya'tyokal
+\sui con neblina baja
+\tsi pak'akña
+
+\lxi necesario
+\cgi adj
+\tli ²wersa
+
+\lxi negativo
+\cgi adj
+\aci 1
+\tli kasä, käxtyi
+\aci 2
+\tli kixtyä
+\cai Tila
+
+\lxi negro
+\cgi adj
+\aci 1
+\tli i'ik'
+\aci 2
+\tli ik'jowañ
+\cai por humo
+\aci 3
+\tli ik'motyañ
+\cai pelo, pluma
+
+\lxi nido
+\cgi m
+\aci 1
+\tli k'u', mety
+\cai aves, animales
+\aci 2
+\tli *mujl
+\cai hormiga, tuza
+\sui nido de hormiga
+\tsi *mujl xu'
+\sui nido de la zacua
+\tsi chimk'ubul
+
+\lxi nieto
+\cgi m
+\aci 1
+\tli buts, bik'tyi ijts'iñ, *ij
+\aci 2
+\tli mam
+\cai Tila
+
+\lxi niña
+\cgi f
+\tli xch'ok
+\cai muchacha no casada
+\sui niña del ojo
+\tsi ibäk' lakwuty
+
+\lxi niñez
+\cgi f
+\tli *kolemal
+
+\lxi niño
+\cgi m
+\aci 1
+\tli alob, alp'eñel
+\aci 2
+\tli bi'tyal
+\cai Sab.
+
+\lxi nivelar
+\cgi vt
+\tli pamuñ
+\sui nivelado
+\tsi pamal, tyäsäkña
+\cai terreno
+
+\lxi nixtamal
+\cgi m
+\sui nixtamal entero
+\tsi kestyo
+
+\lxi no
+\cgi adv
+\aci 1
+\tli ma', ma'añik
+\aci 2
+\tli mach'añ
+\cai Sab.
+\aci 3
+\tli ma'añ
+\cai Sab., Tila
+\sui no es grande
+\tsi mach ñukik
+\sui no es igual
+\tsi mach lajalik
+\sui no está bueno
+\tsi mach weñik
+\sui ya no
+\tsi jaymejl
+
+\lxi noche
+\cgi f
+\aci 1
+\tli ak'älel
+\aci 2
+\tli abälel
+\cai Sab.
+
+\lxi nogal
+\cgi m
+\tli tyoñtye'
+\cai árbol
+
+\lxi nómada
+\cgi m
+\tli xchumchumñiyel
+
+\lxi nombrar
+\cgi vt
+\tli wa'chokoñ
+\cai a un puesto
+
+\lxi nombre
+\cgi m
+\tli *k'aba'
+\sui nombre de una niña
+\tsi Xmikimañesa
+
+\lxi norte
+\cgi m
+\tli chäk ik'lel
+\cai Sab.; mal tiempo
+
+\lxi nosotros
+\cgi pron
+\tli lojoñ
+\cai excl.
+
+\lxi notata
+\cgi f
+\tli juxlum
+\cai tipo de lagartija
+
+\lxi nube
+\cgi f
+\tli tyokal
+\sui nubes altas y delgadas a distintos niveles
+\tsi säkp'ilañ pañchañ
+\cai altas y delgadas a distintas niveles
+\sui manera en que vienen nubes
+\tsi tyojokña
+
+\lxi nublar
+\cgi vt
+\sui nublarse
+\tli mäjkel
+
+\lxi nuca
+\cgi f
+\tli *paty lakbik'
+
+\lxi nudo
+\cgi m
+\tli *xu'il tye'
+\cai de madera
+
+\lxi nudoso
+\cgi adj
+\tli tyuchul
+\cai cara, rama
+
+\lxi nuera
+\cgi f
+\aci 1
+\tli *ä'lib
+\aci 2
+\tli a'libäl
+\cai Sab.
+
+\lxi nueve
+\cgi adj
+\tli bolomp'ejl
+
+\lxi Nueve Espíritus
+\tli Boloñajaw
+\cai lugar
+
+\lxi nuevo
+\cgi adj
+\tli tsijib
+\sui hacer de nuevo
+\tsi tsijibtyesañ
+
+\lxi nutria
+\cgi f
+\tli ja'al ts'i'
+\cai perro de agua; mamífero
+\dib aoc001.tif
+
+\lxi O
+\alf O
+
+\lxi obedecer
+\cgi vt
+\aci 1
+\tli jak'
+\aci 2
+\tli ch'ujbiñ
+\cai Tila
+\sui acción de obedecer
+\tsi jak'ol
+
+\lxi obediente
+\cgi adj
+\tli xjak'oñel
+
+\lxi obligar
+\cgi vt
+\tli ²xik'
+
+\lxi obra
+\cgi f
+\tli yäk'bal
+
+\lxi obrar
+\cgi vi
+\sui tiene ganas de obrar
+\tsi muk'uñ
+
+\lxi obsidiana
+\cgi f
+\tli jacha lakmam, yäjyäx xajlel
+
+\lxi ocelote
+\cgi m
+\aci 1
+\tli ik'sajp, tsukbajlum, ik'bo'lay
+\cai mamífero
+\aci 2
+\tli mek' ajtso'
+\cai Tila; mamífero
+\dib ala031v.tif
+
+\lxi ocho
+\cgi adj
+\tli waxäkp'ejl
+
+\lxi ocotal
+\cgi m
+\tli ²tyajol
+
+\lxi ocote
+\cgi m
+\tli ²tyaj
+\sui ocote agrio
+\tsi po'om
+\cai árbol
+
+\lxi ocre
+\cgi m
+\tli almis
+
+\lxi octavo
+\cgi adj
+\sui octavo día
+\tsi waxäkñij
+
+\lxi odiar
+\cgi vt
+\tli k'uxk'el
+\cai Sab.
+
+\lxi odioso
+\cgi adj
+\sui odiosamente
+\tsi ts'a'
+
+\lxi Oeste
+\cgi m
+\tli *majlib k'iñ
+\cai Tila
+
+\lxi oír
+\cgi vt
+\tli ubiñtyel
+\sui oye
+\tli ²¡abi!
+\sui oye tú
+\tsi ¡jeyaj!
+
+\lxi ojo
+\cgi m
+\tli ¹*wuty
+
+\lxi oler
+\cgi vt
+\tli sik'
+
+\lxi olfatear
+\cgi vt
+\tli sik'
+
+\lxi olla
+\cgi vt
+\tli ch'äxoñib, p'ejty, *p'ejtyal
+
+\lxi olor
+\cgi m
+\tli ujts'il, *yujts'il
+
+\lxi oloroso
+\cgi adj
+\tli chäbäkña
+
+\lxi olote
+\cgi m
+\tli bäkäl
+
+\lxi olvidar
+\cgi vt
+\tli ñajätyesañ
+\sui olvidarse
+\tsi ñajäyel
+\sui olvidado
+\tsi ñajäyem
+
+\lxi ombligo
+\cgi m
+\tli *mujk
+
+\lxi omóplato
+\cgi m
+\tli *pechkeñ
+
+\lxi once
+\cgi adj
+\tli buluch, juñlujump'ejl
+
+\lxi ondeante
+\cgi adj
+\tli ämlämña, sämäkña
+\cai agua
+
+\lxi ondear
+\cgi vi
+\sui ondeándose
+\tsi yulyulña
+\cai agua
+
+\lxi ondulante
+\cgi adj
+\sui manera ondulante
+\tsi lämuña
+\cai agua
+
+\lxi operar
+\cgi vt
+\tli ¹p'o'
+\cai persona
+
+\lxi oprimir
+\cgi vt
+\sui oprimir e inflar
+\tsi wosilañ
+\cai pelota
+
+\lxi orador
+\cgi m
+\aci 1
+\tli x'alty'añ
+\aci 2
+\tli ajsubty'añ
+\cai Sab.
+
+\lxi orar
+\cgi vi
+\tli ch'ujyijel
+
+\lxi orden
+\cgi f
+\tli mañdal
+
+\lxi oreja
+\cgi vt
+\tli chikiñ
+\sui oreja de palo
+\tsi xk'o'loch
+\cai hongo
+\sui oreja de palo
+\tsi xñojol
+\cai hongo colorado, no comestible
+
+\lxi orgulloso
+\cgi adj
+\sui orgullosamente
+\tsi wajawajal
+\cai Sab.
+
+\lxi orientar
+\cgi vt
+\tli tyumbiñ
+\cai Sab.
+
+\lxi Oriente
+\cgi m
+\aci 1
+\tli *pasib k'iñ
+\aci 2
+\tli paso' k'iñ
+\cai Sab.
+
+\lxi orilla
+\cgi f
+\tli tyi'
+\sui orilla de cerro
+\tsi ch'äktyäl
+\cai sirve como mirador
+
+\lxi orina
+\cgi f
+\tli pich
+
+\lxi orinar
+\cgi vt
+\tli cha'leñ pich
+
+\lxi Orión
+\cgi m
+\tli rus ek'
+
+\lxi oruga
+\cgi f
+\tli chup
+\sui tipo de oruga
+\tsi tyo'ña'
+\sui oruga agrimensora
+\tli ñajp'äk
+\cai larva
+
+\lxi oscuro
+\cgi adj
+\aci 1
+\tli ik'jowañ, mäkäl, sämlaw iyik'añ
+\aci 2
+\tli ik'ch'ipañ, ik'yoch'añ
+\cai dentro de la casa o cueva
+\aci 3
+\tli ik'ty'ojañ
+\cai bajo un nube
+\aci 4
+\tli ik'ty'ojñal
+\cai Tila; de una cueva
+\sui oscuramente
+\tsi ik'wa'añ
+\sui muy oscuro
+\tsi i'ik'ax
+
+\lxi osito lanudo
+\tli chäkjocho chup
+
+\lxi oso hormiguero
+\tli ts'u' chab
+\cai mamífero
+
+\lxi otate verde
+\tli ¹k'äñchejb
+\cai planta; con tallos sólidos
+
+\lxi otro
+\cgi adj
+\tli yambä
+\sui otra vez
+\tsi cha'
+
+\lxi oveja
+\cgi f
+\tli tyäñäme'
+
+\lxi oxidar
+\cgi vt
+\sui oxidado
+\tsi tya'tya'
+
+\lxi óxido
+\cgi m
+\tli tya'
+
+\lxi P
+\alf P
+
+\lxi pacífico
+\cgi adj
+\sui hacerse pacífico
+\tsi k'uñ'añ
+
+\lxi padecer
+\cgi vt
+\tli saliyel
+\cai sarna
+
+\lxi padrastro
+\cgi m
+\tli *majañ tyaty
+
+\lxi padre
+\cgi m
+\aci 1
+\tli *tyaty, tyatyäl
+
+\aci 2
+\tli pale
+\cai religioso
+
+\lxi padrino
+\cgi m
+\tli jalatyaty
+
+\lxi padrón
+\cgi m
+\tli chumtye'
+\cai de una casa
+
+\lxi paga
+\cgi f
+\tli *tyojol
+
+\lxi pagar
+\cgi vt
+\tli tyoj,tyojolañ
+
+\lxi país
+\cgi m
+\aci 1
+\tli pañimil
+\aci 2
+\tli *lumal
+\cai de alguien
+\aci 3
+\tli mulawil
+\cai Sab., Tila
+
+\lxi paisaje
+\cgi m
+\sui lugar para ver un paisaje
+\tsi k'elo'pañimil
+
+\lxi pajarera
+\cgi f
+\tli uxix
+\cai Tila; reptil
+
+\lxi pájaro
+\cgi m
+\tli muty, tye'lemuty
+\sui pajarito
+\tsi alämuty
+\tsi bi'tyi muty
+\cai Sab., Tila
+
+\lxi pajón
+\cgi m
+\tli tye'jam
+\cai tipo de zacate
+
+\lxi pajuil
+\cgi vt
+\tli xch'ekejk
+\cai chachalaca negra; ave
+
+\lxi palabra
+\cgi vt
+\tli *ty'añ
+\sui con una sola palabra
+\tsi juñkujyel
+
+\lxi palidecer
+\cgi vi
+\tli k'äñ'añ, yäx'añ
+
+\lxi pálido
+\cgi adj
+\tli k'äñ, säklibañ
+
+\lxi palma
+\cgi f
+\tli boñxañtye'
+\sui palma real
+\tsi xañ
+\cai árbol
+\sui palma de mano
+\tsi mal laj k'äb
+\sui tipo de palma
+\tli xbäk ch'ip
+\cai sin espinas; chocón, chapalla
+\tsi ch'ib
+\cai da fruta comestible
+\tsi *ch'ibilel matye'el
+\cai del monte
+
+\lxi palmar
+\cgi m
+\tli ch'ibol
+
+\lxi palmear
+\cgi vt
+\sui palmeando
+\tsi ty'ejty'ej
+\tsi lejles, lajlaj
+\cai acción repetida de palmear
+
+\lxi palo
+\cgi m
+\aci 1
+\tli tye'
+\aci 2
+\tli pañtye'
+\cai atravesado en un arroyo
+\sui palo de chapaya
+\tsi aktye'
+\sui palo de humo
+\tsi uñtye'
+\cai laurel; árbol
+\sui palo de maíz
+\tsi *sik'bal ixim
+\sui palo que se usa para castigar a los niños
+\tsi xch'ich'itye'
+\sui palo recortado para subir
+\tsi tyek'oñib
+\sui palo verde
+\tsi yaxä'tye'
+\sui palito para mover atole o pinole
+\tsi majas, juyib
+
+\lxi paloma
+\cgi f
+\aci 1
+\tli mukuy, pichoñ, ujkuts
+\aci 2
+\tli xmukuy
+\cai con alas blancas
+\aci 3
+\tli xpumuk
+\cai vive en el suelo
+\aci 4
+\tli xtyuts
+\cai perdiz
+\aci 5
+\tli x'ujkuts
+\cai ocotera
+\sui paloma de collar
+\tsi x'ujkuts
+
+\lxi palpar
+\cgi vt
+\tli lajlajye'
+
+\lxi palpitar
+\cgi vi
+\sui palpitando
+\tsi p'ump'uña, tyip'tyip'ña, tyumtyumña
+
+\lxi pan
+\cgi m
+\tli kaxlañ waj
+
+\lxi panal
+\cgi m
+\sui panal de avispa
+\tsi otyoty xux, *yotyoty xux
+
+\lxi páncreas
+\cgi m
+\tli lejlej
+\cai de ganado
+
+\lxi pandearse
+\cgi prnl
+\tli lujk'el
+
+\lxi pantalón
+\cgi m
+\tli -wex, wexäl
+\sui sin pantalón
+\tsi wakal
+
+\lxi pantorrilla
+\cgi f
+\tli tya'ok
+
+\lxi pañal
+\cgi m
+\aci 1
+\tli majts aläl, *tyasil
+\aci 2
+\tli *bäjk'il
+\cai pl.
+
+\lxi pañuelo
+\cgi m
+\tli pañujl
+
+\lxi papá
+\cgi m
+\tli tyatya
+
+\lxi papausa
+\cgi f
+\tli säsäk k'ätsats
+\cai ilama, tipo de anona; árbol
+\dib Anona.tif
+
+\lxi papaya
+\cgi vt
+\tli uch'uñtye'
+
+\lxi papel
+\cgi m
+\tli ¹juñ
+
+\lxi papera
+\cgi f
+\tli ajkum bik', boroñch'och, yaj
+
+\lxi par
+\cgi m
+\tli ñujp
+\cai animales, pájaros
+\sui formar un par
+\tsi ñujpañ
+
+\lxi para
+\cgi prep
+\tli cha'añ
+
+\lxi parar
+\cgi vt
+\sui pararse
+\tsi ty'uchtyäl
+\cai ave
+\tsi wa'tyäl
+\cai persona
+\tsi kotytyäl
+\cai animal
+\sui parado
+\tli tyekel
+\cai árbol
+\tli wa'al
+\cai persona
+\tli kotyol
+\cai animal
+\tli ñäkwa'al
+\cai inclinado
+\tli xaty wa'al
+\cai con los pies separados
+\sui poner parado
+\tsi kotychokoñ
+\cai objetos de cuatro patas
+
+\lxi pared
+\cgi f
+\sui pared de madera
+\tsi bojtye', tsal tye'
+\sui pared de barro
+\tsi pajk'
+\sui pared de cemento, pared de piedra
+\tsi ts'ajk
+\sui sin paredes
+\tsi chaxal
+\cai casa
+
+\lxi parejo
+\cgi adj
+\aci 1
+\tli pamakña, k'iyikña
+\cai tierra
+\aci 2
+\tli jaxal
+\cai Sab.
+
+\lxi pariente
+\cgi m
+\aci 1
+\tli majchil, pi'äl
+\aci 2
+\tli ñi'tsil
+\cai políticos de los dos que se casan
+
+\lxi párpado
+\cgi m
+\tli pächälel lakwuty
+
+\lxi parte
+\cgi f
+\aci 1
+\tli partye
+\cai Sab.
+\aci 2
+\tli *chañelal
+\cai de arriba
+
+\lxi partera
+\cgi f
+\aci 1
+\tli ko'äl, mam
+\aci 2
+\tli kolaj
+\cai Tila
+
+\lxi partido
+\cgi m
+\tli partye
+\cai Sab.
+
+\lxi partir
+\aci 1
+\cgi vt
+\tli jaw
+\cai naranja, calabaza, corcho
+\aci 2
+\cgi vt
+\tli leb
+\cai piedra
+\aci 3
+\cgi vt
+\tli xoty'
+\cai leña
+\aci 4
+\cgi vt
+\tli xuty'
+\cai tortilla
+\sui partirse
+\tsi jajwel
+\cai corcho, jonote
+
+\lxi parto
+\cgi m
+\tli bajk'el
+
+\lxi pasado
+\cgi adj
+\tli bejts'em
+\cai después del mediodía
+\sui pasado mañana
+\tsi chabi
+
+\lxi pasar
+\aci 1
+\cgi vt
+\tli ñusañ
+\aci 2
+\cgi vi
+\tli bejts'el
+\cai mediodía
+\aci 3
+\cgi vi
+\tli k'axel
+\aci 4
+\cgi vi
+\tli tsuktsukñiyel
+\cai de casa en casa
+\aci 5
+\cgi vi
+\tli ñumel
+\cai persona en el camino
+\sui pasar de fila en fila
+\tli tsoltsolñiyel
+\sui pasar de largo
+\tsi päñ ñumel
+\cai sin saludar
+\sui pasando
+\tsi k'äkäkña
+\cai flotando
+\sui pasando encima
+\tsi k'äkäkña
+\cai lentamente
+\sui pásate adelante
+\tsi ¡ñumeñächix!
+\sui pase adelante
+\tsi ¡ocheñ!
+\cai dentro de la casa
+\sui ya pasó
+\tsi xñumi
+
+\lxi pasear
+\cgi vt
+\aci 1
+\tli wa'akñiyel
+\aci 2
+\tli chäñtyañ
+\cai Sab.
+\sui paseando
+\tsi wa'wa'ña
+\cai tranquilamente
+\tsi xäñ pañimil
+\cai persona
+
+\lxi paseo
+\cgi m
+\tli paxyal, xämbal
+
+\lxi pasivo
+\cgi adj
+\tli k'uñ
+
+\lxi paso
+\cgi m
+\aci 1
+\tli k'axibäl
+\cai por un río
+\aci 2
+\tli jajp wits
+\cai entre dos cerros
+
+\lxi patada
+\cgi f
+\sui dar patada
+\tsi tyoñtyek'
+
+\lxi pataste
+\cgi m
+\tli tyuts'
+\cai patashte; árbol
+
+\lxi patear
+\cgi vt
+\tli bo'tyek'
+
+\lxi patio
+\cgi m
+\tli pam, paty otyoty
+\cai de la casa
+
+\lxi pato
+\cgi m
+\tli pech
+
+\lxi patrón
+\cgi m
+\sui su patrón
+\tsi iyum
+
+\lxi patzagua
+\cgi m
+\tli tyuk'ul
+\cai guamúchil; árbol
+
+\lxi pava
+\cgi f
+\tli kox, ña' ak'ache
+\dib abbh018v.tif
+
+\lxi pavo
+\cgi m
+\tli ajtso', xpajlek'
+\cai ave doméstica
+\sui pavo silvestre
+\tsi yäxak'ach
+
+\lxi paz
+\cgi f
+\aci 1
+\tli ñäch'chokoya, *ñäch'tyilel
+\aci 2
+\tli *yajwälel
+\cai Sab.
+
+\lxi pecado
+\cgi m
+\tli *malojlel
+\cai Sab.
+
+\lxi pecador
+\cgi m
+\aci 1
+\tli xmulil
+\aci 2
+\tli ajmulil
+\cai Sab.
+
+\lxi pecho
+\cgi m
+\aci 1
+\tli chu', chu'äl
+\aci 2
+\tli tyajñ
+\cai de aves
+
+\lxi pedazo
+\cgi m
+\aci 1
+\tli *xu'il
+\aci 2
+\tli *lejbil
+\cai piedra, diente, madera
+\aci 3
+\tli *xejty'il, ²*xujty'el
+\cai de papel, tortilla, tela, o madera
+\sui pedazo de machete
+\tsi chojom
+\cai se usa para desgranar maíz
+\sui pedazo de terreno
+\tsi *lumil
+\cai de una siembra
+\sui pedazo de vidrio
+\tsi tyasa
+\sui en pedacitos
+\tsi wijwis
+\sui por pedazos
+\tsi kepkepña
+
+\lxi pedernal
+\cgi m
+\tli ch'ijoñib
+
+\lxi pedir
+\cgi vt
+\tli k'ajtyiñ, k'ajtyibeñ
+\sui pedir fiado
+\tsi betyañ
+\sui pedir prestado
+\tsi majñañ, majñäbeñ
+\sui el que pide ayuda
+\tsi xk'ajtyiya
+\sui el que pide esposa
+\tsi xk'ajtyiya
+\sui pedido
+\tli k'ajtyibil
+
+\lxi pedo
+\cgi m
+\tli tyis
+
+\lxi pedregal
+\cgi m
+\tli xajlelol
+
+\lxi pegajoso
+\cgi adj
+\tli ch'äyäkña, läp', tyäk', tsäyäkña
+
+\lxi pegamento
+\cgi m
+\tli ¹kolaj
+
+\lxi pegar
+\cgi vt
+\aci 1
+\tli bajbeñ
+\cai de golpes
+\aci 2
+\tli jats'
+\cai persona o animal
+\aci 3
+\tli les
+\cai con alas
+\aci 4
+\tli läp', ñoty, ²tsuy
+\cai papel, tela
+\aci 5
+\tli ñäp'
+\cai con pegamento
+\sui pegarse
+\tli läp'tyäl
+\sui pegado
+\tsi *tyoyol
+\tsi ñochol
+\cai una cosa con otra
+\tsi ñotyol
+\cai papel en la pared
+\tsi ñuty'ul
+\cai juntura
+
+\lxi peinar
+\cgi vt
+\tli xibañ
+
+\lxi peine
+\cgi m
+\tli xiyäb
+
+\lxi pelar
+\aci 1
+\cgi vt
+\tli poch, pajliñ
+\cai corteza, cáscara
+\aci 2
+\cgi vt
+\tli ts'ul
+\cai corteza de árbol, piel de animal
+\sui pelarse
+\tsi ts'ujlel
+\sui pelado
+\tsi chobil
+\cai frijol, plátano
+\tsi ts'ujlem
+\cai piel, cáscara
+
+\lxi pelear
+\cgi vi
+\tli kajajtyañ
+
+\lxi peligro
+\cgi m
+\tli bäbäk'eñ
+
+\lxi peligroso
+\cgi adj
+\tli simaroñ
+
+\lxi pellizcar
+\cgi vt
+\tli sep'
+
+\lxi pelo
+\cgi m
+\tli *tsutsel
+\sui pelo colorado
+\tli chäkjol
+
+\lxi peluquero
+\cgi m
+\tli xlok' joläl
+
+\lxi pelusa
+\cgi f
+\tli *jol ixim
+
+\lxi pendiente
+\cgi adj
+\aci 1
+\tli kep
+\cai limpia o rozadura de milpa
+\aci 2
+\tli kepel
+\cai trabajo
+
+\lxi péndulo de corona
+\tli xwukip
+\cai momoto coroniazul; ave
+\dib abbb017s.tif
+
+\lxi penetrar
+\cgi vi
+\tli sojlel
+\cai frío, agua
+
+\lxi pensar
+\aci 1
+\cgi vt
+\tli ña'tyañ
+\aci 2
+\cgi vi
+\tli ña'tyäñtyel
+\sui está pensando algo
+\tsi woli tyi ty'añ ipusik'al
+\sui piensa mal
+\tsi leko ipusik'al
+
+\lxi pepita
+\cgi f
+\tli bäkch'ujm
+\cai de calabaza
+
+\lxi pequeño
+\cgi adj
+\tli alätyo
+\cai niño, animal
+\sui hacerse más pequeño
+\tsi ch'och'okiyel
+
+\lxi percha
+\cgi f
+\tli *ty'uchlib
+\cai lugar para pararse
+
+\lxi perder
+\cgi vi
+\aci 1
+\tli bujlel
+\cai la cáscara
+\aci 2
+\tli sajtyel
+\cai Tila
+\sui echar a perder
+\tsi säty
+\sui perdido
+\tsi sajtyem
+\cai Tila
+
+\lxi perdiz
+\cgi f
+\tli kulukab, xñakom
+\cai ave
+\sui perdiz canela
+\tsi xñakow
+\sui perdiz chica
+\tsi xchäläl
+
+\lxi perezoso
+\cgi adj
+\tli ts'ub
+
+\lxi perico
+\cgi m
+\tli uñix
+\cai ave
+
+\lxi periquito aliamarillo
+\cgi m
+\tli tyuyub
+\cai ave
+
+\lxi perjudicial
+\cgi adj
+\tli mech'
+\cai niño
+
+\lxi permanecer
+\cgi vi
+\tli ajñel, ch'ujul
+
+\lxi permitir
+\cgi vt
+\sui no permite
+\tsi chäkbiñ
+
+\lxi perrito de agua
+\tli ²yol
+\cai Sab.; insecto
+
+\lxi perro
+\cgi m
+\tli ts'i'
+\sui perro de monte
+\tsi k'okil ts'i'
+\cai Sab.; agutí
+
+\lxi perseguir
+\cgi vt
+\tli ajñesañ, yajñesañ
+
+\lxi persignar
+\cgi vt
+\sui persignarse
+\tsi rusiñ
+
+\lxi persona
+\cgi f
+\tli kixtyañu
+\cai Tila
+
+\lxi pesado
+\cgi adj
+\tli ¹al
+\sui hacerse pesado
+\tsi al'añ
+\cai físicamente
+
+\lxi pesca
+\cgi f
+\tli chukchäy, luk'bäl
+
+\lxi pescado
+\cgi m
+\tli ²chäy
+
+\lxi pescar
+\cgi vt
+\tli lukijel
+
+\lxi pestaña
+\cgi f
+\tli *tsutsel lakwuty
+
+\lxi petate
+\cgi m
+\tli pojp
+
+\lxi petejul (reg.)
+\tli ¹pats'
+\cai tamal hecho de masa y frijol tierno
+
+\lxi petróleo
+\cgi m
+\tli kas
+
+\lxi pez
+\cgi m
+\tli ²chäy, *chäñil ja'
+
+\lxi piar
+\cgi vi
+\sui piando
+\tsi ts'i'ts'i'ña
+
+\lxi picante
+\cgi adj
+\tli ts'a'añ
+\cai Sab.
+
+\lxi picar
+\cgi vt
+\aci 1
+\tli ch'oj
+\cai gallina, culebra
+\aci 2
+\tli jek'
+\cai con cuchillo o aguja
+\aci 3
+\tli tyok
+\cai tierra
+\sui picarse
+\tsi joch'añ
+\cai maíz
+\sui picado
+\tsi ch'ä'ch'äñtyik
+
+\lxi pico
+\cgi m
+\tli *ñi' muty
+\cai de ave
+\sui pico blanco
+\tsi xkuway
+\cai arrendajo; ave
+\tsi xwakway
+\cai Tila; arrendajo; ave
+\sui pico de canoa
+\tsi kolem päm
+\cai tucán; ave
+\sui pico de garza
+\tsi piñtsik' päm
+\cai ave
+\sui pico de hacha
+\tsi piñxik'päm
+\cai tucán; ave
+\sui pico de oro
+\tsi stsijk
+\cai cerquero pico dorado; ave
+
+\lxi picotear
+\cgi vt
+\tli ch'ojch'oñ
+\cai gallina, culebra
+
+\lxi pie
+\cgi m
+\tli *ok
+\sui concuerda con los pies encogidos
+\tsi pets
+
+\lxi piedra
+\cgi f
+\aci 1
+\tli xajlel
+\aci 2
+\tli tyuñ
+\cai Tila
+\sui piedra quebrada
+\tsi bi'tyi xajlel
+\sui piedra para afilar
+\tsi jux
+\sui piedra grande y redonda
+\tsi pityil
+\sui piedra de chispa
+\tsi tyok', k'äñtyok'
+\sui piedras chicas que sacan chispas
+\tsi tyok'bä tyuñ
+\sui piedras del arroyo
+\tsi xajlelal pa'
+\sui piedras chicas revueltas con barro
+\tsi xex
+
+\lxi piel
+\cgi f
+\tli *pächälel
+\cai Sab.
+
+\lxi pierna
+\cgi f
+\aci 1
+\tli *ya'
+\aci 2
+\tli tye'ok
+\cai de palo
+
+\lxi pigua
+\cgi f
+\tli ²moch'
+\cai acamaya; crustáceo
+
+\lxi pimienta de Jamaica
+\cgi f
+\tli ichtyo'
+\cai árbol
+
+\lxi pimienta de la tierra
+\tli ja'tye'
+\cai árbol
+
+\lxi pinole
+\cgi m
+\tli ch'ilim
+
+\lxi pintar
+\cgi vt
+\tli boñ
+
+\lxi pinto
+\cgi adj
+\tli mistyuñtyik, p'ijlistyik
+
+\lxi pintura
+\cgi f
+\tli *bojñil
+
+\lxi piña
+\cgi f
+\tli pajch'
+\sui piña chica
+\tsi tyuch pajch'
+\sui piña de pino
+\tsi *wuty tyaj
+\cai piña de palo
+\sui piña silvestre
+\tsi xch'ix pajch'
+\cai piñuela
+
+\lxi piñanona
+\cgi f
+\aci 1
+\tli juk'utyuñ
+\cai planta
+\aci 2
+\tli poñch'ox
+\cai Sab., Tila; planta
+
+\lxi piñuela
+\cgi f
+\aci 1
+\tli xch'ix pajch'
+\cai piña silvestre
+\aci 2
+\tli ty'utspajch'
+\cai Tila
+
+\lxi piojo
+\cgi m
+\aci 1
+\tli uch', sakaty
+\aci 2
+\tli säsäk uch'
+\cai de cuerpo
+\aci 3
+\tli yuch' muty
+\cai de gallina
+
+\lxi piquiamarillo
+\cgi m
+\tli xkuway
+\cai ave
+
+\lxi pirinola
+\cgi f
+\tli jetyejty
+\cai juguete
+
+\lxi pisar
+\cgi vt
+\tli tyek', ty'uchtyañ
+\cai espina con los pies
+
+\lxi piscoy
+\cgi m
+\tli xtyi'ja'
+\cai vaquero; ave
+
+\lxi piso
+\cgi m
+\tli ²lum
+\sui de tres pisos
+\tsi uxlajm
+
+\lxi pisón
+\cgi m
+\tli kujoñib
+
+\lxi pito
+\cgi m
+\tli amäy, ¹pochob
+
+\lxi pitorreal
+\cgi m
+\tli xch'aj päm
+\cai tucancillo collarejo; ave
+
+\lxi placenta
+\cgi f
+\tli *chujyil
+
+\lxi planada
+\cgi f
+\tli joktyäl
+\cai llanura
+
+\lxi plancha
+\cgi f
+\tli juk'o' pisil
+
+\lxi planeta
+\cgi m
+\tli ñoj ek'
+
+\lxi plano
+\cgi adj
+\aci 1
+\tli wechekña
+\aci 2
+\tli pechel
+\cai piedra
+\aci 3
+\tli welel
+\cai papel
+\aci 4
+\tli wechel
+\cai libro, papel, tortilla, tabla
+
+\lxi planta
+\cgi f
+\tli *tsuy me'
+\sui tipo de planta
+\tsi boñxañ
+\cai alta; la hoja sirve para techos
+\tsi x'ichtyäk'
+\cai fruta verde, comida de palomas
+\tli mumo
+\cai su tallo tierno es comestible
+\tsi masamuñija'
+\cai medicinal
+\tsi tyiskok
+\cai medicinal
+\tli waj'um
+\cai Tila; que tiene el espíritu de abundancia
+\tsi wisik'iñ, xwayeñch'ix
+\cai tiene espinas
+\sui planta del pie
+\tsi mal lakok
+
+\lxi plataforma
+\cgi f
+\tli *kuñil
+\cai para maíz
+
+\lxi platanillo
+\cgi m
+\tli p'o'tyo'
+\cai pico de gorrión; planta
+
+\lxi plátano
+\cgi m
+\tli ja'as
+\sui plátano enano
+\tsi ñokeb ja'as, xpek' ja'as
+\tsi yokä ja'as
+\cai Sab.
+\sui plátano endosado
+\tsi wats
+
+\lxi plato
+\cgi m
+\tli latyu
+
+\lxi pleito
+\cgi m
+\aci 1
+\tli letyo
+\aci 2
+\tli periyal
+\cai Sab., Tila
+
+\lxi Pléyades
+\cgi f
+\tli Xäñäb
+\cai constelación
+
+\lxi pluma
+\cgi f
+\tli *tsutsel, *tsutsel muty
+\cai de ave
+\sui sin pluma
+\tsi borox
+
+\lxi plumaje
+\cgi m
+\tli *k'uk'mal, *k'uk'umlel
+
+\lxi pobre
+\cgi adj
+\tli obol, p'ump'uñ, tyäwäl
+
+\lxi pochitoque
+\cgi m
+\tli pochityok'
+\cai casquito; tipo de tortuga pequeña
+
+\lxi poco
+\aci 1
+\cgi adj
+\tli ts'itya'
+\aci 2
+\cgi adv
+\tli xep'
+\sui poco líquido
+\tsi pomol
+\cai en su envase
+\sui poquito
+\tsi wis
+\tsi ts'iñ
+\cai Sab.
+\tsi pomtyäl, ts'ujtyäl
+\cai líquido
+\sui poquito en poquito
+\tsi bi'tyibi'tyäl
+\cai Sab.; comer
+\sui por poco
+\tsi kolelix
+\sui un poquito
+\tsi *ts'iñsaj
+\cai Sab.
+
+\lxi podar
+\cgi vt
+\tli porajiñ
+
+\lxi poder
+\cgi vi
+\aci 1
+\tli mejlel
+\aci 2
+\tli tyok'e
+\cai Tila
+\sui no poder
+\tsi matsa'
+\sui puede ser que podamos
+\tsi k'o'omejl
+\cai Tila
+
+\lxi podredumbre
+\cgi f
+\tli *yok'beñal
+\cai putrefacción
+
+\lxi podrir
+\cgi vi
+\aci 1
+\tli ok'mäl
+\aci 2
+\tli päk'mäyel
+\cai Sab.
+\sui podrido
+\tsi ok'beñ, ok'beñal
+\sui maíz podrido
+\tsi *jomil
+
+\lxi pollo
+\cgi m
+\aci 1
+\tli ch'ityoñ muty
+\aci 2
+\tli bi'tyi muty
+\cai Sab.
+\aci 3
+\tli chäkmuty
+\cai de pavón
+\sui pollito
+\tsi alämuty
+
+\lxi polvo
+\cgi m
+\tli ts'ubejñ
+\sui su polvo
+\tsi *ts'ubeñal
+
+\lxi pólvora
+\cgi f
+\tli sibik
+\cai de armas
+
+\lxi pomarrosa
+\cgi f
+\tli xpomaros pätyal
+\cai manzana rosa; árbol
+
+\lxi poner
+\cgi vt
+\aci 1
+\tli k'äkchokoñ
+\cai sobre
+\aci 2
+\tli jety
+\cai olla al fuego
+\aci 3
+\tli läp
+\cai ropa, zapatos
+\aci 4
+\tli tyasiñ
+\cai mantel en mesa; sudadero sobre espalda de mula
+\sui ponerse el sol
+\tsi bäjlel, p'äjkel k'iñ
+\cai Sab.
+\sui poner agachado
+\tsi wutschokoñ
+\sui poner boca abajo
+\tsi ñukchokoñ, xitychokoñ
+\sui poner en el fuego
+\tsi jejtyel
+\sui poner en fila
+\tsi tsol
+\sui poner parado
+\tsi kotychokoñ
+\cai objetos de cuatro patas
+\sui poner piedras en lugar para hacer casa
+\tsi ts'ajkiñ
+\sui poner un poco
+\tsi wischokoñ
+\cai de café, pozol
+
+\lxi Poniente
+\cgi m
+\tli *bäjlib k'iñ
+
+\lxi por
+\cgi prep
+\tli cha'añ
+\sui de por sí
+\tsi ityilel, yiloljach
+\sui por causa de
+\tsi kaj
+\sui por favor
+\tsi awokolik; ¹poj
+\cai por tiempo limitado
+\sui por filas
+\tsi kelekña
+\sui por pedazos
+\tsi kepkepña
+\sui por poco
+\tsi kolelix
+\sui por tramos
+\tsi kepekña
+\sui por un lado
+\tsi ñelel
+\sui por un rato
+\tsi tsäy
+\sui por qué
+\tsi ¿chukoch?
+
+\lxi porque
+\cgi conj
+\tli kome
+
+\lxi posesión
+\cgi f
+\tli *chubä'añ
+
+\lxi posible
+\cgi adj
+\sui lo más posible
+\tsi chilil
+\cai Sab.
+\sui posiblemente
+\tsi tyik'äl
+
+\lxi postrar
+\cgi vt
+\tli *päkleñ
+
+\lxi pozo
+\cgi m
+\tli ³jok'
+\sui pocito
+\tsi *chojk'ib
+\cai hoyuelo
+
+\lxi pozol, pozole
+\cgi m
+\tli paj sa'
+\cai agrio
+
+\lxi precio
+\cgi m
+\tli *tyojol, ityojol
+
+\lxi preciso
+\cgi adj
+\tli ²wersa
+
+\lxi predicador
+\cgi m
+\tli ajsubty'añ
+\cai Sab.
+
+\lxi predicar
+\cgi vt
+\tli sub ty'añ
+
+\lxi preguntar
+\cgi vt
+\tli k'ajtyiñ
+\sui preguntado
+\tsi k'ajtyibil
+\sui preguntarle
+\tsi k'ajtyibeñ
+
+\lxi prenda
+\cgi vt
+\tli preñtya
+
+\lxi prensador de pelo
+\tli *ñejtyib joläl
+
+\lxi preocupación
+\cgi vt
+\tli k'oj'ol
+
+\lxi preocupar
+\cgi vt
+\aci 1
+\tli k'oj'ojtyañ
+\aci 2
+\tli peñsaliñ
+\cai Sab.
+\sui preocupado
+\tsi mi imel ipusik'al
+
+\lxi preparar
+\cgi vt
+\tli chajpañ
+\sui preparado
+\tsi chajpäbil
+
+\lxi presa
+\cgi f
+\tli *kolom
+\cai del perro
+
+\lxi presidente
+\cgi m
+\tli pasaru
+
+\lxi presión
+\cgi f
+\sui ejercer presión
+\tsi yoty'
+\cai sobre el estómago
+
+\lxi preso
+\cgi m
+\aci 1
+\tli xkäjchel
+\aci 2
+\tli ajkächol
+\cai Sab.
+
+\lxi prestado
+\cgi adv
+\tli majañ
+
+\lxi prestar
+\cgi vi
+\tli majñäñtyel
+\sui no prestar por ser tacaño
+\tsi k'ebiñ
+\sui recibir prestado
+\tsi ch'äm tyi majañ
+
+\lxi prevenido
+\cgi adj
+\tli yäxäl
+
+\lxi primero
+\cgi adv
+\aci 1
+\tli ñaxañ, *yajtyi'al
+\aci 2
+\tli ajapam, ñajañ
+\cai Sab.
+\aci 3
+\tli pambij
+\cai en el camino
+\aci 4
+\tli päñg
+\cai fruta
+\sui primer hijo
+\tsi *yäx'al
+\sui primer hijo o hija
+\tsi yäx'aläl
+\sui primera vez
+\tsi juñyajlel
+
+\lxi primogénito
+\cgi m
+\tli kojtyobä iyalobil
+
+\lxi principal
+\cgi m
+\tli tyreñkipal
+
+\lxi principio
+\cgi m
+\aci 1
+\tli *tyejchibal
+\aci 2
+\tli *tyejchilañ, *yajñelañ
+\cai Sab.
+
+\lxi probar
+\cgi vt
+\aci 1
+\tli ñop
+\aci 2
+\tli ²*ilañ
+\cai el corazón
+\aci 3
+\tli prowaliñ, yilbejtyañ
+\cai Sab.
+\sui para probar
+\tsi lejeñsia
+
+\lxi proceso
+\cgi m
+\tli meloñel, melojel
+\sui proceso de moler
+\tsi juch'bal
+\cai maíz, café
+
+\lxi producir
+\cgi vt
+\tli p'ol
+\cai animales
+
+\lxi prohibición
+\cgi f
+\tli tyik'oñel
+
+\lxi prohibir
+\cgi vt
+\tli tyik'
+\sui prohibido
+\tsi jisil
+
+\lxi pronto
+\cgi adv
+\tli mach jalik
+\cai lit.: no tarda
+\sui por lo pronto
+\tsi leñ
+
+\lxi prostituta
+\cgi f
+\tli xmoja
+
+\lxi proteger
+\cgi vt
+\sui protegido
+\tsi käñtyäbil
+
+\lxi próximo
+\cgi adj
+\tli läk'äl
+\sui próximo en edad
+\tsi tyak'äl
+
+\lxi pueblo
+\cgi m
+\aci 1
+\tli tyejklum
+\aci 2
+\tli lum
+\cai Sab.
+
+\lxi puente
+\cgi m
+\aci 1
+\tli k'axibäl, pañtye'
+\aci 2
+\tli k'ajtye', k'atye
+\cai Sab.
+\sui puente de hamaca
+\tsi chiñcho'ak'
+\cai Sab.
+
+\lxi puerco
+\cgi m
+\tli chityam
+\sui puerco capado
+\tsi mañtyekaty
+\sui puerco sin pelo
+\tsi ²xlu'
+
+\lxi puerco espín
+\cgi s
+\tli ch'ix uch
+\dib apa002.tif
+
+\lxi puerquito
+\cgi m
+\tli ch'ämpäk'
+\cai ave
+
+\lxi puerro
+\cgi m
+\tli welux
+\cai planta
+
+\lxi puerta
+\cgi f
+\tli *ñujp'il, wertya
+\cai de casa
+
+\lxi puesto
+\cgi adj
+\aci 1
+\tli lakal
+\cai objeto largo
+\aci 2
+\tli xetyel
+\cai objeto redondo
+
+\lxi pulga
+\cgi f
+\tli ch'äk
+
+\lxi pulgón
+\cgi m
+\tli k'äñk'äñ uch
+\cai enfermedad de maíz
+
+\lxi pulmón
+\cgi m
+\tli *potsots
+
+\lxi pulso
+\cgi m
+\tli *ch'ujlel
+
+\lxi puma
+\cgi m
+\tli chäkbajlum
+\dib alb017m.tif
+
+\lxi punta
+\cgi f
+\sui hacer punta
+\tsi pajliñ
+
+\lxi puntiagudo
+\cgi adj
+\tli ts'ukul
+
+\lxi puntilla
+\cgi f
+\sui de puntillas
+\tsi ty'ichty'ichña
+
+\lxi punto
+\cgi m
+\tli *xuty wich'
+\cai de ala
+\sui a punto de caer
+\tsi xuyiña
+\cai carga de animal
+
+\lxi puño
+\cgi m
+\sui con puño
+\tsi buj
+
+\lxi pupila
+\cgi f
+\tli ¹bäk', *ch'ujlel iwuty
+
+\lxi pupo barrigón
+\tli mäläl
+\cai pez
+
+\lxi puro
+\cgi adj
+\tli k'ujts
+\cai cigarro
+
+\lxi pus
+\cgi m
+\tli *pujil, *pujwil
+\sui formar pus
+\tsi pujmäyel
+
+\lxi Q
+\alf Q
+
+\lxi qué
+\cgi pron
+\tli ¿chuki?
+\sui por qué
+\tsi ¿chukoch?
+\sui por qué será
+\tsi ¿chukochka?; ¿chu'ochka?
+\sui qué tal
+\tsi ¿kojko?
+
+\lxi quebrar
+\aci 1
+\cgi vt
+\tli k'äs, xul
+\cai hueso, palo
+\aci 2
+\cgi vt
+\tli lom
+\cai olla, caja
+\aci 3
+\cgi vt
+\tli tyop'
+\cai piedra, tierra, vidrio
+\aci 4
+\cgi vt
+\tli ts'ij
+\cai piedra, leña, calabaza
+\sui quebrarse
+\tsi k'äskujel, k'ästyäl, p'ijtyel, xujlel
+\cai palo, hueso
+\tsi lejbel
+\cai pedazo de piedra, madera, diente
+\tsi xejty'el
+\cai barro, tortilla
+\sui quebrado
+\tsi xujlem
+\cai hueso, madera
+\sui persona con hueso quebrado
+\tsi xk'äskujel
+
+\lxi quedar
+\cgi vi
+\tli kälel, yajñel
+\sui quedar pendiente
+\tsi keptyäl
+\sui quedarse blanco
+\tsi säkwutyiyel
+\cai un lado de la tortilla
+\sui quedarse firme
+\tsi xuk'tyäl
+
+\lxi queisque
+\cgi m
+\aci 1
+\tli xkekex
+\cai grajo verde; ave
+\aci 2
+\tli peazul
+\cai Tila; ave
+\dib abbb015.tif
+
+\lxi quejarse
+\cgi prnl
+\sui quejándose
+\tsi ajakña, äjäkña
+
+\lxi quemadura
+\cgi f
+\sui quemadura aguda
+\tsi tyäjk'
+
+\lxi quemar
+\cgi vt
+\tli pul
+\sui quemarse
+\tli pulel
+\sui quemado
+\tsi pulem
+
+\lxi quemazón
+\cgi f
+\sui quemazón de monte
+\tsi tyojklel
+
+\lxi quequeste
+\cgi m
+\tli ²juk', me'uñ
+\cai mafafa; planta
+
+\lxi querer
+\cgi vt
+\tli k'uxbiñ, *om
+\sui querido
+\tsi k'uxbibil
+\sui quisiera
+\tsi komkatsa'
+\sui ya quiere
+\tsi yomox
+
+\lxi quetzal
+\cgi m
+\tli xmañk'uk', xkeñzal
+\cai ave
+\dib abbb020.tif
+
+\lxi quiba
+\cgi f
+\tli mojtyoy
+\cai palma
+
+\lxi quién
+\cgi pron
+\aci 1
+\tli ¿majki?
+\aci 2
+\tli ¿majchki?
+\cai Tila
+
+\lxi quieto
+\cgi adj
+\aci 1
+\tli ch'ijiyem
+\cai en casa
+\aci 2
+\tli k'uxtyayem
+\cai Sab.
+\aci 3
+\tli lämäl, sämäl
+\cai persona, agua
+\aci 4
+\tli ñäch'äl
+\cai persona
+
+\lxi quijada
+\cgi f
+\tli xäk'tyi'
+
+\lxi quince
+\cgi adj
+\tli jo'lujump'ejl
+
+\lxi quinto
+\cgi adj
+\sui quinto día del presente
+\tsi jo'ñij
+
+\lxi quitar
+\aci 1
+\cgi vt
+\tli chaw
+\cai pañales
+\aci 2
+\cgi vt
+\tli ¹chil
+\cai algo o una persona
+\aci 3
+\cgi vt
+\tli joch
+\cai ropa
+\aci 4
+\cgi vt
+\tli ²poj
+\cai Sab.
+\sui quitarse
+\tsi jojchel
+\cai ropa
+
+\lxi quizás
+\cgi adv
+\tli machtyika, ma'tyika
+
+\lxi R
+\alf R
+
+\lxi raíz
+\cgi f
+\aci 1
+\tli *tyomel, *wi'
+\aci 2
+\tli chax läktyik, *chaxwi'
+\cai salen del suelo
+\sui raíz de chayote
+\tsi yame
+\sui raíz de plátano
+\tsi tyom
+\sui raíz de yuca
+\tsi *wi'ts'ijñ
+
+\lxi rajada
+\cgi f
+\tli *jajtyemal
+\cai de tabla
+
+\lxi rajadura
+\cgi f
+\tli *jajp
+
+\lxi rajar
+\cgi vt
+\aci 1
+\tli jaty
+\cai leña
+\aci 2
+\tli sil
+\cai tabla, mecapal
+\aci 3
+\tli ³ts'ij
+\cai leña, piedra, calabaza
+\sui rajarse
+\tsi jajtyel
+\sui rajado
+\tsi xalal
+
+\lxi rana
+\cgi f
+\tli *chäñil ja', tyujts', xtyujtye'
+
+\lxi ranera verde
+\tli yaxajachañ
+\cai reptil
+
+\lxi rápido
+\cgi adv
+\tli seb
+\sui rápidamente
+\tsi jäm
+\cai levantarse o tomar algún objeto
+\tsi xity'
+\cai levantarse, pararse
+\tsi ¹yol
+\cai tomar algo líquido
+
+\lxi rascar
+\cgi vt
+\aci 1
+\tli lajchiñ, läch
+\cai piel
+\aci 2
+\tli joty'
+\cai cabeza
+
+\lxi rasgadura
+\cgi f
+\tli *tsijlemal
+
+\lxi raspar
+\cgi vt
+\aci 1
+\tli jujchiñ
+\cai barbas, pelo
+\aci 2
+\tli susuñ
+\cai palos
+\sui raspado
+\tsi susubil
+\cai cáscara de palo
+
+\lxi rastrojo
+\cgi m
+\tli jaj sepoñel
+\cai Sab.
+
+\lxi rato
+\cgi m
+\sui por un rato
+\tsi tsäy
+\sui ratito
+\tsi jumuk'
+
+\lxi ratón
+\cgi m
+\tli tsuk
+\sui las sobras del ratón
+\tsi *tsukil ixim
+
+\lxi raudal
+\cgi m
+\sui en raudal
+\tsi yolokña
+
+\lxi rayado
+\cgi adj
+\tli barsiñ
+\cai perro
+
+\lxi rayo
+\cgi m
+\tli chajk
+\cai sing.
+\tli *xojob
+\cai pl.
+\sui rayos de sol
+\tsi ixojob k'iñ
+\sui rayos de luna
+\tsi ixojob uw
+
+\lxi rebalsar
+\cgi vi
+\sui rebalsando
+\tsi buty'ukña
+
+\lxi rebanar
+\cgi vt
+\tli sejluñ
+
+\lxi rebelde
+\cgi adj
+\tli ch'aplom
+
+\lxi rebotar
+\cgi vi
+\sui rebotando
+\tsi tyip'tyip'ña
+
+\lxi rebozo
+\cgi m
+\aci 1
+\tli rebus
+\aci 2
+\tli mujch'äl
+\cai Sab.
+
+\lxi recaudo
+\cgi m
+\tli *ts'äkal
+\cai de comida
+
+\lxi rechinar
+\cgi vi
+\tli äch'uñiyel
+\sui rechinando
+\tsi äch'uña, kech'ekña
+
+\lxi recibir
+\cgi vt
+\aci 1
+\tli ñoxi'aliñ
+\cai como esposo
+\aci 2
+\tli ochel
+\cai cargo de
+
+\lxi recio
+\cgi adv
+\aci 1
+\tli wo'okña
+\cai llorando
+\aci 2
+\tli ts'ilikña
+\cai Sab.
+
+\lxi reclinar
+\cgi vt
+\tli ñäktyäl
+
+\lxi recoger
+\cgi vt
+\tli ²loty
+\sui recogido
+\tsi tyempäbil
+
+\lxi recomendable
+\cgi adj
+\aci 1
+\tli *ty'ojol
+\aci 2
+\tli k'otya
+\cai Tila, Sab.
+
+\lxi reconocer
+\cgi vt
+\tli ²*ilañ
+\cai sus pensamientos
+\sui reconocer como padre
+\tsi tyatyiñ
+
+\lxi recordar
+\cgi vt
+\tli ña'tyañ
+
+\lxi recto
+\cgi adj
+\aci 1
+\tli tyoj
+\aci 2
+\tli jump'ejl ipusik'al
+\cai lit.: un solo corazón
+\sui es recto de corazón
+\tsi tyoj ipusik'al
+
+\lxi recuperar
+\cgi vt
+\sui recuperarse
+\tsi uts'atyiyel
+\cai Sab.
+
+\lxi red
+\cgi f
+\aci 1
+\tli chim
+\aci 2
+\tli chimo' chäy
+\cai para pescar
+\sui red chica
+\tli ¹sewal
+
+\lxi redondo
+\cgi adj
+\aci 1
+\tli selel
+\cai piedra
+\aci 2
+\tli selelob
+\cai gente en un círculo
+\aci 3
+\tli xotyol
+\cai mesa, plato, sombrero
+\sui en forma redonda
+\tsi xoty
+\sui redondo y sentado
+\tsi petstyäl
+
+\lxi reducido
+\cgi adj
+\tli tsätsä ñu'ty'ul
+\sui muy reducido
+\tsi xep'el
+
+\lxi reflección
+\cgi vt
+\tli *xojoblel
+
+\lxi refugio
+\cgi m
+\tli puts'ibäl
+
+\lxi regalar
+\cgi vt
+\tli p'ejw
+\cai en abundancia
+
+\lxi regalo
+\cgi m
+\tli majtyañäl
+
+\lxi regañada
+\cgi f
+\tli wulwul ty'añ
+\cai regaño
+
+\lxi regañar
+\cgi vt
+\tli a'leñ
+
+\lxi regaño
+\cgi m
+\aci 1
+\tli a'leya
+\aci 2
+\tli al'iya
+\cai Tila
+\sui término de regaño
+\tsi xpajlek'
+
+\lxi regar
+\cgi vt
+\aci 1
+\tli ¹mul
+\cai con agua
+\aci 2
+\tli wejtyuñ, p'ujp'uñ, wejch'uñ
+\cai semilla
+\sui regado
+\tsi ach'esäbil
+\tsi p'ujp'ubil
+\cai semilla, tierra
+\tsi pujkiktyik
+\cai piedra, semilla
+
+\lxi regidor
+\cgi m
+\tli rejerol
+
+\lxi región
+\cgi f
+\sui región montañosa
+\tsi *witsilel
+
+\lxi regla
+\cgi f
+\aci 1
+\tli *p'isoñib
+\aci 2
+\tli legra
+\cai Sab.
+
+\lxi regresar
+\cgi vi
+\tli sujtyel
+
+\lxi rehusar
+\cgi vt
+\tli tsäjyuñ
+\cai de dar algo
+
+\lxi reino
+\cgi m
+\tli *reyil
+
+\lxi reír
+\cgi vi
+\sui reírse de
+\tsi tse'tyañ
+
+\lxi rejoya
+\cgi f
+\tli k'omtyäl
+\cai de un terreno
+
+\lxi relación
+\cgi f
+\sui tener relación sexual
+\tsi pi'leñ
+
+\lxi relámpago
+\cgi m
+\tli *xu'chajk, xojob chajk, ixu'il chajk
+
+\lxi reloj
+\cgi m
+\tli k'elo'k'iñ
+
+\lxi remachar
+\cgi vt
+\tli kuj
+
+\lxi remedio
+\cgi m
+\tli ts'ak
+
+\lxi remendar
+\cgi vt
+\tli läw
+\sui remendarse
+\tsi läjwel
+\sui remendado
+\tsi läwäl
+\sui actividad de remendar ropa
+\tli läwoñel
+
+\lxi remiendo
+\cgi m
+\tli *läjwil, *läwoñib
+
+\lxi remojar
+\cgi vt
+\aci 1
+\tli ²sul, ts'aj
+\aci 2
+\tli ts'ajts'añ
+\cai cabeza
+\sui remojado
+\tsi sulul
+
+\lxi remoler
+\cgi vt
+\tli tyojsiñ, yajbiñ
+\cai nixtamal
+
+\lxi remolino
+\cgi m
+\aci 1
+\tli joyolbä ja'
+\cai agua
+\aci 2
+\tli sutyuty ik'
+\cai de viento
+
+\lxi remover
+\cgi vt
+\tli ñakulañ
+\cai piedra
+
+\lxi renacuajo
+\cgi m
+\tli bujb
+\cai sing.
+\tli xbujb
+\cai pl.
+
+\lxi rendija
+\cgi f
+\tli ¹*yaj
+\cai de tabla
+
+\lxi rendir
+\cgi vi
+\tli xijty'el
+\cai maíz, frijol
+
+\lxi renovar
+\cgi vt
+\tli tsijibtyesañ
+
+\lxi repartir
+\cgi vt
+\tli puk
+
+\lxi repellar
+\cgi vt
+\tli boñ
+
+\lxi repentinamente
+\cgi adv
+\aci 1
+\tli tyul
+\aci 2
+\tli pepets'
+\cai pisotear
+
+\lxi repetir
+\cgi vt
+\sui repetidas veces
+\tsi pik'os
+\cai amarrar
+
+\lxi repollo
+\cgi m
+\tli xuxuk' pimel
+
+\lxi reproducir
+\cgi vt
+\tli p'ojlel
+
+\lxi resbalar
+\cgi vi
+\aci 1
+\tli tyäjts'el
+\cai pies
+\aci 2
+\tli jäjlel
+\cai en camino
+\aci 3
+\tli juxk'iyel
+\cai sobre un palo o piedra
+\sui resbalando
+\tsi juxukña
+
+\lxi resbaloso
+\cgi adj
+\tli bojy
+\cai camino
+
+\lxi resembrar
+\cgi vt
+\tli ¹tsuts
+\cai maíz
+
+\lxi residente
+\cgi adj
+\tli chumul
+
+\lxi resina
+\cgi vt
+\tli *xu'ch'il
+
+\lxi resoplar
+\cgi vi
+\sui resoplando
+\tsi pujiña
+\cai nariz de caballo
+
+\lxi respirar
+\cgi vt
+\tli jap ik'
+\sui respirando
+\tsi wojsiña
+
+\lxi resplandor
+\cgi m
+\tli *xojoblel
+\cai de la luz
+
+\lxi responsabilidad
+\cgi vt
+\tli weñtya
+
+\lxi responsable
+\cgi adj
+\tli bäjix, tsäts
+
+\lxi respuesta
+\cgi vt
+\tli aja
+
+\lxi restregar
+\cgi vt
+\tli juk'xiñ, juk'ilañ
+
+\lxi resultar
+\cgi vi
+\aci 1
+\tli lok'el
+\cai negocio, trabajo
+\aci 2
+\tli majlel
+\cai un plan
+
+\lxi retirar
+\cgi vt
+\tli tyäts'
+
+\lxi retoñar
+\cgi vi
+\sui retoñado
+\tsi ch'okiyem
+\cai nuevamente
+
+\lxi retoño
+\cgi m
+\aci 1
+\tli buts, k'ojty
+\aci 2
+\tli chäläl
+\cai zacate nuevo después de cortar
+
+\lxi retorcer
+\cgi vt
+\aci 1
+\tli ¹jax
+\cai ixtle, hilo
+\aci 2
+\tli ts'otyiñ
+\cai mecate, lazo
+
+\lxi retrato
+\cgi m
+\tli lok'oñbaj
+\cai Tila
+
+\lxi retumbante
+\cgi adj
+\tli tsiñtsiña
+\cai sonido de campana
+
+\lxi reunidos
+\cgi adj
+\tli selelob
+\cai personas
+
+\lxi reventar
+\aci 1
+\cgi vt
+\tli ts'ok
+\cai lazo, hilo
+\aci 2
+\cgi vi
+\tli tyojmel
+\sui reventarse
+\tsi tyujk'el, ts'ojkel
+\cai alambre, cordón, hilo
+
+\lxi revolcar
+\cgi vt
+\tli ñolch'iñ
+\cai persona con persona o animal con animal
+\sui revolcando
+\tsi ñolok'
+\cai niño, caballo
+\sui revolcarse
+\tsi bäläk'
+\cai Tila
+\tsi pajch'iñ
+\cai por dolor
+\tsi watyax
+\cai niño
+\sui revuelto
+\tsi xäk'bil
+
+\lxi reyezuelo
+\cgi m
+\tli tyikwak'iñ
+\cai pajarito
+
+\lxi rezar
+\cgi vi
+\tli ch'uyijel
+\cai Tila
+
+\lxi rezo
+\cgi m
+\tli resal
+
+\lxi rico
+\cgi adj
+\tli chumul
+
+\lxi rifle
+\cgi m
+\tli juloñib
+
+\lxi rincón
+\cgi m
+\tli xo'tyäl
+
+\lxi riñón
+\cgi m
+\tli *kuchi'tyuñ
+
+\lxi río
+\cgi m
+\aci 1
+\tli ja', ñoja'
+\aci 2
+\tli ñojpa'
+\cai Sab.
+\sui río grande
+\tsi kolem ja'
+
+\lxi risa
+\cgi f
+\tli tse'ñal
+
+\lxi robar
+\cgi vt
+\tli xujch'iñ
+
+\lxi roble
+\cgi m
+\tli k'olol
+\cai árbol
+
+\lxi rociar
+\cgi vt
+\tli pujbañ, tsijkañ
+\cai con agua
+
+\lxi rocío
+\cgi m
+\tli tyijil
+
+\lxi rodar
+\cgi vt
+\aci 1
+\tli ñolk'iñ, waxk'uñ
+\cai piedra, bola
+\aci 2
+\tli bälk'uñ
+\cai palo
+\aci 3
+\tli selulañ
+\cai cosa redonda
+\sui rodarse
+\tsi ñojlel
+\cai piedra
+\sui rondando
+\tsi tsuktsukña
+\cai en busca de su presa
+
+\lxi rodear
+\cgi vt
+\tli joy, wilijtyañ
+\sui rodeando
+\tsi joyokña
+
+\lxi rodilla
+\cgi f
+\tli ²pix
+
+\lxi rojo
+\cgi adj
+\tli chäkwa'añ
+\cai llamas altas de fuego
+
+\lxi rollizo
+\cgi adj
+\tli ¹sel
+\cai objeto
+
+\lxi romper
+\cgi vt
+\tli tsil
+\cai tela, papel
+\sui roto
+\tli tyokol
+\tli lejbeñ
+\cai piedra, tabla o diente
+\tli p'e'
+\cai y abierto
+\tli tsijlem
+\cai ropa, costal
+
+\lxi roncar
+\cgi vi
+\tli ñojk'ijel
+
+\lxi roncha
+\cgi f
+\tli sal
+
+\lxi ronda
+\cgi f
+\tli lajk'
+\cai hormiga grande
+
+\lxi ronquido
+\cgi m
+\tli ñojk'
+
+\lxi ropa
+\cgi vt
+\tli pisil
+
+\lxi rozadura
+\cgi f
+\tli chobal, *chobälel
+\cai de milpa
+
+\lxi rozar
+\cgi vt
+\tli choloñ
+\cai monte
+\sui rozando
+\tsi ²jax
+
+\lxi rubio
+\cgi adj
+\tli chäktyijañ
+\cai cabello
+
+\lxi ruidosamente
+\cgi adv
+\aci 1
+\tli burburña, ts'ij
+\aci 2
+\tli ²silikña
+\cai sonido que da la madera al rajarse
+\aci 3
+\tli sokokña
+\cai animal pasando por la hierba
+\aci 4
+\tli ts'ilikña
+\cai Sab.
+\aci 5
+\tli we'ekña
+\cai llanto
+
+\lxi S
+\alf S
+
+\lxi sábado
+\cgi m
+\tli *jilibal semaña
+
+\lxi saber
+\cgi vt
+\aci 1
+\tli *ujil, yujil
+\aci 2
+\tli ubiñtyel
+\cai de algún rumor
+\sui dar a saber
+\tsi tsiktyesañ
+\sui no sé
+\tsi ba'ixtyi
+
+\lxi sabor
+\cgi m
+\tli *sumuklel
+\sui su sabor salado
+\tsi *yäts'mil
+
+\lxi saborear
+\cgi vt
+\tli mits'tyi'añ
+
+\lxi sabroso
+\cgi adj
+\tli sumuk
+
+\lxi sacar
+\cgi vt
+\aci 1
+\tli lok', lok'sañ
+\aci 2
+\tli wets'
+\aci 3
+\tli jeb
+\cai líquidos
+\aci 4
+\tli ¹jok'
+\cai líquido con la mano
+\aci 5
+\tli jots'
+\cai diente
+\aci 6
+\tli lech
+\cai alimento
+\aci 7
+\tli luch
+\cai alimento o agua con taza
+\aci 8
+\tli ²pejtyel
+\cai la olla del fuego
+\aci 9
+\tli p'ik
+\cai con aguja o palillo
+\aci 10
+\tli säy
+\cai del agua con la mano
+\aci 11
+\tli wejk'añ
+\cai agua
+\sui sacado
+\tsi jots'bil
+\sui sacar líquido con las manos
+\tsi ¹loch', loch'ilañ
+\sui sacar tripa
+\tsi ¹p'o'
+
+\lxi sacerdote
+\cgi m
+\tli *ch'ujutyaty
+
+\lxi sacristán
+\cgi m
+\tli xchuwaña
+\cai Tila
+
+\lxi sacudir
+\cgi vt
+\aci 1
+\tli k'ojlañ, tyijtyiñ
+\aci 2
+\tli lijkañ
+\cai ropa
+\aci 3
+\tli tyijkañ
+\cai cualquier cosa
+\aci 4
+\tli tyojtyoñ
+\cai tierra de una canasta
+\aci 5
+\tli yujkuñ
+\cai planta, árbol
+
+\lxi sal
+\cgi f
+\tli ats'am
+\sui sin sal
+\tsi sup
+
+\lxi salado
+\cgi adj
+\sui está salado
+\tsi iyäts'mil
+
+\lxi salamandra
+\cgi f
+\aci 1
+\tli ses p'ok
+\aci 2
+\tli ajluk'
+\cai venenosa
+
+\lxi salir
+\cgi vi
+\aci 1
+\tli lok'el
+\aci 2
+\tli pasel
+\cai el sol
+
+\lxi saliva
+\cgi f
+\tli *sits', *tyujb, ya'lel lakej
+
+\lxi salpullido
+\cgi m
+\tli tsaja bul'ich
+
+\lxi salud
+\cgi f
+\tli k'ok'lel
+\cai del cuerpo
+
+\lxi saludar
+\cgi vt
+\aci 1
+\tli ña'iñ
+\cai a una vieja
+\aci 2
+\tli ujts'iñ
+\cai besando la mano o tocando la frente
+
+\lxi saludo
+\cgi m
+\tli kotyañety, kotyresiya
+
+\lxi salvación
+\cgi vt
+\tli koltyäñtyel
+
+\lxi salvador
+\cgi m
+\aci 1
+\tli xkoltyaya
+\aci 2
+\tli ajkoltyaya
+\cai Sab.
+
+\lxi salvar
+\cgi vt
+\tli koltyañ
+\sui salvado
+\tsi koltyäbil
+
+\lxi San Cristóbal de Las Casas
+\tli Jobel
+
+\lxi sanar
+\aci 1
+\cgi vt
+\tli k'ok'esañ, lajmesañ
+\aci 2
+\cgi vi
+\tli k'ok'añ
+\sui sanarse
+\tsi lajmel
+
+\lxi sangre
+\cgi f
+\tli ch'ich'
+\sui sangre de dragón
+\tsi xch'ich'bäty
+\cai torote; árbol
+
+\lxi sano
+\cgi adj
+\tli k'ok'
+
+\lxi santo
+\aci 1
+\cgi m
+\tli sañtyo
+\aci 2
+\cgi adj
+\tli ch'ujul
+\cai persona
+
+\lxi sapillo
+\cgi m
+\tli ty'äsläk
+\cai granos de la carne del cerdo
+
+\lxi sapo
+\cgi m
+\aci 1
+\tli xpekejk
+\aci 2
+\tli pokok, popok
+\cai Sab.
+\aci 3
+\tli xpokok, x'oñkoñak
+\cai grande
+
+\lxi sarampión
+\cgi m
+\tli pulibäl
+
+\lxi sardina
+\cgi f
+\sui sardina plateada
+\tsi stsats
+\cai pez
+
+\lxi sarna
+\cgi f
+\tli sal
+
+\lxi sastre
+\cgi m
+\tli sts'isoñel
+
+\lxi satisfecho
+\cgi adj
+\tli tyijikña
+
+\lxi savia
+\cgi f
+\tli *yetsel
+
+\lxi secar
+\cgi vt
+\tli tyikesañ
+\sui secarse
+\tsi ts'u'umiyel
+
+\lxi seco
+\cgi adj
+\aci 1
+\tli tyäkiñ
+\cai Sab.
+\aci 2
+\tli tyikiñ
+\cai camino, madera, café, arroyo
+\aci 3
+\tli tsäk'om, tsäk'ojm
+\cai frijol
+\aci 4
+\tli chäkbulañ
+\cai tierra
+
+\lxi secretario
+\cgi m
+\tli sts'ijbaya
+
+\lxi seguido
+\cgi adv
+\tli belel
+\sui seguidamente
+\tsi chäkächäkäjax
+\cai se enferma
+
+\lxi seguir
+\cgi vt
+\aci 1
+\tli esmañ
+\aci 2
+\tli tyäp'leñ
+\cai a una persona
+\aci 3
+\tli ty'um
+\cai en un camino
+\aci 4
+\tli tsajkañ, tsäkleñ
+
+\lxi seguro
+\cgi adj
+\sui seguramente
+\tsi xuk'ul
+
+\lxi seis
+\cgi adj
+\tli wäkp'ejl
+\sui de hoy en seis días
+\tsi wäkñij
+
+\lxi semana
+\cgi f
+\sui media semana
+\tsi uxp'ejk'iñ
+
+\lxi sembrado
+\cgi m
+\sui sembrado de piña
+\tsi pajch'il
+
+\lxi sembrador
+\cgi m
+\aci 1
+\tli xpak', xpäk'oñel
+\aci 2
+\tli ajp'ujpuya
+\cai Sab.
+
+\lxi sembrar
+\aci 1
+\cgi vt
+\tli ¹päk', cha'leñ pak'
+\cai maíz, frijol
+\aci 2
+\cgi vt
+\tli ts'äp
+\cai poste
+\aci 3
+\cgi vt
+\tli wejtyuñ
+\cai regado
+\aci 4
+\cgi vi
+\tli ¹päjk'el
+\cai maíz, frijol
+
+\lxi semejanza
+\cgi f
+\tli ejtyaläl
+
+\lxi semifuerte
+\cgi adv
+\tli mäsmäsña
+
+\lxi semilla
+\cgi f
+\aci 1
+\tli ¹bäk', pak'
+\aci 2
+\tli chikixchañ
+\cai de un tipo de planta
+
+\lxi senda
+\cgi f
+\tli alä bij
+
+\lxi sentar
+\cgi vt
+\tli buchchokoñ
+\cai a una persona
+\tli ñakchokoñ
+\cai Sab.; a una persona
+\sui sentado
+\tsi buchul
+\tsi k'uch buchul
+\cai agachado
+\tsi ñakal
+\cai Sab.
+\tsi ñäkbuchul
+\cai inclinado hacia atrás
+\sui sentarse
+\tsi buchtyäl
+\tsi ñaktyäl
+\cai Sab.
+\tsi tsotytyäl
+\cai agachado
+\sui sentar sobre
+\tsi buchtyañ
+
+\lxi sentir
+\aci 1
+\cgi vt
+\tli ubiñ
+\aci 2
+\cgi vi
+\tli ubiñtyel
+
+\lxi señalar
+\cgi vt
+\aci 1
+\tli tyuch', tyuch'beñ
+\cai con el dedo
+\aci 2
+\tli muts'wutyañ
+\cai con los ojos
+
+\lxi separado
+\cgi adj
+\tli xatyal, xaty wa'al
+\cai los pies, las patas
+
+\lxi séptimo
+\cgi adj
+\sui séptimo día
+\tsi wukñij
+
+\lxi sepulcro
+\cgi m
+\aci 1
+\tli *ch'eñal, mukoñibäl, mujkibäl
+\aci 2
+\tli ch'eñäl
+\cai Sab.
+
+\lxi ser
+\cgi vi
+\sui así es
+\tsi che'kuyi
+\cai respuesta
+\sui es de
+\tsi ch'oyol
+\sui es de nosotros juntos
+\tsi komoljach lakcha'añ
+\sui no sea que
+\tsi ame
+\sui será
+\tsi batyika
+\cai Sab.
+
+\lxi sereno
+\cgi m
+\tli tyijil, ye'eb
+
+\lxi serranía
+\cgi f
+\tli wits
+
+\lxi servir
+\cgi vt
+\tli yumäñ
+\sui no sirve
+\tsi *p'ajomal
+\cai frijol, maíz, animales
+
+\lxi seso
+\cgi m
+\tli sikojk
+
+\lxi si
+\cgi conj
+\tli mi, añ ku
+\sui si no fuera por eso
+\tsi machiki
+\sui si no hubiera
+\tsi machik
+
+\lxi sí
+\cgi adv
+\aci 1
+\tli yomäch, jiñkuyi
+\cai afirmativo
+\aci 2
+\tli jiñkwäyi
+\cai Sab.; afirmativo
+\aci 3
+\tli uts'aty
+\cai bueno
+\aci 4
+\tli jaja'
+\cai pues
+
+\lxi sidra
+\cgi f
+\tli silaj
+
+\lxi siempre
+\cgi adv
+\aci 1
+\tli bej, ³ñoj, pejtyel ora
+\aci 2
+\tli ñuj
+\cai Sab.
+
+\lxi sien
+\cgi f
+\tli *jayel
+
+\lxi siete
+\cgi adj
+\tli wukp'ejl
+
+\lxi silbar
+\cgi vt
+\tli tyowiñ
+\cai con los dedos en la boca
+
+\lxi silbido
+\cgi m
+\tli ch'uyub
+
+\lxi silbo
+\cgi m
+\tli tyow
+\cai producido con los dedos en la boca
+
+\lxi símbolo
+\cgi m
+\tli weñtya
+
+\lxi simpático
+\cgi adj
+\tli kuxu ity'ojol
+
+\lxi síndico
+\cgi m
+\tli síñtyiko
+
+\lxi sinuoso
+\cgi adj
+\tli k'ocholmetyel, xoyometyel
+\cai camino, vereda
+
+\lxi siquiera
+\cgi conj
+\sui ni siquiera
+\tsi ²yokä
+\cai Sab.
+
+\lxi sitit
+\tli x'obes
+\cai flor de cuaresma; árbol
+
+\lxi sobar
+\cgi vt
+\tli jaxuñ
+\cai brazo
+
+\lxi sobra
+\cgi f
+\tli *kolojbal
+
+\lxi sobrar
+\cgi vi
+\tli sobrajiyel
+\cai comida
+
+\lxi sobrecocido
+\cgi adj
+\tli echem
+
+\lxi sobrino
+\cgi m
+\tli bik'tyi ijts'iñ
+
+\lxi Sol
+\cgi m
+\tli *ch'ujutyaty
+\sui ponerse el sol
+\tsi bäjlel, p'äjkel k'iñ
+\cai Sab.
+\sui rayos de sol
+\tsi ixojob k'iñ
+
+\lxi soldado
+\cgi m
+\tli soraru
+\sui ser soldado
+\tsi sorarujiñtyel
+
+\lxi soledad
+\cgi f
+\tli *ch'ijikñiyel
+
+\lxi solo
+\cgi adj
+\tli bajñel,bajañ
+
+\lxi sólo
+\cgi adv
+\tli kojach,jach, putyuñ
+\sui sólo esa vez
+\tsi kojax
+\sui sólo ése
+\tsi jiñijach
+
+\lxi soltar
+\cgi vt
+\tli kol
+
+\lxi soltera
+\cgi f
+\tli xch'oktyobä x'ixik
+
+\lxi sombra
+\cgi f
+\tli axñal, *äxñilel
+
+\lxi sombrero
+\cgi m
+\tli pixoläl
+
+\lxi sonar
+\cgi vt
+\aci 1
+\tli ty'es
+\cai los dedos
+\aci 2
+\tli sijmañ
+\cai nariz
+\sui así suena
+\tsi p'äklaw
+\cai sonido de la lluvia
+\sui sonando fuerte
+\tsi ty'olokña
+\cai lluvia
+
+\lxi sonido
+\cgi m
+\sui sonido que se produce al dar un manotazo
+\tsi ²ch'iñlaw
+\sui manera en que hacen sonido las hojas y palitos secos
+\tsi tsoktsokña
+\sui sonido al abrir un refresco
+\tsi ty'os
+\sui sonido que da una cosa sobre lámina
+\tsi chilikña
+
+\lxi sonoro
+\cgi adj
+\tli tsiñtsiña
+\cai guitarra
+
+\lxi sonrisa
+\cgi f
+\tli tse'ñal
+
+\lxi sonrojarse
+\cgi prnl
+\tli chäk'añ
+\sui sonrojado
+\tsi chäkwaxañ
+
+\lxi sonzapote
+\cgi m
+\tli pi
+\cai zapote amarillo; árbol
+
+\lxi soñar
+\cgi vt
+\tli ñajleñ, cha'leñ ñajal
+
+\lxi soplar
+\cgi vt
+\aci 1
+\tli wujtyañ
+\aci 2
+\tli wejlañ
+\cai con abanico
+\aci 3
+\tli wus
+\cai hule, con soplo
+\sui la manera de soplar
+\tsi jäpjäkña
+\cai susurrando
+
+\lxi sordo
+\aci 1
+\cgi adj
+\tli kojk
+\aci 2
+\cgi m
+\tli xkojk
+
+\lxi sosa
+\cgi f
+\tli pajäl
+\cai planta
+
+\lxi suave
+\cgi adj
+\tli k'uñluk'añ
+\cai madera
+
+\lxi subdesarrollado
+\cgi adj
+\tli bujlux
+\cai granos, plumas
+
+\lxi súbdito
+\cgi adj
+\sui ser súbdito
+\tsi yumäñ
+
+\lxi subir
+\cgi vi
+\aci 1
+\tli letsel
+\aci 2
+\tli k'äjkel
+\cai a la cumbre
+\sui subido
+\tsi letsem
+\sui subir de precio
+\tsi letsañ
+\sui subir y bajar los extremos
+\tsi k'achulañ, k'achuña
+\cai subibaja
+\sui sube pegándose
+\tsi ñotyñotyña
+
+\lxi suciedad
+\cgi f
+\aci 1
+\tli *bibi'lel
+\aci 2
+\tli *kujklel
+\cai Tila
+
+\lxi sucio
+\cgi adj
+\aci 1
+\tli bibesäbil, bibi'
+\aci 2
+\tli ik'sowañ
+\cai ropa, hilo
+\aci 3
+\tli mistyuñtyik, tya'tya'
+\cai cara
+\aci 4
+\tli tyity
+\cai líquido
+
+\lxi sudadero
+\cgi m
+\tli *tyasil
+
+\lxi sudor
+\cgi m
+\tli bu'lich
+
+\lxi suegra
+\cgi f
+\tli *ñij'añ ña'
+\cai Sab.
+
+\lxi suegros
+\aci 1
+\tli *ä'lib
+\cai de mujer
+\aci 2
+\tli *ñij'al
+\cai del hombre
+
+\lxi sueldo
+\cgi m
+\tli kañar
+
+\lxi suelo
+\cgi m
+\tli ²lum
+
+\lxi suelto
+\cgi adj
+\tli kolbil
+
+\lxi sueño
+\cgi m
+\tli ñajal
+
+\lxi suficiente
+\cgi adj
+\tli jasäl
+
+\lxi sufrir
+\cgi vt
+\aci 1
+\tli pajch'iñ
+\cai dolores de muerte
+\aci 2
+\tli jijts'el
+\cai luxación
+
+\lxi sumergir
+\cgi vt
+\tli sujp'el
+\sui sumergido
+\tsi mujläyem
+
+\lxi sumirse
+\cgi prnl
+\tli lojmel
+
+\lxi superficie
+\cgi f
+\aci 1
+\tli *pamlel
+\aci 2
+\tli pañtyuñ
+\cai Sab.; de piedra
+
+\lxi suplente
+\cgi m
+\tli rejerol
+
+\lxi suspirar
+\cgi vi
+\tli jak' iyoj
+
+\lxi sustituir
+\cgi vt
+\aci 1
+\tli ñujpañ
+\aci 2
+\tli k'exolañ
+\cai cargo, nombre
+
+\lxi T
+\alf T
+
+\lxi tabaco
+\cgi m
+\tli k'ujts
+
+\lxi tábano
+\cgi m
+\tli ¹k'oj
+\cai insecto
+
+\lxi tabaquillo
+\cgi m
+\tli yäxñich
+\cai Sab.; tabaco cimarrón; árbol
+
+\lxi tablero
+\cgi m
+\tli jobeñ
+\cai de moler
+
+\lxi taburete
+\cgi m
+\tli pechäbtye'
+
+\lxi tacañería
+\cgi f
+\tli *chäklel
+
+\lxi tacaño
+\cgi adj
+\tli chäk, tsäytsäyña
+
+\lxi taco
+\cgi m
+\tli k'omoch
+
+\lxi tal
+\cgi adj
+\sui tal vez
+\tsi tyik'äl
+
+\lxi talismecate
+\cgi m
+\tli xpuy ch'ajañ
+\cai cuero de toro; árbol
+
+\lxi talla
+\cgi f
+\tli *p'isol
+\cai medida
+
+\lxi tallo
+\cgi m
+\tli *sik'bal ixim
+\cai de maíz
+
+\lxi talón
+\cgi m
+\tli *tyuñ'ok, *tyuñil lakok
+\cai del pie
+
+\lxi tamal
+\cgi m
+\sui petejul (reg.)
+\tli ¹pats'
+\cai tamal hecho de masa y frijol tierno
+
+\lxi tamaño
+\cgi m
+\aci 1
+\tli *ñuklel
+\aci 2
+\tli *ty'ustyälel
+\cai cosa chica y redonda
+\sui tamaño grande
+\tsi *ñojel
+\cai mazorca
+
+\lxi tambaleante
+\cgi adj
+\tli tyätyäk
+
+\lxi también
+\cgi adv
+\tli ja'el
+\sui así también
+\tsi che' ja'el
+
+\lxi tambor
+\cgi m
+\tli lajtye', tyamboril
+
+\lxi tamborcillo
+\cgi m
+\tli kolem matye' chityam
+\cai mamífero
+\dib asg002v.tif
+
+\lxi tamular
+\cgi vt
+\tli k'uty, k'utyilañ
+\cai machucar chile en el molcajete
+
+\lxi tapa
+\cgi f
+\tli *majk
+
+\lxi tapacamino
+\cgi m
+\tli xpujyu'
+\cai chotacabra; ave
+
+\lxi tapadera
+\cgi vt
+\tli mosil
+
+\lxi tapar
+\cgi vt
+\tli mäk, mos
+\sui tapado
+\tsi mosbil, mosol
+\sui taparse
+\tsi mojch'añ, moskiyel
+
+\lxi tapesco
+\cgi m
+\aci 1
+\tli *pañtye'lel, k'iyiñtyib
+\cai cama
+\aci 2
+\tli ch'akutye'
+\cai para secar frijol, café
+\aci 3
+\tli *ty'uchlib
+\cai percha para gallinas
+
+\lxi tapir
+\cgi m
+\aci 1
+\tli tsimiñ
+\cai anteburro; mamífero
+\aci 2
+\tli jamoñ
+\cai Tila; danta, anteburro; mamífero
+
+\lxi tapisca
+\cgi f
+\tli k'ajbal
+\cai de maíz
+
+\lxi tapiscar
+\cgi vt
+\tli k'aj
+\cai maíz
+
+\lxi tarántula
+\cgi f
+\aci 1
+\tli xpetstyok'
+\aci 2
+\tli am
+\cai venenosa
+
+\lxi tardar
+\cgi vi
+\tli jalijel, jal'añ
+
+\lxi tarde
+\cgi f
+\sui ya (es) muy tarde
+\tsi ik'ix
+\sui ya es tarde
+\tsi ochix k'iñ
+\cai en el día
+
+\lxi tartamudo
+\cgi m
+\tli xles ak'
+
+\lxi tatarear
+\cgi vt
+\sui tatareando
+\tsi tyäklaw
+
+\lxi taza
+\cgi f
+\aci 1
+\tli uch'ibäl
+\aci 2
+\tli lucho'ja'
+\cai para sacar agua
+
+\lxi techo
+\cgi m
+\tli *yopol otyoty, *jol otyoty
+
+\lxi tecolote
+\cgi m
+\tli pujyu'
+\cai ave
+
+\lxi tejer
+\cgi vt
+\tli ¹jal
+\cai red, hamaca, morral, costal
+
+\lxi tejido
+\cgi m
+\tli jalbal
+
+\lxi tejón
+\cgi m
+\tli kojtyom, ts'uts'ub
+\cai mamífero
+\dib ace003v.tif
+
+\lxi tela
+\cgi f
+\tli pisil
+\sui tela que se usa para cargar criaturas
+\tli *kujchil
+\sui tela que se usa para envolver
+\tli pixoñib
+
+\lxi telaraña
+\cgi f
+\tli jalba'am
+
+\lxi temanchile
+\cgi m
+\tli xtyuñich
+\cai tipo de chile
+
+\lxi temazate
+\cgi m
+\tli xwajch' me'
+\cai venado colorado
+\dib ada021.tif
+
+\lxi temblar
+\cgi vi
+\aci 1
+\tli bäkbäkñiyel
+\aci 2
+\tli tsiltsilñiyel
+\cai de frío o miedo
+\sui temblando
+\tsi tsiltsilña
+\cai de miedo
+\tsi ty'äty'äña
+\cai Tila; de miedo
+\sui temblando la tierra
+\tsi ty'älty'älña
+\cai por terremoto o rayo
+
+\lxi temblor
+\cgi m
+\tli yujkel
+
+\lxi temer
+\cgi vt
+\tli bäk'ñañ, mi icha'leñbäk'eñ
+
+\lxi temeroso
+\cgi adj
+\tli bäk'eñbäk'eñ jax
+
+\lxi temperante
+\cgi m
+\tli stsijtye'
+\cai árbol
+
+\lxi temporada
+\cgi f
+\aci 1
+\tli k'äñ jaläjp
+\cai de sequía; agosto o septiembre
+\aci 2
+\tli k'iñi ja'lel
+\cai de lluvia
+
+\lxi temprano
+\cgi adv
+\tli seb
+
+\lxi tenamaste
+\cgi m
+\tli *yokejty
+\cai las piedras que componen el fogón
+
+\lxi tenazas
+\cgi f
+\tli lecho'k'ajk
+\cai para sacar tizones
+
+\lxi tender
+\cgi vt
+\aci 1
+\tli lich', tyich'
+\cai ropa, cobija
+\aci 2
+\tli tyäs
+\cai al suelo
+\sui tenderse
+\tli k'iytyäl
+\cai café, chile, frijol, ropa
+\sui tender en el sol
+\tsi k'iyiñ
+\sui tendido
+\tsi ²ji'il
+\cai en suelo
+\tsi lich'bil
+\cai ropa
+\tsi k'iyil
+\cai en suelo o tapesco
+\tsi welel
+\cai plano
+
+\lxi tenguayaca
+\cgi f
+\tli xch'ebak
+\cai pez
+
+\lxi tepeguaje
+\cgi m
+\tli pipäl
+\cai árbol
+
+\lxi tepescuintle
+\cgi m
+\aci 1
+\tli tye'lal
+\cai mamífero
+\aci 2
+\tli jalaw
+\cai Sab.; mamífero
+\dib atd001.tif
+\nt On the other side te'lal is called an aguti.
+
+\lxi tercer
+\cgi adj
+\sui tercer tipo
+\tsi *uxchajplel
+
+\lxi terminación
+\cgi vt
+\tli jilib
+
+\lxi terminar
+\cgi vt
+\aci 1
+\tli ujtyesañ
+\aci 2
+\tli joloñtyesañ
+\cai un trabajo
+\sui terminar culto o fiesta
+\tli xoty'
+\sui terminarse
+\tsi jilel, joloñel, ujtyel
+
+\lxi término
+\cgi m
+\sui término de regaño
+\tsi xpajlek'
+
+\lxi terreno
+\cgi m
+\tli ¹lum
+
+\lxi testículos
+\cgi m
+\tli bäk' iyaty, tyuñ'aty, *yaty
+
+\lxi testigo
+\cgi m
+\aci 1
+\tli tyestyiku
+\aci 2
+\tli xlotyiya
+\cai falso
+
+\lxi teta
+\cgi f
+\tli chu', *jol chu'
+
+\lxi tía
+\cgi f
+\tli *ña'jel
+\cai hermana de la madre
+
+\lxi tibio
+\cgi adj
+\tli k'uñlajam, k'uñk'ixiñ
+
+\lxi tiempo
+\cgi m
+\aci 1
+\tli *yorajlel
+\aci 2
+\tli *tyiempojlel
+\cai Sab.
+\sui hace tiempo
+\tsi wajalix
+\sui hace mucho tiempo
+\tsi oñiyi
+\sui su tiempo
+\tsi *yäklel
+\sui ya tiene tiempo
+\tsi añix ora
+\sui tiempo de seca
+\tsi ajmel, k'iñ tyuñil
+
+\lxi tienda
+\cgi f
+\aci 1
+\tli choñoñibäl
+\aci 2
+\tli p'olmal
+\cai Tila
+
+\lxi tierno
+\cgi adj
+\sui hacerse tierno
+\tsi echmäl
+
+\lxi tierra
+\cgi f
+\tli *lumal
+\cai de alguien
+\sui tierra agria
+\tsi pajlumil
+\sui tierra caliente
+\tsi *k'ixñilel, tyikwälel
+\sui tierra fria
+\tsi tsäwañ pañimil
+\sui tierra negra
+\tsi *yik'el lum
+
+\lxi tieso
+\cgi adj
+\tli tsätsä bichil
+
+\lxi tigre
+\cgi m
+\tli bajlum
+\cai jaguar
+\sui tigre americano
+\tsi xik' sajp
+\sui tigre frijolillo
+\tsi ik'bo'lay
+\cai ocelote
+
+\lxi tigrillo
+\cgi m
+\tli tsukbajlum
+
+\lxi tijera
+\cgi f
+\tli xtyexelex
+\cai tipo de insecto
+\sui tijera gris
+\tsi x'ajlum
+\cai mosquera tijereta; ave
+
+\lxi tijeras
+\cgi f
+\tli tyexelex
+
+\lxi tijerilla
+\cgi f
+\tli xäl'ity, xtyexelex
+\cai insecto
+
+\lxi timbrillo
+\cgi m
+\tli xchejkel
+\cai palo de pulque; arbusto
+
+\lxi tinamú canelo
+\tli xñakow
+\cai perdiz canela; ave
+
+\lxi tiña
+\cgi f
+\tli pejpem wuty
+\cai roncha
+
+\lxi tío
+\cgi m
+\tli *ichañ
+\cai hermano de mi madre
+
+\lxi tipo
+\cgi m
+\sui tercer tipo
+\tsi *uxchajplel
+
+\lxi tirador
+\cgi m
+\tli päräñtyuñ, ulej
+
+\lxi tirar
+\cgi vt
+\aci 1
+\tli chok
+\aci 2
+\tli jul
+\cai con escopeta, piedra, tirador, ensartar
+\sui tirado
+\tsi chopol
+\cai rama de árbol
+\tsi ch'ebel
+\cai boca arriba
+\tsi jäläl
+\cai un objeto largo
+\tsi sowol
+\cai trapo
+
+\lxi tiro
+\cgi m
+\aci 1
+\tli ibäk' juloñib
+\cai cartucho de arma
+\aci 2
+\tli *wa'tyilel
+\cai de pantalón
+
+\lxi tiuca
+\cgi f
+\tli xtyukuk
+\cai huilota común, tiuta; ave
+
+\lxi tizón
+\cgi m
+\aci 1
+\tli k'äñk'äñ uch
+\cai enfermedad del maíz
+\aci 2
+\tli xutyuñtye'
+\cai palo quemado
+
+\lxi tlacuache
+\cgi m
+\tli uch
+\cai zorro pelón; mamífero
+\dib aob001v.tif
+
+\lxi tobillo
+\cgi m
+\tli ibik' lakok, *wuty lakok
+\cai lit.: el ojo de nuestro pie
+
+\lxi tocar
+\cgi vt
+\aci 1
+\tli tyäl
+\aci 2
+\tli wus
+\cai caracol, pito, trompeta
+\sui tocar el corazón
+\tsi ñijkäbeñ ipusik'al
+
+\lxi tocayo
+\cgi m
+\tli *k'exol
+
+\lxi todavía
+\cgi adv
+\tli maxtyo
+\sui falta todavía
+\tsi añtyo yom
+
+\lxi todo
+\cgi adj
+\aci 1
+\tli ¹laj, ¹pejtyel, pejtyelel, petyol
+\aci 2
+\tli -jump'ejlel
+\cai cosa entera
+\sui todo entero
+\tsi kotyol
+\sui todo a su alrededor
+\tsi *sutyolel
+\sui toda clase
+\tsi jujuñchajp
+
+\lxi todos
+\cgi pron
+\tli lu'
+
+\lxi toloque
+\cgi m
+\tli ty'orjol
+\cai Sab.; basilisco, pasarríos; una lagartija
+
+\lxi tomador
+\cgi m
+\tli xlemoñel
+\cai de aguardiente
+
+\lxi tomar
+\aci 1
+\cgi vt
+\tli uch'eñ
+\cai líquido
+\aci 2
+\cgi vi
+\tli lem
+\cai bebidas alcohólicas
+\aci 3
+\cgi vt
+\tli ch'äm
+\cai llevar, agarrar
+\aci 4
+\cgi vt
+\tli jämch'äm
+\cai agarrar algo rápidamente
+\aci 5
+\cgi vt
+\tli ye'
+\cai en la mano
+\sui acción de tomar
+\tsi lemoñel
+\cai bebidas alcohólicas
+\sui acto de tomar, beber
+\tsi uch'el
+\sui tomar en cuenta
+\tsi ch'ujbiñ
+\cai Tila
+
+\lxi tomate
+\cgi m
+\tli koya'
+
+\lxi topota
+\cgi m
+\tli xmäläl
+\cai tipo de pez chico
+
+\lxi tórax
+\cgi m
+\tli kuktyal
+
+\lxi torcer
+\cgi vt
+\aci 1
+\tli k'ach
+\aci 2
+\tli ts'oty
+\cai Sab.
+\aci 3
+\tli bälch'uñ
+\cai con las manos
+\sui torcer la boca de un lado al otro
+\tsi muyilañ
+
+\lxi torcido
+\cgi adj
+\aci 1
+\tli k'achal, ²sewel
+\cai tabla
+\aci 2
+\tli k'ochol, lochol
+\cai alambre, palo, camino
+\aci 3
+\tli pexel
+\cai la boca
+\aci 4
+\tli ts'otyol
+\cai palo
+\aci 5
+\tli ts'otyol metyel
+\cai camino
+
+\lxi tornamilpa
+\cgi vt
+\tli mol, sijom, sijomal
+
+\lxi tornear
+\cgi vt
+\tli bujchuñ
+\cai mover para sacar
+
+\lxi toro
+\cgi m
+\tli wakax, xtyujk'atye' wakax
+
+\lxi tortilla
+\cgi f
+\tli waj
+\sui tortilla con frijol
+\tsi bu'le waj
+\sui tortilla amarilla
+\tsi k'äñwaj
+\cai Sab.
+\sui acción de hacer tortillas
+\tsi pechom
+
+\lxi tortillador
+\cgi m
+\tli we'tye'
+
+\lxi tortolita
+\cgi f
+\tli xpuruwok
+\cai ave
+
+\lxi tortuga
+\cgi f
+\tli *chäñil ja'
+\sui tortuga cocodrilo
+\tsi ch'ix ajk
+\sui tortuga negra
+\tsi ajk
+\sui tortuga chica
+\tsi ajkok
+\cai Sab.
+\dib atg011.tif
+\pie tortuga cocodrilo
+
+\lxi tos
+\cgi f
+\tli ojbal
+\sui tos ferina
+\tsi jijik' ojbal
+
+\lxi toser
+\cgi vi
+\tli mi icha'leñ ojbal
+
+\lxi tostado
+\cgi m
+\tsi woch'
+\cai tortilla, madera
+
+\lxi tostar
+\cgi vt
+\aci 1
+\tli woch'esañ
+\cai tortilla
+\aci 2
+\tli ch'il
+\cai café, maíz
+\sui tostado
+\tsi woch'esäbil
+\cai tortilla, por alguien
+
+\lxi trabado
+\aci 1
+\cgi adv
+\tli ²kats'
+\aci 2
+\cgi adj
+\tli kets'
+
+\lxi trabajador
+\cgi m
+\tli x'e'tyel
+
+\lxi trabajar
+\cgi vi
+\tli mi icha'leñ e'tyel
+
+\lxi trabajo
+\cgi m
+\tli *e'tyel
+\sui equipo de trabajo
+\tsi e'tyijibäl
+\sui trabajo comunal
+\tsi komol e'tyel
+\sui trabajo pequeño
+\tsi tyoñel
+\cai Tila
+\sui trabajo grande
+\tsi tyroñel
+\cai Tila
+
+\lxi traer
+\cgi vt
+\aci 1
+\tli ch'äm tyilel, päy tyilel
+\aci 2
+\tli wets'
+\cai gente, animales
+\sui traer agarrado
+\tsi chuk tyilel
+\sui traer carga
+\tsi bejlañ
+\cai en varios viajes
+
+\lxi tragar
+\cgi vt
+\aci 1
+\tli mäsañ
+\aci 2
+\tli buk'
+\cai Sab.
+
+\lxi traicionero
+\cgi m
+\tli judas
+\cai Sab.
+
+\lxi tramo
+\cgi m
+\sui por tramos
+\tsi kepekña
+
+\lxi trampa
+\cgi f
+\tli yak
+
+\lxi tranquilo
+\cgi adj
+\aci 1
+\tli ch'iñch'iña, ñäjch'em
+\aci 2
+\tli ts'ämäl
+\cai agua, río
+\aci 3
+\tli sämäl
+\cai líquido
+
+\lxi transformar
+\cgi vt
+\tli päñtyesañ
+
+\lxi trasto
+\cgi m
+\tli uch'ijibäl
+
+\lxi trastornar
+\cgi vt
+\sui trastornarse
+\tsi sojkel
+
+\lxi tratable
+\cgi adj
+\sui es tratable
+\tsi k'uñ ipusik'al
+
+\lxi tratar
+\cgi vt
+\tli ²jop
+\cai Sab.
+\sui tratado
+\tsi ts'äkäbil
+\cai con medicina
+
+\lxi travesaño
+\cgi m
+\tli *k'ätyloñtye'el
+\cai de casa
+
+\lxi trece
+\cgi adj
+\tli uxlujump'ejl
+
+\lxi treinta
+\cgi adj
+\tli lujump'ejl icha'k'al
+
+\lxi tremedal
+\cgi m
+\tli ja' lumil
+\cai aguazal
+
+\lxi trementina
+\cgi f
+\tli *xu'ch'il, *yetsel tye'
+
+\lxi trenzar
+\cgi vt
+\sui trenzado
+\tsi jalbil
+
+\lxi trepador
+\cgi m
+\tli xchäkerech'
+\cai trepatroncos; ave
+\sui trepadora anolis
+\tsi xmañchaje
+
+\lxi trepar
+\cgi vt
+\sui trepado
+\tsi ty'uchul
+\cai pollo en un palo
+
+\lxi trepatroncos gigante
+\tli ñoñochtye'
+\cai ave
+
+\lxi tres
+\cgi adj
+\tli uxp'ejl
+\sui tres noches de dormir
+\tsi uxwäyel
+\sui tres veces
+\tsi uxyajl
+
+\lxi trescientos
+\cgi adj
+\tli jo'lujuñk'al
+
+\lxi tribunal
+\cgi m
+\tli melo'mulil
+
+\lxi Trinidad
+\cgi f
+\tli *tyiñeral
+\cai un pueblo
+
+\lxi tripa
+\cgi vt
+\tli soytya'
+
+\lxi triste
+\cgi adj
+\aci 1
+\tli ch'ijiyem
+\aci 2
+\tli k'uxtyayem
+\cai Sab.
+\aci 3
+\tli ch'ityikña
+\cai por estar ausente alguien
+\sui triste y agachado
+\tsi lutsukña
+\cai gallo, gallina
+\sui está triste
+\tsi ch'ijiyem ipusik'al, peñsaliñ
+\cai Sab.
+\sui ponerse triste
+\tsi mel
+
+\lxi tristeza
+\cgi f
+\tli *ch'ijikñiyel, peñsar, *xäp'äkñäyel
+
+\lxi troje
+\cgi m
+\tli yotylel ixim
+
+\lxi trompo
+\cgi m
+\tli setyejty
+
+\lxi tronar
+\aci 1
+\cgi vi
+\tli tyojmel
+\aci 2
+\cgi vt
+\tli tyojmesañ
+\cai cohete
+
+\lxi tronco
+\cgi m
+\aci 1
+\tli xujk'uñtye'
+\aci 2
+\tli *xujk'uñtye'lel
+\cai árbol, maíz, plátano
+
+\lxi tropezar
+\cgi vt
+\tli p'äk' oka, p'ojkiñ, p'osiñ
+
+\lxi trueque
+\cgi m
+\tli *k'exol
+
+\lxi trunco
+\cgi adj
+\tli borol, borolbä tye'
+
+\lxi tsílica
+\cgi f
+\tli mäyäjl
+\cai tipo de calabaza
+
+\lxi tú
+\cgi pron
+\tli jatyety
+
+\lxi tubería
+\cgi f
+\tli *tyilib
+
+\lxi tucán
+\cgi m
+\tli kolem päm
+\cai ave
+\sui tucán cuello amarillo
+\tsi päm
+\cai ave
+\dib abbb028.tif
+
+\lxi tucancillo collarejo
+\aci 1
+\tli xpiñtsik
+\aci 2
+\tli xch'aj päm
+\cai pitorreal; ave
+
+\lxi tucaneta verde
+\tli bik'tyi päm
+\cai tucancillo; ave
+
+\lxi tuétano
+\cgi m
+\tli yojlom
+
+\lxi tumbar
+\cgi vt
+\tli sek'
+\sui tumbado
+\tsi sek'el
+
+\lxi tumor
+\cgi m
+\tli chäkajl, yaj
+
+\lxi tupido
+\cgi adj
+\tli pim
+
+\lxi turbulento
+\cgi adj
+\tli wamlaw, watylaw
+\cai agua
+
+\lxi turco real
+\cgi m
+\tli xwukip
+\cai péndulo de corona; ave
+\dib abbb017s.tif
+
+\lxi turnar
+\cgi vi
+\tli jel
+
+\lxi tuza
+\cgi f
+\aci 1
+\tli ¹baj
+\cai mamífero
+\aci 2
+\tli ajbaj
+\cai Sab.; mamífero
+\dib tuza.tif
+
+\lxi tzeltal
+\cgi m
+\sui hombre tzetal
+\tli amiku
+\sui mujer tzetal
+\tli x'amiku
+
+\lxi tzumi
+\tli tyame ch'ijty
+\cai caimito, palo de canela; árbol
+
+\lxi U
+\alf U
+
+\lxi ubre
+\cgi f
+\tli chu'
+
+\lxi uco
+\cgi m
+\tli ujchib, xuchijp
+\cai agutí; mamífero
+\dib arc052.tif
+
+\lxi ujtui
+\tli luluy
+\cai jobo, ciruelo; árbol
+
+\lxi último
+\cgi adj
+\tli kojix, wi'ilix
+\sui última fruta
+\tsi *ñi' iwuty
+\sui último hijo
+\tsi xutyäl
+
+\lxi único
+\cgi adj
+\tli kojoñ
+\sui únicamente
+\tsi putyuñ
+
+\lxi unir
+\cgi vt
+\tli ñuts
+
+\lxi uno
+\cgi adj
+\aci 1
+\tli jump'ejl
+\aci 2
+\tli juñsujm
+\cai género, clase
+\sui cada uno
+\tsi jujump'ejl
+\sui uno por uno
+\tsi jujump'ejl
+
+\lxi untar
+\cgi vt
+\tli jaxuñ
+\cai grasa a una tortilla
+
+\lxi uña
+\cgi f
+\tli ejk'ach
+\sui uña de gato
+\tsi lujchuñ ej
+\cai bejuco
+
+\lxi urgente
+\cgi adj
+\sui ser urgente
+\tsi yomojax
+
+\lxi usado
+\cgi adj
+\aci 1
+\tli k'ämbil
+\aci 2
+\tli wäytyäbil
+\cai para dormir
+
+\lxi usar
+\cgi vt
+\aci 1
+\tli si'ilañ
+\cai como leña
+\aci 2
+\tli we'ibañ
+\cai para comer
+\sui usar para dormir
+\tsi wäytyañ
+\sui usarse
+\tsi k'äjñel, k'ämbil
+
+\lxi utilidad
+\cgi vt
+\tli *k'äjñibal
+
+\lxi uva
+\cgi f
+\aci 1
+\tli ts'usub
+\aci 2
+\tli xpajtyo' tsuk
+\cai silvestre
+
+\lxi úvula
+\cgi f
+\tli ts'ujk, *ts'ujkil lakbik'
+
+\lxi V
+\alf V
+
+\lxi vaca
+\cgi f
+\tli wakax
+
+\lxi vaciar
+\cgi vt
+\tli wuj
+\cai maíz, frijol, café, arroz
+
+\lxi vacío
+\cgi adj
+\tli jochol
+
+\lxi vadoso
+\cgi adj
+\tli säp'äl
+
+\lxi valiente
+\cgi adj
+\tli ch'ejl, ch'ejl ipusik'al
+
+\lxi valle
+\cgi m
+\tli joktyäl
+
+\lxi valor
+\cgi m
+\tli *tyojol
+
+\lxi vano
+\cgi m
+\tli pojts'emal
+\cai del café
+\sui en vano
+\tsi tyo'oljach
+
+\lxi vapor
+\cgi m
+\tli yowix
+
+\lxi vara
+\cgi f
+\sui varita
+\tsi tye' bu'ul
+\cai para que suba el frijol
+
+\lxi varilla
+\cgi f
+\tli *bik'itye'lel
+\cai del techo
+\sui varillas del techo
+\tsi *säktye'lel
+
+\lxi varisco
+\cgi m
+\tli xchilib
+\cai planta usada como escoba
+
+\lxi vasija
+\cgi f
+\tli pokik'äbäl
+
+\lxi vecino
+\cgi m
+\tli pi'äl, pi'äl tyi chumtyäl
+
+\lxi veinte
+\cgi adj
+\tli juñk'al
+\sui veintiuno
+\tsi jump'ejl icha'k'al
+
+\lxi vejiga
+\cgi f
+\tli kuchib pich, *chujyil ipich, *wosmäjel
+
+\lxi vela
+\cgi f
+\tli ñichim
+
+\lxi vello
+\cgi m
+\tli *tsutsel
+\cai de hombre
+\tli *tsutsel laj k'äb
+
+\lxi vena
+\cgi f
+\tli *chijil
+
+\lxi venado
+\cgi m
+\tli me'
+\sui venado colorado
+\tsi xwajch' me'
+\cai temazate mediano
+\sui venado cabrito
+\tsi chäkme'
+\cai temazate chico
+\sui venado azul
+\tsi yäxme'
+\cai grande
+\sui venado común
+\tsi chijmay
+\cai con cola blanca
+\tsi säkme'
+\cai Tila
+\dib ada006.tif
+\pie venado común
+\dib ada021.tif
+\pie temazate
+
+\lxi vencejo listado
+\tli xwilis
+\cai vencejo collarejo; ave
+
+\lxi vencer
+\cgi vt
+\tli mäl
+
+\lxi venda
+\cgi f
+\tli *bejch'il
+
+\lxi vendedor
+\cgi m
+\tli xchoñoñel
+
+\lxi vender
+\cgi vt
+\tli choñ
+\sui vendido
+\tsi chombil
+
+\lxi veneno
+\cgi m
+\tli *chämib, chämibäl
+
+\lxi venir
+\cgi vi
+\aci 1
+\tli tyilel
+\aci 2
+\tli tyälel
+\cai Sab.
+\sui ven
+\tsi ¡la'!
+\sui vengo
+\tsi tyaloñ
+\sui viene
+\tsi tyal
+\sui viene de
+\tsi ch'oyol
+
+\lxi venoso
+\cgi adj
+\tli chij ok, lo'chijtyik
+\cai en los pies
+
+\lxi ventana
+\cgi f
+\tli k'eloñib
+
+\lxi ver
+\cgi vt
+\tli ¹*ilañ, k'el
+\sui a ver
+\tsi la'tyika
+\cai Sab.
+\sui ser visto
+\tsi k'ejlel
+\sui ver con algún instrumento
+\tsi ñejñañ
+\sui ya ves
+\tsi awilañ, meku
+
+\lxi verdad
+\cgi f
+\tli *sujmlel
+\sui verdad que así
+\tsi ñomach
+\sui es verdad
+\tsi k'o'o'
+\cai Sab.
+
+\lxi verdadero
+\cgi adj
+\tli isujm
+\sui verdaderamente
+\tsi yokeñ
+\cai Sab.
+
+\lxi verde
+\cgi adj
+\aci 1
+\tli yäjyäx, *yäxel, yäxmulañ
+\cai color
+\aci 2
+\tli yax
+\cai no maduro
+\aci 3
+\tli yäxmojañ
+\cai reflejado
+\sui verde todavía
+\tsi ch'oktyo
+
+\lxi verdoso
+\cgi adj
+\tli yäxkich'añ
+
+\lxi verdura
+\cgi f
+\sui tipo de verdura
+\tsi axäñtye'
+\cai tiene hojas grandes y suaves; se comen
+\sui verdura que comen los guajolotes
+\tsi *yuk'
+
+\lxi vereda
+\cgi f
+\tli alä bij, k'ästye' bij, tyuk'o' bij
+
+\lxi vergonzoso
+\cgi adj
+\sui vergonzosamente
+\tsi kisiñtyik
+
+\lxi vergüenza
+\cgi f
+\aci 1
+\tli kisiñ
+\aci 2
+\tli kisñil
+\cai Tila
+\aci 3
+\tli yäjil
+\cai Sab.
+
+\lxi verruga
+\cgi f
+\tli *4päk'
+
+\lxi vértice
+\cgi m
+\tli pam
+
+\lxi vertiente
+\cgi f
+\aci 1
+\tli ja', *lok'ib ja'
+\aci 2
+\tli tyokol ja'
+\cai de apertura
+\aci 3
+\tli ch'eñbä ja'
+\cai nombre de una vertiente
+
+\lxi vestido
+\cgi m
+\tli ²p'o'
+\cai Tila
+
+\lxi vestir
+\cgi vt
+\tli xoj
+
+\lxi vez
+\cgi f
+\sui a veces
+\tsi añk'iñil, käñkäñ, ¹tyajol
+\sui cada vez
+\tsi jajayajl, jujuñyajl
+\sui cada vez más
+\tsi utsi
+\sui de una vez
+\tsi juñyajlel
+\sui repetidas veces
+\tsi pik'os
+\cai amarrar
+\sui tal vez
+\tsi tyik'äl
+\sui una sola vez
+\tsi juññumeljach
+\sui varias veces
+\tsi chä'chäk'
+\cai acción repetida
+
+\lxi Vía Láctea
+\cgi f
+\tli Pa'as lum
+
+\lxi víbora
+\cgi f
+\tli tsuñtye'chañ
+\cai verde, venenosa
+
+\lxi viborina
+\cgi f
+\tli x'al mis
+\cai hierba medicinal
+
+\lxi vida
+\cgi f
+\tli *kuxtyälel
+
+\lxi viejo
+\aci 1
+\cgi adj
+\tli tsukul
+\cai cualquier objeto
+\aci 2
+\cgi adj
+\tli ñox, xñox
+\cai persona
+\aci 3
+\cgi m
+\tli kolib
+\sui ropa vieja
+\tsi tsukul pisil
+\sui ya está viejo
+\tsi ñoxix
+
+\lxi viejo de monte
+\tli sakol
+\cai cabeza blanca; mamífero
+\dib atb001v.tif
+
+\lxi viento
+\cgi m
+\tli ik'
+\sui viento leve
+\tsi *jajts'
+\sui viento fuerte
+\tsi ñuki ik'
+\tsi ña'ik'
+\cai madre de viento
+
+\lxi viga
+\cgi f
+\tli kukujl
+\cai lateral de una casa
+
+\lxi vigilar
+\cgi vt
+\tli yäx iyo
+
+\lxi viña
+\cgi f
+\aci 1
+\tli ts'usubil
+\aci 2
+\tli ts'usu'ol
+\cai Sab.
+
+\lxi violar
+\cgi vt
+\tli ñolch'iñ
+\cai a una mujer
+
+\lxi violento
+\cgi adj
+\tli simaroñ
+
+\lxi visible
+\cgi adj
+\tli k'ajpa'añ, tsikil
+
+\lxi visita
+\cgi f
+\tli jula'al
+\cai Tila
+
+\lxi visitante
+\cgi m
+\tli jula'
+
+\lxi visitar
+\cgi vt
+\aci 1
+\tli ¹*ilañ
+\aci 2
+\tli jula'añ, jula'tyañ
+\cai Sab.
+
+\lxi vista
+\cgi f
+\sui a la vista
+\tsi k'ajpam
+
+\lxi viuda
+\cgi f
+\tli meba' x'ixik
+
+\lxi viudo
+\cgi m
+\tli meba', meba' wiñik
+
+\lxi vivir
+\cgi vi
+\tli kuxtyiyel, chumtyäl
+\sui vivir y trabajar con un patrón por un sueldo bajo
+\tsi mosojäñtyel
+
+\lxi vivo
+\cgi adj
+\tli kuxul
+
+\lxi vociferar
+\cgi vi
+\sui vociferando
+\tsi ju'ju'ña
+
+\lxi volar
+\cgi vi
+\tli wejlel
+\sui volando
+\tsi welekña, welwelña
+
+\lxi volcar
+\cgi vt
+\sui volcarse
+\tsi xejwel
+
+\lxi voltear
+\cgi vt
+\aci 1
+\tli sutyk'iñ
+\aci 2
+\tli mäy
+\cai la cara
+\aci 3
+\tli wäts'
+\cai objeto
+\sui volteado
+\tsi wäts'äl
+
+\lxi vomitar
+\cgi vt
+\tli xejtyañ
+
+\lxi vómito
+\cgi m
+\tli xej
+
+\lxi voz
+\cgi f
+\sui voz fuerte
+\tsi k'ambä ty'añ
+
+\lxi vuelta
+\cgi f
+\aci 1
+\tli xoy bij
+\cai sing.
+\tli sutyujty
+\cai pl.
+\aci 2
+\tli joyokñabä bij, joyol bij
+\cai desviación
+\sui dando vueltas
+\tsi ñoliña
+\sui dar vuelta
+\tsi ²xoy, wilts'uñ
+\sui dar vueltas
+\tsi wijlel
+\sui vuelta de camino
+\tsi joy bij
+
+\lxi vuelto
+\cgi m
+\tli sujtyib
+\cai del dinero
+
+\lxi Y
+\alf Y
+
+\lxi y
+\cgi conj
+\tli yik'oty
+
+\lxi ya
+\cgi adv
+\tli mux, tsa'ix
+\sui ya no
+\tsi jaymejl
+\sui ya pasó
+\tsi xñumi
+\sui ya quiere
+\tsi yomox
+\sui ya ves
+\tsi awilañ, meku
+
+\lxi yagual
+\cgi m
+\tli ch'äch'ak'
+\cai canasta para guardar pozol
+
+\lxi yema
+\cgi f
+\tli *k'äñel
+\cai de huevo
+
+\lxi yerno
+\cgi m
+\tli *ñij'al
+
+\lxi yo
+\cgi pron
+\tli joñoñ
+
+\lxi yolosóchil
+\cgi m
+\tli xjol max
+\cai flor de corazón; árbol
+
+\lxi yuca
+\cgi f
+\tli ts'ijñ
+
+\lxi yugo
+\cgi m
+\tli *k'äklib ikuch
+
+\lxi yulo
+\cgi m
+\tli jochojch
+\cai tipo de gusano
+
+\lxi Z
+\alf Z
+
+\lxi zacatal
+\cgi m
+\aci 1
+\tli jamil
+\aci 2
+\tli majamol
+\cai Sab.
+
+\lxi zacate
+\cgi m
+\aci 1
+\tli ²jam
+\aci 2
+\tli chäk'ak
+\cai para techar la casa
+\sui tipo de zacate que da flor
+\tsi chup jam
+\sui tipo de zacate que sirve para hacer un té
+\tsi limóñ jam
+\sui zacate duro como caña
+\tsi tye'jam
+
+\lxi zacatón
+\cgi m
+\tli xtyuch' k'iñ
+
+\lxi zacua gigante
+\cgi f
+\tli k'ubul
+\cai ave
+\dib abbb019.tif
+
+\lxi zacuilla
+\cgi f
+\tli k'ubujl
+\cai zanate de oro; ave
+
+\lxi zafar
+\cgi vt
+\tli chip
+\sui zafarse
+\tsi chijpel
+\cai pantalón
+
+\lxi zambullir
+\cgi vt
+\tli ¹sul
+
+\lxi zanate de oro
+\tli k'ubujl
+\cai ave
+
+\lxi zancudo
+\cgi m
+\tli uch'ja'
+
+\lxi zangolotear
+\cgi vt
+\tli k'ojlañ
+
+\lxi zanja
+\cgi f
+\tli *bijleyok ja', *yok ja'lel
+
+\lxi zanjón
+\cgi m
+\tli japtyäl
+
+\lxi zapato
+\cgi m
+\tli xäñäbäl, ²pats'
+\cai Sab.
+
+\lxi zapote
+\cgi m
+\tli way ja'as
+\cai árbol
+\sui zapote prieto
+\tsi i'ik'bä way ja'as
+\cai zapote negro; árbol
+\sui zapote amarillo
+\tsi pi
+\sui zapote de agua
+\tsi käktye'pa'
+
+\lxi zapotillo
+\cgi m
+\tli chäkluñtye'
+\cai árbol
+
+\lxi zarza
+\cgi f
+\tli xk'umajtye'
+\cai planta
+
+\lxi zontle
+\cgi m
+\tli -bajk'
+\cai zonte
+
+\lxi zonzapote
+\cgi m
+\tli pi
+
+\lxi zonzo
+\cgi adj
+\tli soñso
+
+\lxi zopilote
+\cgi m
+\aci 1
+\tli tya'jol
+\aci 2
+\tli xtya'jol
+\cai negro
+
+\lxi zorra
+\cgi f
+\tli wax
+\cai gris
+\dib afb009.tif
+
+\lxi zorrillo
+\cgi m
+\tli pajäy
+

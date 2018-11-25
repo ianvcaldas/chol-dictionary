@@ -1,4 +1,5 @@
 \_sh v3.0 563 MXB_Dic-U
+\_DateStampHasFourDigitYear
 
 \lx A
 \mt CH'OL — ESPAÑOL

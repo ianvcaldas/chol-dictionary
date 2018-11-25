@@ -10,14 +10,18 @@ dictionary into the modern ortrography. The previous source is in folder
 ## TODO
 * Add command-line arguments to the main script.
 * Add regular expression support.
-* Realphabetize.
-    * Write whole-document realphabetizer (WDR) that keeps entries as
-attributes.
-    * Write AlphaLetter class that implements sorting and merging.
-    * Modify WDR to generate and keep AlphaLetter objects.
-    * Modify WDR to sort and merge AlphaLetters as needed.
-    * Implement printint out WDR to file.
+* Realphabetization bugs:
+    * Entries (1) and (2) out of order: joch', ñak, wersa, \*wuty, yolokña
 
+
+This document should be:
+How it works, 3 steps: convert ortography, realphabetize, convert to latex
+(optional)
+How the ortography conversion works and the file format.
+How to run everything i.e. with python3.
+Caveats:
+* realphabetize and add_alpha are written specificall for this dictionary
+  structure and don't necessarily generalize
 
 ## Rules for ortography update
 

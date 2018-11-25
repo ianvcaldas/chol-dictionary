@@ -42,11 +42,18 @@ def test_full_conversion():
 
 
 def test_realphabetize(tmpdir):
-    test_case = r"""
+    test_case = r"""\_sh something
+
+\lx B
+\alf B
+
 \lx bbäk
 \cg s
 \tl carbón
 \dt 22/May/2007
+
+\lx A
+\alf A
 
 \lx abälel
 \nd Sab.
@@ -61,10 +68,12 @@ def test_realphabetize(tmpdir):
     target = tmpdir.join("target.txt")
     target_alf = tmpdir.join("target_alf.txt")
     converter.realphabetize(source, target)
-    converter.realphabetize(source, target_alf, add_alpha=True)
     result = target.read()
-    result_alf = target_alf.read()
-    expected = r"""
+    expected = r"""\_sh something
+
+\lx A
+\alf A
+
 \lx abälel
 \nd Sab.
 \cg s
@@ -72,25 +81,13 @@ def test_realphabetize(tmpdir):
 \re ak'älel
 \dt 22/May/2007
 
-\lx bbäk
-\cg s
-\tl carbón
-\dt 22/May/2007
-    """
-    expected_alf = r"""
-\lx abälel
-\nd Sab.
-\cg s
-\tl noche
-\re ak'älel
-\dt 22/May/2007
-
+\lx B
 \alf B
 
 \lx bbäk
 \cg s
 \tl carbón
 \dt 22/May/2007
-    """
+
+"""
     assert result == expected
-    assert result_alf == expected_alf

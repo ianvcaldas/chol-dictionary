@@ -1,0 +1,58 @@
+\babel@toc {spanish}{}
+\contentsline {part}{\numberline {I}CH'OL \IeC {\textemdash } ESPA\IeC {\~N}OL}{5}{part.1}
+\contentsline {section}{\nonumberline A}{6}{section*.2}
+\contentsline {section}{\nonumberline \IeC {\"A}}{10}{section*.3}
+\contentsline {section}{\nonumberline B}{11}{section*.4}
+\contentsline {section}{\nonumberline Ch}{17}{section*.5}
+\contentsline {section}{\nonumberline Ch'}{23}{section*.6}
+\contentsline {section}{\nonumberline D}{28}{section*.7}
+\contentsline {section}{\nonumberline E}{29}{section*.8}
+\contentsline {section}{\nonumberline G}{30}{section*.9}
+\contentsline {section}{\nonumberline I}{31}{section*.10}
+\contentsline {section}{\nonumberline J}{34}{section*.11}
+\contentsline {section}{\nonumberline K}{43}{section*.12}
+\contentsline {section}{\nonumberline K'}{48}{section*.13}
+\contentsline {section}{\nonumberline L}{54}{section*.14}
+\contentsline {section}{\nonumberline M}{60}{section*.15}
+\contentsline {section}{\nonumberline \IeC {\~N}}{66}{section*.16}
+\contentsline {section}{\nonumberline \IeC {\~N}}{67}{section*.17}
+\contentsline {section}{\nonumberline O}{73}{section*.18}
+\contentsline {section}{\nonumberline P}{75}{section*.19}
+\contentsline {section}{\nonumberline P'}{82}{section*.20}
+\contentsline {section}{\nonumberline Q}{86}{section*.21}
+\contentsline {section}{\nonumberline Q'}{88}{section*.22}
+\contentsline {section}{\nonumberline R}{89}{section*.23}
+\contentsline {section}{\nonumberline S}{90}{section*.24}
+\contentsline {section}{\nonumberline Ts}{96}{section*.25}
+\contentsline {section}{\nonumberline Ts'}{100}{section*.26}
+\contentsline {section}{\nonumberline Ty}{104}{section*.27}
+\contentsline {section}{\nonumberline Ty'}{111}{section*.28}
+\contentsline {section}{\nonumberline U}{113}{section*.29}
+\contentsline {section}{\nonumberline W}{115}{section*.30}
+\contentsline {section}{\nonumberline X}{121}{section*.31}
+\contentsline {section}{\nonumberline X'}{129}{section*.32}
+\contentsline {section}{\nonumberline Y}{130}{section*.33}
+\contentsline {part}{\numberline {II}ESPA\IeC {\~N}OL \IeC {\textendash } CH'OL}{135}{part.2}
+\contentsline {section}{\nonumberline A}{136}{section*.34}
+\contentsline {section}{\nonumberline B}{142}{section*.35}
+\contentsline {section}{\nonumberline C}{144}{section*.36}
+\contentsline {section}{\nonumberline D}{152}{section*.37}
+\contentsline {section}{\nonumberline E}{155}{section*.38}
+\contentsline {section}{\nonumberline F}{158}{section*.39}
+\contentsline {section}{\nonumberline G}{160}{section*.40}
+\contentsline {section}{\nonumberline H}{162}{section*.41}
+\contentsline {section}{\nonumberline I}{164}{section*.42}
+\contentsline {section}{\nonumberline J}{165}{section*.43}
+\contentsline {section}{\nonumberline L}{166}{section*.44}
+\contentsline {section}{\nonumberline M}{168}{section*.45}
+\contentsline {section}{\nonumberline N}{171}{section*.46}
+\contentsline {section}{\nonumberline O}{172}{section*.47}
+\contentsline {section}{\nonumberline P}{174}{section*.48}
+\contentsline {section}{\nonumberline Q}{180}{section*.49}
+\contentsline {section}{\nonumberline R}{181}{section*.50}
+\contentsline {section}{\nonumberline S}{184}{section*.51}
+\contentsline {section}{\nonumberline T}{187}{section*.52}
+\contentsline {section}{\nonumberline U}{191}{section*.53}
+\contentsline {section}{\nonumberline V}{192}{section*.54}
+\contentsline {section}{\nonumberline Y}{194}{section*.55}
+\contentsline {section}{\nonumberline Z}{195}{section*.56}
