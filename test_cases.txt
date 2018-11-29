@@ -1,6 +1,11 @@
 # File with test cases. Format is the first line with the original ortography,
 # the next line with the corresponding new ortography. Each case is separated
-# by blank space.
+# by blank space, like this:
+
+# BLANK LINE
+# Unconverted ortography (i.e. "tat")
+# Correctly converted ortography (i.e. "tyaty")
+# BLANK LINE
 
 com
 kom

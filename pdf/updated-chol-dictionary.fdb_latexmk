@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1536327977 "latex_dictionary.tex" "latex_dictionary.pdf" "latex_dictionary" 1536327980
+["pdflatex"] 1543523251 "updated-chol-dictionary.tex" "updated-chol-dictionary.pdf" "updated-chol-dictionary" 1543523254
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx0700.pfb" 1480098737 144215 c89c56d5c5b828c5c1657b4326c29df7 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb" 1480098737 145408 43d44302ca7d82d487f511f83e309505 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1480098737 140176 d4962f948b4cc0adf4d3dde77a128c95 ""
@@ -69,11 +69,11 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty" 1492297155 30180 4d723b83c66873ba53f72c4a8730d6d3 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty" 1480098842 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/xpatch/xpatch.sty" 1480098843 8322 5f9c642edadff4ce819c39eb7dccea61 ""
-  "latex_dictionary.aux" 1536327979 6002 8833e87124b7e647dce627d24d7ebf9f ""
-  "latex_dictionary.tex" 1536327962 1038950 8156fe48b2e5bddd24de25763dddf0ed ""
-  "latex_dictionary.toc" 1536327979 2102 6f7b110e387c9cafcaa6d65a855f4f8b ""
+  "updated-chol-dictionary.aux" 1543523254 9338 4e61f1754caf336e8d963958ac6c9606 ""
+  "updated-chol-dictionary.tex" 1543523238 1038972 706799fc67fb3904239de19d0cd99561 ""
+  "updated-chol-dictionary.toc" 1543523254 3460 8dcf37a80ec5a1d2a85f8d65c49c658e ""
   (generated)
-  "latex_dictionary.toc"
-  "latex_dictionary.log"
-  "latex_dictionary.pdf"
-  "latex_dictionary.aux"
+  "updated-chol-dictionary.aux"
+  "updated-chol-dictionary.pdf"
+  "updated-chol-dictionary.toc"
+  "updated-chol-dictionary.log"

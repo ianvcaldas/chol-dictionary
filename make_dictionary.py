@@ -3,6 +3,7 @@ ortography, as well as to format the whole thing in LaTeX.
 """
 
 import sys
+import re
 from pathlib import Path
 from collections import OrderedDict as odict
 
@@ -53,11 +54,11 @@ class CholConverter():
             capitalize = True
         result = ' ' + expression.lower().replace('_', ' ')
         for ix, exc in enumerate(self.exceptions):
-            result = result.replace(exc, f'TMP{ix}')
+            result = result.replace(exc, f'__TMP{ix}')
         for source, modified in self.rules.items():
-            result = result.replace(source, modified)
+            result = re.sub(source, modified, result)
         for ix, exc in enumerate(self.exceptions):
-            result = result.replace(f'TMP{ix}', exc)
+            result = result.replace(f'__TMP{ix}', exc)
         result = result.strip()
         if capitalize:
             result = result.capitalize()
@@ -359,15 +360,18 @@ class SourceConverter():
 
 if __name__ == '__main__':
     conv = SourceConverter()
-    conv.convert_source('original_source/chol_to_sp.txt',
-                        'new_source/chol_to_sp.txt')
-    conv.convert_source('original_source/sp_to_chol.txt',
-                        'new_source/sp_to_chol.txt')
-    conv.realphabetize('new_source/chol_to_sp.txt',
-                       'new_source/chol_to_sp_realpha.txt')
-    conv.realphabetize('new_source/sp_to_chol.txt',
-                       'new_source/sp_to_chol_realpha.txt',
+
+    conv.convert_source('source_original/chol_to_sp.txt',
+                        'source_updated/chol_to_sp.txt')
+    conv.convert_source('source_original/sp_to_chol.txt',
+                        'source_updated/sp_to_chol.txt')
+
+    conv.realphabetize('source_updated/chol_to_sp.txt',
+                       'source_updated/chol_to_sp_realpha.txt')
+    conv.realphabetize('source_updated/sp_to_chol.txt',
+                       'source_updated/sp_to_chol_realpha.txt',
                        spanish=True)
-    conv.convert_to_latex(ch_to_sp='new_source/chol_to_sp_realpha.txt',
-                          sp_to_ch='new_source/sp_to_chol_realpha.txt',
-                          target='new_source/latex_dictionary_realpha.tex')
+
+    conv.convert_to_latex(ch_to_sp='source_updated/chol_to_sp_realpha.txt',
+                          sp_to_ch='source_updated/sp_to_chol_realpha.txt',
+                          target='source_updated/updated-chol-dictionary.tex')

@@ -3,37 +3,63 @@ Ch'ol Dictionary
 ================
 
 The goal of this project is to update the the ortography of the existing Ch'ol
-dictionary into the modern ortrography. The previous source is in folder
-`original_source`, while our converted source is in folder `new_source`. 
+dictionary into the modern ortrography.
 
+The script works in 3 steps: first, the ortography is updated. Second,
+realphabetization. Third, conversion to LaTeX.
 
-## TODO
-* Add command-line arguments to the main script.
-* Add regular expression support.
-* Realphabetization bugs:
-    * Entries (1) and (2) out of order: joch', ñak, wersa, \*wuty, yolokña
-
-
-This document should be:
-How it works, 3 steps: convert ortography, realphabetize, convert to latex
-(optional)
-How the ortography conversion works and the file format.
-How to run everything i.e. with python3.
 Caveats:
 * realphabetize and add_alpha are written specificall for this dictionary
   structure and don't necessarily generalize
 
-## Rules for ortography update
+
+## Running the script
+
+Make sure you have [Python 3](https://www.python.org) installed. The script was
+developed under Python 3.7 and that version is recommended for full
+functionality. To check your version of Python, run `python3 --version`.
+
+To run the script, clone or download the repository and run the main script
+with Python 3 from within it:
+
+    git clone https://github.com/ianvcaldas/chol-dictionary.git
+    cd chol-dictionary
+    python3 make_dictionary.py
+
+### Running the tests
+
+In case you want to run the test cases, to make sure all ortography conversions
+are working as intended, make sure you have
+[pytest](https://docs.pytest.org/en/latest/) installed and run it from within
+the script repository:
+
+    cd chol-dictionary
+    pytest
+
+Custom cases to test ortography conversions can be added by the user by editing
+the file `test_cases.txt`.
+
+
+## Ortography update
 
 We use simple replacement rules that are codified in the file
 `conversion_rules.txt`.
 
 
-## Test cases
+## Realphabetization
 
-Of course, we want to double check whether our updates actually work. The file
-`test_cases.txt` contains a series of manually curated checks. Before updating,
-we make sure every single test in that file passes successfully.
+* Realphabetization bugs:
+    * Entries (1) and (2) out of order: joch', ñak, wersa, \*wuty, yolokña
+
+
+## Conversion to LaTeX
+
+The source is converted into LaTeX for ease of compilation and typesetting. The
+file `latex_header.tex` includes all the formatting and typesetting code and is
+automatically added to the dictionary when the script `make_dictionary.py` is
+run. In order to change the LaTeX formatting, one would need to change
+`latex_header.py`, then re-run `make_dictionary.py` to generate a new `.tex`
+file, then compile that file using any LaTeX compiler.
 
 
 ## License
