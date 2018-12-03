@@ -50,6 +50,9 @@ if the current line represents a field in Ch'ol, the ortography for the entry
 is updated. If it represents any other kind of field, the ortography is left
 alone. The output of the ortography update is another file in MDF format.
 
+**Known bugs with ortography update:** Ch'ol words inside a block of Spanish
+text – for instance, in the "cultural information" entries – are not updated.
+
 
 ## Realphabetization
 
@@ -58,12 +61,11 @@ be alphabetical anymore due to the ortography changes. To correct this, we do
 this "realphabetization". This part of the script reorders entries based on
 standard alphabetical order and prints a new source in MDF format.
 
-### Known bugs with realphabetization
-
-Some words have multiple numbered entries indexed by the MDF field `\hm`. After
-realphabetization, these entries might stop being in the right order. We
-believe only the following entries, in the Ch'ol to Spanish dictionary, are
-affected: joch', ñak, wersa, \*wuty, and yolokña.
+**Known bugs with realphabetization:** Some words have multiple numbered
+entries indexed by the MDF field `\hm`. After realphabetization, these entries
+might stop being in the right order. We believe only the following entries, in
+the Ch'ol to Spanish dictionary, are affected: joch', ñak, wersa, \*wuty, and
+yolokña.
 
 
 ## Conversion to LaTeX
