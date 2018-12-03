@@ -4,10 +4,13 @@ Ch'ol Dictionary
 
 This is a script to update the the ortography of the existing Ch'ol dictionary
 into the modern ortography. The script works in 3 steps: first, the ortography
-is updated in a MDF source file. Second, the entries are reordered to restore
-alphabetical ordering. Third, the MDF source is converted into LaTeX for
-printing.
+is updated in a [MDF](https://software.sil.org/shoebox/mdf/) source file.
+Second, the entries are reordered to restore alphabetical ordering. Third, the
+MDF source is converted into LaTeX for printing.
 
+The main script is written in Python and is the file `make_dictionary.py`. It
+uses the file `conversion_rules.txt` for updating ortography. The final updated
+dictionary can be found in `pdf/updated-chol-dictionary.pdf`.
 
 ## Running the script
 
