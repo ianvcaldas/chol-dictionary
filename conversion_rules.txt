@@ -1,6 +1,7 @@
 # The format in this file is:
 # PREVIOUS ORTOGRAPHY -> NEW ORTOGRAPHY
 # Spaces are represented by underscores. Everything should be in lower case.
+# Replacements can be written as regular expressions.
 # Replacements are done in the order they are written in this file.
 # EXCEPTIONS are pieces that are ignored by the rules and kept as is.
 # Add exceptions by starting a line with = and then writing the thing that's
@@ -49,12 +50,13 @@ tsaj_ -> tsa'_j
 tsi'_ -> tsa'_i
 tsa_la -> tsa'_la
 
-
 _lojoñ -> lojoñ
 
 ll -> l
 
-# Exceptions and special cases
+# Exceptions and special cases.
+# These words should not be updated,
+# because they don't follow the rules.
 = tatuch
 = tsa'_wosmi
 = testigo

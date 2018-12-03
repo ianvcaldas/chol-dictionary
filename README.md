@@ -2,15 +2,11 @@
 Ch'ol Dictionary
 ================
 
-The goal of this project is to update the the ortography of the existing Ch'ol
-dictionary into the modern ortrography.
-
-The script works in 3 steps: first, the ortography is updated. Second,
-realphabetization. Third, conversion to LaTeX.
-
-Caveats:
-* realphabetize and add_alpha are written specificall for this dictionary
-  structure and don't necessarily generalize
+This is a script to update the the ortography of the existing Ch'ol dictionary
+into the modern ortography. The script works in 3 steps: first, the ortography
+is updated in a MDF source file. Second, the entries are reordered to restore
+alphabetical ordering. Third, the MDF source is converted into LaTeX for
+printing.
 
 
 ## Running the script
@@ -42,24 +38,40 @@ the file `test_cases.txt`.
 
 ## Ortography update
 
-We use simple replacement rules that are codified in the file
+Ortography update is done by a series of regular expression string
+replacements. All replacements are done according to the file
 `conversion_rules.txt`.
+
+The script loops through the entire dictionary source file in MDF format, and
+if the current line represents a field in Ch'ol, the ortography for the entry
+is updated. If it represents any other kind of field, the ortography is left
+alone. The output of the ortography update is another file in MDF format.
 
 
 ## Realphabetization
 
-* Realphabetization bugs:
-    * Entries (1) and (2) out of order: joch', ñak, wersa, \*wuty, yolokña
+After we've produced a new file in MDF format, the order of entries might not
+be alphabetical anymore due to the ortography changes. To correct this, we do
+this "realphabetization". This part of the script reorders entries based on
+standard alphabetical order and prints a new source in MDF format.
+
+### Known bugs with realphabetization
+
+Some words have multiple numbered entries indexed by the MDF field `\hm`. After
+realphabetization, these entries might stop being in the right order. We
+believe only the following entries, in the Ch'ol to Spanish dictionary, are
+affected: joch', ñak, wersa, \*wuty, and yolokña.
 
 
 ## Conversion to LaTeX
 
-The source is converted into LaTeX for ease of compilation and typesetting. The
-file `latex_header.tex` includes all the formatting and typesetting code and is
-automatically added to the dictionary when the script `make_dictionary.py` is
-run. In order to change the LaTeX formatting, one would need to change
-`latex_header.py`, then re-run `make_dictionary.py` to generate a new `.tex`
-file, then compile that file using any LaTeX compiler.
+The last part of the script converts the source into LaTeX for ease of
+compilation and typesetting. The file `latex_header.tex` includes all the
+formatting and typesetting code and is automatically added to the dictionary
+when the script `make_dictionary.py` is run. In order to change the LaTeX
+formatting, one would need to change `latex_header.py`, then re-run
+`make_dictionary.py` to generate a new `.tex` file, then compile that file
+using any LaTeX compiler.
 
 
 ## License
